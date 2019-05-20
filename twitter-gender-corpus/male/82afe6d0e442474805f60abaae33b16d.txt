@@ -1,0 +1,1004 @@
+The Australian IR conference, ADCS is coming soon http://bit.ly/qL2FuV&nbsp; Are retro web sites now in fashion? #adcs2011 #in
+&quot;The approach is so simple that it may not merit a paper&quot;, 264 citations later; BM25F, yes it&#39;s simple http://bit.ly/ptM70t&nbsp; #fb #in
+If you count iPads as notebooks/laptops, then Apple now dominates the market http://bit.ly/rrozFq&nbsp; #fb #in
+Why do journal papers take so long to review? I invited 7 reviewers 6 said no. Oh well back to Google Scholar to search for more... #fb #in
+@dtunkelang Hey Daniel, what&#39;s the timezone for the August 14th deadline, is it the usual one: Samoa?
+@HCIR_GeneG @dtunkelang Is there anything west of Samoa? :)
+@HCIR_GeneG @dtunkelang Of course here it&#39;s winter and it&#39;s late on Monday afternoon, go figure.
+Companies have 1 big IT problem: how to store &amp; understand the data deluge from ever more devices &amp; services http://bbc.in/oJqL4L&nbsp; #fb #in
+Ike Antkare: the fake person used to spam Google Scholar: his h was 99 now it&#39;s 0. Is Scholar spam checking? http://bit.ly/dULis9&nbsp; #fb #in
+@thesiswhisperer Thanks for the mention :)
+Watching Graeme Hirst talk about detecting Alzheimer&#39;s in Agatha Christie&#39;s novels, promising preliminary results #fb #in
+Ever wanted to read four grumpy old men complain (briefly) about evaluation of search engines? Click here http://bit.ly/qhn4f8&nbsp; #fb #in
+A nice summary from Google on how they roll out changes to their search engine http://googleblog.blogspot.com/2011/08/another-look-under-hood-of-search.html?spref=tw&nbsp;… #fb #in
+@diazf_y Sorry, I&#39;m being dim, comment on what?
+@diazf_y I get you. The commercial focus on high quality evaluation pushes search engines to innovate in ways academia hasn&#39;t thought of
+Papers in open access journals get higher citation rates compared to journals that charge for access http://bit.ly/pTeI3L&nbsp; #fb #in
+Very comprehensive and impressive set of slides on IR evaluation from Evangelos, Ben and Emine http://bit.ly/pjofTu&nbsp; #fb #in
+Great stat: buy a lottery ticket, you have more chance of dying before the draw than winning the jackpot http://bbc.in/nlmuSG&nbsp; #fb #in
+@jerepick @diazf_y Yes that&#39;s a factor, but I don&#39;t think that&#39;s all, evaluation seems to be valued higher than I see in academia.
+@ian_soboroff You need something to read during the hurricane don&#39;t you?
+RMIT 3 year research fellowships. They&#39;ll be competitive, but why not apply so you can join the RMIT IR group http://bit.ly/qfzXzA&nbsp; #fb #in
+Stop word removal? That&#39;s so last century, stop structure removal is where it&#39;s at http://bit.ly/nHPz7U&nbsp; #fb #in
+@noiano No, proceedings will be behind ACM DL&#39;s pay wall. But most authors put their papers online &amp; Google Scholar finds those links.
+Today I looked at 5 social networks (Twitter FB Yammer LinkedIn &amp; G+) to see what&#39;s going on, 10 years ago I just checked my email #fb #in
+Show users a bigger query box, they enter longer queries. Seems wrong this paper only 10 citations http://bit.ly/eEWxft #fb #in
+Write a message encouraging longer queries from users, they do so &amp; they  find their stuff faster http://bit.ly/f2HTdj #fb #in
+@julian_urbano Thanks for the heads up; I&#39;ll give that paper a read.
+@julian_urbano Hey, I enjoyed the paper. I need to follow up with the research experiment papers you cite.
+Reading about Indri; I didn&#39;t realise that you can control the weight of PageRank as a query command http://bit.ly/pmd4XC&nbsp; #fb #in
+Table 2 of http://bit.ly/nBL1ac&nbsp; only 1 group beat the baseline system. Not sure if it was a fair comparison though #fb #in
+Product rating scores follow a J-shaped distribution, this short paper neatly explains why http://bit.ly/r7jxR3&nbsp; #fb #in
+Quickly estimate 1*2*3*4*5*6*7*8. On average people guess a lower number than if estimating 8*7*6*5*4*3*2*1 http://bit.ly/qqNYeS&nbsp; #fb #in
+@HCIR_GeneG Stack overflow? Tversky didn&#39;t mention that in the paper :)
+@HCIR_GeneG You&#39;re right. I think there are explanations for why people react these ways most times, just good to know they do this
+Catching up on an old paper: measuring the minimum distance between query words consistently improves ranking http://bit.ly/qSVLnl&nbsp; #in
+Context sensitive stemming: select stems co-occurring with query, match on stem only if next to other query words http://bit.ly/pkR8rS&nbsp; #in
+#ecir2010 presentation no shows should have been dropped and spaces used for poster people
+#ecir2010 current presentation in &quot;semi-live&quot; mode. Five no shows for conference so far, not the organizer&#39;s fault, but worrying...
+#ecir2010 in my MTurk talk today I said we used direct hit, mistake, we used hit-builder.
+@andrew_trotman On the stemming? Which paper was that?
+@andrew_trotman Hi, yes sounds a bit like the Xu &amp; Croft paper, though with some extra features. The Yahoo one is still my favorite.
+Cool analysis of public Facebook data: US can be split into 7 distinct cultures http://bit.ly/ckcXgJ
+EVIA 2011: the search evaluation workshop has extended its deadline to Oct 1st - http://bit.ly/odu4Ca&nbsp; #fb #in
+New major review of automatic summarization just out http://bit.ly/o6FI7f&nbsp; #fb #in
+2 versions of a web page, 1 view all; 1 split in chunks, Google will likely send you to the view all version http://bit.ly/oSfQsB&nbsp; #fb #in
+@HCIR_GeneG The publisher lets the authors post a PDF on their web site, so there&#39;s probably a free version online.
+@HCIR_GeneG Might be worth emailing the authors and asking for a copy then.
+Search engines still have much room for improvement by exploiting personalization http://bit.ly/oiz92v&nbsp; #fb #in
+Another paper showing users move their mouse over search results in the same way their eyes scan the page http://bit.ly/qyULBe&nbsp; #in #fb
+This year&#39;s TREC conference had a new record of 119 participating groups. Lots in microblog and an even spread across the others.
+@andyy it would be great if Selective Tweets could send tweets only to a pre-defined FB list. Any plans to add that?
+Track document history and weight higher terms that survive across the revisions? Seems to work: http://bit.ly/nj137W&nbsp; #in
+Brief old paper on user satisfaction, recall &amp; librarian ideals: http://bit.ly/cB8FIA. I&#39;m with Cooper: recall is often a distraction.
+Congratulations to Alan Smeaton for winning the Strix IR research award; another in a long list of worthy winners http://bit.ly/nnnEbL&nbsp; #in
+First look at the accepted #SIGIR2010 papers this year http://bit.ly/ccm3QA.
+Chatting to a company last night, they recently dropped their contract for Google Docs as &quot;it hadn&#39;t been improved in 2 years&quot;. #in
+@HCIR_GeneG they seemed interested in the Microsoft tools.
+Is this Luhn article the 1st IR paper that described document ranking? This one is from 1957 http://bit.ly/nwmOEx&nbsp; #in
+@PFCdgayo Thanks. There was a Maron tech report from &#39;58 on probability and IR, which isn&#39;t well known, but I know of nothing earlier.
+@PFCdgayo Sure I can send them to you. Is there a way to send PDFs through Twitter?
+@PFCdgayo &quot;Bag of words&quot; No idea, anyone else know?
+The FnTIR review paper on summarization can now be downloaded for free from http://bit.ly/qHHV2F&nbsp; #in
+Great page on conference poster design http://bit.ly/ni8aWB&nbsp; did you know there is a Flickr group called Pimp My Poster? #fb #in
+Old evaluation paper full of ideas: cumulative gain; ranked biased Kendall Tau; nasty maths, something for everyone: http://bit.ly/bu0hOf
+Teaching &amp; Learning in IR: a new book is out; includes a chapter on teaching evaluation of IR systems http://bit.ly/rd4Ifo&nbsp; #in
+JASIST is now making ultra fast paper decisions, my last two papers were decided on in less than 4 weeks!
+ECIR 2013 (European IR conference) will be in Moscow, hosted by Yandex. ECIR has come a long way from its humble UK IR symposium origins.
+Tried ACM Author-ize? It&#39;s a bit complicated, but it lets you put links to free downloads of your official ACM pubs http://bit.ly/r42tN9&nbsp;
+Google paper showing speed of search response affects user behavior: http://bit.ly/CB7jw I wish there was more detail in the note #fb
+It&#39;s 2 years old, but this paper showing that groupization is better than personalization, was a good read http://bit.ly/qBqYMT&nbsp; #in
+Your social &amp; physical distance from an event, relates to your chances of searching for that event. http://bit.ly/pjMGTr&nbsp; #in
+The tentative program for NTCIR in December is out http://bit.ly/mWzrQh&nbsp;
+Final #SIGIR2010 programme up http://bit.ly/bhgxfz Donna Harman one of the keynotes #fb
+Does your test collection have the statistical power to measure small differences? Webber et al are here to help http://bit.ly/cp43Ue
+ERR measure; relevance is dependent on other documents. ERR validated on test collection with &gt;16K queries, Yikes! http://bit.ly/aE0dvl #fb
+ECIR2012, our workshop on session based retrieval has been approved. Now to start working on the call for papers...
+Thinking about ACM Author-ize. ACM has created an admittedly involved way to get FREE access to its content, that&#39;s quite something  #in
+#adcs happens today, looks like a good programme of IR papers http://bit.ly/gUq09K #in #fb
+@andrew_trotman I very much doubt my Uni pays for ACM Author-izer, there&#39;s nothing on the ACM pages about that.
+@andrew_trotman I think they want to restrict the free links to come from only one place.
+@andrew_trotman I think the free download is a carrot to get people to sign up to and own the author pages on the ACM DL.
+Our #SIGIR2010 paper is up http://bit.ly/9o6UCq Do user preferences &amp; evaluation measures line up? Answer, yes, &amp; nDCG better than P10 #fb
+Search Logs with Relevance Judgments from Yahoo! http://bit.ly/u04Jzq&nbsp; look for L18 in the list of resources #in
+Personal info is used differently depending where u are &amp; who u are with, obvious, but good there&#39;s a pub on this http://bit.ly/s3WuPr&nbsp; #in
+Missed the 60th anniversary of the phrase &quot;information retrieval&quot;, First used March 29th, 1950, in opening pages http://bit.ly/boUHHn #fb
+Great talk from @thesiswhisperer on social media &amp; academic careers: sociology, philosophy, and post modernism, the perfect CS seminar #in
+@thesiswhisperer of course they came in their droves, you are The Thesis Whisperer.
+I&#39;m all for having conferences in nice places, but these guys seem to really like doing this http://www.waset.org/&nbsp; #in #fb
+Focus groups, eye tracking, log studies; the levels of tests used by #Google before launching its new look http://bit.ly/ddP4aL #fb
+Presented our #adcs paper http://bit.ly/gxB7Qk on relevance assessors changing their minds. Great feedback, now to explore more #in #fb
+One of my students has been working on singing queries for music retrieval; here are some preliminary results http://bit.ly/rRjLZw&nbsp; #in
+My Google Scholar citations home page is set up http://bit.ly/tl5uQE&nbsp; I have a feeling I&#39;m going to visiting this very very often #in
+Need to join two messy columns of text in Excel, found a fuzzy lookup add-in from MS Research http://bit.ly/tNPQlc&nbsp; not perfect, but OK #in
+Someone is celebrating TREC&#39;s 20th birthday in style :) http://twitpic.com/7fswm8&nbsp;
+Where do doctors go to seek medical images for work purposes? Journals, personal collections, but mainly Google http://bit.ly/k8EuLy&nbsp; #in
+Short position paper from one of my students on evaluating personal IR systems http://bit.ly/vKiahs&nbsp; #in
+Reading old papers... found that simple acronym handling + BM25 helps you win a track at TREC http://1.usa.gov/vcIjHU&nbsp; #in
+Google maps moves indoors. If they can get the positioning to work well, this is likely to a big thing http://bit.ly/sWbpy4&nbsp; #in
+#irhistory In the old days, documents were indexed by classification codes, then Taube said &quot;let&#39;s try words&quot; http://bit.ly/t49cIC&nbsp; #in
+Bruce Croft set up his Google Scholar citations page http://bit.ly/sSVn8x&nbsp; he&#39;s got an h of 73... I give up. #in
+#evia2011 different assessors use very different criteria when judging community question answering systems
+@tetsuyasakai I like this paper, getting users to draw a concept map after search is a good idea. Has it been tried before? #evia2011
+Watching Ian Soboroff presenting his talk slides from his iPhone. #evia2011
+Enjoying Gareth Jones&#39;s presentation about MediaEval (http://www.multimediaeval.org&nbsp;) at #evia2011
+@tetsuyasakai What would you call a merged CLEF and INEX? CLENEX? #evia2011
+The #evia2011 session on CLEF, INEX, TREC, MediaEval, &amp; FIRE, working well: 15 minutes per talk makes nicely condensed presentations
+1300 academic papers added to medline each day! Keynote being given at #ntcir9
+#ntcir9 in one year there were 25000 papers about one gene type.
+#ntcir9 nice grid searching interface to help with exploratory search.
+Great fun giving a joint talk with @wewebber at #ntcir9. Private data &amp; reproducability of IR results got lots of feedback and questions.
+NRBP, the kitchen sink of IR evaluation measures, every avenue covered... probably: http://bit.ly/am4Ev0
+The OED expand its definition of the word information, they think it&#39;s quite an important word http://bit.ly/eirk45 #fb #in
+CrowdSearch workshop at WWW. Social networks, crowd sourcing, expert finding, community search, all in one place http://bit.ly/t56ycm&nbsp;
+An attempt to gather a public query log was canceled as only 200 people in the world were willing volunteers http://bit.ly/eGiwG #fb
+Data centres don&#39;t need to be as cold as most people think they do http://bit.ly/vdRwad&nbsp; #in
+@giovannaroda I should have put that URL in the talk I was just giving
+#IRFC paper on link between standard deviation &amp; bounded effectiveness scores; high SD guarantees middling score http://bit.ly/96Ah14
+Dave Hawking doing a live learning to rank demo during his keynote at #IRFC, show off #fb
+Cool set of slides on how the design of an MTurk experiment impacts on the quality of data gathered http://bit.ly/9qN3oQ
+Web doesn&#39;t facilitate scientific innovation - James Boyle co-creator of scientific commons. Great keynote, no notes, no PPT; #irfs2010.
+A major IR Prof told me he&#39;s given up journal reviewing; conference reviews only now, he thinks that&#39;s where the action is #in #fb
+@giovannaroda Is that the paper where he proposes the e measure?
+@BrotherLogic I don&#39;t know that article, have you got a link?
+@neelannair I think this is more a comment on the freshness of conference material and not on journal quality.
+Pareto and crowdsourcing, many try a task, only a few provide good quality work http://bit.ly/fqIWcm #fb #in
+&quot;The amount of information available is becoming unmanageable&quot;, turns out this statement&#39;s always been true http://bbc.in/zFECYw&nbsp; #fb #in
+I think this is the first paper describing tf*idf weights http://bit.ly/wCjs2p&nbsp; anyone know an earlier one? #in
+Foundations &amp; Trends in IR continues to have more cites per paper than ACM Computer Surveys! http://bit.ly/zwA0i8&nbsp; #in
+How to get your academic article read on the web - some advice I got from a publisher this week #in http://twitpic.com/888gcn&nbsp;
+@siandart Hi, they didn&#39;t, there is a whole earlier section on that topic.
+Associate Professor job in IR at RMIT http://bit.ly/wDAV00&nbsp; happy to chat to anyone interested #in
+Searching for page on how good Google is http://bit.ly/zrSpU8&nbsp; these results showed there is still room for improvement http://bit.ly/zA3t3P&nbsp;
+@ian_soboroff come join us :)
+Congratulations to Lida, an RMIT ISAR student, for getting an internship at IBM&#39;s new research lab in Melbourne http://bit.ly/w50oLb&nbsp; #in
+Relevance assessors who don&#39;t understand a domain make inaccurate judgements simply looking for keyword overlap http://bit.ly/xrRRln&nbsp; #in
+Divide your h by the years since you finished your PhD, bigger number = better apparently. Finally a positive for taking ages to write up.
+This service has a long way to go, but it&#39;s the start of something important: combining web &amp; private contenthttp://selnd.com/yNeqrc&nbsp;
+@noiano I agree, Google say they can&#39;t add FB and Twitter because terms of use prevent Google from crawling their content.
+1st web query log analysis (1995)? http://bit.ly/azUKeW Mentions Boston Globe article effectively saying ranked retrieval is &quot;faulty&quot;
+404 page not found on Google? http://bit.ly/A5fWYQ&nbsp; #in
+45 minutes till the abstract deadline on #sigir2012, but almost no more submissions coming in. Surely not everyone is asleep?
+@CharlotteHase Not no; at least if I&#39;ve switched the system correctly, not now.
+That&#39;s it, no longer Monday anywhere in the world, #sigir2012 abstracts are all in: 650 submitted.
+Reviewing for novel evaluation workshops at SIGIR: SimInt2010 &amp; CSE2010, both keen to push beyond the Cranfield approach #in
+#SIGIR2012 paper deadline? When it stops being Mon the 13th here http://bit.ly/ykIozK&nbsp; that&#39;s the deadline. Good luck with your papers.
+Read a paper that drew general conclusions about search engines based on the answers of 15 students. We&#39;re just more different than that.
+#sigir2012 just under an hour till we switch the submission system off.
+#swirl12 #occupymydata is the hot new idea at the Lorne meeting
+#swirl12 Doug Oard wants an IR system that is an exoskeleton for the mind.
+The first description of IR on a digital computer? This MIT Masters thesis is from 1951 http://bit.ly/c8zUbc  #in
+#swirl12 photos from the meeting up online http://bit.ly/y8sb4h&nbsp;
+Great talk from @JulioGonzalo1 today at RMIT. Careful analysis of evaluation measures, creating an IR specific significance test. #in
+You always suspected, now a study confirms, users are influenced by a search engine&#39;s brand http://bit.ly/dh9uiX #in #fb
+Stefano has blogged about #swirl12 http://bit.ly/ySULSg&nbsp;
+The #sigir2010 next generation test collection workshop is apparently cancelled: lack of interest http://ir.cis.udel.edu/NGTC10/ #in
+Some interesting stats on the state of the ICT industry in Australia, more jobs not enough graduates #in
+Microsoft &#39;Illumishare&#39; demonstrates remote physical object interaction... all sort of collaborative search possibilities.
+It&#39;s a picture, it&#39;s a movie, it&#39;s a “Cliplet” from MSR who will take the time to do them though? http://bit.ly/zi0WG6&nbsp; via @MSFTNext
+Stack Exchange Q&amp;A site proposal: Information Retrieval and Search Engines http://bit.ly/GLr93i&nbsp;
+An economic impact report will show that a healthy chunk of money was generated through research &amp; evaluation fostered by TREC #in #fb
+@iFromm Yes, it should be going on the TREC site.
+@iFromm the report is at http://trec.nist.gov/pubs/2010.economic.impact.pdf
+The daily Google puzzles are fun, but are they experimenting on us: studying how we do complex search? http://bit.ly/Heiwh7&nbsp; #in
+Studying the physics of Angry Birds, pointlessly brilliant research, http://bit.ly/Hm3d4Z&nbsp; Ig Nobel maybe?
+Enjoying query log tutorial at #sigir2010 bit sweaty though #fb
+Papers I should&#39;ve read ages ago. http://bit.ly/Hp0ViZ&nbsp; excellent early crowd sourcing paper for NLP labelling. #in
+OpenStreetMap continues to make gains, Wikipedia using it now instead of Google Maps http://cnet.co/IwMTiS&nbsp; #in
+@asmeaton gave a great talk at RMIT, but did he visit us or come to watch the Iron Man in Melbourne that Sunday :) http://bit.ly/HQMRR7&nbsp;
+Manmatha from UMass gave a great talk at RMIT on a cool algorithm he developed on fast duplicate document matching http://bit.ly/HQNBpd&nbsp; #in
+Thrilled for Lida and Jasbir getting their internships at IBM Melbourne http://bit.ly/HQO36U&nbsp; #in
+New paper from RMIT IR group http://bit.ly/HQO9LV&nbsp; &quot;Using anchor text for homepage and topic distillation search tasks&quot; #in
+@elunca Will get a copy sent
+Andrei Broder is now at Google after leaving Yahoo a couple of weeks ago. #in
+@metzlerd @ian_soboroff Good news Don.
+How often were you thanked in the acknowledgements of an academic paper? AckSeer knows http://bit.ly/IIcQvG&nbsp; #in
+Are these the first uses of the term &quot;search engine&quot;? MIS and DB books from &#39;72 &amp; &#39;76? http://bit.ly/JqwfA4&nbsp; http://bit.ly/HRjPOi&nbsp; #in
+Omar Alonso&#39;s crowd sourcing keynote full of great tips at the crowd sourcing workshop #sigir2010
+A new batch of historical books and papers now online at SIGIR&#39;s museum http://bit.ly/HW8gus&nbsp; #in
+Expert ranking of academics correlate somewhat with citation. Scopus a bit better than Google Scholar http://bit.ly/94QJ7k #in #fb
+Splitting a city into social regions derived from FourSquare data http://www.livehoods.org/&nbsp; #in
+This paper says 50 queries are fine for testing, yet search engines use 1000s of queries, we&#39;re missing something http://bit.ly/JRW7VP&nbsp; #in
+@julian_urbano They certainly are not sampled, yes, maybe they are a popular style of query, but actually, who knows?
+@srchvrs Tell me more
+@julian_urbano Yes and the recent web tracks are getting queries from logs also.
+That&#39;s the SIGIR notifications going out...
+Search without those pesky dominating sites like Wikipedia, DBLP, IMDB, etc. Reminds me of the old dayshttp://www.millionshort.com&nbsp;
+@seo01 &#39;dunno, sorry
+New paper with old PhD student Shahram on image search by doctors is out http://shar.es/27Zaq&nbsp; free version here http://bit.ly/IJBdb0&nbsp; #in
+Just out, Bruce Croft and I wrote a short history of ranked IR: pay version http://bit.ly/JYpVyd&nbsp; free version http://bit.ly/ITGMQS&nbsp; #in
+@takis_metaxas One is free and one you have to pay for. Well, also the pay one corrects a few typos that the publisher noticed.
+Nice analysis of tweets, seen a lot of this before in query logs, but fun to see elsewhere http://bit.ly/IZBIKW&nbsp; #in
+The report from the SWIRL meeting is out in SIGIR Forum http://bit.ly/JvaU6t&nbsp; long list of suggested future IR research directions #in
+The XBox Kinect tracks bodies by seeing how they deform structured light, here are beautiful photographs of that http://bit.ly/LA2eOp&nbsp; #in
+Matrix of transitions used to arrange the components of exploratory search, nice. @HCIR_GeneG &amp; @jerepick http://bit.ly/JamhzA&nbsp; #in
+@HCIR_GeneG No problem, I just liked the way you guys did that.
+@HCIR_GeneG It seems to me one big issue is to help the searcher understand when they are going over ground already covered.
+@HCIR_GeneG Cool, please send me the pointer. I tried something very simple on this 20 years ago :) http://bit.ly/KZUCbB&nbsp; (p12)
+@leifos @HCIR_GeneG my twitter handle that gets truer every day. Just you wait young Leif, it&#39;ll happen to you soon enough.
+I&#39;m the new co-editor of FnTIR http://bit.ly/K4JSUr&nbsp; Many thanks for all the years of hard work from Fabrizio who is stepping down #in
+Feynman explains the scientific method in a minute, just great http://bit.ly/LYG8oZ&nbsp; #in
+Nice article from Marti Hearst on the future directions for IR http://dl.acm.org/authorize?6592199&nbsp;… #in
+http://bit.ly/aZSmnw another fast way to get IR ground truth like Amitay&#39;s TRELs? But should be striving for fast over quality? #in
+Google Scholar&#39;s top 100 publication venues. This can only be the start of this sort of data from them http://bit.ly/JsALkV&nbsp; #in
+NYT on the debate about academic access to private data for research purposes http://nyti.ms/MbFMvr&nbsp; #in
+Just realised that Google Scholar Metrics is searchable http://bit.ly/JsALkV&nbsp; SIGIR is not the top IR forum by citation, JASIST is #in
+@ssn All measures have problems, h5 can disadvantage low volume forums. It ignores low citation papers, thus arXiv scores high.
+This query shows the main IR venues ranked on Scholar http://bit.ly/KoBS1C&nbsp; JASIST, SIGIR, IP&amp;M, CIKM, WSDM, TOIS, did I miss anything? #in
+@HCIR_GeneG Hmmm searched for that, but I don&#39;t see it in there. I couldn&#39;t find the WWW conference either.
+@amjedbj @msftacademic I like the MSR system, what&#39;s cool about Google is it merges conferences with journals.
+@guidozuc Welcome to the world of information extraction, there will be missing counts for everything due to inconsistent naming.
+@delsweil I know what you mean, but for me it&#39;s IR &#39;enough&#39; :)
+@iFromm @phschaer @delsweil So with digital libraries added to the query (thanks) you get this http://bit.ly/KTHXpr&nbsp;
+@phschaer @delsweil @ifromm The problem is, people in power use these things.
+@iadh @iFromm @delsweil @phschaer Might be due to ECIR&#39;s publishing in LNCS, which I&#39;ve seen cause referencing confusion.
+@iadh @iFromm @delsweil @phschaer Actually, the strange one that&#39;s missing is TREC I search, but I can&#39;t find it.
+Pairs of words are sometimes ambiguous: search for Belkin ASK on Google Scholar, you get 2 quite distinct threads of research. #fb #in
+http://bit.ly/acclql Belkin&#39;s ASK: we search to know, but if we don&#39;t know, how do we search? Do we only query the easy stuff? #in
+@iadh @iFromm @delsweil @phschaer If you look at the ECIR citations, it seems to only be pubs from 2010 and 2011 http://scholar.google.com.au/citations?hl=en&amp;view_op=list_hcore&amp;venue=eAz7mQVdMusJ.20120401&nbsp;… bug
+@delsweil @iadh @ifromm @phschaer Does ECIR have its pubs in the ACM DL? If not, maybe it should; that might help Google Scholar.
+@phschaer @iadh @delsweil @ifromm It&#39;s definitely doable, the Australasian IR Conference (ADCS) I think will soon be on the ACM DL.
+@seo01 http://bit.ly/98YStI my 1st IR paper; people always told me about Belkin&#39;s ASK, glad I read it, interesting to compare now &amp; then.
+http://bit.ly/98nlR5 top 1998 web queries? sex, Playboy, Penthouse, chat, Hustler, nude, porn, erotica... the web has changed #fb
+How Many Test Users in a Usability Study? Five, mostly (Jakob Nielsen&#39;s Alertbox) http://shar.es/q8Pwm&nbsp; via @sharethis
+Published papers aren&#39;t a random sample of science: the 97% using a significance test found significance http://bit.ly/fzqCw7 #fb #in
+The sharpshooter&#39;s fallacy is alive and well in the fields of science http://nyr.kr/hTDy1p #fb #in
+Occasionally, you read something that changes your view.; can such teams be used for academic research? I should try http://bit.ly/MrFEJP&nbsp;
+http://bit.ly/awwb7m Session DCG, thinking about this (maybe) for the TREC session track... but what&#39;s &quot;Scenario D&quot;?
+SIGIR is running a panel this year the use of proprietary data in academic research. Should be fun, hopefully productive #in
+Neilsen &quot;5 users in a usability test is good&quot; Schmettow &quot;the maths behind that claim is wrong, you need many more&quot; http://bit.ly/KflFd4&nbsp;
+Nice early study showing that users want results quickly and care less about the source http://bit.ly/Kfng2L&nbsp;
+Search Google Scholar for an email address fragment: e.g. &quot;.ac.uk&quot; you get top UK academics, works for Uni names too. http://bit.ly/KRTnXF&nbsp;
+Nice summary of work in probabilistic topic models in April&#39;s CACM http://bit.ly/LEc8NP&nbsp;
+Call for participation in NTCIR&#39;s search evaluations is out. The deadline for joining is looming, miss it, miss out. http://bit.ly/MvhD4k&nbsp;
+Crowd sourced vs expert relevance judgements, which is better? Our paper says crowds, but experts aren&#39;t redundant yet. http://bit.ly/N5DHm0&nbsp;
+@srchvrs Quite possibly, don&#39;t under estimate the importance of expert knowledge.
+The Google grants recipients for this round are out. A few IR people are in there... including me :) http://bit.ly/MIckA2&nbsp;
+@JulioGonzalo1 Very cool Julio, great to see #swirl2012 had such an immediate benefit.
+@ieleta Thanks
+Someone said this week: &quot;there are 2 types of successful academics: those who know how to write grants; and those who have great ideas&quot; #in
+Yet another library digitizing its archives, this time it&#39;s the Wellcome trust http://bit.ly/cmTJOD #in
+@timgollins Thanks, sorry I couldn&#39;t chat for longer today.
+Great talk by Pascal Van Hentenryck on optimisation last night; he cited this example showing computing saves lives. http://bit.ly/LDeySt&nbsp;
+Berners-Lee&#39;s 1999 book on WWW&#39;s 1st decade: few search engines, a hint of web 2.0, lots of semantic web http://bit.ly/ieyVDm #fb #in
+One of our students presented on news recommender systems yesterday. She&#39;s got a nice data set to work with. http://bit.ly/LTghOV&nbsp;
+I&#39;m hearing that the main conference hotel for #sigir2012 is filling up, book soon.
+#cikm2012 One accept, one reject. I&#39;ll take that.
+Not everyday someone you know gets his research narrated by Morgan Freeman. http://youtu.be/oeaFYYHShlo&nbsp; #in
+Years ago, I pitched a computers &amp; data in the field idea to archaeologists, their reply? I want a water proof computer http://bit.ly/O8U8wO&nbsp;
+@HCIR_GeneG @ArjumandYounus Yes I imagine they are, posters tend to be.
+I knew cross (translated) language search was on Google, but I didn&#39;t realise they had made it easy to use.http://bit.ly/NPvuzg&nbsp;
+What is a Browser? If you haven&#39;t already, great video for CS people to watchhttp://youtu.be/o4MwTvtyrUQ&nbsp;
+Recent research on eye tracking and search interfaces was presented at the RMIT Tiger talk this week. http://bit.ly/NN5lCL&nbsp;
+&quot;Spoken Content Retrieval: A Survey of Techniques and Technologies&quot; is just out in the latest FnTIR edition http://bit.ly/PLOost&nbsp; #in
+Past PhD plagiarism is damaging political and professorial careers in Europehttp://bbc.in/SSQWsd&nbsp;
+Prof &amp; Assoc. Prof at jobs RMIT: areas include social networks, big data; details here http://bit.ly/NSM5qr&nbsp; http://bit.ly/NSMs4b&nbsp; #in
+@rainingman1 Thanks for pointer, is this better than Turnitin?
+@rainingman1 You can tell Turnitin to ignore individual documents to prevent that from being a problem.
+@rainingman1 Yes, Turnitin tells you have 100% match on the earlier document, but you can tell it to ignore that doc and re-calculate
+Microsoft adds a Facebook-based collaborative search feature to Bing searches http://cnet.co/Ox8PgJ&nbsp; via @CNET
+@jerepick Sounds reasonable to me. We&#39;ve got someone here working on mobile collaborative search by the way.
+A major review of blog search is just out from the Glasgow and NIST people #in http://bit.ly/M4xXKZ&nbsp;
+The IR review journal FnTIR releases another major review, this time in Expertise Retrieval #in http://bit.ly/M4ysEQ&nbsp;
+http://bit.ly/wgCg4 Hearst book: one to be left open on your desk covered in scribbles &amp; notes AND on-line version is free! #in
+Great talk this evening by Kenneth O. Stanley from Florida on novelty search in AI applications, really cool work.
+@jteevan @sigirf if the measure tells you something different, then maybe. That wasn&#39;t covered much in the talk #sigir2012
+#sigir2012 enjoyed Ryen White&#39;s log analysis talk about extracting valuable data from health queries.
+#sigir2012 thinking about Tue&#39;s proprietary data panel session, note all of this year&#39;s log analysis papers are from search engine groups.
+@jteevan about proprietary data? To be honest I don&#39;t know.
+#sigir2012 enjoyed listening about ranking features that are good for mobile local search http://research.microsoft.com/pubs/163550/fp121-lv.pdf&nbsp;…
+#sigir2012 when I grow up, I want to be like Steve Robertson. He&#39;s virtually retired and he&#39;s here enthusiastically presenting his poster.
+@eelstretching great donuts, thank you #sigir2012
+&quot;@jteevan: @eugeneAgichtein&#39;s Given search task that&#39;s suspended, predict if searcher will pick it back up later. #SIGIR2012&quot; great talk
+#sigir2012 geography to the rescue of search? Apparently yes, according to our current exploratory search speaker.
+#sigir2012 @BHecht really cool spatial visualisation of search results: maps, periodic tables, where senators sit in congress.
+#SIGIR2012 Marc Bron tackling the difficult subject of how to evaluate exploratory search. Great session.
+@jteevan @sigirf That&#39;s a critical point as far as I&#39;m concerned, there are loads of examples of science conducted on unsharable data.
+#sigir2012 if I&#39;m a doctor who publishes a patient drug study, it&#39;s crazy for others to demand access to my patients, yet this is science.
+#sigir2012 it only took Ricardo 3 minutes to mention wine :)
+#sigir2012 I see a consensus emerging here.
+#sigir2012 for a fresh PhD student @wewebber is holding his own very well with the rest of the panel
+#sigir2012 @invertedindex &quot;welcome to the first SIGIR session in the bat cave&quot;. This room is terrible.
+#SIGIR2012 @invertedindex extending his time series analysis work from last year on dealing with time varying queries.
+@JeffD we&#39;re headed for a question? #sigir2012
+#SIGIR2012 Etan Aydar talking about zoetrope and other ways of querying and visualising temporal data, cool.
+#sigir2012 @mdr talking about open geist: a tool that processes Wikipedia trend data.
+#sigir2012 really enjoyed the conference this year, good papers, a fun venue, thanks Bill.
+I said at #swirl12 that indoor location based information delivery would be important... maybe I was right http://bit.ly/NmBV3B&nbsp; #in
+Our CIKM short paper on inconsistencies in search engine ranking when measured across different collections http://bit.ly/Tblio9&nbsp; #in
+If only I&#39;d had the Manga guides when I was a kid, I wouldn&#39;t be having to learn stats in my 40s. http://bit.ly/TbtmoV&nbsp;
+@craig_macdonald It doesn&#39;t have one yet, we&#39;re working on the WoS people about this. It will come and when it does, it should be good.
+Rank citation analysis academics by their citation paper h-index, the highly influential inventor of h, Hirsch ranks very low #in #fb
+Google Instant shows multiple SERPs to users, is Google getting more training data on user preferences for its results? #in #fb
+Password cracking meets big data... and does rather well. http://arstechnica.com/security/2012/08/passwords-under-assault/&nbsp;… #in
+Ricardo Baeza-Yates visiting us at RMIT. Itinerary: meet students, give talk, lunch meet staff, then see penguins: perfect Melbourne visit.
+@craig_macdonald The average citation count for the 19 papers published by FnTIR http://bit.ly/K4JSUr&nbsp; is 112. Popular papers indeed #in
+@leifos @craig_macdonald power law. So I should use the median. ERA? There were these problems, note the grades aren&#39;t being updated.
+It&#39;s not just relevance, users love simple &amp; familiar designs; websites need to make a great first impression http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-designs.html&nbsp;… #in
+Excited to announce that Timos Sellis is joining us at RMIT http://scholar.google.gr/citations?user=G1Iux80AAAAJ&amp;hl=en&nbsp;… #in
+@KushalDave Sorry about that. Try http://www.optimalworkshop.com/treejack-results&nbsp;… and click on task results follow your nose...
+@optimalworkshop @KushalDave It&#39;s cool stuff, I was showing it in a usability engineering class at my University this week.
+How find without searching; this great talk looked at finding solutions in AI, lessons for search here I think http://youtu.be/tZBViI8ZaU0&nbsp; #in
+How&#39;s this for a small conference venue 15 minutes from Melbourne&#39;s centre? I like Melbourne http://yfrog.com/oexviegj&nbsp;
+@HCIR_GeneG who needs PowerPoint when you have palm trees?
+Visually impaired users find complex searching difficult on Google (no free version of the paper). http://bit.ly/P0xEPY&nbsp;
+@HCIR_GeneG I would go with the 1991 journal paper, that&#39;s pretty definitive, we updated the interface later, but didn&#39;t write it up :(
+@HCIR_GeneG Great name for a journal eh? Yes that one.
+@HCIR_GeneG Sorry for any confusion, I assumed you were looking at my publications page http://www.seg.rmit.edu.au/mark/publications/&nbsp;…
+4th best student city, 2012? My home town, Melbourne :) http://www.topuniversities.com/student-life/best-student-cities/2012/melbourne#.UE7iikbpz3g.twitter&nbsp;… #fb
+Listening to Richard Stallman talk about his 4 freedoms and how they apply to copyright
+Hmm Stallman taking A bit too long to get to some interesting points
+The BBC picked up on the Melbourne Universities ranking with a lovely photo of the RMIT &#39;brain&#39; building. http://www.bbc.com/travel/feature/20120907-best-student-cities-melbourne&nbsp;… #in
+When selecting a new academic for a post: diverse, great publications may be more important than a high hhttp://arstechnica.com/science/2012/09/scientists-what-will-your-career-look-like-in-ten-years/&nbsp;…
+&quot;Designing &amp; testing an improved packaging for large hollow chocolate bunnies&quot; that&#39;s *real* research http://www.tappi.org/Downloads/unsorted/UNTITLED---97Aug133pdf.aspx&nbsp;… #in
+Attending William Weber&#39;s PhD completion talk in Melbourne. So much good IR evaluation work in one thesis. Amazing!
+A tough read: essentially pseudo relevance feedback meets sense disambiguation. Good experimental reporting. http://bit.ly/Qxvneo&nbsp;
+You can&#39;t always trust Google&#39;s &quot;My Citation&quot; pages. This person shows that papers you didn&#39;t write can be included. http://bit.ly/SYLO8W&nbsp;
+@IR_oldie The papers added here are so crazy, there&#39;s no deception intended here, just an illustration that there is no checking.
+A social network aggregator (probably been done elsewhere), but first time I&#39;ve seen this idea tried out. http://bit.ly/VHH72C&nbsp;
+Really nice opinion piece on the multiple roles of computers in carshttp://www.wired.com/opinion/2012/10/automakers-become-software-makers-the-next-battle-between-open-and-closed/&nbsp;…
+@tetsuyasakai It differed quite a bit though, don&#39;t you think? I was pleasantly surprised about that part.
+Lol, he is on a mission to be the number one IR person on Google Scholar, he&#39;s now at number 2. http://bit.ly/SYLO8W&nbsp;
+The visual version of &quot;is your baseline strong enough?&quot; http://bit.ly/ROpCNq&nbsp;
+Yay, he did it: the number 1 IR person in the world. Someone had to show how vulnerable these lists are to spam. http://bit.ly/ROucv8&nbsp;
+@dirkahlers @HCIR_GeneG All the papers have a &quot;J Wang&quot; as an author, just not him. Maybe Google doesn&#39;t check that carefully?
+@dirkahlers @HCIR_GeneG Maybe you can overwrite the suggested papers and add extra to the list, keep adding and you move ever up.
+@dirkahlers @HCIR_GeneG The labels are all self-nominated. Google gave up on that idea for the Web years ago, too susceptible to spam.
+http://bit.ly/b7DoM7 simulated analysis of MTurkers making errors &amp; the benefits of using gold standard data to detect them #in
+http://bit.ly/dtqOBl RMIT-based cost benefit analysis of improving search effectiveness, nice idea.
+Academics cite a wider range of more relevant papers than they did before the internet came along. http://bit.ly/SoiG7d&nbsp;
+Our Yahoo! Research proposal was funded: &quot;Re-finding information in the Web”, jointly with David Vallet and my student Sargol Sadeghi.
+http://bit.ly/aHgG3Y Google&#39;s guide to getting your web page ranked high just updated: detailed solid info #fb #in
+Detailed instructions on how to evaluate enterprise search systems. Quite different from TREC style evaluation. http://bit.ly/RqmXr7&nbsp;
+His h score rises still, but Google have taken him off the list of IR people. His short reign at the top has ended. http://bit.ly/SYLO8W&nbsp;
+Lessons on training from the army. Valuable hints for computer scientists, maybe even PhD supervisors http://bit.ly/TOMSXV&nbsp;
+@dirkahlers Yeah, though my impression is stop lists aren&#39;t Google&#39;s style, maybe some clustering to spot paper content outliers?
+@dirkahlers Ah :)
+Locating &amp; using the tweets of a subset of twitter users to summarise the tweets of a wider population. #cikm2012 http://bit.ly/TnGVk9&nbsp;
+@srchvrs @kohlschuetter Both use automatic sense disambiguation and &quot;author intervention&quot;, but with different emphasis on the techniques.
+@michaeltwofish Sorry, when I put my hand up, I was referring to a private blog for internal notes. This is the only public thing.
+@michaeltwofish sorry, you&#39;ll need go make do with tweets
+Enterprise search person told me the web is a publishing medium, while most enterprises hold a digital archive. Quite different to search.
+@srchvrs also no one is (white hat) optimising enterprise archive content. There&#39;s no advertising to fund development of the ranker :)
+My student got a Yahoo award, with a bit of help from me and David Vallet :) http://shar.es/GFRzh&nbsp; via
+Google Scholar is grouping journals &amp; conferences by sub-topic. IR is in DB&amp;IS: WWW, VLDB, SIGMOD, SIGIR top forums http://bit.ly/SPXO8a&nbsp;
+Many people tell about spam on MTurk: sounds like Amazon needs to improve its rating system http://bit.ly/cbv5sP #in
+Computer used when walking? Define system quality by user walk speed &amp; how many red crossing lights missed, brilliant. http://bit.ly/UVzcv8&nbsp;
+With friends like these, who needs QRELS? Facebook and Bing sharing data http://bit.ly/bANbHk #in #fb
+SVD-like mapping of docs to semantic hash codes, then use ML to learn mappings for new docs to new codes http://bit.ly/aofQza #in #fb
+A colleague&#39;s Google Scholar profile contained papers he didn&#39;t write, turns out Scholar added them automatically.
+Mood changes measured in Twitter predict US stock market moves 3-4 days later http://bit.ly/aeQzLP #fb #in
+Nice side piece from the Leveson (press standards) inquiry in the UK on the inaccuracies of science reporting.http://bit.ly/TvRmDw&nbsp;
+@delsweil Is your commute in a helicopter?
+The challenge of creating usable security in wireless devices, a great keynote by Gene Tsudik at ACSW in Perth. #fb #in
+Social Media Is Eating Our Lives (And Pinterest Is Chewing Fastest) | Wired Business | http://Wired.com&nbsp;http://www.wired.com/business/2012/12/social-spike/&nbsp;…
+Nice student resource about plagiarismhttp://plagiarism.org/&nbsp;
+New extensive review of contextual search just out. http://bit.ly/TK6IoK&nbsp;
+A strong result, computer science at RMIT got two ratings of 4 (out of 5) for its research by the Australian Government yesterday #era
+Enjoyed reading this paper on summarizing tweets for events http://bit.ly/UQvDKp&nbsp;
+Our RMIT CS students built an app for a Guinness World Record attempt tomorrow evening http://bit.ly/SMOaFs&nbsp;
+CLEF is no longer about just cross language search, check out the 2013 call. http://bit.ly/SSdo6P&nbsp;
+One part of this paper examines conditional equivalence of documents with respect to a query, nice idea http://bit.ly/9s10sW #fb #in
+Tweet sports summarization, showing video of football matches based on tweet volume and some personalization data. http://bit.ly/TVl8SW&nbsp;
+Reading about TweetMotif the tweet search engine &amp; browser, the engine is down, anyone know if there&#39;s a new link? http://bit.ly/VKBFbY&nbsp;
+@sarvk Cool, thanks
+@damiano10 Cool, thank you. Has this longer version been published anywhere?
+We have an associate professor position at RMIT: big data, semantic search, and/or social data analytics. Interested? contact me.
+@brendan642 thanks for contacting me. For now, your paper covers all I need to know, though are you still working on tweet summarization?
+#SIGIR2013 call out; reviewers will consider reproducibility of results; 2 page poster replaced with 4 page paper. http://bit.ly/VUlA3q&nbsp;
+Tufte&#39;s 2006 PPT hate letter blames both Shuttle disasters on good engineers who are bad at visual communication.http://amzn.to/VbJCY8&nbsp;
+2013 marks the 20th anniversary that friends and I in Glasgow University set up our first web site. I&#39;m getting old :)
+@madereal My first (and only) skydive was about 25 years ago. Seriously you&#39;ve done 400? Wow!
+How doctors search for images used in research/teaching. The publisher&#39;s giving the article for free this week; odd. http://www.emeraldinsight.com/fwd.htm?id=aob&amp;ini=aob&amp;doi=10.1108/00012531311297186&nbsp;…
+Nice interview with Amit Singhal (Google search chief) in the Guardian todayhttp://www.guardian.co.uk/technology/2013/jan/19/google-search-knowledge-graph-singhal-interview&nbsp;…
+Use correlations carefully. If you don&#39;t, papers like this may come along to destroy you and your work http://bit.ly/azFNE6 #in #fb
+&quot;What Davis discovered is that ... big journals are big and small journals are small&quot; http://bit.ly/azFNE6 ouch! #in #fb
+Nice little puff piece on an IBM sentiment analysis system for the Australian Tennis Openhttp://www.theage.com.au/it-pro/business-it/game-set-and-media-20130123-2d5rs.html&nbsp;…
+Large UK governemnt research investment focuses on big data infrastructurehttp://www.wired.co.uk/news/archive/2013-01/24/government-science-spending&nbsp;…
+@SIGIR2013 @2run6gap This link has the current time in UTC-12 http://bit.ly/ykIozK&nbsp;
+Odd error from a good journal: they published 2 versions of the same paper. If you cite the paper use this version http://shar.es/CKNAL&nbsp;
+New ClueWeb12 collection is out: should allow tweet-web linking. 32Tb uncompressed http://bit.ly/WUsg66&nbsp;
+Microsoft says I&#39;m IR&#39;s 5th best author. These rankings change so often I can likely only celebrate for today http://bit.ly/WzRPde&nbsp;
+@delsweil @leifos in my case, at least, the position is a mathematical flaw I think.
+Not until today did I realise that my approach to research has parallels with the building of an Alien costume headhttp://www.wired.com/design/2013/02/under-the-gun/&nbsp;…
+What you always suspected: best conference papers are very rarely most cited conference papers; link from @mjpost http://arnetminer.org/conferencebestpapers#anchor_ACL%20(Natural%20Language%20Processing)&nbsp;…
+&quot;dark social&quot;: all interaction (e.g., phone, face-to-face) we can&#39;t scrape.... yet #cscwsmqa #cscw2013 from @anneohirsch
+Patent Retrieval, a major new review just published in FnTIR http://dx.doi.org/10.1561/1500000027&nbsp;…
+@AndreaWiggins That effect turns up often http://dl.acm.org/citation.cfm?id=1743569&nbsp;… The great papers are often those that not everyone wants to accept.
+Map the cultures in your city by tweets http://www.buzzfeed.com/mbvd/astonishing-map-of-tweets-by-language-in-new-york&nbsp;… via @buzzfeed
+CIKM 2015 will be in Melbourne. Always nice to have a high ranking international conference you can cycle to.
+Want a job? Learn to code http://www.siliconrepublic.com/careers/item/31716-grand-coalition-for-digital&nbsp;… via @siliconrepublic
+Users navigate folders to get files instead of searching for them as it is cognitively easierhttp://link.springer.com/article/10.1007%2Fs00779-012-0544-z?LI=true&nbsp;…
+Anyone got this paper &quot;Snippet Search: a Single Phrase Approach to Text Access&quot; with all the figures in? Online versions are text only.
+Google: Keep Google Reader Running. I use it all the time, sign the petition to keep it going. https://www.change.org/petitions/google-keep-google-reader-running?share_id=vDqdbmsQYz&amp;utm_campaign=action_box&amp;utm_medium=twitter&amp;utm_source=share_petition&amp;utm_source=share_petition&amp;utm_medium=twitter&nbsp;… via @change
+Read the intro to Quantum Models of Cognition &amp; Decision, a theory book for non-theoreticians. Is this a first? :)http://www.amazon.com/dp/110701199X/ref=cm_sw_r_tw_dp_XPArrb0A0R9H4&nbsp;…
+Little noisy in the house, put the head phones on and sink into the ambient bliss that is @birdsongradio
+&quot;40 percent of Twitter’s traffic during peak usage is about television&quot;, fascinating article in Wiredhttp://www.wired.com/underwire/2013/03/nielsen-family-is-dead/&nbsp;…
+Details of the first Asian Summer School in Information Access are out, looks good.https://www.dropbox.com/s/lm47bwfes8h378k/assia2013_cfp_en_20130318.txt&nbsp;…
+That&#39;s all my main AC reviews done for @SIGIR2013
+Always sad to see someone from the IR community go; sorry to hear about 
+Kees Koster&#39;s death.
+ http://www.ru.nl/icis/news/memoriam-kees-koster/&nbsp;…
+@ian_soboroff @leifos Did Yashar have an answer to Ian&#39;s question? It&#39;s a good one to ask.
+Got an IR evaluation paper? EVIA 2013 has extended its CFP deadline http://research.nii.ac.jp/ntcir/evia2013/&nbsp;
+Asian IR conference call for papers is out http://www.colips.org/conference/airs2013/&nbsp;… deadline late June, conference in Singapore.
+The call for the string processing conference, SPIRE is also out http://u.cs.biu.ac.il/~porately/spire2013/&nbsp;…
+I&#39;m giving a talk next week entitled &quot;Twenty years of web search – where to next?&quot; Not too hard a topic then :) http://www.cse.unsw.edu.au/~apweb2013/detailedprogram.html#k3&nbsp;…
+@leifos @ecir2013 There was a SIGIR 2010 paper on this topic from Filip Radlinski... I think.
+@pogil @leifos @ecir2013 Cool Paul, is there a paper to go with your industry talk?
+Ever played the 1980s Hobbit adventure game with its cool NLP interaction? http://en.wikipedia.org/wiki/The_Hobbit_%281982_video_game%29&nbsp;… Its author gave a talk at RMIT today.
+No luck with #sigir2013 this year, can&#39;t complain about the reviews though, good points, helpful suggestions
+#sigir2013 says 366 papers were submitted this year, it was 483 in 2012, 545 in 2011, 520 in 2010. Was this a typo? If not, I&#39;m worried.
+Using tweets to detect earthquakes, nice journal version http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6152108&nbsp;… of the original WWW paper http://wwwconference.org/proceedings/www2010/www/p851.pdf&nbsp;…
+@tetsuyasakai Congratulations, any chance of a pre-print?
+Google&#39;s Alon Halevy speaking at RMIT, suggesting that &quot;data philanthropy&quot; is good for organizations to do (subject to privacy of course)
+@smfrogers @CraigDButt Alon had your #Guardian maps front and centre in his presentation, said lots of nice things about them.
+Alon Halevy opened his RMIT talk stating that Melbourne has the best coffee in the world. The audience took this rather well.
+Fan of NTCIR? Leave a message for Noriko to celebrate the 10th running of this event http://bit.ly/14QJ42X&nbsp;
+@CraigDButt @ScienceMoJo someone at the #alonhalevy talk was uploading slides to a blog, any idea where they might be?
+The #nicta #alonhalevy talk at RMIT is online, starts 10 minutes in http://echo.lcs.rmit.edu.au:8080/ess/echo/presentation/b7b814c2-31de-448f-b593-a45c09a7a3b5&nbsp;… @CraigDButt @ScienceMoJo
+Read &quot;Simple and Usable Web, Mobile, and Interaction Design&quot; http://www.amazon.com/dp/0321703545/ref=cm_sw_r_tw_dp_11Gzrb1KJZ7W2&nbsp;… some say it&#39;s too simplistic, to me that&#39;s its strength
+#sigir2014 website is up http://sigir.org/sigir2014/&nbsp;
+Moredetail on the #alonhalevy #rmit #nicta talk including slides from here http://raws.adc.rmit.edu.au/~X04508/blog2/?p=453&nbsp;…
+Nice illustration of the need to share data in research, but also the importance of encouraging replication studieshttp://www.nextnewdeal.net/rortybomb/researchers-finally-replicated-reinhart-rogoff-and-there-are-serious-problems#.UW348c6qE6Q.twitter&nbsp;…
+@arjenpdevries Agreed, another lesson is remember one paper is just one data point, wait for more points before you act.
+FnTIR published 21 papers, the highest 
+h Google Scholar can give FnTIR is 21, is h ideal for ranking journals? http://www.nowpublishers.com/journals/Foundations%20and%20Trends%C2%AE%20in%20Information%20Retrieval/7&nbsp;… …
+One year job in Sheffield University, Developing a Taxonomy of Search Sessions. Funded by Google. https://jobs.shef.ac.uk/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTE1MEM2NjM0OTlEMTNDQ0UxMDAwMDAwOEZBN0ZEMTgmY2FuZF90eXBlPUVYVA%3d%3d&amp;sap-client=400&amp;sap-language=EN&amp;sap-accessibility=X&amp;sap-ep-themeroot=%2fSAP%2fPUBLIC%2fBC%2fUR%2fuos&nbsp;…
+&quot;User Perception of Search Task Differentiation&quot; accepted at #evia2013, which is part of #ntcir10
+@jteevan @ian_soboroff Is Matt Crane&#39;s life rich enough for a full day tutorial about him? Half day &amp; I&#39;d sign up. http://www.sigir2013.ie/tutorials.html&nbsp;
+Google beat competitors with search snippets http://diegobasch.com/a-relevant-tale-how-google-killed-inktomi&nbsp;… Often wondered if this paper got Google going http://www.seg.rmit.edu.au/mark/publications/my_papers/SIGIR98.pdf&nbsp;…
+Interested in sessions for searching? Starting thinking about multi-screen sessions http://www.mobify.com/blog/the-new-multi-screen-world-understanding-consumer-behaviour/&nbsp;…
+@miguelmalvarez @leifos You&#39;re sure the students didn&#39;t pee in them first?
+Re-read Voorhees SIGIR98 paper on test collections: intra-system comparisons almost unaffected by assessor error http://bit.ly/dWXUHj #fb
+Table 1 of this paper concisely compares 9 different ways to evaluate IR systems http://bit.ly/ev9jfH #fb
+@leifos @iFromm Mixed with a fine Cola I&#39;m sure it will be fine :)
+#statsnerd Geometric mean on IR results, for significance this paper say to test on the log of the data. Correct? http://link.springer.com/article/10.3758%2FBF03204171?LI=true&nbsp;…
+Find &quot;Artificial Intelligence&quot; confs on Google Scholar Metrics. No IJCAI! Why? &#39;cause ACM DL spells it artifical http://dl.acm.org/citation.cfm?id=1625535&nbsp;…
+For the next few hours, all I have eyes for is the time in San Francisco, #CIKM2013 deadline here I come https://www.google.com.au/search?q=time+san+francisco&nbsp;…
+#CIKM2013, well that&#39;s the deadline gone fingers crossed for all the papers we submitted.
+@wbc11 talking at RMIT today on the need to retrieve answers to queries, not documents.
+There have been hints for years what the new Kinect would be able to do, finally it&#39;s (almost) herehttp://video.wired.com/watch/new-xbox-kinect-exclusive-wired-video-398878&nbsp;…
+We are looking for a new Full Professor at RMIT, interested? http://rmit.clients.pageup.com.au/jobDetails.asp?sJobIDs=547773&amp;stp=unijobs&amp;sLanguage=en&nbsp;…
+Nice demo of a focussed web crawler, define desired page content and let it go... http://www.arcomem.eu/system-demos/&nbsp;
+Based on cites over 2 years, FnTIR http://www.nowpublishers.com/journals/Foundations%20and%20Trends%C2%AE%20in%20Information%20Retrieval/7;jsessionid=E3EC7E8807AED4B600227FB0745A09F2&nbsp;… is the 2nd best journal in Computer Science! http://www.scimagojr.com/journalrank.php?area=1700&amp;category=0&amp;country=all&amp;year=2011&amp;order=cpd&amp;min=0&amp;min_type=cd&nbsp;…
+@lintool Thanks; ignoring all proxy judgments (i.e. impact) &amp; re-assessing work from 1st principles has its own problems though.
+@lintool Touche :) If one insisted on only judging by reading papers it might be hard for a faculty to take on people in new areas.
+Cut a nine page paper to four with no real loss of clarity. Hmmm omitting needless words works. #cikm2013 poster submitted.
+This guy is treating his Google Scholar subject categories with great care: #1 in red wine, cars and travel :) http://scholar.google.com.au/citations?user=uFrX4KMAAAAJ&amp;hl=en&nbsp;…
+@mdr Thanks for sharing &quot;Click model-based IR metrics&quot;, fantastic analysis of evaluation measures http://bit.ly/10bEd6h&nbsp; #sigir2013
+Great high level review of sentiment analysis research: what&#39;s been done where the challenges are http://cacm.acm.org/magazines/2013/4/162501-techniques-and-applications-for-sentiment-analysis/fulltext#.Uaqz7PO9nTs.twitter&nbsp;…
+Design chips to make tollerable errors and save huge amounts in energy consumption, what a cool idea http://cacm.acm.org/magazines/2013/4/162511-inexact-design/fulltext#.Uaq1JFoNIo4.twitter&nbsp;…
+Using cell phones or accessing the internet hands&amp;eyes free while driving is more dangerous than law makers think http://cacm.acm.org/magazines/2013/4/162505-the-problem-with-hands-free-dashboard-cellphones/abstract&nbsp;…
+Got half an hour? This is a good overview of data analytics research with cool examples of what can be donehttp://youtu.be/xNkUbdt12oE&nbsp;
+Beall&#39;s List of Predatory Publishers: one man&#39;s view of places to avoid publishing in. Very extensivehttp://scholarlyoa.com/2012/12/06/bealls-list-of-predatory-publishers-2013/&nbsp;…
+58008? No more! A self-censoring calculator, what a great silly idea @jamesthomson had (4 years ago). http://www.dragthing.com/blog/2009/09/pcalc-prevents-iphone-profanity/&nbsp;…
+To reduce false positive &amp; negative rates in significance tests for IR, use more queries, use multi-test adjustments http://boytsov.info/pubs/sigir2013.pdf&nbsp;…
+I see the summer weather in northern Europe is rubbish again. Did I mention that RMIT is hiring?
+Enjoyed this quick read on effective features for classifying tweets http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.170.3278&amp;rep=rep1&amp;type=pdf&nbsp;… @amoszhou of interest?
+Should&#39;ve read this years ago: exploiting social networks for better collaborative filtering: data set available too http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.152.9364&amp;rep=rep1&amp;type=pdf&nbsp;…
+I&#39;m a new associate editor of IEEE #TKDE, remember this journal for your IR papers, a strong broad venue http://www.computer.org/portal/web/tkde&nbsp;
+@SalhaAlzahrani I don&#39;t know the circumstances of such a decision but it can happen.
+Goodbye winter, off to sunny Tokyo to attend, #ntcir10, #evia2013 and then #assia2013
+Hard core IR evaluation nerditry at #evia2013... Tetsuya Sakai speaking about the lack of reusability of diversity test collections.
+@tetsuyasakai shows condensed retrieval rank measures (ignore unjudged) seem more accurate, than conventional raw list measures #evia2013
+Charlie Clarke: approximate graded relevance judgements with aggregated multiple binary nugget judgements #evia2013
+Getting qrels cheaply by splitting topic into sub-topics &amp; merging search results. Sounds a bit like trels from an old CIKM paper #evia2013
+@arjenpdevries @ian_soboroff can you remember? I think they were merging sets, or was it some sort of ranked list merging?
+Hideo Joho giving #ntcir10 overview. Glad to see chronological evaluation run this time: measuring improvements over previous NTCIRs.
+Key message from the Google keynote at #ntcir10: eliminate the SERP.
+Every available socket used at #ntcir10pic.twitter.com/LtKMkhhhtY
+Cross link poster session at #ntcir10: link first then translate or translate first then link? The former approach seemed better.
+Got the last green tea Kit Kat before @claclarke keynote.pic.twitter.com/FhW3FbgMv9
+Great #ntcir10, right now the Math Search Engine task overview: formula search, as well as formula and text search.
+#ntcir10 medical search task. They sidestepped data privacy issues by hiring doctors to write fabricated records: 30 bucks a record.
+&quot;Evaluating the performance of IR systems using test collections&quot; published online in Information Research http://informationr.net/ir/18-2/paper582.html#.UcJMv_lmim5&nbsp;…
+@ian_soboroff Thanks, much appreciated
+@ian_soboroff I am IR &quot;The Power&quot; Oldie :)
+#ntcir10 #1CLICK2 session: Twente group presenting a system that in a decent experiment showed users prefered their system over Google
+#ntcir10 #1CLICK2 Twente group were comparing with pre-knowledge graph Google
+#ntcir10 A presentation with &quot;abject failure&quot; in the title: Berkeley shows a bag of words approach for math formula search doesn&#39;t work.
+#assia2013 I&#39;m learning here too: @iadh saying that Bill Cooper (not Robertson) was the first to propose the probability ranking principle.
+#assia2013 Nice overview of retrieval models from @iadh, he really knows his stuff.
+#assia2013 Doug Oard, telling us that Chinese is the best language to do IR in: little or no morphology.
+#assia2013 @fdiaz_msr web search engines estimate the probability of relevance, given a query, a document, and user feedback.
+#assia2013 @fdiaz_msr: when gathering relevant judgements vary the ways retrieved documents are shown to assessors
+#assia2013 @fdiaz_msr: showing how web crawling responds to breaking new stories by gathering web content from social media
+#assia2013 Doug Oard very entertainingly teaching us about the incredible challenges of search in E-Discovery
+Last night&#39;s #assia2013 banquet.pic.twitter.com/8sq5GhDfbK
+@leifos @tetsuyasakai With that sort of vision, you will go far young man.
+Often said that Robertson&#39;s PRP paper ignored diversity, but in Sections 5&amp;6 he discusses this very matter http://bit.ly/eMvOoj #fb #in
+Diane Kelly&#39;s FnTIR interactive evaluation book, Japanese version (translated by Hideo Joho &amp; Noriko Kando)pic.twitter.com/cEiJzVkISc
+@alexbowe Thank you, unfortunately I&#39;m leaving Tokyo now, I&#39;ve met some super smart people &amp; discussed great research ideas, I&#39;ll be back.
+#assia2013 love the summer school group photo with the proud instigator down on the left; well done Hideo http://www.tsukuba.ac.jp/wp-content/uploads/d8cee0cb8b5f6b8854e57798577b84b11.jpg&nbsp;…
+#assia2013 not sure the other lecturers were too interested in what @fdiaz_msr was saying at that time :) http://joho.slis.tsukuba.ac.jp/sites/default/files/IMGP0718.JPG&nbsp;…
+Speech recognition and image classification getting much better thanks to deep learning, nice intro here http://cacm.acm.org/magazines/2013/6/164601-deep-learning-comes-of-age/fulltext#.UctiQs6rpK0.twitter&nbsp;…
+@fdiaz_msr All joking aside your web search talk at #assia2013 was the best presentation there.
+A paper took &gt;18 months to be accepted by my journal (cue complaints), thing is 11 of those months the journal waited for author revisions
+@ian_soboroff 2 review rounds + 3 revisions = 18. When people say the journal process is slow, remember it might not be due to reviewers
+@gingdottwit sorry no clues.
+@VINOD_8055 I very much enjoyed the #yahoosummerschool two years ago, thank you for your kind words.
+@gingdottwit I always fall for this sort of joke, my bad ;) but hey MySpace is coming backhttp://www.wired.com/gadgetlab/2013/06/myspace-goes-mobile/&nbsp;…
+&quot;everybody expects search to read their minds” Improving search on the beautifully simple new gov.uk web sitehttp://digital.cabinetoffice.gov.uk/2013/06/11/improving-site-search-on-gov-uk/&nbsp;…
+#sigmod in 2015 in Melbourne? I hear a rumour...
+@AlanCoffee Thanks, then for certain #sigmod Melbourne 2015 and same place, same year #cikm.
+@AlanCoffee There is discussion to see if the ACM MM and ACM CIKM can be set on close dates so you can get 2 great confs in one trip.
+RMIT CS in the world&#39;s top 100 http://www.topuniversities.com/university-rankings/university-subject-rankings/2013/computer-science-and-information-systems&nbsp;… we&#39;re hiring at all levels including possible multi-year teaching relief, interested?
+RMIT IR group read this paper today http://sifaka.cs.uiuc.edu/~qmei2/pub/wsdm08-entropy.pdf&nbsp;… an odd read, but nice use of entropy to analyse query logs.
+Back then, &quot;got it from the library&quot; sounded reliable. Today we say &quot;got it from a search engine&quot;, fast, free, easy, yes, but reliable?
+Web search engines are 20 years old, #SIGIR2013 marks this anniversary with a panel on day 1 of the main program http://sigir2013.ie/programme.html&nbsp;
+@lmichelbacher They&#39;ve got the creator of the first web search engine, Jumpstation, plus people from Google, Yahoo and Bing
+&quot;Information Retrieval for E-Discovery&quot; review article from FnTIR is out http://dx.doi.org/10.1561/1500000025&nbsp;… #ediscovery
+Google scholar metrics updated: top IR venues WWW, SIGIR, JASIST, WSDM, CIKM. ECIR now listed, any venues missing?http://scholar.google.com.au/citations?hl=en&amp;view_op=search_venues&amp;vq=%22AIRS%22+OR+%22WWW%22+OR+%22information+retrieval%22+OR+%22Information+and+Knowledge+Management%22+OR+%22SIGIR%22+OR+%22information+science+and+technology%22+OR+%22web+search%22+OR+%22TOIS%22+OR+%22information+processing+%26+Management%22&nbsp;…
+@craig_macdonald I&#39;m submitting there next week :)
+Ticket, passport, cocktail dress: @jteevan is ready for #SIGIR2013 #FancyAcademics
+@gingdottwit @sigirf You&#39;re welcome :) missing you all down here in Australia.
+@tetsuyasakai Good luck with the reason for your disappearance, we&#39;ll keep some letters free for your later evaluation papers :)
+@iadh Ask him why of all the cities in Australia to could have moved back to, he chose Canberra :)
+Great summary of #sigir2013 from @dtunkelang Search: What&#39;s Cooking in the Lab | LinkedInhttp://www.linkedin.com/today/post/article/20130805134105-50510-search-what-s-cooking-in-the-lab&nbsp;…
+@tetsuyasakai You need to invent more measures with vowels. I can&#39;t make an anagram out of what you have created so far :)
+Google research award for my RMIT colleagues Jamie Thom and Timos Sellis. Project is on search of table data in scientific papers.
+@tafanor I&#39;ll get the guys to contact you
+The list of successful Google grants is now up, RMIT the only Australian Uni to get money this time I think http://services.google.com/fh/files/blogs/googlefras-aug2013.pdf&nbsp;…
+@IR_oldie For some reason that link from Google broke, awards listed here http://googleresearch.blogspot.com/2013/08/google-research-awards-summer-2013.html&nbsp;…
+Looking at CVs for a job, one person forgot to hide track changes before sending the document, does not make a good impression.
+Shocked to hear about @HCIR_GeneG passing: met once, tweeted often, always enjoyed reading his papers: XLibris a particular favorite.
+@eelstretching Very good question, it crossed my mind also, I&#39;m trusting the earlier tweets I saw are correct, but I think they are.
+The web is still bow tie shaped http://www2012.wwwconference.org/proceedings/nocompanion/wwwwebsci2012_metaxas.pdf&nbsp;…
+More about @HCIR_GeneG and his life http://genegolovchinsky.blogspot.com/2013/08/funeral-service.html?spref=tw&nbsp;…
+The cloud isn&#39;t the solution for everyonehttp://www.wired.com/wiredenterprise/2013/08/memsql-and-amazon/&nbsp;…
+Obituary for @HCIR_GeneG from @CACMmag http://cacm.acm.org/news/167019-gene-golovchinsky-1965-2013/fulltext&nbsp;… #CACM
+2015 will be Australian data management year: SIGMOD, KDD, &amp; CIKM will all be in Australia that year. Book your Aussie sabbatical now.
+It&#39;s better than I thought: in Australia, in 2015, the top conferences will be SIGMOD, KDD, ACM Multimedia and CIKM.
+The CORE CS conference rating list is up. CORE is looking for feedback on the list and the ratings http://core.edu.au/index.php/categories/conference%20rankings/1&nbsp;…
+@alexk_z They know it&#39;s not perfect, some changes are coming soon, for other errors, contact them.
+NTCIR, the Japanese information access evaluation exercise has a kick off meeting in Tokyo coming soon http://research.nii.ac.jp/ntcir/ntcir-11/kickoff.html&nbsp;…
+Hands free search for QA, adapting speech recognition out to recognize questions http://cacm.acm.org/magazines/2013/7/165477-information-distance-between-what-i-said-and-what-it-heard/fulltext&nbsp;…
+(from last year) Mobile Use in Developing Nations Skyrockets, it will be smartphones nexthttp://bit.ly/QUBiPF&nbsp;
+BBC News - Jonathon Fletcher: forgotten father of the search enginehttp://bbc.in/1dEn9An&nbsp;
+@iFromm Here&#39;s thing thing: Fletcher didn&#39;t want to do a PhD in IR, he wasn&#39;t aware that Glasgow did IR :) He wanted to study graphics.
+Few women in CS or science in general? The reasons are complex and not fully understood http://nyti.ms/17Fbuiw&nbsp;
+Historians using IR systems for their research, we say &quot;keyword search&quot;, they say &quot;distant reading&quot; http://youtu.be/tp4y-_VoXdA&nbsp; via @youtube
+Why are the impact factors of CS journals low? A lack of conference citation coverage might be a reason. http://dl.acm.org/citation.cfm?id=2240256#.Ui02KYdmFug.twitter&nbsp;…
+IBM&#39;s Watson move from winning Jeopardy to providing specialized medical search systemshttp://www.techrepublic.com/article/ibm-watson-the-inside-story-of-how-the-jeopardy-winning-supercomputer-was-born-and-what-it-wants-to-do-next/&nbsp;…
+The A/B Test: evolution of ideas vs. the intelligent design of them? Evolution mostly wins unless you&#39;re Steve Jobshttp://www.wired.com/business/2012/04/ff_abtesting/&nbsp;…
+Watson won Jeopardy, it&#39;s AI but not the logical AI I did at Uni 20 years ago: NLP, QA, IR &amp; lots of ML http://nyti.ms/if24iQ #fb
+TREC IR test collections ranked by reliability. Much variation, some collections so noisy they may be unusable http://julian-urbano.info/publications/055-measurement-test-collection-reliability&nbsp;…
+Hand and eyes free search: we are looking for a post doc who is interested in working on this topic at RMIT http://iroldie.blogspot.com.au/2013/09/post-doc-job-opportunity-at-rmit.html&nbsp;…
+@iadh @ian_soboroff The TREC web site is down http://trec.nist.gov/&nbsp; thanks US government shutdown
+Dave Hawking has left FunnelBack and is joining Microsoft Bing. Going to be based in Canberra.
+Never put my publications in BibTeX, but I need to now. Two scripts to scrape from DBLP and I&#39;m done, nice of them to do it for me #fb
+More on the CS conference vs journal debate; rejection rates a poor indicator of citation impact http://bit.ly/dB4MEp #fb #in
+Australian Computer Scientists showcasing their research in Melbourne on Tuesday. Free event, come along. #nicta http://nicta.com.au/events/event_repository/upcoming_events/victorian_innovation_and_technology_showcase&nbsp;…
+Be careful what you infer from averages http://wp.sigmod.org/?p=960&nbsp;
+Great day for IR research in Melbourne, 4 ARC grants awarded: 3 to RMIT, 1 to Uni. Melbourne; much celebration on Friday.
+Ingenious paper: exploits academic misconduct to learn if journal impact factors influence citation. Answer? They do http://arxiv.org/ftp/arxiv/papers/0908/0908.3177.pdf&nbsp;…
+@traintalk Thanks, I&#39;ll take a look at that.
+A Q&amp;A session detailing background to IBM&#39;s Watson; surely Watson itself should answer these questions? http://bit.ly/gflPIa #fb
+@traintalk read that paper you suggested, thanks. Search engines and social media over coming the tyranny of the impact factor? :)
+@traintalk Wonderful academic anarchy :)
+@traintalk Thanks for the pointer, no I hadn&#39;t seen that tweet before.
+&quot;User Perception of Information Credibility of News on Twitter&quot; accepted as short paper to #ecir2014
+Big data defined by 3 Vs: velocity, variety, volume. At Sydney big data conference, everyone wants to add more, veracity, my favourite.
+ACM 2013 fellows has a number of IR people on it: Steve Robertson, @Yoellem Jon Kleinberg http://www.acm.org/press-room/news-releases/2013/fellows-2013&nbsp;…
+Very excited to announce that an RMIT CS professor is now an ACM fellow http://www.acm.org/press-room/news-releases/2013/fellows-2013&nbsp;… Many congratulations Timos Sellis
+@IntranetFocus Gosh, yes you&#39;re right, I missed Marti and Christine, thanks for pointing that out.
+@IntranetFocus Ingemar Cox for image search too.
+#sigir2013 won best organised international conference. Congratulations to its general chairs @ParaicS and Gareth http://www.cngl.ie/cngl-wins-iapco-international-conference-award/&nbsp;…
+@NTCIR tracks are looking for participants. There are some really cool tasks going on there. http://research.nii.ac.jp/ntcir/ntcir-11/tasks.html&nbsp;…
+&quot;The 2012 Greek bailout: a €146bn bond renegotiation was completed using iPads&quot;, the PC is dying out and quicklyhttp://www.theguardian.com/technology/2013/dec/19/why-tablets-killing-pc-ipad-apple-microsoft&nbsp;…
+&quot;A temporal analysis of emoticon use in Swedish, Italian, German
+and English&quot;, why the heck not? :) http://bit.ly/bxiElY #fb #in
+&quot;Debugging relevance&quot; Enterprise search article warning against over use of test collections http://bit.ly/eMOYtr #fb
+Submitted a paper to JASIST &lt;3 weeks ago, got the decision today with good quality reviews; that&#39;s how to run a journal #fb
+Users sometimes click web search results because the summary looks good even if the document is not relevant http://bit.ly/dZEkZt #fb #in
+Google Scholar updated its citation data in the last few days, but many errors there now: 2008 paper cited in 1994? Errrm...
+Google Scholar spam. Ike Antkare&#39;s h is 99: 99 pubs cited 99 times in his 99 papers http://bit.ly/dULis9 http://bit.ly/dG3UT2 #fb
+@leitang I agree, what&#39;s surprising to me is that they haven&#39;t fixed this quickly, people there know about this problem.
+7 principles of scamming people &amp; their role in computer security: CACM http://bit.ly/ecwnCs &amp; free version http://bit.ly/gmwPjE #fb #in
+How to introduce link, content &amp; duplicate spam into Google Scholar http://bit.ly/fQY1Cz
+Craig Mundie demoed a pre-alpha buggy Kinect chat application. Described surface 2 that will detect touch &amp; hover http://bit.ly/iaL0Ox
+Google spell correction is outstanding, Google Chrome spell correction is rubbish... how come?
+@craig_macdonald would it kill them to import a bit more of the spell correction library into Chrome code?
+I missed the announcement back in November, but I see that ACM finally has RSS feeds for all its journals and conferences. #fb
+Who needs test collections? Crowd Flower now offering a dedicated search relevance service http://bit.ly/hZXD80 #fb
+Do MTurkers lie about where they are based? Some do, most don&#39;t http://bit.ly/hS1o0K
+I&#39;m not the only one seeing this Google Scholar citation count bug http://bit.ly/h68DVz #fb
+Two #sigir2011 papers accepted for the RMIT IR group.
+Sounds like the IRF is short of money; they are shutting down their supercomputing infrastructure end of April.
+@arjenpdevries Thanks, hope you had some #sigir2011 success too.
+Under 50% of our research ideas, to improve systems, work out. Evaluate quickly to spot the good ones http://bit.ly/eyqWVv #fb
+What 2009 journal had the most citations/article in all of CS? Foundations &amp; Trends in Information Retrieval http://bit.ly/mgGKwR
+Efthimis Efthimiadis died. I read his research my whole career. He was always charming and generous. Sympathies to Jagoda &amp; Nicolas.
+The toponym resolution research review of @jochenleidner PhD thesis is outstanding, Jochen, any chance it can go online for others to see?
+Volunteers do a good job; workers paid well do a better job; workers paid poorly do a worse job than volunteers http://bit.ly/iCnxw4 #fb
+@jochenleidner a paper on your resolution review really would be cool, looking forward to it.
+@ipeirotis Thanks for pointing that out.
+Thanks to pointer from @SadeghKharazmi, now following Google&#39;s new Search blog, http://bit.ly/k9gOEI
+For every 100 print books Amazon sells (paper &amp; hard back), it sells 105 eBooks http://bit.ly/mw59rd is the book finally dying?
+Analysis of 1/2 a million passwords that confirms many anecdotes: we reuse &amp; forget passwords a lot http://bit.ly/dOi7id #in
+(Geeks only) Search result fusion using inter-rank document similarity. Works mostly, tough baselines used http://bit.ly/fZQBU8 #fb #in
+Health care professionals searching for images, do they use fancy resources? Yes, but mostly they use Google http://bit.ly/k8EuLy #fb #in
+Cognitive skills tests &amp; search experience predict how effective people are at finding relevant documents http://bit.ly/ll8iNC #fb #in
+Our SIGIR paper describing our work to devise session-based evaluation measures http://bit.ly/l4dBYO #fb #in
+Gold standard data is used to test MTurker quality; seems to be necessary with test collection assessors too http://bit.ly/iCIRuc #fb #in
+Is this the first ever notable IR conference in the gulf region? http://www.uowdubai.ac.ae/airs2011/ #fb in
+Empirical results trump HIPPOs (Highest Paid Person&#39;s Opinion): great read, longer paper better http://bit.ly/ip1ybB #fb #in
+Good follow up to HiPPO paper, includes warning against using standard significance tests http://bit.ly/lG1epN #fb #in
+&quot;Communicate, persuade, be interesting&quot; I like this guide to giving good academic talks http://bit.ly/mk0XYt #fb #in
+A student helping with some lectures suggested we drop &#39;Web 2.0&#39; from the slides &quot;it&#39;s so old fashioned&quot;, she said. #fb #in
+Great week at Yahoo! IR summer school: great place, great students. Shown this article on it #yheducool #fb #in http://twitpic.com/5h6qg0
+I thought the digital divide was a symptom of economic inequality, it&#39;s more than that http://www.zdnet.com.au/innovation-to-adoption-the-real-digital-divide-339317394.htm&nbsp;… via @zdnetaustralia #fb #in
+Update to Google ranking algorithm. Page relevance &amp; quality seem to measure cross site user interaction http://bit.ly/iF4nov&nbsp; #fb #in
+The Yahoo! IR summer school lecturers happy despite their wardrobe faux pas. http://bit.ly/mhYOZC&nbsp; #fb #in
+Advances in speech recognition summarized clearly (CACM 2004). A graph for IR should exist, but doesn&#39;t #in http://twitpic.com/5kfexc
+Harry Potter the movie, book or game? Knowing what the user intends in their query matters. Thx Yuda 4 this http://bit.ly/iYqGhc&nbsp; #fb #in
+@michaeltwofish Great! Are you volunteering to run this?
+RefSeer recommends citations for a paper. Good idea, so-so suggestions when I tested it.  http://jochenleidner.posterous.com/refseer-automatically-recommending-papers-you&nbsp;… via @jochenleidner #fb #in
+Bland &amp; Altman&#39;s stats articles are great &amp; concise, this one on multiple significance tests is no exception http://1.usa.gov/kJacYT&nbsp; #fb #in
+New RMIT PhD &quot;Effective retrieval to support learning&quot; now available on-line http://bit.ly/j3xHnO&nbsp; #in
+CrowdLogger: building a collective query log. Last attempt failed; this has more privacy; will you install it? http://bit.ly/m676LX&nbsp; #fb #in
+Call for papers for an up coming evaluation workshop (EVIA 2011) in Tokyo to be run at NTCIR http://bit.ly/oTusiJ&nbsp; #fb #in
+A set of slides and the full PDF of my IR evaluation review paper is now available online http://bit.ly/n336AB&nbsp; #fb #in
+(Long) Fascinating article about Stuxnet and how it was dis-assembled http://bit.ly/n6EIVX&nbsp; #fb #in
+&quot;Sharing Detailed Research Data Is Associated with Increased Citation Rate&quot;, paper&#39;s title says it all http://bit.ly/9PPfiz #fb #in
+New large scale review and tutorial on summarization published in FnTIR http://bit.ly/mRMTlZ&nbsp; #fb #in
+Open data is not enough. Calling for education to teach how to exploit the data sets governments are producing http://www.wired.com/magazine/2011/06/st_essay_datafireworks/&nbsp;… #fb #in
+@falahmari I agree, however, all of this effort won&#39;t help unless we work out how to get the public to use &amp; exploit these cool services.
+@falahmari Definitely, I&#39;ll see you at Tiger on Thursday we can set a time then.
+How to rank high on Google? Get people to hate you. http://nyti.ms/e0PuAl Potential for sentiment analysis in web search
+Google Scholar Citations, create your own scholar publication home page; this is going to be big http://bit.ly/pTM27v&nbsp; #fb #in
+NTCIR-9 tracks are up: diversity, entailment, geo-temporal search, interactive IR, etc http://bit.ly/ct5Sdh
+The Australian IR conference, ADCS is coming soon http://bit.ly/qL2FuV&nbsp; Are retro web sites now in fashion? #adcs2011 #in
+&quot;The approach is so simple that it may not merit a paper&quot;, 264 citations later; BM25F, yes it&#39;s simple http://bit.ly/ptM70t&nbsp; #fb #in
+If you count iPads as notebooks/laptops, then Apple now dominates the market http://bit.ly/rrozFq&nbsp; #fb #in
+Why do journal papers take so long to review? I invited 7 reviewers 6 said no. Oh well back to Google Scholar to search for more... #fb #in
+@dtunkelang Hey Daniel, what&#39;s the timezone for the August 14th deadline, is it the usual one: Samoa?
+@HCIR_GeneG @dtunkelang Is there anything west of Samoa? :)
+@HCIR_GeneG @dtunkelang Of course here it&#39;s winter and it&#39;s late on Monday afternoon, go figure.
+Companies have 1 big IT problem: how to store &amp; understand the data deluge from ever more devices &amp; services http://bbc.in/oJqL4L&nbsp; #fb #in
+Ike Antkare: the fake person used to spam Google Scholar: his h was 99 now it&#39;s 0. Is Scholar spam checking? http://bit.ly/dULis9&nbsp; #fb #in
+@thesiswhisperer Thanks for the mention :)
+Watching Graeme Hirst talk about detecting Alzheimer&#39;s in Agatha Christie&#39;s novels, promising preliminary results #fb #in
+Ever wanted to read four grumpy old men complain (briefly) about evaluation of search engines? Click here http://bit.ly/qhn4f8&nbsp; #fb #in
+A nice summary from Google on how they roll out changes to their search engine http://googleblog.blogspot.com/2011/08/another-look-under-hood-of-search.html?spref=tw&nbsp;… #fb #in
+@diazf_y Sorry, I&#39;m being dim, comment on what?
+@diazf_y I get you. The commercial focus on high quality evaluation pushes search engines to innovate in ways academia hasn&#39;t thought of
+Papers in open access journals get higher citation rates compared to journals that charge for access http://bit.ly/pTeI3L&nbsp; #fb #in
+Very comprehensive and impressive set of slides on IR evaluation from Evangelos, Ben and Emine http://bit.ly/pjofTu&nbsp; #fb #in
+Great stat: buy a lottery ticket, you have more chance of dying before the draw than winning the jackpot http://bbc.in/nlmuSG&nbsp; #fb #in
+@jerepick @diazf_y Yes that&#39;s a factor, but I don&#39;t think that&#39;s all, evaluation seems to be valued higher than I see in academia.
+@ian_soboroff You need something to read during the hurricane don&#39;t you?
+RMIT 3 year research fellowships. They&#39;ll be competitive, but why not apply so you can join the RMIT IR group http://bit.ly/qfzXzA&nbsp; #fb #in
+Stop word removal? That&#39;s so last century, stop structure removal is where it&#39;s at http://bit.ly/nHPz7U&nbsp; #fb #in
+@noiano No, proceedings will be behind ACM DL&#39;s pay wall. But most authors put their papers online &amp; Google Scholar finds those links.
+Today I looked at 5 social networks (Twitter FB Yammer LinkedIn &amp; G+) to see what&#39;s going on, 10 years ago I just checked my email #fb #in
+Show users a bigger query box, they enter longer queries. Seems wrong this paper only 10 citations http://bit.ly/eEWxft #fb #in
+Write a message encouraging longer queries from users, they do so &amp; they  find their stuff faster http://bit.ly/f2HTdj #fb #in
+@julian_urbano Thanks for the heads up; I&#39;ll give that paper a read.
+@julian_urbano Hey, I enjoyed the paper. I need to follow up with the research experiment papers you cite.
+Reading about Indri; I didn&#39;t realise that you can control the weight of PageRank as a query command http://bit.ly/pmd4XC&nbsp; #fb #in
+Table 2 of http://bit.ly/nBL1ac&nbsp; only 1 group beat the baseline system. Not sure if it was a fair comparison though #fb #in
+Product rating scores follow a J-shaped distribution, this short paper neatly explains why http://bit.ly/r7jxR3&nbsp; #fb #in
+Quickly estimate 1*2*3*4*5*6*7*8. On average people guess a lower number than if estimating 8*7*6*5*4*3*2*1 http://bit.ly/qqNYeS&nbsp; #fb #in
+@HCIR_GeneG Stack overflow? Tversky didn&#39;t mention that in the paper :)
+@HCIR_GeneG You&#39;re right. I think there are explanations for why people react these ways most times, just good to know they do this
+Catching up on an old paper: measuring the minimum distance between query words consistently improves ranking http://bit.ly/qSVLnl&nbsp; #in
+Context sensitive stemming: select stems co-occurring with query, match on stem only if next to other query words http://bit.ly/pkR8rS&nbsp; #in
+#ecir2010 presentation no shows should have been dropped and spaces used for poster people
+#ecir2010 current presentation in &quot;semi-live&quot; mode. Five no shows for conference so far, not the organizer&#39;s fault, but worrying...
+#ecir2010 in my MTurk talk today I said we used direct hit, mistake, we used hit-builder.
+@andrew_trotman On the stemming? Which paper was that?
+@andrew_trotman Hi, yes sounds a bit like the Xu &amp; Croft paper, though with some extra features. The Yahoo one is still my favorite.
+Cool analysis of public Facebook data: US can be split into 7 distinct cultures http://bit.ly/ckcXgJ
+EVIA 2011: the search evaluation workshop has extended its deadline to Oct 1st - http://bit.ly/odu4Ca&nbsp; #fb #in
+New major review of automatic summarization just out http://bit.ly/o6FI7f&nbsp; #fb #in
+2 versions of a web page, 1 view all; 1 split in chunks, Google will likely send you to the view all version http://bit.ly/oSfQsB&nbsp; #fb #in
+@HCIR_GeneG The publisher lets the authors post a PDF on their web site, so there&#39;s probably a free version online.
+@HCIR_GeneG Might be worth emailing the authors and asking for a copy then.
+Search engines still have much room for improvement by exploiting personalization http://bit.ly/oiz92v&nbsp; #fb #in
+Another paper showing users move their mouse over search results in the same way their eyes scan the page http://bit.ly/qyULBe&nbsp; #in #fb
+This year&#39;s TREC conference had a new record of 119 participating groups. Lots in microblog and an even spread across the others.
+@andyy it would be great if Selective Tweets could send tweets only to a pre-defined FB list. Any plans to add that?
+Track document history and weight higher terms that survive across the revisions? Seems to work: http://bit.ly/nj137W&nbsp; #in
+Brief old paper on user satisfaction, recall &amp; librarian ideals: http://bit.ly/cB8FIA. I&#39;m with Cooper: recall is often a distraction.
+Congratulations to Alan Smeaton for winning the Strix IR research award; another in a long list of worthy winners http://bit.ly/nnnEbL&nbsp; #in
+First look at the accepted #SIGIR2010 papers this year http://bit.ly/ccm3QA.
+Chatting to a company last night, they recently dropped their contract for Google Docs as &quot;it hadn&#39;t been improved in 2 years&quot;. #in
+@HCIR_GeneG they seemed interested in the Microsoft tools.
+Is this Luhn article the 1st IR paper that described document ranking? This one is from 1957 http://bit.ly/nwmOEx&nbsp; #in
+@PFCdgayo Thanks. There was a Maron tech report from &#39;58 on probability and IR, which isn&#39;t well known, but I know of nothing earlier.
+@PFCdgayo Sure I can send them to you. Is there a way to send PDFs through Twitter?
+@PFCdgayo &quot;Bag of words&quot; No idea, anyone else know?
+The FnTIR review paper on summarization can now be downloaded for free from http://bit.ly/qHHV2F&nbsp; #in
+Great page on conference poster design http://bit.ly/ni8aWB&nbsp; did you know there is a Flickr group called Pimp My Poster? #fb #in
+Old evaluation paper full of ideas: cumulative gain; ranked biased Kendall Tau; nasty maths, something for everyone: http://bit.ly/bu0hOf
+Teaching &amp; Learning in IR: a new book is out; includes a chapter on teaching evaluation of IR systems http://bit.ly/rd4Ifo&nbsp; #in
+JASIST is now making ultra fast paper decisions, my last two papers were decided on in less than 4 weeks!
+ECIR 2013 (European IR conference) will be in Moscow, hosted by Yandex. ECIR has come a long way from its humble UK IR symposium origins.
+Tried ACM Author-ize? It&#39;s a bit complicated, but it lets you put links to free downloads of your official ACM pubs http://bit.ly/r42tN9&nbsp;
+Google paper showing speed of search response affects user behavior: http://bit.ly/CB7jw I wish there was more detail in the note #fb
+It&#39;s 2 years old, but this paper showing that groupization is better than personalization, was a good read http://bit.ly/qBqYMT&nbsp; #in
+Your social &amp; physical distance from an event, relates to your chances of searching for that event. http://bit.ly/pjMGTr&nbsp; #in
+The tentative program for NTCIR in December is out http://bit.ly/mWzrQh&nbsp;
+Final #SIGIR2010 programme up http://bit.ly/bhgxfz Donna Harman one of the keynotes #fb
+Does your test collection have the statistical power to measure small differences? Webber et al are here to help http://bit.ly/cp43Ue
+ERR measure; relevance is dependent on other documents. ERR validated on test collection with &gt;16K queries, Yikes! http://bit.ly/aE0dvl #fb
+ECIR2012, our workshop on session based retrieval has been approved. Now to start working on the call for papers...
+Thinking about ACM Author-ize. ACM has created an admittedly involved way to get FREE access to its content, that&#39;s quite something  #in
+#adcs happens today, looks like a good programme of IR papers http://bit.ly/gUq09K #in #fb
+@andrew_trotman I very much doubt my Uni pays for ACM Author-izer, there&#39;s nothing on the ACM pages about that.
+@andrew_trotman I think they want to restrict the free links to come from only one place.
+@andrew_trotman I think the free download is a carrot to get people to sign up to and own the author pages on the ACM DL.
+Our #SIGIR2010 paper is up http://bit.ly/9o6UCq Do user preferences &amp; evaluation measures line up? Answer, yes, &amp; nDCG better than P10 #fb
+Search Logs with Relevance Judgments from Yahoo! http://bit.ly/u04Jzq&nbsp; look for L18 in the list of resources #in
+Personal info is used differently depending where u are &amp; who u are with, obvious, but good there&#39;s a pub on this http://bit.ly/s3WuPr&nbsp; #in
+Missed the 60th anniversary of the phrase &quot;information retrieval&quot;, First used March 29th, 1950, in opening pages http://bit.ly/boUHHn #fb
+Great talk from @thesiswhisperer on social media &amp; academic careers: sociology, philosophy, and post modernism, the perfect CS seminar #in
+@thesiswhisperer of course they came in their droves, you are The Thesis Whisperer.
+I&#39;m all for having conferences in nice places, but these guys seem to really like doing this http://www.waset.org/&nbsp; #in #fb
+Focus groups, eye tracking, log studies; the levels of tests used by #Google before launching its new look http://bit.ly/ddP4aL #fb
+Presented our #adcs paper http://bit.ly/gxB7Qk on relevance assessors changing their minds. Great feedback, now to explore more #in #fb
+One of my students has been working on singing queries for music retrieval; here are some preliminary results http://bit.ly/rRjLZw&nbsp; #in
+My Google Scholar citations home page is set up http://bit.ly/tl5uQE&nbsp; I have a feeling I&#39;m going to visiting this very very often #in
+Need to join two messy columns of text in Excel, found a fuzzy lookup add-in from MS Research http://bit.ly/tNPQlc&nbsp; not perfect, but OK #in
+Someone is celebrating TREC&#39;s 20th birthday in style :) http://twitpic.com/7fswm8&nbsp;
+Where do doctors go to seek medical images for work purposes? Journals, personal collections, but mainly Google http://bit.ly/k8EuLy&nbsp; #in
+Short position paper from one of my students on evaluating personal IR systems http://bit.ly/vKiahs&nbsp; #in
+Reading old papers... found that simple acronym handling + BM25 helps you win a track at TREC http://1.usa.gov/vcIjHU&nbsp; #in
+Google maps moves indoors. If they can get the positioning to work well, this is likely to a big thing http://bit.ly/sWbpy4&nbsp; #in
+#irhistory In the old days, documents were indexed by classification codes, then Taube said &quot;let&#39;s try words&quot; http://bit.ly/t49cIC&nbsp; #in
+Bruce Croft set up his Google Scholar citations page http://bit.ly/sSVn8x&nbsp; he&#39;s got an h of 73... I give up. #in
+#evia2011 different assessors use very different criteria when judging community question answering systems
+@tetsuyasakai I like this paper, getting users to draw a concept map after search is a good idea. Has it been tried before? #evia2011
+Watching Ian Soboroff presenting his talk slides from his iPhone. #evia2011
+Enjoying Gareth Jones&#39;s presentation about MediaEval (http://www.multimediaeval.org&nbsp;) at #evia2011
+@tetsuyasakai What would you call a merged CLEF and INEX? CLENEX? #evia2011
+The #evia2011 session on CLEF, INEX, TREC, MediaEval, &amp; FIRE, working well: 15 minutes per talk makes nicely condensed presentations
+1300 academic papers added to medline each day! Keynote being given at #ntcir9
+#ntcir9 in one year there were 25000 papers about one gene type.
+#ntcir9 nice grid searching interface to help with exploratory search.
+Great fun giving a joint talk with @wewebber at #ntcir9. Private data &amp; reproducability of IR results got lots of feedback and questions.
+NRBP, the kitchen sink of IR evaluation measures, every avenue covered... probably: http://bit.ly/am4Ev0
+The OED expand its definition of the word information, they think it&#39;s quite an important word http://bit.ly/eirk45 #fb #in
+CrowdSearch workshop at WWW. Social networks, crowd sourcing, expert finding, community search, all in one place http://bit.ly/t56ycm&nbsp;
+An attempt to gather a public query log was canceled as only 200 people in the world were willing volunteers http://bit.ly/eGiwG #fb
+Data centres don&#39;t need to be as cold as most people think they do http://bit.ly/vdRwad&nbsp; #in
+@giovannaroda I should have put that URL in the talk I was just giving
+#IRFC paper on link between standard deviation &amp; bounded effectiveness scores; high SD guarantees middling score http://bit.ly/96Ah14
+Dave Hawking doing a live learning to rank demo during his keynote at #IRFC, show off #fb
+Cool set of slides on how the design of an MTurk experiment impacts on the quality of data gathered http://bit.ly/9qN3oQ
+Web doesn&#39;t facilitate scientific innovation - James Boyle co-creator of scientific commons. Great keynote, no notes, no PPT; #irfs2010.
+A major IR Prof told me he&#39;s given up journal reviewing; conference reviews only now, he thinks that&#39;s where the action is #in #fb
+@giovannaroda Is that the paper where he proposes the e measure?
+@BrotherLogic I don&#39;t know that article, have you got a link?
+@neelannair I think this is more a comment on the freshness of conference material and not on journal quality.
+Pareto and crowdsourcing, many try a task, only a few provide good quality work http://bit.ly/fqIWcm #fb #in
+&quot;The amount of information available is becoming unmanageable&quot;, turns out this statement&#39;s always been true http://bbc.in/zFECYw&nbsp; #fb #in
+I think this is the first paper describing tf*idf weights http://bit.ly/wCjs2p&nbsp; anyone know an earlier one? #in
+Foundations &amp; Trends in IR continues to have more cites per paper than ACM Computer Surveys! http://bit.ly/zwA0i8&nbsp; #in
+How to get your academic article read on the web - some advice I got from a publisher this week #in http://twitpic.com/888gcn&nbsp;
+@siandart Hi, they didn&#39;t, there is a whole earlier section on that topic.
+Associate Professor job in IR at RMIT http://bit.ly/wDAV00&nbsp; happy to chat to anyone interested #in
+Searching for page on how good Google is http://bit.ly/zrSpU8&nbsp; these results showed there is still room for improvement http://bit.ly/zA3t3P&nbsp;
+@ian_soboroff come join us :)
+Congratulations to Lida, an RMIT ISAR student, for getting an internship at IBM&#39;s new research lab in Melbourne http://bit.ly/w50oLb&nbsp; #in
+Relevance assessors who don&#39;t understand a domain make inaccurate judgements simply looking for keyword overlap http://bit.ly/xrRRln&nbsp; #in
+Divide your h by the years since you finished your PhD, bigger number = better apparently. Finally a positive for taking ages to write up.
+This service has a long way to go, but it&#39;s the start of something important: combining web &amp; private contenthttp://selnd.com/yNeqrc&nbsp;
+@noiano I agree, Google say they can&#39;t add FB and Twitter because terms of use prevent Google from crawling their content.
+1st web query log analysis (1995)? http://bit.ly/azUKeW Mentions Boston Globe article effectively saying ranked retrieval is &quot;faulty&quot;
+404 page not found on Google? http://bit.ly/A5fWYQ&nbsp; #in
+45 minutes till the abstract deadline on #sigir2012, but almost no more submissions coming in. Surely not everyone is asleep?
+@CharlotteHase Not no; at least if I&#39;ve switched the system correctly, not now.
+That&#39;s it, no longer Monday anywhere in the world, #sigir2012 abstracts are all in: 650 submitted.
+Reviewing for novel evaluation workshops at SIGIR: SimInt2010 &amp; CSE2010, both keen to push beyond the Cranfield approach #in
+#SIGIR2012 paper deadline? When it stops being Mon the 13th here http://bit.ly/ykIozK&nbsp; that&#39;s the deadline. Good luck with your papers.
+Read a paper that drew general conclusions about search engines based on the answers of 15 students. We&#39;re just more different than that.
+#sigir2012 just under an hour till we switch the submission system off.
+#swirl12 #occupymydata is the hot new idea at the Lorne meeting
+#swirl12 Doug Oard wants an IR system that is an exoskeleton for the mind.
+The first description of IR on a digital computer? This MIT Masters thesis is from 1951 http://bit.ly/c8zUbc  #in
+#swirl12 photos from the meeting up online http://bit.ly/y8sb4h&nbsp;
+Great talk from @JulioGonzalo1 today at RMIT. Careful analysis of evaluation measures, creating an IR specific significance test. #in
+You always suspected, now a study confirms, users are influenced by a search engine&#39;s brand http://bit.ly/dh9uiX #in #fb
+Stefano has blogged about #swirl12 http://bit.ly/ySULSg&nbsp;
+The #sigir2010 next generation test collection workshop is apparently cancelled: lack of interest http://ir.cis.udel.edu/NGTC10/ #in
+Some interesting stats on the state of the ICT industry in Australia, more jobs not enough graduates #in
+Microsoft &#39;Illumishare&#39; demonstrates remote physical object interaction... all sort of collaborative search possibilities.
+It&#39;s a picture, it&#39;s a movie, it&#39;s a “Cliplet” from MSR who will take the time to do them though? http://bit.ly/zi0WG6&nbsp; via @MSFTNext
+Stack Exchange Q&amp;A site proposal: Information Retrieval and Search Engines http://bit.ly/GLr93i&nbsp;
+An economic impact report will show that a healthy chunk of money was generated through research &amp; evaluation fostered by TREC #in #fb
+@iFromm Yes, it should be going on the TREC site.
+@iFromm the report is at http://trec.nist.gov/pubs/2010.economic.impact.pdf
+The daily Google puzzles are fun, but are they experimenting on us: studying how we do complex search? http://bit.ly/Heiwh7&nbsp; #in
+Studying the physics of Angry Birds, pointlessly brilliant research, http://bit.ly/Hm3d4Z&nbsp; Ig Nobel maybe?
+Enjoying query log tutorial at #sigir2010 bit sweaty though #fb
+Papers I should&#39;ve read ages ago. http://bit.ly/Hp0ViZ&nbsp; excellent early crowd sourcing paper for NLP labelling. #in
+OpenStreetMap continues to make gains, Wikipedia using it now instead of Google Maps http://cnet.co/IwMTiS&nbsp; #in
+@asmeaton gave a great talk at RMIT, but did he visit us or come to watch the Iron Man in Melbourne that Sunday :) http://bit.ly/HQMRR7&nbsp;
+Manmatha from UMass gave a great talk at RMIT on a cool algorithm he developed on fast duplicate document matching http://bit.ly/HQNBpd&nbsp; #in
+Thrilled for Lida and Jasbir getting their internships at IBM Melbourne http://bit.ly/HQO36U&nbsp; #in
+New paper from RMIT IR group http://bit.ly/HQO9LV&nbsp; &quot;Using anchor text for homepage and topic distillation search tasks&quot; #in
+@elunca Will get a copy sent
+Andrei Broder is now at Google after leaving Yahoo a couple of weeks ago. #in
+@metzlerd @ian_soboroff Good news Don.
+How often were you thanked in the acknowledgements of an academic paper? AckSeer knows http://bit.ly/IIcQvG&nbsp; #in
+Are these the first uses of the term &quot;search engine&quot;? MIS and DB books from &#39;72 &amp; &#39;76? http://bit.ly/JqwfA4&nbsp; http://bit.ly/HRjPOi&nbsp; #in
+Omar Alonso&#39;s crowd sourcing keynote full of great tips at the crowd sourcing workshop #sigir2010
+A new batch of historical books and papers now online at SIGIR&#39;s museum http://bit.ly/HW8gus&nbsp; #in
+Expert ranking of academics correlate somewhat with citation. Scopus a bit better than Google Scholar http://bit.ly/94QJ7k #in #fb
+Splitting a city into social regions derived from FourSquare data http://www.livehoods.org/&nbsp; #in
+This paper says 50 queries are fine for testing, yet search engines use 1000s of queries, we&#39;re missing something http://bit.ly/JRW7VP&nbsp; #in
+@julian_urbano They certainly are not sampled, yes, maybe they are a popular style of query, but actually, who knows?
+@srchvrs Tell me more
+@julian_urbano Yes and the recent web tracks are getting queries from logs also.
+That&#39;s the SIGIR notifications going out...
+Search without those pesky dominating sites like Wikipedia, DBLP, IMDB, etc. Reminds me of the old dayshttp://www.millionshort.com&nbsp;
+@seo01 &#39;dunno, sorry
+New paper with old PhD student Shahram on image search by doctors is out http://shar.es/27Zaq&nbsp; free version here http://bit.ly/IJBdb0&nbsp; #in
+Just out, Bruce Croft and I wrote a short history of ranked IR: pay version http://bit.ly/JYpVyd&nbsp; free version http://bit.ly/ITGMQS&nbsp; #in
+@takis_metaxas One is free and one you have to pay for. Well, also the pay one corrects a few typos that the publisher noticed.
+Nice analysis of tweets, seen a lot of this before in query logs, but fun to see elsewhere http://bit.ly/IZBIKW&nbsp; #in
+The report from the SWIRL meeting is out in SIGIR Forum http://bit.ly/JvaU6t&nbsp; long list of suggested future IR research directions #in
+The XBox Kinect tracks bodies by seeing how they deform structured light, here are beautiful photographs of that http://bit.ly/LA2eOp&nbsp; #in
+Matrix of transitions used to arrange the components of exploratory search, nice. @HCIR_GeneG &amp; @jerepick http://bit.ly/JamhzA&nbsp; #in
+@HCIR_GeneG No problem, I just liked the way you guys did that.
+@HCIR_GeneG It seems to me one big issue is to help the searcher understand when they are going over ground already covered.
+@HCIR_GeneG Cool, please send me the pointer. I tried something very simple on this 20 years ago :) http://bit.ly/KZUCbB&nbsp; (p12)
+@leifos @HCIR_GeneG my twitter handle that gets truer every day. Just you wait young Leif, it&#39;ll happen to you soon enough.
+I&#39;m the new co-editor of FnTIR http://bit.ly/K4JSUr&nbsp; Many thanks for all the years of hard work from Fabrizio who is stepping down #in
+Feynman explains the scientific method in a minute, just great http://bit.ly/LYG8oZ&nbsp; #in
+Nice article from Marti Hearst on the future directions for IR http://dl.acm.org/authorize?6592199&nbsp;… #in
+http://bit.ly/aZSmnw another fast way to get IR ground truth like Amitay&#39;s TRELs? But should be striving for fast over quality? #in
+Google Scholar&#39;s top 100 publication venues. This can only be the start of this sort of data from them http://bit.ly/JsALkV&nbsp; #in
+NYT on the debate about academic access to private data for research purposes http://nyti.ms/MbFMvr&nbsp; #in
+Just realised that Google Scholar Metrics is searchable http://bit.ly/JsALkV&nbsp; SIGIR is not the top IR forum by citation, JASIST is #in
+@ssn All measures have problems, h5 can disadvantage low volume forums. It ignores low citation papers, thus arXiv scores high.
+This query shows the main IR venues ranked on Scholar http://bit.ly/KoBS1C&nbsp; JASIST, SIGIR, IP&amp;M, CIKM, WSDM, TOIS, did I miss anything? #in
+@HCIR_GeneG Hmmm searched for that, but I don&#39;t see it in there. I couldn&#39;t find the WWW conference either.
+@amjedbj @msftacademic I like the MSR system, what&#39;s cool about Google is it merges conferences with journals.
+@guidozuc Welcome to the world of information extraction, there will be missing counts for everything due to inconsistent naming.
+@delsweil I know what you mean, but for me it&#39;s IR &#39;enough&#39; :)
+@iFromm @phschaer @delsweil So with digital libraries added to the query (thanks) you get this http://bit.ly/KTHXpr&nbsp;
+@phschaer @delsweil @ifromm The problem is, people in power use these things.
+@iadh @iFromm @delsweil @phschaer Might be due to ECIR&#39;s publishing in LNCS, which I&#39;ve seen cause referencing confusion.
+@iadh @iFromm @delsweil @phschaer Actually, the strange one that&#39;s missing is TREC I search, but I can&#39;t find it.
+Pairs of words are sometimes ambiguous: search for Belkin ASK on Google Scholar, you get 2 quite distinct threads of research. #fb #in
+http://bit.ly/acclql Belkin&#39;s ASK: we search to know, but if we don&#39;t know, how do we search? Do we only query the easy stuff? #in
+@iadh @iFromm @delsweil @phschaer If you look at the ECIR citations, it seems to only be pubs from 2010 and 2011 http://scholar.google.com.au/citations?hl=en&amp;view_op=list_hcore&amp;venue=eAz7mQVdMusJ.20120401&nbsp;… bug
+@delsweil @iadh @ifromm @phschaer Does ECIR have its pubs in the ACM DL? If not, maybe it should; that might help Google Scholar.
+@phschaer @iadh @delsweil @ifromm It&#39;s definitely doable, the Australasian IR Conference (ADCS) I think will soon be on the ACM DL.
+@seo01 http://bit.ly/98YStI my 1st IR paper; people always told me about Belkin&#39;s ASK, glad I read it, interesting to compare now &amp; then.
+http://bit.ly/98nlR5 top 1998 web queries? sex, Playboy, Penthouse, chat, Hustler, nude, porn, erotica... the web has changed #fb
+How Many Test Users in a Usability Study? Five, mostly (Jakob Nielsen&#39;s Alertbox) http://shar.es/q8Pwm&nbsp; via @sharethis
+Published papers aren&#39;t a random sample of science: the 97% using a significance test found significance http://bit.ly/fzqCw7 #fb #in
+The sharpshooter&#39;s fallacy is alive and well in the fields of science http://nyr.kr/hTDy1p #fb #in
+Occasionally, you read something that changes your view.; can such teams be used for academic research? I should try http://bit.ly/MrFEJP&nbsp;
+http://bit.ly/awwb7m Session DCG, thinking about this (maybe) for the TREC session track... but what&#39;s &quot;Scenario D&quot;?
+SIGIR is running a panel this year the use of proprietary data in academic research. Should be fun, hopefully productive #in
+Neilsen &quot;5 users in a usability test is good&quot; Schmettow &quot;the maths behind that claim is wrong, you need many more&quot; http://bit.ly/KflFd4&nbsp;
+Nice early study showing that users want results quickly and care less about the source http://bit.ly/Kfng2L&nbsp;
+Search Google Scholar for an email address fragment: e.g. &quot;.ac.uk&quot; you get top UK academics, works for Uni names too. http://bit.ly/KRTnXF&nbsp;
+Nice summary of work in probabilistic topic models in April&#39;s CACM http://bit.ly/LEc8NP&nbsp;
+Call for participation in NTCIR&#39;s search evaluations is out. The deadline for joining is looming, miss it, miss out. http://bit.ly/MvhD4k&nbsp;
+Crowd sourced vs expert relevance judgements, which is better? Our paper says crowds, but experts aren&#39;t redundant yet. http://bit.ly/N5DHm0&nbsp;
+@srchvrs Quite possibly, don&#39;t under estimate the importance of expert knowledge.
+The Google grants recipients for this round are out. A few IR people are in there... including me :) http://bit.ly/MIckA2&nbsp;
+@JulioGonzalo1 Very cool Julio, great to see #swirl2012 had such an immediate benefit.
+@ieleta Thanks
+Someone said this week: &quot;there are 2 types of successful academics: those who know how to write grants; and those who have great ideas&quot; #in
+Yet another library digitizing its archives, this time it&#39;s the Wellcome trust http://bit.ly/cmTJOD #in
+@timgollins Thanks, sorry I couldn&#39;t chat for longer today.
+Great talk by Pascal Van Hentenryck on optimisation last night; he cited this example showing computing saves lives. http://bit.ly/LDeySt&nbsp;
+Berners-Lee&#39;s 1999 book on WWW&#39;s 1st decade: few search engines, a hint of web 2.0, lots of semantic web http://bit.ly/ieyVDm #fb #in
+One of our students presented on news recommender systems yesterday. She&#39;s got a nice data set to work with. http://bit.ly/LTghOV&nbsp;
+I&#39;m hearing that the main conference hotel for #sigir2012 is filling up, book soon.
+#cikm2012 One accept, one reject. I&#39;ll take that.
+Not everyday someone you know gets his research narrated by Morgan Freeman. http://youtu.be/oeaFYYHShlo&nbsp; #in
+Years ago, I pitched a computers &amp; data in the field idea to archaeologists, their reply? I want a water proof computer http://bit.ly/O8U8wO&nbsp;
+@HCIR_GeneG @ArjumandYounus Yes I imagine they are, posters tend to be.
+I knew cross (translated) language search was on Google, but I didn&#39;t realise they had made it easy to use.http://bit.ly/NPvuzg&nbsp;
+What is a Browser? If you haven&#39;t already, great video for CS people to watchhttp://youtu.be/o4MwTvtyrUQ&nbsp;
+Recent research on eye tracking and search interfaces was presented at the RMIT Tiger talk this week. http://bit.ly/NN5lCL&nbsp;
+&quot;Spoken Content Retrieval: A Survey of Techniques and Technologies&quot; is just out in the latest FnTIR edition http://bit.ly/PLOost&nbsp; #in
+Past PhD plagiarism is damaging political and professorial careers in Europehttp://bbc.in/SSQWsd&nbsp;
+Prof &amp; Assoc. Prof at jobs RMIT: areas include social networks, big data; details here http://bit.ly/NSM5qr&nbsp; http://bit.ly/NSMs4b&nbsp; #in
+@rainingman1 Thanks for pointer, is this better than Turnitin?
+@rainingman1 You can tell Turnitin to ignore individual documents to prevent that from being a problem.
+@rainingman1 Yes, Turnitin tells you have 100% match on the earlier document, but you can tell it to ignore that doc and re-calculate
+Microsoft adds a Facebook-based collaborative search feature to Bing searches http://cnet.co/Ox8PgJ&nbsp; via @CNET
+@jerepick Sounds reasonable to me. We&#39;ve got someone here working on mobile collaborative search by the way.
+A major review of blog search is just out from the Glasgow and NIST people #in http://bit.ly/M4xXKZ&nbsp;
+The IR review journal FnTIR releases another major review, this time in Expertise Retrieval #in http://bit.ly/M4ysEQ&nbsp;
+http://bit.ly/wgCg4 Hearst book: one to be left open on your desk covered in scribbles &amp; notes AND on-line version is free! #in
+Great talk this evening by Kenneth O. Stanley from Florida on novelty search in AI applications, really cool work.
+@jteevan @sigirf if the measure tells you something different, then maybe. That wasn&#39;t covered much in the talk #sigir2012
+#sigir2012 enjoyed Ryen White&#39;s log analysis talk about extracting valuable data from health queries.
+#sigir2012 thinking about Tue&#39;s proprietary data panel session, note all of this year&#39;s log analysis papers are from search engine groups.
+@jteevan about proprietary data? To be honest I don&#39;t know.
+#sigir2012 enjoyed listening about ranking features that are good for mobile local search http://research.microsoft.com/pubs/163550/fp121-lv.pdf&nbsp;…
+#sigir2012 when I grow up, I want to be like Steve Robertson. He&#39;s virtually retired and he&#39;s here enthusiastically presenting his poster.
+@eelstretching great donuts, thank you #sigir2012
+&quot;@jteevan: @eugeneAgichtein&#39;s Given search task that&#39;s suspended, predict if searcher will pick it back up later. #SIGIR2012&quot; great talk
+#sigir2012 geography to the rescue of search? Apparently yes, according to our current exploratory search speaker.
+#sigir2012 @BHecht really cool spatial visualisation of search results: maps, periodic tables, where senators sit in congress.
+#SIGIR2012 Marc Bron tackling the difficult subject of how to evaluate exploratory search. Great session.
+@jteevan @sigirf That&#39;s a critical point as far as I&#39;m concerned, there are loads of examples of science conducted on unsharable data.
+#sigir2012 if I&#39;m a doctor who publishes a patient drug study, it&#39;s crazy for others to demand access to my patients, yet this is science.
+#sigir2012 it only took Ricardo 3 minutes to mention wine :)
+#sigir2012 I see a consensus emerging here.
+#sigir2012 for a fresh PhD student @wewebber is holding his own very well with the rest of the panel
+#sigir2012 @invertedindex &quot;welcome to the first SIGIR session in the bat cave&quot;. This room is terrible.
+#SIGIR2012 @invertedindex extending his time series analysis work from last year on dealing with time varying queries.
+@JeffD we&#39;re headed for a question? #sigir2012
+#SIGIR2012 Etan Aydar talking about zoetrope and other ways of querying and visualising temporal data, cool.
+#sigir2012 @mdr talking about open geist: a tool that processes Wikipedia trend data.
+#sigir2012 really enjoyed the conference this year, good papers, a fun venue, thanks Bill.
+I said at #swirl12 that indoor location based information delivery would be important... maybe I was right http://bit.ly/NmBV3B&nbsp; #in
+Our CIKM short paper on inconsistencies in search engine ranking when measured across different collections http://bit.ly/Tblio9&nbsp; #in
+If only I&#39;d had the Manga guides when I was a kid, I wouldn&#39;t be having to learn stats in my 40s. http://bit.ly/TbtmoV&nbsp;
+@craig_macdonald It doesn&#39;t have one yet, we&#39;re working on the WoS people about this. It will come and when it does, it should be good.
+Rank citation analysis academics by their citation paper h-index, the highly influential inventor of h, Hirsch ranks very low #in #fb
+Google Instant shows multiple SERPs to users, is Google getting more training data on user preferences for its results? #in #fb
+Password cracking meets big data... and does rather well. http://arstechnica.com/security/2012/08/passwords-under-assault/&nbsp;… #in
+Ricardo Baeza-Yates visiting us at RMIT. Itinerary: meet students, give talk, lunch meet staff, then see penguins: perfect Melbourne visit.
+@craig_macdonald The average citation count for the 19 papers published by FnTIR http://bit.ly/K4JSUr&nbsp; is 112. Popular papers indeed #in
+@leifos @craig_macdonald power law. So I should use the median. ERA? There were these problems, note the grades aren&#39;t being updated.
+It&#39;s not just relevance, users love simple &amp; familiar designs; websites need to make a great first impression http://googleresearch.blogspot.com/2012/08/users-love-simple-and-familiar-designs.html&nbsp;… #in
+Excited to announce that Timos Sellis is joining us at RMIT http://scholar.google.gr/citations?user=G1Iux80AAAAJ&amp;hl=en&nbsp;… #in
+@KushalDave Sorry about that. Try http://www.optimalworkshop.com/treejack-results&nbsp;… and click on task results follow your nose...
+@optimalworkshop @KushalDave It&#39;s cool stuff, I was showing it in a usability engineering class at my University this week.
+How find without searching; this great talk looked at finding solutions in AI, lessons for search here I think http://youtu.be/tZBViI8ZaU0&nbsp; #in
+How&#39;s this for a small conference venue 15 minutes from Melbourne&#39;s centre? I like Melbourne http://yfrog.com/oexviegj&nbsp;
+@HCIR_GeneG who needs PowerPoint when you have palm trees?
+Visually impaired users find complex searching difficult on Google (no free version of the paper). http://bit.ly/P0xEPY&nbsp;
+@HCIR_GeneG I would go with the 1991 journal paper, that&#39;s pretty definitive, we updated the interface later, but didn&#39;t write it up :(
+@HCIR_GeneG Great name for a journal eh? Yes that one.
+@HCIR_GeneG Sorry for any confusion, I assumed you were looking at my publications page http://www.seg.rmit.edu.au/mark/publications/&nbsp;…
+4th best student city, 2012? My home town, Melbourne :) http://www.topuniversities.com/student-life/best-student-cities/2012/melbourne#.UE7iikbpz3g.twitter&nbsp;… #fb
+Listening to Richard Stallman talk about his 4 freedoms and how they apply to copyright
+Hmm Stallman taking A bit too long to get to some interesting points
+The BBC picked up on the Melbourne Universities ranking with a lovely photo of the RMIT &#39;brain&#39; building. http://www.bbc.com/travel/feature/20120907-best-student-cities-melbourne&nbsp;… #in
+When selecting a new academic for a post: diverse, great publications may be more important than a high hhttp://arstechnica.com/science/2012/09/scientists-what-will-your-career-look-like-in-ten-years/&nbsp;…
+&quot;Designing &amp; testing an improved packaging for large hollow chocolate bunnies&quot; that&#39;s *real* research http://www.tappi.org/Downloads/unsorted/UNTITLED---97Aug133pdf.aspx&nbsp;… #in
+Attending William Weber&#39;s PhD completion talk in Melbourne. So much good IR evaluation work in one thesis. Amazing!
+A tough read: essentially pseudo relevance feedback meets sense disambiguation. Good experimental reporting. http://bit.ly/Qxvneo&nbsp;
+You can&#39;t always trust Google&#39;s &quot;My Citation&quot; pages. This person shows that papers you didn&#39;t write can be included. http://bit.ly/SYLO8W&nbsp;
+@IR_oldie The papers added here are so crazy, there&#39;s no deception intended here, just an illustration that there is no checking.
+A social network aggregator (probably been done elsewhere), but first time I&#39;ve seen this idea tried out. http://bit.ly/VHH72C&nbsp;
+Really nice opinion piece on the multiple roles of computers in carshttp://www.wired.com/opinion/2012/10/automakers-become-software-makers-the-next-battle-between-open-and-closed/&nbsp;…
+@tetsuyasakai It differed quite a bit though, don&#39;t you think? I was pleasantly surprised about that part.
+Lol, he is on a mission to be the number one IR person on Google Scholar, he&#39;s now at number 2. http://bit.ly/SYLO8W&nbsp;
+The visual version of &quot;is your baseline strong enough?&quot; http://bit.ly/ROpCNq&nbsp;
+Yay, he did it: the number 1 IR person in the world. Someone had to show how vulnerable these lists are to spam. http://bit.ly/ROucv8&nbsp;
+@dirkahlers @HCIR_GeneG All the papers have a &quot;J Wang&quot; as an author, just not him. Maybe Google doesn&#39;t check that carefully?
+@dirkahlers @HCIR_GeneG Maybe you can overwrite the suggested papers and add extra to the list, keep adding and you move ever up.
+@dirkahlers @HCIR_GeneG The labels are all self-nominated. Google gave up on that idea for the Web years ago, too susceptible to spam.
+http://bit.ly/b7DoM7 simulated analysis of MTurkers making errors &amp; the benefits of using gold standard data to detect them #in
+http://bit.ly/dtqOBl RMIT-based cost benefit analysis of improving search effectiveness, nice idea.
+Academics cite a wider range of more relevant papers than they did before the internet came along. http://bit.ly/SoiG7d&nbsp;
+Our Yahoo! Research proposal was funded: &quot;Re-finding information in the Web”, jointly with David Vallet and my student Sargol Sadeghi.
+http://bit.ly/aHgG3Y Google&#39;s guide to getting your web page ranked high just updated: detailed solid info #fb #in
+Detailed instructions on how to evaluate enterprise search systems. Quite different from TREC style evaluation. http://bit.ly/RqmXr7&nbsp;
+His h score rises still, but Google have taken him off the list of IR people. His short reign at the top has ended. http://bit.ly/SYLO8W&nbsp;
+Lessons on training from the army. Valuable hints for computer scientists, maybe even PhD supervisors http://bit.ly/TOMSXV&nbsp;
+@dirkahlers Yeah, though my impression is stop lists aren&#39;t Google&#39;s style, maybe some clustering to spot paper content outliers?
+@dirkahlers Ah :)
+Locating &amp; using the tweets of a subset of twitter users to summarise the tweets of a wider population. #cikm2012 http://bit.ly/TnGVk9&nbsp;
+@srchvrs @kohlschuetter Both use automatic sense disambiguation and &quot;author intervention&quot;, but with different emphasis on the techniques.
+@michaeltwofish Sorry, when I put my hand up, I was referring to a private blog for internal notes. This is the only public thing.
+@michaeltwofish sorry, you&#39;ll need go make do with tweets
+Enterprise search person told me the web is a publishing medium, while most enterprises hold a digital archive. Quite different to search.
+@srchvrs also no one is (white hat) optimising enterprise archive content. There&#39;s no advertising to fund development of the ranker :)
+My student got a Yahoo award, with a bit of help from me and David Vallet :) http://shar.es/GFRzh&nbsp; via
+Google Scholar is grouping journals &amp; conferences by sub-topic. IR is in DB&amp;IS: WWW, VLDB, SIGMOD, SIGIR top forums http://bit.ly/SPXO8a&nbsp;
+Many people tell about spam on MTurk: sounds like Amazon needs to improve its rating system http://bit.ly/cbv5sP #in
+Computer used when walking? Define system quality by user walk speed &amp; how many red crossing lights missed, brilliant. http://bit.ly/UVzcv8&nbsp;
+With friends like these, who needs QRELS? Facebook and Bing sharing data http://bit.ly/bANbHk #in #fb
+SVD-like mapping of docs to semantic hash codes, then use ML to learn mappings for new docs to new codes http://bit.ly/aofQza #in #fb
+A colleague&#39;s Google Scholar profile contained papers he didn&#39;t write, turns out Scholar added them automatically.
+Mood changes measured in Twitter predict US stock market moves 3-4 days later http://bit.ly/aeQzLP #fb #in
+Nice side piece from the Leveson (press standards) inquiry in the UK on the inaccuracies of science reporting.http://bit.ly/TvRmDw&nbsp;
+@delsweil Is your commute in a helicopter?
+The challenge of creating usable security in wireless devices, a great keynote by Gene Tsudik at ACSW in Perth. #fb #in
+Social Media Is Eating Our Lives (And Pinterest Is Chewing Fastest) | Wired Business | http://Wired.com&nbsp;http://www.wired.com/business/2012/12/social-spike/&nbsp;…
+Nice student resource about plagiarismhttp://plagiarism.org/&nbsp;
+New extensive review of contextual search just out. http://bit.ly/TK6IoK&nbsp;
+A strong result, computer science at RMIT got two ratings of 4 (out of 5) for its research by the Australian Government yesterday #era
+Enjoyed reading this paper on summarizing tweets for events http://bit.ly/UQvDKp&nbsp;
+Our RMIT CS students built an app for a Guinness World Record attempt tomorrow evening http://bit.ly/SMOaFs&nbsp;
+CLEF is no longer about just cross language search, check out the 2013 call. http://bit.ly/SSdo6P&nbsp;
+One part of this paper examines conditional equivalence of documents with respect to a query, nice idea http://bit.ly/9s10sW #fb #in
+Tweet sports summarization, showing video of football matches based on tweet volume and some personalization data. http://bit.ly/TVl8SW&nbsp;
+Reading about TweetMotif the tweet search engine &amp; browser, the engine is down, anyone know if there&#39;s a new link? http://bit.ly/VKBFbY&nbsp;
+@sarvk Cool, thanks
+@damiano10 Cool, thank you. Has this longer version been published anywhere?
+We have an associate professor position at RMIT: big data, semantic search, and/or social data analytics. Interested? contact me.
+@brendan642 thanks for contacting me. For now, your paper covers all I need to know, though are you still working on tweet summarization?
+#SIGIR2013 call out; reviewers will consider reproducibility of results; 2 page poster replaced with 4 page paper. http://bit.ly/VUlA3q&nbsp;
+Tufte&#39;s 2006 PPT hate letter blames both Shuttle disasters on good engineers who are bad at visual communication.http://amzn.to/VbJCY8&nbsp;
+2013 marks the 20th anniversary that friends and I in Glasgow University set up our first web site. I&#39;m getting old :)
+@madereal My first (and only) skydive was about 25 years ago. Seriously you&#39;ve done 400? Wow!
+How doctors search for images used in research/teaching. The publisher&#39;s giving the article for free this week; odd. http://www.emeraldinsight.com/fwd.htm?id=aob&amp;ini=aob&amp;doi=10.1108/00012531311297186&nbsp;…
+Nice interview with Amit Singhal (Google search chief) in the Guardian todayhttp://www.guardian.co.uk/technology/2013/jan/19/google-search-knowledge-graph-singhal-interview&nbsp;…

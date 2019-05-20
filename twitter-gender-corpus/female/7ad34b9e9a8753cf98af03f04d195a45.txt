@@ -1,0 +1,67 @@
+&quot;A Probabilistic Method for Inferring Preferences from Clicks&quot; with Shimon Whiteson and Maarten de Rijke #cikm2011 http://bit.ly/ooA5fR&nbsp;
+“@ggdupont: machine learning for IR session in #cikm2011 : first paper was great” -- Thanks! :-)
+Just closed the #dir2011 demo submission. 7 demos were submitted.
+This week&#39;s folia (UvA magazine) has a short piece about my research (under TECH-SHIRTS): http://issuu.com/foliacivitatis/docs/folia15_64/18
+Our article &quot;Balancing exploration and exploitation in listwise and pairwise learning to rank for IR&quot; is now online http://bit.ly/I6zvg6&nbsp;  :)
+Nice! One full paper and one poster accepted at #cikm2012.
+@tomas_matousek things are pretty good, although not as adventurous as for you, apparently - those pics are awesome! :-)
+Am I really supposed to pay twice the registration fee to present two papers at #cikm2012?
+@adambermingham @breyten thanks! let&#39;s see if I can actually afford to present both the full paper and the poster ... :)
+@krisztianbalog you can use \raggedright (before \bibliography...)
+Interesting article about &quot;dark social&quot;:http://www.theatlantic.com/technology/archive/2012/10/dark-social-we-have-the-whole-history-of-the-web-wrong/263523/#.UHrKTNeBA9Q.twitter&nbsp;…
+Written by Peter Norvig more than 10 years ago, relevant as ever ... Teach yourself programming in 10 years http://norvig.com/21-days.html&nbsp;
+Nice! &quot;Reusing Historical Interaction Data for Faster Online Learning to Rank for IR&quot; \w @anneschuth, @shimon8282 &amp; @mdr accepted #wsdm2013
+@dvdgrs @mariahendrike why should the looks matter?
+@dvdgrs @mariahendrike... Can only speak for myself, but I pick role models by what they say and do (and how they do it).
+Interesting stuff &quot;@dvdgrs: &quot;Leading Environmental Activist’s Blunt Confession: I Was Completely Wrong To Oppose GMOs&quot; http://www.slate.com/blogs/future_tense/2013/01/03/mark_lynas_environmentalist_who_opposed_gmos_admits_he_was_wrong.html&nbsp;…&quot;
+&quot;Fidelity, Soundness, and Efficiency of Interleaved Comparison Methods&quot; (Hofmann, Whiteson, de Rijke) accepted \w minor revs. in ACM TOIS :)
+@firadl is making some last minute changes on our tutorial slides. Looking forward to the tutorial this afternoon #ECIR2013
+Posted slides and additional material for our #ECIR2013 tutorial on Practical Online Retrieval Evaluation http://wp.me/p2tKD7-15&nbsp; (w @firadl)
+Mark Najork about social search: 10% of bing searches are for people #ecir2013
+@leifos I think i will be crucial in the future - when all our data is online. We&#39;ll search the web, personal photos, docs from one point.
+@leifos creepy! Plus it&#39;ll be a perfect memory of everything you&#39;ve ever said or done.
+Mark mentions &#39;private traits and attributes are predictable ...&#39; http://m.pnas.org/content/early/2013/03/06/1218772110&nbsp;… #ecir2013
+Paul Ogilvie explains biases that make evaluation on LinkedIn hard: repetition, time of day, referrer... #ecir2013
+Antonio Gulli about Bing: 110m unique users in the US #ecir2013
+Antonio about massive data mining at Bing: cosmos and scope #ecir2013
+Limitations of mapReduce - users have to manually specify execution plans #ecir2013
+Karen Church: mobile search is unique - personal, context, fresh... #ecir2013
+Karen: more than 50% of mobile Google searches have local intent #ecir2013
+Great talk by Bottou: Large Scale Machine Learning in the Real World (Part 2) Causation and Exploration @TechTalksTV http://techtalks.tv/talks/large-scale-machine-learning-in-the-real-world-part-2-causation-and-exploration/58032/&nbsp;…
+My thesis is now available:
+Fast and Reliably Online Learning to Rank for Information Retrievalhttp://wp.me/p2tKD7-1X&nbsp;
+Agreed, very cool! @djoerd: Daan Odijk from @commit_nl gives impressive semantic linking demo for @dwdd at #dir13. @dodijk
+My first computer blew up because I forgot to unplug the power before taking it apart
+#KieraWilmot
+Everything&#39;s prepared and ready to go for #dir2011 tomorrow. Looking forward to an exciting day!
+@edgarmeij @dvdgrs @dodijk @TomKenter congrats! :-)
+@dvdgrs  it was a great day indeed!
+Demo application of CCMs: semantic role labeling http://cogcomp.cs.illinois.edu/demo/srl/&nbsp; #benelearn2013
+Interesting keynote by Dan Roth at #benelearn2013 - &quot;CCMs can combine  declarative knowledge with data driven statistical models&quot;
+CCM overview paper: &quot;Structured Learning with Constrained Conditional Models&quot; by Chang, Ratinov, and Roth http://cogcomp.cs.illinois.edu/page/publication_view/698&nbsp;…
+Great initiative: share your machine learning experiments on openML http://openml.org/&nbsp; #benelearn2013
+#benelearn2013 Laurens van der Maaten: why corruption is good (in machine learning) http://homepage.tudelft.nl/19j49/Publications_files/mcf.pdf&nbsp;…
+Super excited about starting my new job today: as a postdoc with Microsoft Research Cambridge!
+Just landed in Dublin. Looking forward to #sigir2013.
+Julio Gonzalo: temperature = what&#39;s measured with a thermometer. What&#39;s the thermometer for retrieval?
+@torbenbrodt at @BARSws talking about the recsys challenge: real-time news recommendation. Check it out: http://recsys.acm.org/recsys13/recsys-2013-challenge/&nbsp;…
+#sigir2013 follow-up - these were the hot topics this year: http://www.wordle.net/show/wrdl/6916796/SigIR_2013&nbsp;… (word cloud of the full paper titles) @SIGIR2013
+@n0mad_0 Thanks for pointing this out! I corrected the link, enjoy the slides :)
+Very much enjoyed reading David Bodoff&#39;s reaction to &quot;the Fuhr Challenge&quot;: http://dl.acm.org/citation.cfm?doid=2492189.2492191&nbsp;… - now, how do we conceptualize IR?
+@arjenpdevries one inappropriately short summary could be: don&#39;t stop at *what* works, focus on *why* it works and *when*.
+ECIR 2014 Demos can now be submitted through
+http://www.conftool.pro/ecir2014/&nbsp;. Looking forward to your cool demo!
+10 days left to submit your #ECIR2014 demo! http://ecir2014.org/for-authors/&nbsp;
+#ECIR2014 demo submission is now closed. We received 25 submissions. Thank you to all demo authors / coders!
+Watching Marc Bron defend his PhD thesis. #congratspic.twitter.com/KbC7xOSaTA
+Just sent out the #ECIR2014 demo notifications. Congratulations to accepted authors!
+Announcing the @ECIR2014 Best Demo Audience Award. For the first time, ECIR attendees will get to vote for their favourite demo. #ECIR2014
+@alaa_ghareeb for any demo submissions you should have received a notification. If not, please send me the submission id privately.
+@iFromm @ECIR2014 :-) I&#39;m sure we&#39;ll have a great audience! The prize, however, will be for the best demo.
+@anneschuth congrats! I&#39;d like a camera ready copy as well.
+@anneschuth goed dat jullie dit onder de aandacht brengen!
+The paper I&#39;ll be presenting at #ecir2011 is now online: http://bit.ly/fHqCxT. Presentation in session 7 on Wed. April 20, 10:30.
+It&#39;s official: I&#39;m one of the 2011 #google anita borg memorial scholars http://bit.ly/mS6ONj
+Our article on &quot;Contextual factors for finding similar experts&quot; just got published in Early View: http://dx.doi.org/10.1002/asi.21292
+Happy that our paper &quot;A Probabilistic Method for Inferring Preferences from Clicks&quot; was accepted at #cikm2011 http://ilps.science.uva.nl/biblio/probabilistic-method-inferring-preferences-clicks&nbsp;…
+looking forward to a long weekend in germany with family and friends

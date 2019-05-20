@@ -1,0 +1,212 @@
+PaIR&#39;11: invited speakers &amp; accepted papers now at http://bit.ly/qP5pr5&nbsp;. Register now to catch early-bird rates http://bit.ly/qvosKI&nbsp;
+4th Intl Workshop on Patent Information Retrieval - October 24, 2011 - Glasgow, UK. See agenda http://bit.ly/qP5pr5&nbsp;...: http://lnkd.in/aSa7my&nbsp;
+http://lnkd.in/UBixdf&nbsp; Regular registration prices for PaIR 2011 will be available only until the end of this month. Use the CIKM website...
+Regular registration to Patent Information Retrieval workshop ends soon. Avoid late registration fees by registering t…http://lnkd.in/89HJYZ&nbsp;
+really?! &quot;MC Hammer&#39;s WireDoo: Can it take on Google and Bing? http://latimesblogs.latimes.com/technology/2011/10/mc-hammer-wiredoo-deep-search-engine.html&nbsp;… &quot;
+#PaIR2011 was great thanks to the participation of the invited speakers and of people from Google, Springer and CambridgeIP, among others!
+The result of query log analysis, one would suspect: Google Blog: Giving you fresher, more recent search results http://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html?spref=tw&nbsp;…
+Mobile Patent Wars: A Closer Look at How Everyone Loseshttp://soc.li/WrymQqi&nbsp;
+Mike Olson, Cloudera CEO, opened his keynote by reminding everyone that &quot;big data is more than size; it is complexity&quot;http://reg.cx/1RHs&nbsp;
+TREC historical panel now on #trec2011
+High time to refresh NLP knowledge. I&#39;m taking Natural Language Processing online.   http://www.nlp-class.org/&nbsp;
+Interesting article from @TsokoQ: Exploiting carbon flatland http://go.nature.com/mhdMXi&nbsp;
+the never ending story... Open Science. Ultimately, peer review has to be there, it&#39;s all about the gate keepers.http://nyti.ms/wCqsmo&nbsp;
+e.Coli  saves the world @SciAmhttp://bit.ly/yudPGo&nbsp;
+1st:isn&#39;t it rather cheap to sell your privacy? 2nd:why didn&#39;t researchers think of this? http://arst.ch/sev&nbsp; via @arstechnica
+On how @timberners_lee had to defend the Interactive Web in Texas court - P-Troll claims ownership of interactive Web http://arst.ch/sez&nbsp;
+21:00 at Baker Island
+Wonder how useful this is  for professional search. &quot;@Intellogist: WolframAlpha app lets use images as search queries http://ow.ly/9KbP5&nbsp;&quot;
+Stack Exchange Q&amp;A site proposal: Information Retrieval and Search Engines http://bit.ly/GBnvt3&nbsp;
+@GianniAmati But note that the IRF Conference, organized by @tuvienna (IFS Group) is going ahead with a great programme
+The CPC day at the EPO in Vienna. A new classification system for the world technical data
+Really impressive animation: Vienna Airlines Motionridehttp://vimeo.com/31618506&nbsp;
+A different kind of search engine evaluation... http://lnkd.in/DmNgQN&nbsp;
+#EPO raw data day today. 8th already ... I missed the first 7.
+Quality assessment of XML search reports show acceptable results in comparison with TIFF version. Aim: no more TIFFa for text data. #EPOdata
+#EPO modernising infrastructure &amp; architecture; away from mainframes, towards Linux boxes,w SOA on Java/groovy/Grails
+#EPO commissioned study shows using EP-B docs as parallel corpus is useful for MT. #PLUTO_EU does that already
+TUWIEN CS department in the press, for better or for worse.http://derstandard.at/1332324061514&nbsp;
+Teaser blog post. &#39;till tmrw.@plutopatents &#39;Google Patent Translate: is it better?&#39; http://wp.me/p2jOz6-l&nbsp; #patent #translation @IPTranslator
+Flowchart recognition task guidelines and training data available. http://bit.ly/HZyN7Y&nbsp; Can u bring meaning to images?pic.twitter.com/dIZI9uge
+http://www.pss-system.gov.cn/&nbsp; interesting system for patent search at SIPO. good start for the #EPO East meets West conf.
+Number of patents in force in India estimated at 37k by #IPO.
+this looks interesting for the global patent system. Www2012 tutorial content_aggregationhttp://www.slideshare.net/shokouhi1/www2012-tutorial-contentaggregation&nbsp;…
+It is encouraging to see so many patent offices putting their data online. The next step is to make all this machine readable. #EMW
+Cool idea to make popular culture. http://pro.europeana.eu/web/guest/hack4europe-2012&nbsp;…
+Interesting and well organized read. Bing Versus Google: Search Engine Showdownhttp://soc.li/unSkPjV&nbsp;
+I  wonder if any effectiveness evaluation is available... &quot;@Intellogist: ... #patent analysts: linguistic genomics. http://ow.ly/aG1QJ&nbsp;&quot;
+Borderline scary stuff: SocialStock Wants To Turn Social Networking Into Real-World Rewardshttp://techcrunch.com/2012/05/22/socialstock-wants-to-turn-social-networking-into-real-world-rewards/&nbsp;…
+Tutorials schedule #sigir2012 announced. The Patent IR one http://bit.ly/KQUWs7&nbsp; looks very interesting. I may be partial #patenttutorial #in
+Again, an interesting programme this year. http://lnkd.in/9DSzN5&nbsp;
+If only I weren&#39;t so dependent on my cell, I&#39;d try this out: Android is about to get a lot faster thanks to Linarohttp://liliputing.com/2012/06/android-is-about-to-get-a-lot-faster-thanks-to-linaro.html&nbsp;…
+Just updated the agenda of the #patenttutorial http://bit.ly/KQUWs7&nbsp;. Better to talk about tasks and evaluation first, before diving in. #in
+following the iPod patent trail, to use as an example in the #patenttutorial at #sigir2012. Fascinating. http://mihailupu.net/patentTutorial&nbsp;
+Looking forward to the Dublin Web Summit European Tech Crawl Tonight http://createsend.com/t/j-4AB4F2A2C9B17BD5&nbsp;…
+Keynote talk by Martin Kay to start soon #irfc2012
+&quot;Linguists love discovering ambiguities nobody noticed before&quot; :-)  #irfc2012
+Yet ambiguity / flexibility gives the strength of languages. #irfc2012
+Always nice to hear @plutopatents referred to as pioneering work in patent MT.  #irfc2012
+@findwise, @treparel and @cambridgeIP presenting at the first industry session of #irfc2012
+my #patentTutorial is now in the morning session of the tutorials at #sigir2012. The early bird catcheth the worm :-)
+Free data is indeed definitely not free http://techre.vu/NjeiW7&nbsp; (via @TechReview)
+Big Data looks better with Big Text and Big Images.  http://www.evolven.com/blog/illuminating-big-data-infographics.html&nbsp;…
+Here are some nice images to do retrieval on... The History (And Artistic De-Evolution) of Patent Drawings |http://bit.ly/OCmcMT&nbsp;
+I&#39;m joining the movement and backing http://App.net&nbsp;. Sign up here: http://join.app.net/pnlspfjx&nbsp; #joinus
+new crowdsource use for old [academic] search problem. http://techre.vu/RKpiQm&nbsp; (via @TechReview)
+Can Creativity be Automated? http://techre.vu/NLPfLb&nbsp; (via @TechReview)
+12 Unconventional Habits of Highly Productive People http://www.marcandangel.com/2012/11/05/12-unconventional-habits-of-highly-productive-people/&nbsp;… via @marcandangel
+Nice, clean view of Enterprise Search from @findwise &quot;Designing for Enterprise Search in a Global Organization&quot;http://www.slideshare.net/findwise/enterprise-search-research-article-designing-for-enterprise-search-in-a-global-organization&nbsp;…
+OPS webservice now includes CPC classification symbols
+http://www.epo.org/service-support/updates/2012/20121219.html&nbsp;… @epoorg
+Sure, Big Data Is Great. But So Is Intuition.http://nyti.ms/YYhHRL&nbsp;
+Lunch time tweet about the dangers of cellphones on productivity... Hmmm...@HarvardBizhttp://blogs.hbr.org/cs/2013/01/smartphones_silly_users.html&nbsp;…
+Data Visualization Schoolshttp://worldofdata.org/2013/01/11/going-to-data-visualization-school/&nbsp;…
+For all colleagues using #OPS: End support for the legacy 2.6.2 OPS services - http://www.epo.org/service-support/updates/2013/20130121.html&nbsp;…
+Open data from the Austrian Gov, and a chance to win a prize http://www.digitales.oesterreich.gv.at/site/7771/default.aspx&nbsp;…
+2nd CFP for the Special Issue on IR for Intellectual Property of  Information Retrieval went out
+https://sites.google.com/site/sipatentir&nbsp;  
+1st CFP for IRF Conference 2013 just went out. Save the date: Oct 7-9 (Limassol, Cyprus) http://cyprusconferences.org/irfc2013/&nbsp; #IRFC2013
+Our latest survey on #patent #retrieval has just appeared with @now_publishers http://www.nowpublishers.com/product.aspx?product=INR&amp;doi=1500000027&nbsp;…
+@suzan thank you. Couldn&#39;t have done out without @allanhanbury
+new, larger, harder, flowchart recognition task online for CLEF-IP http://ifs.tuwien.ac.at/~clef-ip/2013/flowcharts.shtml&nbsp;…. Deadline May 1st!
+Vienna PhD School of Informatics opened for applications. http://www.informatik.tuwien.ac.at/aktuelles/720&nbsp; #TUWien
+#IRFC2013 latest #CfP just went out. Submission deadline May 31st. http://cyprusconferences.org/irfc2013/callforpapers.php&nbsp;…
+Great feeling to hear of proud news from home:
+Romanian Teenager Wins Big for Low-Cost, Self-Driving Car Innovationhttp://newsroom.intel.com/community/intel_newsroom/blog/2013/05/17/romanian-teenager-wins-big-for-low-cost-self-driving-car-innovation&nbsp;…
+9 days left to submission deadline for #IRFC2013! http://cyprusconferences.org/irfc2013/callforpapers.php&nbsp;…
+#IRFC2013 endorsed by BCS-IRSG. Paper submission deadline over, but you can still submit a tutorial or participate in the competitive demo!
+#NTCIR now stands for NII Testbed and Community for Information access and Retrieval, to emphasize the community and diversity of tasks
+Shashi Thakur from Google about to give the first keynote talk at #ntcir &quot;knowledge in search&quot;
+Want to help the IR community understand search sessions? solve a task online http://paths.sheffield.ac.uk/pyquest/surveys/3799dcc5da8311e280150019d12a8463/run&nbsp;…
+#IRFC2013 Programme now online http://cyprusconferences.org/irfc2013/programme.php&nbsp;… Looking forward to October!
+http://www.renjin.org/&nbsp; need to play a bit with R in JVM
+Countdown begins. 10 days to #IRFC 2013 http://irfc.at&nbsp;
+@JulioGonzalo1 @enriqueAmig thank you for a very interesting presentation!
+#BigData due process to keep in mind when talking abt conquering data @max_recall http://conqueringdata.com&nbsp; http://techre.vu/GNFBJy&nbsp; @TechReview
+Visit and talk about Large-scale multimedia analysis and retrieval in context at #ICT2013eu http://ec.europa.eu/digital-agenda/events/cf/ict2013/item-display.cfm?id=10411&nbsp;… this Thursday morning
+The Secret Ingredient in Computational Creativity http://techre.vu/1gDDRkS&nbsp; &gt;@TechReview versus Automated Patent search - who will win?
+New TREC-CHEM Image2Structure task mailing list http://bit.ly/fwPZDZ
+PatOlympics 2011 has now 4 confirmed participants. You can also be a Pat-Athlete! http://bit.ly/g8k6Dg
+IRF Conference Programme available http://www.irfc.at/programme
+A Search Engine for the Human Body -  recognizing organs and other structures in medical images http://www.technologyreview.com/computing/35076/?p1=A2&nbsp;…
+2011 is the International Year of Chemistry http://www.chemistry2011.org/
+yet another disorder and its cure: &quot;How to overcome Internet distraction disorder&quot;http://www.computerworld.com/s/article/9215078/Elgan_How_to_overcome_Internet_distraction_disorder&nbsp;…
+IBM to invest $100 million for big-data analysis researchhttp://www.computerworld.com/s/article/9216911/IBM_to_invest_100_million_for_big_data_analysis_research&nbsp;…
+New Web Analytics May Track Not Just Where You Click, But Where You Move Your Cursor by @audreywatters http://rww.to/jVyl6h&nbsp; via @RWW
+Just reserved my username on @kohort.  http://kohort.com/?referrerId=bd48b0&nbsp;…
+On working remotely and efficiently - a blog post: http://j.mp/jhIF9B
+SOAP is Not Dead - It&#39;s Undead, a Zombie in the Enterprise by @alexwilliams http://rww.to/kT0wjO&nbsp; via @RWW
+#PLUTO_EU very well received at the IRFS 2011
+Nokia-Apple, Abbott, 3M, News Corp.: Intellectual Property http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/06/14/bloomberg1376-LMSK651A1I4H01-55Q5EN5GSP0KAHB303IGD8SAJ5.DTL&nbsp;… via @sfgate
+IBM&#39;s new future: Quantum computinghttp://www.computerworld.com/s/article/9217669/IBM_s_new_future_Quantum_computing&nbsp;…
+U.S. House of Representatives Approves Patent Reform Billhttp://soc.li/8eKJmLl&nbsp;
+#KHRESMOI mentioned as an example of Leading-edge MT research for mulitlingual europe at #META-FORUM
+something i didn&#39;t know: SSD drives only have a lifespan of 5-10k erase-write cycles - bad for enterprise servers.http://www.computerworld.com/s/article/9218031/IBM_announces_computer_memory_breakthrough&nbsp;…
+Wolfram Makes Data Interactivehttp://soc.li/gcki3Dg&nbsp;
+health information companies consolidating. http://twb.io/pGsiCA&nbsp;
+PaIR&#39;11: invited speakers &amp; accepted papers now at http://bit.ly/qP5pr5&nbsp;. Register now to catch early-bird rates http://bit.ly/qvosKI&nbsp;
+4th Intl Workshop on Patent Information Retrieval - October 24, 2011 - Glasgow, UK. See agenda http://bit.ly/qP5pr5&nbsp;...: http://lnkd.in/aSa7my&nbsp;
+http://lnkd.in/UBixdf&nbsp; Regular registration prices for PaIR 2011 will be available only until the end of this month. Use the CIKM website...
+Regular registration to Patent Information Retrieval workshop ends soon. Avoid late registration fees by registering t…http://lnkd.in/89HJYZ&nbsp;
+really?! &quot;MC Hammer&#39;s WireDoo: Can it take on Google and Bing? http://latimesblogs.latimes.com/technology/2011/10/mc-hammer-wiredoo-deep-search-engine.html&nbsp;… &quot;
+#PaIR2011 was great thanks to the participation of the invited speakers and of people from Google, Springer and CambridgeIP, among others!
+The result of query log analysis, one would suspect: Google Blog: Giving you fresher, more recent search results http://googleblog.blogspot.com/2011/11/giving-you-fresher-more-recent-search.html?spref=tw&nbsp;…
+Mobile Patent Wars: A Closer Look at How Everyone Loseshttp://soc.li/WrymQqi&nbsp;
+Mike Olson, Cloudera CEO, opened his keynote by reminding everyone that &quot;big data is more than size; it is complexity&quot;http://reg.cx/1RHs&nbsp;
+TREC historical panel now on #trec2011
+High time to refresh NLP knowledge. I&#39;m taking Natural Language Processing online.   http://www.nlp-class.org/&nbsp;
+Interesting article from @TsokoQ: Exploiting carbon flatland http://go.nature.com/mhdMXi&nbsp;
+the never ending story... Open Science. Ultimately, peer review has to be there, it&#39;s all about the gate keepers.http://nyti.ms/wCqsmo&nbsp;
+e.Coli  saves the world @SciAmhttp://bit.ly/yudPGo&nbsp;
+1st:isn&#39;t it rather cheap to sell your privacy? 2nd:why didn&#39;t researchers think of this? http://arst.ch/sev&nbsp; via @arstechnica
+On how @timberners_lee had to defend the Interactive Web in Texas court - P-Troll claims ownership of interactive Web http://arst.ch/sez&nbsp;
+21:00 at Baker Island
+Wonder how useful this is  for professional search. &quot;@Intellogist: WolframAlpha app lets use images as search queries http://ow.ly/9KbP5&nbsp;&quot;
+Stack Exchange Q&amp;A site proposal: Information Retrieval and Search Engines http://bit.ly/GBnvt3&nbsp;
+@GianniAmati But note that the IRF Conference, organized by @tuvienna (IFS Group) is going ahead with a great programme
+The CPC day at the EPO in Vienna. A new classification system for the world technical data
+Really impressive animation: Vienna Airlines Motionridehttp://vimeo.com/31618506&nbsp;
+A different kind of search engine evaluation... http://lnkd.in/DmNgQN&nbsp;
+#EPO raw data day today. 8th already ... I missed the first 7.
+Quality assessment of XML search reports show acceptable results in comparison with TIFF version. Aim: no more TIFFa for text data. #EPOdata
+#EPO modernising infrastructure &amp; architecture; away from mainframes, towards Linux boxes,w SOA on Java/groovy/Grails
+#EPO commissioned study shows using EP-B docs as parallel corpus is useful for MT. #PLUTO_EU does that already
+TUWIEN CS department in the press, for better or for worse.http://derstandard.at/1332324061514&nbsp;
+Teaser blog post. &#39;till tmrw.@plutopatents &#39;Google Patent Translate: is it better?&#39; http://wp.me/p2jOz6-l&nbsp; #patent #translation @IPTranslator
+Flowchart recognition task guidelines and training data available. http://bit.ly/HZyN7Y&nbsp; Can u bring meaning to images?pic.twitter.com/dIZI9uge
+http://www.pss-system.gov.cn/&nbsp; interesting system for patent search at SIPO. good start for the #EPO East meets West conf.
+Number of patents in force in India estimated at 37k by #IPO.
+this looks interesting for the global patent system. Www2012 tutorial content_aggregationhttp://www.slideshare.net/shokouhi1/www2012-tutorial-contentaggregation&nbsp;…
+It is encouraging to see so many patent offices putting their data online. The next step is to make all this machine readable. #EMW
+Cool idea to make popular culture. http://pro.europeana.eu/web/guest/hack4europe-2012&nbsp;…
+Interesting and well organized read. Bing Versus Google: Search Engine Showdownhttp://soc.li/unSkPjV&nbsp;
+I  wonder if any effectiveness evaluation is available... &quot;@Intellogist: ... #patent analysts: linguistic genomics. http://ow.ly/aG1QJ&nbsp;&quot;
+Borderline scary stuff: SocialStock Wants To Turn Social Networking Into Real-World Rewardshttp://techcrunch.com/2012/05/22/socialstock-wants-to-turn-social-networking-into-real-world-rewards/&nbsp;…
+Tutorials schedule #sigir2012 announced. The Patent IR one http://bit.ly/KQUWs7&nbsp; looks very interesting. I may be partial #patenttutorial #in
+Again, an interesting programme this year. http://lnkd.in/9DSzN5&nbsp;
+If only I weren&#39;t so dependent on my cell, I&#39;d try this out: Android is about to get a lot faster thanks to Linarohttp://liliputing.com/2012/06/android-is-about-to-get-a-lot-faster-thanks-to-linaro.html&nbsp;…
+Just updated the agenda of the #patenttutorial http://bit.ly/KQUWs7&nbsp;. Better to talk about tasks and evaluation first, before diving in. #in
+following the iPod patent trail, to use as an example in the #patenttutorial at #sigir2012. Fascinating. http://mihailupu.net/patentTutorial&nbsp;
+Looking forward to the Dublin Web Summit European Tech Crawl Tonight http://createsend.com/t/j-4AB4F2A2C9B17BD5&nbsp;…
+Keynote talk by Martin Kay to start soon #irfc2012
+&quot;Linguists love discovering ambiguities nobody noticed before&quot; :-)  #irfc2012
+Yet ambiguity / flexibility gives the strength of languages. #irfc2012
+Always nice to hear @plutopatents referred to as pioneering work in patent MT.  #irfc2012
+@findwise, @treparel and @cambridgeIP presenting at the first industry session of #irfc2012
+my #patentTutorial is now in the morning session of the tutorials at #sigir2012. The early bird catcheth the worm :-)
+Free data is indeed definitely not free http://techre.vu/NjeiW7&nbsp; (via @TechReview)
+Big Data looks better with Big Text and Big Images.  http://www.evolven.com/blog/illuminating-big-data-infographics.html&nbsp;…
+Here are some nice images to do retrieval on... The History (And Artistic De-Evolution) of Patent Drawings |http://bit.ly/OCmcMT&nbsp;
+I&#39;m joining the movement and backing http://App.net&nbsp;. Sign up here: http://join.app.net/pnlspfjx&nbsp; #joinus
+new crowdsource use for old [academic] search problem. http://techre.vu/RKpiQm&nbsp; (via @TechReview)
+Can Creativity be Automated? http://techre.vu/NLPfLb&nbsp; (via @TechReview)
+12 Unconventional Habits of Highly Productive People http://www.marcandangel.com/2012/11/05/12-unconventional-habits-of-highly-productive-people/&nbsp;… via @marcandangel
+Nice, clean view of Enterprise Search from @findwise &quot;Designing for Enterprise Search in a Global Organization&quot;http://www.slideshare.net/findwise/enterprise-search-research-article-designing-for-enterprise-search-in-a-global-organization&nbsp;…
+OPS webservice now includes CPC classification symbols
+http://www.epo.org/service-support/updates/2012/20121219.html&nbsp;… @epoorg
+Sure, Big Data Is Great. But So Is Intuition.http://nyti.ms/YYhHRL&nbsp;
+Lunch time tweet about the dangers of cellphones on productivity... Hmmm...@HarvardBizhttp://blogs.hbr.org/cs/2013/01/smartphones_silly_users.html&nbsp;…
+Data Visualization Schoolshttp://worldofdata.org/2013/01/11/going-to-data-visualization-school/&nbsp;…
+For all colleagues using #OPS: End support for the legacy 2.6.2 OPS services - http://www.epo.org/service-support/updates/2013/20130121.html&nbsp;…
+Open data from the Austrian Gov, and a chance to win a prize http://www.digitales.oesterreich.gv.at/site/7771/default.aspx&nbsp;…
+2nd CFP for the Special Issue on IR for Intellectual Property of  Information Retrieval went out
+https://sites.google.com/site/sipatentir&nbsp;  
+1st CFP for IRF Conference 2013 just went out. Save the date: Oct 7-9 (Limassol, Cyprus) http://cyprusconferences.org/irfc2013/&nbsp; #IRFC2013
+Our latest survey on #patent #retrieval has just appeared with @now_publishers http://www.nowpublishers.com/product.aspx?product=INR&amp;doi=1500000027&nbsp;…
+@suzan thank you. Couldn&#39;t have done out without @allanhanbury
+new, larger, harder, flowchart recognition task online for CLEF-IP http://ifs.tuwien.ac.at/~clef-ip/2013/flowcharts.shtml&nbsp;…. Deadline May 1st!
+Vienna PhD School of Informatics opened for applications. http://www.informatik.tuwien.ac.at/aktuelles/720&nbsp; #TUWien
+#IRFC2013 latest #CfP just went out. Submission deadline May 31st. http://cyprusconferences.org/irfc2013/callforpapers.php&nbsp;…
+Great feeling to hear of proud news from home:
+Romanian Teenager Wins Big for Low-Cost, Self-Driving Car Innovationhttp://newsroom.intel.com/community/intel_newsroom/blog/2013/05/17/romanian-teenager-wins-big-for-low-cost-self-driving-car-innovation&nbsp;…
+9 days left to submission deadline for #IRFC2013! http://cyprusconferences.org/irfc2013/callforpapers.php&nbsp;…
+#IRFC2013 endorsed by BCS-IRSG. Paper submission deadline over, but you can still submit a tutorial or participate in the competitive demo!
+#NTCIR now stands for NII Testbed and Community for Information access and Retrieval, to emphasize the community and diversity of tasks
+Shashi Thakur from Google about to give the first keynote talk at #ntcir &quot;knowledge in search&quot;
+Want to help the IR community understand search sessions? solve a task online http://paths.sheffield.ac.uk/pyquest/surveys/3799dcc5da8311e280150019d12a8463/run&nbsp;…
+#IRFC2013 Programme now online http://cyprusconferences.org/irfc2013/programme.php&nbsp;… Looking forward to October!
+http://www.renjin.org/&nbsp; need to play a bit with R in JVM
+Countdown begins. 10 days to #IRFC 2013 http://irfc.at&nbsp;
+@JulioGonzalo1 @enriqueAmig thank you for a very interesting presentation!
+#BigData due process to keep in mind when talking abt conquering data @max_recall http://conqueringdata.com&nbsp; http://techre.vu/GNFBJy&nbsp; @TechReview
+Visit and talk about Large-scale multimedia analysis and retrieval in context at #ICT2013eu http://ec.europa.eu/digital-agenda/events/cf/ict2013/item-display.cfm?id=10411&nbsp;… this Thursday morning
+The Secret Ingredient in Computational Creativity http://techre.vu/1gDDRkS&nbsp; &gt;@TechReview versus Automated Patent search - who will win?
+New TREC-CHEM Image2Structure task mailing list http://bit.ly/fwPZDZ
+PatOlympics 2011 has now 4 confirmed participants. You can also be a Pat-Athlete! http://bit.ly/g8k6Dg
+IRF Conference Programme available http://www.irfc.at/programme
+A Search Engine for the Human Body -  recognizing organs and other structures in medical images http://www.technologyreview.com/computing/35076/?p1=A2&nbsp;…
+2011 is the International Year of Chemistry http://www.chemistry2011.org/
+yet another disorder and its cure: &quot;How to overcome Internet distraction disorder&quot;http://www.computerworld.com/s/article/9215078/Elgan_How_to_overcome_Internet_distraction_disorder&nbsp;…
+IBM to invest $100 million for big-data analysis researchhttp://www.computerworld.com/s/article/9216911/IBM_to_invest_100_million_for_big_data_analysis_research&nbsp;…
+New Web Analytics May Track Not Just Where You Click, But Where You Move Your Cursor by @audreywatters http://rww.to/jVyl6h&nbsp; via @RWW
+Just reserved my username on @kohort.  http://kohort.com/?referrerId=bd48b0&nbsp;…
+On working remotely and efficiently - a blog post: http://j.mp/jhIF9B
+SOAP is Not Dead - It&#39;s Undead, a Zombie in the Enterprise by @alexwilliams http://rww.to/kT0wjO&nbsp; via @RWW
+#PLUTO_EU very well received at the IRFS 2011
+Nokia-Apple, Abbott, 3M, News Corp.: Intellectual Property http://www.sfgate.com/cgi-bin/article.cgi?f=/g/a/2011/06/14/bloomberg1376-LMSK651A1I4H01-55Q5EN5GSP0KAHB303IGD8SAJ5.DTL&nbsp;… via @sfgate
+IBM&#39;s new future: Quantum computinghttp://www.computerworld.com/s/article/9217669/IBM_s_new_future_Quantum_computing&nbsp;…
+U.S. House of Representatives Approves Patent Reform Billhttp://soc.li/8eKJmLl&nbsp;
+#KHRESMOI mentioned as an example of Leading-edge MT research for mulitlingual europe at #META-FORUM
+something i didn&#39;t know: SSD drives only have a lifespan of 5-10k erase-write cycles - bad for enterprise servers.http://www.computerworld.com/s/article/9218031/IBM_announces_computer_memory_breakthrough&nbsp;…
+Wolfram Makes Data Interactivehttp://soc.li/gcki3Dg&nbsp;
+health information companies consolidating. http://twb.io/pGsiCA&nbsp;

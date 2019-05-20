@@ -1,0 +1,1005 @@
+@phylogenomics I&#39;m mobile today, but heard you&#39;re having issues w docs vanishing. Cld you email me a verbose log file? &#39;Help&gt;FAQ&#39; 1/2
+@phylogenomics may have system-specific issue, so if log doesn&#39;t help let&#39;s set up a call later Monday w engineer here in London 2/2
+I like! RT @PLoS: Tim O&#39;Reilly comments on the PLoS/Mendeley API Binary Battle &quot;[make] science go faster&quot;http://tinyurl.com/TimO-ReillyBinaryBattle&nbsp;…
+Science app ideas from the crowd http://bit.ly/nRJ2rW&nbsp; (join the PLoS/Mendeley API Binary Battle)
+@giocalitri See here for brand elements http://dev.mendeley.com/docs/display-guidelines&nbsp;… cc @MEndeleySupport
+Hehe, &quot;...dinos lived at least 500yrs ago&quot; New blog via @phylogenomics on num of species article http://bit.ly/oa49AU&nbsp;
+@giocalitri OK just to use the logo &amp; remove the text. See for example PLoS use (note old logo being used tho)http://bit.ly/oeC2uA&nbsp;
+What do people think of the feed tab on Spotify? Useful? Interesting? Items relevant to you?
+Interesting. &quot;Academic publishers make Murdoch look like a socialist&quot; in the Gaurdian http://bit.ly/om8d58&nbsp;
+I had more typos in my last tweet than my entire thesis. :/
+Scholarly Kitchen at it again with their BS comebacks. This time against Guardian&#39;s Monbiothttp://bit.ly/pGJQJf&nbsp;
+.@drs1969 Safe to say the writers of both stories have an agenda. I&#39;ll leave it at that. No need to comment on blog
+@philipmcdermott More the merrier! ;) I think the commenters have highlighted that quite well.
+Was Monbiot&#39;s blog rhetoric or more? See this analysis on library STM costs http://bit.ly/k4Ljwo&nbsp; Slides 5-8,12
+How old is that in &quot;blog years?&quot; Congrats! RT @PLoS: Happy first birthday to PLoS Blogs -http://bit.ly/PLoSBlogsOneToday&nbsp;…
+Amazeballs. Yesterday Mendeley users added half a million articles. Took us five months to get our first 500K. Total now 109M
+Rumor is true. Hackday at Mendeley HQ in London on Sun. Speak w/ @mfenner @ianmulvany @jasonhoyt for more info #solo11
+API stat. In 2 wks Mendeley will pass 1000 developers using the API launched 14 months ago. #solo11
+.@IanMulvany Was the applause that publishers are killing off PDF in favor of HTML5? #solo11
+Just open sourced the Twendeley app at the Mendeley/Science Online hackday #solo11https://github.com/jjhoyt/Twendeley&nbsp;…
+.@pixievondust You can try out Twendeley at http://bit.ly/ad5nKQ&nbsp; or get the source code athttps://github.com/jjhoyt/Twendeley&nbsp;…
+Second app of the day now on Chrome extension store &quot;Mendeley Context Search&quot; http://bit.ly/nVJz1h&nbsp; #solohack11
+@subcide Carles is doing some CSL stuff. Rob is ???? Others doing article level metrics apps
+@egonwillighagen Query depends on domain. Sometimes page title, but checks for query param on some search engines before using page title
+Updated Mendeley Context Chrome extension. Now shows Mendeley readership for PubMed articles  http://yfrog.com/ny8b3p&nbsp;
+Cool! @mfenner tackles article-level metrics by extending the open sourced @PLoS API serverhttp://bit.ly/pU3gpw&nbsp;
+Off to Whitstable, England for final weekend  holiday outside London before the baby!
+That&#39;s awesome for newsfeed updates! RT @IanMulvany: unofficial chrome extension for Mendeley is nice: https://chrome.google.com/webstore/detail/dmjdlnefabajccabhbemdnodgelechkd&nbsp;…
++shagtastic judges panel RT @mendeleyAPI: Just 15 days left to enter the $16K Mendeley PLoS API contest http://bit.ly/e9EiYE&nbsp;
+Looks Presidential RT @mendeleyAPI: Liking the blue feel of this third party Mendeley app for Android &quot;Scholarley&quot; http://bit.ly/pxFJFH&nbsp;
+Excellent. iPhone crashed, had to do restore, nothing backed up (txts, phone nums, photos) since Nov 2010 apparently.  Boo-yah. Life restart
+Huge $$$ prizes RT @mendeleyAPI: Last call to enter the PLoS &amp; Mendeley apps for researchers contest! Bloghttp://bit.ly/pxhYwl&nbsp;
+Any ideas why most academic publishers don&#39;t use unique names for downloaded PDFs? e.g. SDarticle.pdf instead of insertDOI.pdf
+Reading Scholarly Kitchen is like running into that stodgy old professor in the hall who refuses to accept a new dogma posed in his field
+Guide to using Mendeley on Android - bloghttp://www.mendeley.com/blog/tipstricks/android-on-mendeley-an-app-guide/&nbsp;…
+Groupon seemingly in trouble again with exec depart. &amp; revenue revise. Also, see this prediction from last year http://bit.ly/rb3DMQ&nbsp;
+Mayor Boris tells us to report bad roadworks. I like the bad example photo http://bit.ly/p5hwrX&nbsp;
+Ha! &quot;How about zero?&quot; Scientist meets publisher to negotiate a paper deal #OAhttp://youtu.be/GMIY_4t-DR0&nbsp;
+Open Access journals to account for 90% of articles by 2020 one analyst estimates http://bit.ly/mPvydD&nbsp;
+Entrepreneurs near Seattle! Join Startup weekend EDU edition &amp; pitch/build the next startup Sep 30th http://bit.ly/q2eLxO&nbsp;
+@phpeach irony is that you tweeted that statement
+Fab! RT @Droideley: Droideley (#Mendeley #Android client) installed on 1000+ devices! Cool :)
+@gedankenstuecke Can you give me more info wrt your app? Email best. 1M is a lot, so unlikely w/o good reason. cc  @mendeley_com
+In the past 7 yrs Apple stock has grown 5000%. Holy $(#@
+Cool for scifi/dystopia/fantasy book fans. Flowchart guide to NPRs top 100 scfi books http://bit.ly/rbQ3ch&nbsp;
+Great article on why scientists need to be more vocal in public &amp; publish in open. Ans: Cuz the public is hurtinghttp://bit.ly/p4W2As&nbsp;
+@PeerEvaluation thx!
+Princeton bans academics from handing over copyright to publishers. Promoting OpenAccess http://bit.ly/pdbhC9&nbsp; #OA
+The Princeton banning of handing over copyright has sent a shiver down my spine &amp; a shock wave across academic publishing.
+New group to collect Uni policies on #copyright &amp; #OA for other Unis to model after Princeton precedent http://bit.ly/p7naDh&nbsp;
+@sshreeves Fantastic! Yes, realize it wasn&#39;t first precedent, but it&#39;s certainly making waves
+@David_Dobbs See http://www.cs.princeton.edu/~appel/open-access-report.pdf&nbsp;…  for details
+@David_Dobbs No tapping atm. A JISC funded grant that we wrote is enabling this though http://bit.ly/cKvJ7z&nbsp; (sadly out of date blog!)
+@communicating good shivers indeed.
+Willing to pay $5/mo 4 streaming music, but not 4 something that improves your research (career)? #whatsWrongWithWorldToday
+@delaiglesia it&#39;s investing in your career
+@delaiglesia hah. interesting
+.@egonwillighagen I was speaking in general terms abt investing in your career. Not abt Mendeley or similar tools cc @dominikb1888
+Last day to enter the Mendeley/@PLoS Binary Battle apps contest! Winners announced Nov 30th http://bit.ly/hETJ55&nbsp;
+Congrats to @plos on their refreshed website &amp; mission statement! http://www.plos.org/&nbsp;
+I think that&#39;s a 1st RT @Pewology: Whenever I end up on Mendeley.com, I keep expecting it to be a UNATCO website.
+Founded http://Ologeez.org 2006. Last commit end &#39;08. Joined competitor Mendeley 3mo later. Shutting down Ologeez Oct 7 2011
+Hello World. No baby as of yet. Amazingly, I will actually tell you when he does arrive. It&#39;s not a secret. So, please stop asking. XO!
+Apple could have saved $13B in lost market cap today by calling the iPhone 5 instead of 4S. Oops.
+@Stew @mrgunn @enroweb Yes, a blog is planned. Stay tuned!
+Attn academics and students! RT @mrgunn: In London? Want to help Mendeley out? Join us for user testing next week:http://bit.ly/r0A3KG&nbsp;
+New arrival! My son baby Elliot was born this morning in true Binary Battle style on 11-10-11! http://yfrog.com/o05j8wrj&nbsp;
+Baby Elliot&#39;s first shot and breath of life  http://yfrog.com/h7ajrsquj&nbsp;
+@David_Dobbs as in, his mom tells me he&#39;s mine anyway ;)
+@cpf118 @Mendeley_com @mrgunn @subcide Thx! Now it&#39;s time to run sleep(8hrs) after the 36hrs labor
+Yesterday&#39;s @NewYorker cartoon &quot;Turns out everyone here is self-published.&quot; The future of academic publishing? #OpenAccess Wk
+The modern family  http://yfrog.com/h374ymxj&nbsp;
+@subcide his mum wasn&#39;t happy abt his twitter handle :) received DMCA takedown
+Cool use of the Mendeley &amp; @PLoS APIs in the openSNP project http://opensnp.org/snps/26324#mendeley&nbsp;… #personalGenomics
+As a techie, I&#39;m embarrassed to admit this: I just now replaced my iPhone 3G after 2.5 yrs. iPhone 4S baby.
+Top 40 Apps to benefit science in the Mendeley-@PLoS Binary Battle . Day Onehttp://bit.ly/rUdgGc&nbsp;
+Day 2 of the Top 40 Apps to benefit science in the Mendeley-@PLoS Binary Battlehttp://bit.ly/s0JYgL&nbsp;
+Wow! RT @axfelix: @mendeley_com @plos I&#39;m blown away by results of the binary battle. This is more &amp; better work than has been done in yrs
+MT @axfelix: OMG it&#39;s a citation visualization that&#39;s actually useful for browsing. OMG. I&#39;m going to go make coffee. http://vyzkumap.net/&nbsp;
+Day 3 of Top Apps to benefit science in the Mendeley-@PLoS Binary Battle is now out!http://bit.ly/tswT7q&nbsp;
+Day 4 of Apps to benefit science in the Mendeley-PLoS Binary Battle. +full-list recaphttp://bit.ly/vtcZFO&nbsp;
+If we can sequence a human genome for $100, why can&#39;t we openly publish for $100? http://openrepub.org/&nbsp; via @OpenRePub
+Ausgezeichnet! RT @delaiglesia: New blog post (German): Mendeley/PLoS API Binary Battle http://bit.ly/uPGI3P&nbsp;
+The boy weighed in at 10lbs 12oz in his latest checkup. Three pounds in just 4 weeks since he was born! Mama has some good milk
+Happy Birthday, Carl Sagan. I&#39;m still inspired.
+Siri. Please tweet ... Oh wait. Silly me for thinking an integrated Twitter with iOS 5 would work w/ you. Siri - &quot;STFU, Jason.&quot;
+Why in the H-E-double hockey sticks am I not at #Berlin9 ? I want to marry you.
+#Berlin9 why wld I publish in a journal that didn&#39;t have the sense to secure the .com/org domain names b4 announcing itself? eLife?
+The top 20 things. Ever. http://bit.ly/3n6rFh&nbsp;
+.@PLoS &amp; @Mendeley_com will be announcing the Binary Battle Top 10 apps to impact science in about one hour.
+Announcing the Top 10+1 Apps in the Mendeley-PLoS Binary Battlehttp://bit.ly/s7uE8k&nbsp;
+.@openSNPorg congrats! Great app and concept :)
+Also check out the complete Binary Battle rundown w/ judges + the Top 10+1 apps on the dev portal http://bit.ly/twkfLB&nbsp;
+Sh%t! Swearing more in life reduces pain tolerance when you stub your toe &amp; shout f%&amp;. Research says http://1.usa.gov/tPPWF6&nbsp;
+More amazing apps almost in the Binary Battle Top 10 http://www.qrate.me&nbsp; http://vocabulari.se&nbsp; http://moodley.fidesol.org&nbsp;
+Congrats to the 50 millionth DOI assignee from CrossRef! Oddly enough, it&#39;s a scanned paper from 1985 http://bit.ly/vR6vQl&nbsp;
+Public voting now open to decide who should win the Mendeley-PLoS Binary Battle! http://bit.ly/u1WjHL&nbsp;
+Hope they fire that &quot;officer&quot; RT @markasaurus: Everything I thought would never happen in this country http://bit.ly/sJ12gu&nbsp;
+.@markasaurus perhaps we need national policies on how to properly handle these situations w/o law enforcement. Our leaders have failed
+liked:  &quot;(for those of you who missed it) PLoS One is launching a brand new altmetrics collection. Details and CFP...&quot; http://mnd.ly/u39pbP&nbsp;
+Heat-map of the Mendeley-PLoS Binary Battle voting across the world thus far http://yfrog.com/o02qep&nbsp;
+@jamesjgill that heat-map is produced by surveygizmo
+The world needs both the &quot;Microsofts&quot; &amp; &quot;Apples.&quot; Tradeoff is backwards compatibility vs. innovation; diff need/diff times
+@hoteit nice points!
+Fair to say that Dropbox is just a fancy GUI for git repos?
+Ironically, story behind pay wall RT @michael_nielsen: Paul Allen on the case for open science:http://on.wsj.com/vFPWx4&nbsp;
+45 minutes until we announce the Mendeley-PLoS Binary Battle Apps for Science winners.  5PM GMT / 9AM PST
+#oa openSNP wins PLoS/Mendeley Binary Battle http://bit.ly/vwmCZV&nbsp; on PLoS BLog, and Mendeley bloghttp://bit.ly/siSrCj&nbsp;
+@gedankenstuecke ha yes, forgot to ask/warn you about your server robustness for after the announcement :)
+Devs of @totalimpactdev said of Binary Battle &quot;You&#39;ve inspired innovation that wasn&#39;t otherwise happening&quot; Thx! let&#39;s keep inspiring!
+Check out the interview with the Binary Battle Apps for Science winner, @openSNPorghttp://bit.ly/unhn1w&nbsp;
+Help the Mendeley-PLoS Binary Battle winner, @openSNPorg, win a grant to genotype people for freehttp://bit.ly/trV9gU&nbsp;
+ZOMG. I&#39;m babysitting Elliot tonight, by myself. Father/son party!
+And spit up all over his outfit within 10 minutes of mama leaving. Party&#39;s started!
+I want a pair of these. Sergey Brin was 2500 years behind.pic.twitter.com/TR6vnxX2
+Happy belated fifth birthday, @PLoSone ! http://bit.ly/rUjqMV&nbsp; cc @PLoS
+Sad news all, I left Mendeley. What a great 3yrs! Good news, started project to disrupt another industry.
+Postdoc truckhttp://upmic.wordpress.com/2012/01/03/postdoc-truck/&nbsp;…
+@p_estienne TY! Still within the science industry. Will let out more info soon!
+@chris_koerner Still in London for the moment
+At Somerset Housepic.twitter.com/jDG1RLwb
+.@subcide Haven&#39;t seen Sherlock. Better question though, are his thoughts in anachronistic font?
+Elsevier execs spanked  &#39;...whose sole purpose it is to lobby governments into preventing Open Access&#39; http://bjoern.brembs.net/comment-n819.html&nbsp;…
+@cparnot will let you know!
+w/ RWA &amp; SOPA, Elsevier+paywall publishers are only delaying their inevitable crash. Shareholders will be jumping ship soon
+Now that I&#39;ve left Mendeley I can freely state that AAP+Elsevier are the biggest threats to science existing today
+@pascal_biotech This is why (amongst other reasons)http://nyti.ms/y5hQFD&nbsp;
+@EndoMetabPub as a whole, yes. Chopped liver. We can do better.
+@EndoMetabPub Sure! Come work with me instead!
+@jasonpriem but their shareholders are happy :D
+Good article and written on my 35th b-day! RT @BoraZ: Does the journal really matter anymore?  http://bit.ly/z3DJDx&nbsp;
+I always ask myself, &quot;Have I failed enough to succeed yet?&quot; 10 things entrepreneurs [SHOULD] fail athttp://tcrn.ch/z9XJhu&nbsp;
+@axfelix @jasonpriem @researchremix Thx!
+@communicating Thanks! Tho the b-day was abt 2 weeks ago :)
+.@CameronNeylon Did someone say &#39;beer?&#39; cc @mfenner @wjjessen
+Elsevier+Execs made 14 &#39;donations&#39; to main #RWA Congress backers, Issa &amp; Maloney, in 2011 http://bit.ly/xcsgq9&nbsp;
+Time to vote them out. List of US Congress members taking contributions from Elsevier http://bit.ly/xNBZEC&nbsp;
+.@subcide Even if the contributions totaled just $1, it still shows legislation can be bought by outsiders.
+Great! RT @gfry: @jasonHoyt Jason, have you seen &quot;Open Knowledge Saves Lives. #OpposeHR3699 ! http://bit.ly/wJ6oVF&nbsp; #RWA
+You don&#39;t get to destroy science just because it doesn&#39;t fit your biz model #RWA
+And coding resumes.  return $awesome;
+How Microsoft would redesign the BOX of Apple product.http://www.youtube.com/watch?feature=player_embedded&amp;v=EUXnJraKM3k&nbsp;…
+Do startups need &#39;Wartime CEOs?&#39; - &quot;Wartime CEO violates protocol in order to win.&quot; http://bit.ly/eqMuIl&nbsp;
+@subcide sounds like a lifestyle startup biz then
+@invisiblecomma new planet = ??
+.@TeamSantorumTX Oops! Wrong jasonHoyt. This one is a liberal, gay rights supporting, blue state scientist. Good luck.
+Annoying @VirginAtlantic &quot;pre-flight courtesy&quot; call is actually a sales call, costing me mobile minutes + time.
+Wow. @37signals sounds like they&#39;d be fans of SOPA. Drop the hate of @curebit already. You both look foolish.
+Adding some fuel RT @wilbanks: After years of activism, first true body blow to Elsevier comes from passive resistance http://bit.ly/zYS18t&nbsp;
+@drs1969 lovefilm streaming is terrible quality. So fed up I switched to Netflix as soon as it landed in UK, much higher quality.
+@drs1969 A big overlap in selection, with more US tv/films than lovefilm. Wld say absolute numbers abt equal for now
+@drs1969 Wld add that Netflix killer app is actually the UX and rec engine. Kills all others.
+Ten Things You&#39;re Not Allowed to Say at Davos http://blogs.hbr.org/haque/2011/01/ten_things_youre_not_allowed_t.html&nbsp;…
+.@simonbayly @stephen_curry didn&#39;t analysts also say that pets.com was a good buy in 2000? :) re: Elsevier stock
+Elsevier is &quot;committed to the broadest possible dissemination of published research.&quot; Until it hurts profit$ http://bit.ly/yZvsUl&nbsp;
+Out now. I co-authored a chapter on usage metrics in science (avail from MIT Press)  http://yfrog.com/obezlmyj&nbsp; #mendeley
+More double speak from publishers to law makers abt OA as threat to viability of research. This time in UK parliament: http://bit.ly/ACkxej&nbsp;
+Speaking today in San Francisco at Molecular Med Tri-Con. I talk data! Yum http://bit.ly/A7aRVL&nbsp;
+Congrats! RT @BioMedCentral: 2012 Benjamin Franklin Award Finalists Named http://ow.ly/9kARH&nbsp; #science #openaccess
+Shouldn&#39;t have to be Indiana Jones to find a research paperhttp://m.theatlantic.com/technology/archive/2012/02/google-trained-minds-cant-deal-with-terrible-research-database-ui/253641/&nbsp;…
+@_krisjack wrt group search futility: suggests indexing should also include the group papers, not just the group name &amp; desc
+@finiteattention If you don&#39;t already know what youre looking for, of course!
+1 of my former PhD thesis advisors just shared a link to his latest genomics paper, which is behind a paywall. I felt like chastising him
+And it will *only* cost me $20 to &quot;rent&quot; his paper for the day from Genome Research. Fabulous!
+Work/Family balance lesson #32-When present, BE present. Partner gently reminded me this morn while I was working on the laptop, in bed
+The always interesting @petermurrayrust &amp; his synopsis on the scholarly pub debate held w Elsevier &amp; others http://bit.ly/AbrVAS&nbsp;
+.@invisiblecomma @petermurrayrust you can&#39;t copyright a fact, which is why the US takes a friendly legal stance on text mining, UK following
+Fail already. SearchMe tried this RT @TheNextWeb: Oolone: A visual search engine designed by a London neuroscientisthttp://tnw.to/1DWzS&nbsp;
+My academic goth friends will like this; Journal of Dracula Studies. For real. http://www.blooferland.com/drc/index.php?title=Journal_of_Dracula_Studies&nbsp;…
+Amused that my GMail auto-detects mail from Google corporate as spam.
+Great! RT @creativecommons: Announcing the Why Open Education Matters Video Competition! w/prizes up to $25,000: http://bit.ly/wE20uP&nbsp; #OER
+Good market intel RT @wilbanks: Challenges in big data. By some of the shiniest brains in big data. http://bit.ly/xn2D3w&nbsp;”
+.@kristiholmes @researchremix check Canada law, but in US text mining is generally allowable, regardless of what someone&#39;s TOU might state
+In the latest OA newsletter, @PeterSuber argues that non-#OA publishers knowingly distort the facts http://bit.ly/yIo0on&nbsp;
+The 1953 double helix paper was never peer-reviewed at Nature.  Is there a new pub model in that fact? http://bit.ly/y1vQUn&nbsp;
+Important RT @thePeerJ: 12 points to fight the misinformation campaign led by non-OA publishers against #OA &amp; #FRPAA http://bit.ly/xsuKrm&nbsp;
+@cdanielcadena @David_Dobbs irony noted.
+Visions of Terminator. This scares me. DARPA has developed the world&#39;s fastest robot cheetah: http://glpo.st/zYMMbj&nbsp;
+It&#39;s concerning when academic publishers claim to advance science, but then oppose bills in congress that wld do such #FRPAA
+The American Association of Publishers now promoting xenophobia argues @mbeisen http://bit.ly/Ajz1ev&nbsp; #FRPAA
+High availability name nodes now for Hadoop! This means more realtime big data apps http://bit.ly/yODmWH&nbsp; ht @aglet
+@subcide Should be able to use absolute &amp; relative positioning to achieve multi background in two classes - same div, nes pas?
+Why will paywall publisher boycotts work now vs. 10 yrs ago? Social media. Power has shifted.  http://thecostofknowledge.com/&nbsp;
+@phpeach @jesperht who is the nominee? You or Jesper? ;)
+Also good for inventing PCR RT @TelegraphSci: LSD could treat alcoholism because &#39;trips&#39; make you reassess addiction http://bit.ly/A5cUR4&nbsp;
+#SXSW. Showcasing every thing that you won&#39;t remember next year.
+LOL at &quot;back when social media gurus were simply called &#39;tools&#39;.&quot; by @kn0thing http://alexisohanian.com/an-open-letter-to-kevin-rose&nbsp;…
+Big FU to users to not be straight up that they will eventually shutdown. Why the marketing-speak at this point? Postereous sells to Twitter
+@IanMulvany I had my first pork pie this wkend, in Wales. Ate cold. Ummm, not the best.
+AOL products headed by the CFO? Profit-led innovation == deathhttp://nyti.ms/Aww4OD&nbsp;
+.@subcide No clue why any tech/product person wld go to work for AOL.
+Goldman Sachs director quits due 2 poor company values. Do the big 4 scholarly pub execs feel the same?http://nyti.ms/Az2sVf&nbsp;
+Shocked! MT @invisiblecomma: FWIW, I asked Elsevier for access to extract &amp; publish an index of articles/gene names, they said no.
+I remember when Google founders&#39; goal was &#39;get users to destination&#39; as fast as possible. Their goal is now reversed. Cld be their undoing
+&quot;Talent Code&quot; seems like a great book. Too bad Elsevier publishes it. Boycott hold fast!http://www.amazon.com/gp/aw/d/055380684X&nbsp;…
+How can we make science journalism high-throughput, as every scholarly publication deserves translation for the masses?
+.@mccormicktim Nice! Need to build the right incentives to enable a crowd sourced &quot;wikipedia for science&quot; #sciencejournalism
+.@subcide @mccormicktim See earlier tweet for context  http://bit.ly/w9Q0tU&nbsp;
+OK Google Minus (Plus), time to let people merge their Google Apps profile with their personal profiles. Huge use case
+Once more 4 the late birds. How can we make science journalism high-throughput? Every scholarly publication needs translation for the masses
+#Git. I can&#39;t live with you. I can&#39;t live without you.
+.@prokopp What? And give up CLI goodness?! I currently use GitX when I feel a need to succumb to the gui &amp; admit defeat #Git
+@subcide Ah yes. Forgot abt bizarre visa reqs to leave country some times.
+MT @thePeerJ: #reddit frontpage discovers Elsevier boycott: perspectives of educated non-scholars http://bit.ly/weJZM9&nbsp; via @jasonpriem
+High-throughput civilization discovery in PNAS; &quot;anthropomics?&quot; http://bit.ly/GHvWjg&nbsp; cc @phylogenomics
+@gedankenstuecke Congrats on that openSNP phallus milestone!
++1 to Elsevier for this Open Access copyright propaganda filled w/ inaccuracy. http://bit.ly/HcHble&nbsp; via @SauropodMike
+Genome paper is free at Nature. Access to the corrections costs $64. http://bit.ly/Hq0cPE&nbsp; via @SauropodMike @phylogenomics
+We are scientistspic.twitter.com/pYRlumZo
+@beanobundle Thx!
+@preetiaahir So&#39;s the baby! ;)
+@betsyphd Thx!
+How to raise a future sci.tech innovator? My dad watched star trek &amp; NOVA. I simply followed. @rww http://rww.to/H8l6ln&nbsp;
+Elsevier in trouble again? Author fees are $3K  for &quot;Open Access&quot; option, but is it actually OA? No says http://bit.ly/HhZtDM&nbsp;
+.@invisiblecomma You&#39;re both an object model and an instance of that object.
+@SauropodMike Unfortunately the GS data is not normalized to article volume (I believe). Uncertain if/how that wld change things.
+Required reading from Peter Thiel on lessons learned from the 90s tech scene. http://blakemasters.tumblr.com/post/20582845717/peter-thiels-cs183-startup-class-2-notes-essay&nbsp;…
+Instagram nearly blew up on day 1 due a missing favicon img file. Good slides on scalinghttp://scr.bi/I97fZQ&nbsp;
+Elsevier staff now resorting to irrelevant ad hominem attacks on Open Access supporters (see comments)http://bit.ly/Hwlzg3&nbsp;
+Summary: If you have the talent, do something that matters. From The Atlantic, inventing a new futurehttp://bit.ly/IyxE5N&nbsp;
+Wld post-pub peer review mitigate this? RT @brembs Some brief responses to the Sage Bionetworks Congress http://feedly.com/k/JHuonI&nbsp;
+Dreamed last night that I worked at Apple , SJ was alive &amp; had me getting his lunch everyday in exchange for daily chats. Hmm
+Coincidence? My son&#39;s first initial is equal to the hexadecimal representation of his birth date.  #proudDad
+Now if I&#39;d only not eaten that croissant last night I&#39;d be having a nice breakfast right about now.
+@subcide It&#39;s Friday night, party animal 1am is early.
+@subcide in the office?
+@subcide good luck with the jetlag. My turn in 3 weeks again.
+Have finally tamed the beast, which is AWS ec2. Until next time &amp; goodnight my old foe.
+I am still counting the grammatical errors on their site. Is that part of their &quot;new lit format?&quot; RE http://bit.ly/JX80It&nbsp; @ivanoransky
+Ah, I want. XD solar window charger for the devices. Sleek http://bit.ly/vFtmu2&nbsp;
+Well done! RT @p_binfield: This is my last day at PLoS ONE. Just made a farewell blog post at:http://blogs.plos.org/everyone/2012/05/18/plos-one-a-personal-farewell/&nbsp;…
+It&#39;s Devo timepic.twitter.com/TWKfryZi
+Real reason? Key players left NASA 4Industry RT @wired: OpenStack Launch Partner NASA Grounds Developmenthttp://bit.ly/JAa9K9&nbsp;
+Hero RT @robinlloyd99: Tech entrepreneur secretly lives at AOL HQ for two months http://pulse.me/s/9EbqI&nbsp;
+@sennoma The writing is already on the wall
+So @p_binfield&#39;s 5yr-old drew our new @thePeerJ logo. FTW  http://yfrog.com/g04orxkj&nbsp;
+@Villavelius @researchremix @mbeisen CC-BY is considered to work with data mining as pertaining to facts, as those are not held in copyright
+Mind boggling &amp; simplifying all in one. Every Black Hole Contains a New Universe http://goo.gl/fb/e4frv&nbsp;
+My non-human greeting at #foocamp last night  http://yfrog.com/ocjwknoj&nbsp;
+Why we need more &#39;PrePrints&#39; 2 correct errors MT @ivanoransky: Climate paper put on hold after being published online http://bit.ly/MuHFRX&nbsp;
+Nature, Ars Technica &amp; Stephen Curry cover @thePeerJ launch: http://bit.ly/LQzpia&nbsp; http://bit.ly/MGRdgg&nbsp; http://bit.ly/LQzzWS&nbsp;
+Thanks all for the well wishes on the @thePeerJ launch today! #OA cc @p_binfield
+! RT @timoreilly: Huffpo covers launch of open access journal @thePeerJ, in which I am an investor (@oatv) &amp; board memhttp://huff.to/K02IuL&nbsp;
+.@subcide Thanks!
+@arbesman thank you very much!
+.@prokopp @chris_koerner Cheers!
+.@skonkiel +1 for opposite days.
+The @thePeerJ monkey doing some outdoor experimentspic.twitter.com/oKblEJsZ
+Science with the boy! Not a good ending for the worm thopic.twitter.com/sYfRABPV
+@IanMulvany @villavelius @daveyp @albrummer thankfully many comments rip this lobbyist propaganda from paywall pubs a new one
+UK Open Access Finch report proves committees cannot innovate nor take a stand for science http://bit.ly/Ndm4l4&nbsp;
+Me too! MT @petermurrayrust: http://blogs.ch.cam.ac.uk/pmr/2012/06/21/scholpub-peerj-and-tim-oreilly/&nbsp;… @thePeerJ &amp; @timoreilly. Tim can transform #scholpub if he wants to, &amp; I hope he does.
+The youngest @thePeerJ member!  http://yfrog.com/z/odxjupp&nbsp;
+&#39;Big data&#39; now sounds as quaint as &#39;Web 2.0&#39; hmmm
+.@caseybergman tho in academic publishing, a typewriter w/ Internet access cld be considered a &#39;disruptive tech&#39; &amp; be true ;)
+Just had coffee with the soon-to-be father @ianmulvany and wishing him &amp; fam the best!
+Pizza+beer+ tech talks tonight in London at #HNLondon - I speak abt academic publishing disruptionhttp://bit.ly/LHHJ2G&nbsp;
+@stringfellow don&#39;t know what to say, &#39;cept your ape &amp; my monkey should talk
+@anoopsmahajan @hrishio PeerJ is building up a high credibility ed board, as we know legacy matters. Thx for your thoughts. ~J
+Slides from last night&#39;s #HNLondon on disrupting academia. http://slidesha.re/MX7L1H&nbsp; Video up later athttp://vimeo.com/hnlondon&nbsp;
+@McDawg too late for me as well, but that&#39;s what coffee is for!
+Me + @p_binfield talk Open Access &amp; PeerJ w/@drkiki streaming live at 7ET tonighthttp://twit.tv/&nbsp;
+On the Internetz live in 10 mins w @drkiki &amp; @p_binfield. We chat abt Science + @thePeerJ ...Go tohttp://twit.tv&nbsp;
+Pulp is my pre-show music lineup for this evening
+@MikeTaylor curently &#39;do you remember the first time&#39;
+.@jokrausdu @thepeerj @drkiki @p_binfield I was referring to biz models (i.e. payments)
+@jokrausdu @miketaylor @thePeerJ @drkiki @p_binfield hit refresh
+Installed the @altmetric &#39;donut&#39; in my boy&#39;s baby book. #altmetricspic.twitter.com/YWSGWHv4
+My talk &#39;A framework for disruption&#39; is now on Slideshare homepage under &#39;Hot on LinkedIn&#39; http://slidesha.re/pU8AzP&nbsp;
+@IanMulvany well done you three!
+Apparently http://rightmove.co.uk&nbsp; allows leasing agents to photoshop rental pics. #shouldBeIllegal
+Five interviews w/ Americans, each earning 5x as much as the last.http://gqm.ag/L8umMN&nbsp;
+When will Silicon Valley start disrupting the banking industry? Please oh please.
+@brackin Simple still relies on Visa, so falls short of disruption
+keep going! “@openSNPorg: Thanks to all users we&#39;ve reached 200 genotypings! http://opensnp.wordpress.com/2012/07/01/milestone-reached-200-genotypings-2/&nbsp;…”
+For those who weren&#39;t around on the wkend, @p_binfield &amp; I talk abt PeerJ + Open Access w/ @drkikihttp://bit.ly/MOvh3k&nbsp;
+Dream come true. @thePeerJ is finally in the same podcast (min 30+) as the Higgs Boson as told by a Kiwihttp://bit.ly/PiG3AK&nbsp;
+@subcide Nice catch. This makes it even better!
+New Zealand&#39;s Sciblog discusses @thePeerJ, #OA, Finch Report &amp; Higgs in latest podcast. OA starts 30minhttp://bit.ly/PiG3AK&nbsp;
+@Protohedgehog jesus was a scientist?
+@betsyphd Yes, odd indeed
+The cost of NOT publishing Open Access @MikeTaylorhttp://svpow.com/2012/07/09/what-does-it-cost-to-publish-a-paper-with-elsevier/&nbsp;…
+Slideshare staff is featuring my talk &#39;A Framework for Disruption - PeerJ&#39; on the homepage http://www.slideshare.net/&nbsp; #PeerJ
+We&#39;ve just announced @thePeerJ Academic Board on the blog http://bit.ly/Oxrswr&nbsp; &amp; the board is here http://bit.ly/OxrxQL&nbsp;
+@APEERsurvey @katinalynn Our vision is as good as those who accept our invitation to join. More women than men declined unfortunately.
+We&#39;ve just announced @thePeerJ Academic Board on the blog http://bit.ly/Oxrswr&nbsp; &amp; the board is here http://bit.ly/OxrxQL&nbsp;
+.@robstockman @NeilWithers @professor_dave Only first 12 auths need pay w/PeerJ &amp; that&#39;s still &lt; PlosOne. How is that costly exactly?
+New job at PeerJ. Looking for THE systems engineer. Details http://peerj.com/careers/&nbsp;
+Hey late night London devs! Fact 437- PeerJ pops for cont. integration. We&#39;re hiring http://PeerJ.com/careers/&nbsp; via @thePeerJ
+the UK REF looks like they will move to require OA for consideration for assessment   http://www.hefce.ac.uk/news/newsarchive/2012/statementonimplementingopenaccess/&nbsp;…
+the UK REF looks like they will move to require OA for consideration for assessment   http://www.hefce.ac.uk/news/newsarchive/2012/statementonimplementingopenaccess/&nbsp;…
+&quot;Science funding is borked.&quot; New post at Enjoy the Disruption blog - http://bit.ly/MJT6WS&nbsp;
+.@ThePeerJ co-founder @JasonHoyt seems to have a new blog. http://enjoythedisruption.com/&nbsp; But &quot;All content CC-BY-NC&quot; -- why the NC clause?
+.@ThePeerJ co-founder @JasonHoyt seems to have a new blog. http://enjoythedisruption.com/&nbsp; But &quot;All content CC-BY-NC&quot; -- why the NC clause?
+&quot;Science funding is borked.&quot; New post at Enjoy the Disruption blog - http://bit.ly/MJT6WS&nbsp;
+Makes things exciting! RT @thePeerJ: PeerJ tech fact - we deploy code multiple times every day. #continuous-integration #CI
+These two are A+ RT @thePeerJ: Hacking away at PeerJ HQpic.twitter.com/NcOsUcTD
+&quot;PhDs should be aware &amp; train for alternative science related paths.&quot; It&#39;s not alt, it&#39;s mainstream http://bit.ly/LzhhX0&nbsp;
+last tweet hat tip goes to @pgroth
+Link: http://tmblr.co/ZoHRVwPoL_eq&nbsp;
+Last wk I said smaller grants cld help science http://bit.ly/MJT6WS&nbsp;, now some say for digital health toohttp://bit.ly/O4ixWi&nbsp;
+Last wk I said smaller grants cld help science http://bit.ly/MJT6WS&nbsp;, now some say for digital health toohttp://bit.ly/O4ixWi&nbsp;
+Startup dads (and moms). Asset or liability? - New post at Enjoy the Disruption http://bit.ly/OQCqwk&nbsp;
+Does anyone have numbers on the ratio of stackoverflow readers:answerers? e.g. 95:5...
+@codinghorror ?? RT @jasonHoyt: Does anyone have numbers on the ratio of stackoverflow readers:answerers? e.g. 95:5...
+@codinghorror ?? RT @jasonHoyt: Does anyone have numbers on the ratio of stackoverflow readers:answerers? e.g. 95:5...
+Twitter&#39;s latest API policies bring me to one conclusion, time for devs to leave for other platforms that appreciate them
+Found Bug #1 with OSX Mountain Lion - activation code provided by Apple is invalid cc @AppStore
+Found Bug #1 with OSX Mountain Lion - activation code provided by Apple is invalid cc @AppStore
+Looking for Backend Software/Sys Engineer at PeerJ. Spread the love! Thx Hacker-Jobs 4 free listing http://bit.ly/OmExM2&nbsp;
+Is it Read Only Friday? http://bit.ly/GUlO3z&nbsp; cc @subcide
+Where&#39;s the anti-olog/monopoly suit against Visa et al? RT @gigaom: iZettle says it’s ‘confused’ by Visa blockade http://dlvr.it/1x5J67&nbsp;
+Off to SF to monkey around w @p_binfield for a week of unconferencing &amp; promoting Open Access #scifoo
+Off to SF to monkey around w @p_binfield for a week of unconferencing &amp; promoting Open Access #scifoo
+Bye bye Quora! You can turn it off, but still... RT @HackerNewsYC: Thanks to Quora, now you can’t read anonymously http://goo.gl/fb/Mzvmu&nbsp;
+On the Google shuttle w @imrankhan &amp; a blurry-eyed @p_binfield on route to Day2 of #scifoopic.twitter.com/0u0cnOJ5
+Checking out a two person submarine at the Googleplexpic.twitter.com/EH3Lve2p
+We&#39;re hiring! UI Engineer in @thePeerJ&#39;s London office http://peerj.com/careers/&nbsp;
+All your base b3long to uspic.twitter.com/PyjtOuv5
+Video of my HackerNews talk now up. &quot;Disrupting academic publishing w @thePeerJ&quot; http://bit.ly/PY0uhj&nbsp;  -Slideshttp://slidesha.re/MX7L1H&nbsp;
+Good luck in SV! Good RT @coderholic: 2 years of #HNLondon! http://bit.ly/OibDfp&nbsp;
+Cited this guy in a talk last Feb &amp; didn&#39;t realize that I lived near his old 17th c. home (now an ugly law office).pic.twitter.com/FLudaGbD
+Heading to DC later today for a face2face with the team building elife. #excited. Thanks to @HHMINEWS for hosting.
+Oracle giving devs one more reason to move away from MySQL. Sucks, but perhaps inevitable.
+Wrt last tweet, this calls for a longer blog post on the business stupidity of Oracle&#39;s latest MySQL move.
+How the original, more radical, vision of PubMed Central was derailed by traditional publishers http://bit.ly/Nbyb4O&nbsp;
+How the original, more radical, vision of PubMed Central was derailed by traditional publishers http://bit.ly/Nbyb4O&nbsp;
+Pro tip: Unless your name is Gates, Jobs, Page or Brin, put more than &quot;Here&#39;s my CV. What&#39;s the salary?&quot; in your cover letter
+Science data archiving - Did Amazon Glacier just come up with the answer? $0.01/GB/month. Expect 3rd party-apps to usehttp://bit.ly/SMioWy&nbsp;
+Question: if you were pushing a production update to your website, what time of day would you do it?
+Question: if you were pushing a production update to your website, what time of day would you do it?
+Question: if you were pushing a production update to your website, what time of day would you do it?
+Question: if you were pushing a production update to your website, what time of day would you do it?
+Family day at Reading Festival.pic.twitter.com/S3PfLfrd
+Django Django at Reading. The baby is getting more attention than most bands.pic.twitter.com/t9nwBtie
+MT @invisiblecomma: Want to improve the UI for a new version of HubMed&#39;s Citation Finder? Fork and start editing:http://bit.ly/NDHk0q&nbsp;
+A misconception that raw research data must be massaged &amp; curated kills motivation to make it available. Release it as is.
+Mmmm, JSON. RT @IanMulvany: fuck XML. thank you, and goodnight.
+Another good bouldering session with @seewahcheng tonight.  I need to work on my finger strength and he needs to work on his awkwardness. :)
+So Nature&#39;s iPad/iPhone apps are trying to charge me to view open access articles (e.g. ENCODE).
+Knowledge cartels. Boomhttp://www.indexoncensorship.org/2012/09/the-battle-for-open-access/&nbsp;…
+Update on Aaron Swartz. The guy who released most of JSTOR to the public. Legal troubles.http://flpbd.it/Qpfa9&nbsp;
+@jasonHoyt Jason - I have emailed you on an Open Access issue via business@peerj.com. Hope it has been passed onto you.
+ZOMG RT @invisiblecomma: Both @Scopus and @ri_science are storing passwords in plain text and email them out when asked #security
+The challenge for scholarly societies via @cameronNeylon http://bit.ly/UZ4dS4&nbsp;
+Startup pitch contests. Worst idea, perhaps ever. http://tmblr.co/ZoHRVwUQgApn&nbsp;
+Startup pitch contests. Worst idea, perhaps ever. http://tmblr.co/ZoHRVwUQgApn&nbsp;
+The Self-Destruction of the 1 Percenthttp://flpbd.it/RG75p&nbsp;
+Don’t monkey about, support #OAWeek and sign up with @thePeerJ now.
+me too :D RT @stephenjjohnson: Still trying to win a mug from @thePeerJ for # OAWeek
+.@JohnRHutchinson @MikeTaylor be thankful you and your manuscripts were not alpha testers :D
+Foood 4 thought! Noam Chomsky on Where Artificial Intelligence [&amp; systems biology] Went Wronghttp://flpbd.it/rHUVX&nbsp;
+No comment &quot;Do intelligent people drink more?&quot;http://flpbd.it/IZhtf&nbsp;
+NPG digging its own grave in quest for short-term profits with CC-BY price hike. Via @rmouncehttp://bit.ly/Un2Q1L&nbsp;
+At the Telegraph helping 200 awesome entrepreneurs bring ideas to fruition for London StartupWeekend!pic.twitter.com/rHp4aPAG
+At the Telegraph helping 200 awesome entrepreneurs bring ideas to fruition for London StartupWeekend!pic.twitter.com/rHp4aPAG
+@jasonHoyt before the rest of my team SmartWard arrived on Saturday morning I made cashpools.co it needs some work!
+rt @p_binfield: Very excited to say that PeerJ will be taking submissions from Monday! http://blog.peerj.com/post/36654776923/call-for-papers&nbsp;…
+rt @p_binfield: Very excited to say that PeerJ will be taking submissions from Monday! http://blog.peerj.com/post/36654776923/call-for-papers&nbsp;…
+.@subcide that&#39;s what versioning (and managing user expectations) is for! RE http://bit.ly/SG5JH1&nbsp;
+.@subcide that&#39;s what versioning (and managing user expectations) is for! RE http://bit.ly/SG5JH1&nbsp;
+Extreme programming/mental challenge: Coding at 8am before coffee w/ a teething, loud one-year old next to you.
+New on SV-POW!: Crowdsourcing a database of “predatory OA journals” http://svpow.com/2012/12/06/crowdsourcing-a-database-of-predatory-oa-journals/&nbsp;… Comments please, @RickyPo @CameronNeylon @rmounce
+I&#39;d invest in any startup that finds a way to stop this illegal trade &amp; killinghttp://m.guardian.co.uk/environment/2012/dec/12/malaysia-seizes-elephant-tusks&nbsp;…
+Congrats to @IanMulvany &amp; @eLife_sciences on the new site. You&#39;ve raised the bar for publishing research.
+top tip, when bringing a spare pare of trousers into work in case of wet cycle, don’t bring wife’s trousers (unless she is bigger than you).
+As a father to 2 young boys, my heart goes out to the family of the Sandy Hook victims. I&#39;ll join the US in a moment of silence at 9:30 ET
+I can see investors jumping on the #snowfall bandwagon, only to be raked over. The beauty is because it was first.
+NIH budget to be cut by 8.2% due to fiscal cliff failure. Only 2 days left to save it.http://j.mp/W90oa2&nbsp;
+Surprise! More security probs for Internet Explorer 8 users.http://flip.it/cqGOA&nbsp;
+A bone to pick: not enough product-market fit - Building a startup ... http://tmblr.co/ZoHRVwbBYNRI&nbsp;
+My comment on why XMP for researchers &amp; publishers -  http://tmblr.co/ZoHRVwbGi-bW&nbsp;
+Design by committee MT @MikeTaylor: the naming of &quot;PubMed&quot; and &quot;PubMed Central&quot; (two completely different things) is a total train-wreck.
+.@MikeTaylor Oh, and don&#39;t forget the confusion over medline vs PubMed that most researchers have.
+Someone just sent their resume into @thePeerJ as an info graphic and QR code. Awesome.
+Ha. New #altmetrics paper by @researchremix at Nature&#39;s paywall here http://bit.ly/VT6mwH&nbsp; or free here http://bit.ly/RHH72Q&nbsp;
+And of course that free version is from a startup owned by a Nature sister company.
+Putting real science into sci-fi RT @NathanFillion: My favorite Firefly fanboy rant to date.
+http://blogs.scientificamerican.com/guest-blog/2013/01/10/saving-lives-in-serenity-can-a-fanboy-and-physics-change-a-movie/&nbsp;…
+Aaron Swartz found dead, but lives on with Open Access - http://tmblr.co/ZoHRVwbaCi9I&nbsp;
+WH petition to fire US Attorney who wanted Aaron Swartz in jail 35 yrs for downloading science articles http://wh.gov/Ex1n&nbsp;
+http://nature.com&nbsp; seems to be down.  Hmmmm
+Twitter should stop forcing the use of their URL shortener until they can actually resolve links. Just sayin&#39; cc @MikeTaylor
+Twitter should stop forcing the use of their URL shortener until they can actually resolve links. Just sayin&#39; cc @MikeTaylor
+It pays to lobby RT @HarvardBiz: Aaron Swartz&#39;s &quot;Crime&quot; and the Business of Breaking the Lawhttp://flip.it/qFWyz&nbsp;
+Not too late to sign the White House petition to investigate the US attorney resp for Aaron Swartz http://wh.gov/Ex1n&nbsp;
+And good news, 26K+ signatures on petition to remove US Attorney Carmen Ortiz, also resp for Aaron Swartz http://1.usa.gov/UVfNgo&nbsp;
+Open Access &amp; Editorial Quality event at Wellcome Trust Feb 6 http://bit.ly/VOcSE&nbsp; Note: PeerJ not on panel :(
+it is nothing short of obscene how richly rewarded publishers are for the very modest part they play in the scientific enterprise
+Are academic publishers extracting value &amp; wealth from scientists? http://bit.ly/VJJEL7&nbsp;
+.@MikeTaylor Good ex of 2º revenue stream from reuse despite CC-BY is @plos.
+When stealing isn&#39;t stealing - The most disturbing part of the Aaron Swartz story - http://tmblr.co/ZoHRVwc1sxlD&nbsp;
+When stealing isn&#39;t stealing - The most disturbing part of the Aaron Swartz story - http://tmblr.co/ZoHRVwc1sxlD&nbsp;
+From earlier: When stealing isn&#39;t stealing - The most disturbing part of the Aaron Swartz story - http://bit.ly/10F4cby&nbsp;
+Meg Hillier, my local MP, actually did something about my UK Visa - Foreign entrepreneurship http://tmblr.co/ZoHRVwcC1Z6i&nbsp;
+I &#39;m angry. The UK Border Agency has held my passport hostage for 5 months. Way to support your entrepreneurs David Cameron.
+Awful RT @hrishio: .@jasonHoyt mine for 3 months. No tracking system. No help line. Can&#39;t believe they can get away with it. #ukvisa
+.@PatrickSocha @hrishio @ernestopriego I assume David Cameron et al don&#39;t really understand foreign investment opportunity
+jQuery Blog » jQuery 1.9 final, jQuery 2.0 beta, Migrate final released http://buff.ly/VI21jt&nbsp;
+Whodathunk the FB like button wld have a huge conspiracy of being evil?! Remember when FriendFeed first intro&#39;d it? http://bit.ly/WPPneb&nbsp;
+I &#39;m angry. The UK Border Agency has held my passport hostage for 5 months. Way to support your entrepreneurs David Cameron.
+My partner is Welsh. Scared MT @JohnRunions: Welshman Paul Marshallsea becomes head of Wales&#39; shark wrestling team!http://bbc.in/13Vrskq&nbsp;
+MIT tries to dampen the tone in investigation of #aaronsw tragedy by now calling it an &quot;analysis&quot; of its rolehttp://nyti.ms/VI0iK8&nbsp;
+Wrt last tweet - ie &quot;investigation&quot; suggests probable fault, &quot;analysis&quot; suggests no apology needed, but could improve.
+The ensuing privacy debacle for FaceBook&#39;s new graph search, in images (actual graph searches)http://bit.ly/TiNEmA&nbsp;
+I was halfway to work this morning before I realized I was wearing @codinghorror’s coat. Oops.pic.twitter.com/31RSPg9j
+A &quot;free&quot; @virginatlantic return ticket costs $700 in taxes and fees, of which $458 is a carrier imposed fuel/insurance charge.
+Death of Spock: Wrath of bathtime babypic.twitter.com/bqQMZ8QB
+.@IanMulvany yes, issue #1 they&#39;re using godaddy  :)
+.@IanMulvany and http://impactstory.com&nbsp; redirects to a kickstarter project.
+I felt the same abt academic publishing &quot;Fuck it, I&#39;ll Do This Alone.&quot;http://flip.it/9k6NR&nbsp;
+It would be so much less contentious if CC-BY-NC licences for #openaccess were instead CC-BY-NS (No [re-]Sale), allowing datamining etc.
+If a publisher goes bankrupt, what are the consequences for OA vs. paywall articles? @MikeTaylor answershttp://bit.ly/TQFi66&nbsp;
+If a publisher goes bankrupt, what are the consequences for OA vs. paywall articles? @MikeTaylor answershttp://bit.ly/TQFi66&nbsp;
+Heartbreaking to hear all the pithering in the #HoL inquirty, even from the Good Guys. No-one with guts to make the fundamental points.
+Most people don&#39;t understand that an architect&#39;s primary duty is dealing with bureaucracy.
+Considering Amazon&#39;s &quot;aesthetics,&quot; I can&#39;t decide what its 4 pages of job listings for design/UX means. http://amzn.to/XdapDH&nbsp;
+I noticed @pandoDaily &#39;s redesigned site is easier to read if you shrink desktop browser  to phone width. Bad design on full
+I&#39;m considering diversifying/hedging my family&#39;s future by getting started w bitcoins. Problem #1: I have no idea what they are
+I noticed @pandoDaily &#39;s redesigned site is easier to read if you shrink desktop browser  to phone width. Bad design on full
+I&#39;m considering diversifying/hedging my family&#39;s future by getting started w bitcoins. Problem #1: I have no idea what they are
+Why sauropods had long necks; and why giraffes have short necks https://peerj.com/articles/36/&nbsp; via @thePeerJ
+One more thing 21st c. publishing brings - How @thePeerJ&#39;s architecture keeps costs down for academics http://bit.ly/11QAe4Q&nbsp;
+Whale teeth &amp; treating wounds with cannabinoids are part of this week&#39;s new images + #OA articles on PeerJ https://peerj.com&nbsp;
+Biology is in a slump - we need error logs to get out of it http://tmblr.co/ZoHRVweXYKPJ&nbsp;
+Nice these researchers get $3M in prizes each, but all are well-off already. Young scientists wld be betterhttp://bit.ly/Ym7Ore&nbsp;
+.@simonbayly yes, not very inspiring to the young scientists (the prize&#39;s stated goal) if they have to wait a lifetime
+Former PhD mentor today, &quot;Rejected from Nature Thurs (3 mo. in review), scooped in PLOS Bio following Tues.&quot; Spot the problem
+Former PhD mentor today, &quot;Rejected from Nature Thurs (3 mo. in review), scooped in PLOS Bio following Tues.&quot; Spot the problem
+Former PhD mentor today, &quot;Rejected from Nature Thurs (3 mo. in review), scooped in PLOS Bio following Tues.&quot; Spot the problem
+Former PhD mentor today, &quot;Rejected from Nature Thurs (3 mo. in review), scooped in PLOS Bio following Tues.&quot; Spot the problem
+I&#39;m in Wales!
+@subcide I&#39;m going to head down to the biscuit factory tonight.
+Asking publishers abt OA laws MT @brembs I think it&#39;s like asking the tobacco industry to chime in with their opinion on smoking bans
+Asking publishers abt OA laws MT @brembs I think it&#39;s like asking the tobacco industry to chime in with their opinion on smoking bans
+If US/UK public was clearly informed on who&#39;s helping shape OA policy (self interested publishers) then embargoes wldnt exist
+Well done National Museum Wales in Cardiff on the natural history exhibit @amgueddfaCymru
+Lots of misconceptions in this article on #openaccess that I couldn&#39;t resist responding to. Much still to be done. http://bit.ly/XtWIEp&nbsp;
+Hey Google, get off your ass &amp; help this guy w his copyright issue. &quot;Your IP: does Google care? http://flip.it/p0Wao&nbsp;&quot;
+I agree. &quot;Publishers, whose role is to disseminate information&quot; are now blockades to research says @mbeisen http://bit.ly/VFZG8v&nbsp;
+“@Protohedgehog: This plot of APC vs &#39;openness&#39; by @rmounce is a much more informed overview of Gold OA #OAintheUKhttp://bit.ly/Yu5Mt7&nbsp;
+Seems 2 grad students @Protohedgehog @rmounce are more knowledgeable abt Gold OA costs than RCUK &amp; Finch Comm #OAintheUK
+Pay once; don&#39;t think again w PeerJ MT @franknorman: Padgett highlights practical difficulties with APCs: purchasing proc &amp; collab papers
+It occurs to me that sites like Storify are the modern equivalents of revisionist history &amp;  = good/bad for humanity
+Awesome for babies RT @jjodx: AMAZING!!!: Scientists Uncover Invisible Motion in Videohttp://nyti.ms/13kIg5R&nbsp;
+.@mbeisen @rravi plus their suits/hair are tacky &amp; worn only by out-of-touch publishers &amp; hipsters re:http://www.nejm.org/doi/full/10.1056/NEJMp1211259&nbsp;…
+Groupon CEO fired, stock at 25% its IPO &amp; here was my call 2+ yrs ago on Google&#39;s $6B offer, just sayin&#39; http://bit.ly/15lVe1w&nbsp;
+A breakup letter to scholarly publishers from @srp (steve pettifer) http://bit.ly/VR5GLr&nbsp;
+Years on it, I still can&#39;t figure out how LinkedIn is useful to me or most other users; besides the spam requests
+Hey @Twitter, make sure the @TweetDeck for Web is at least half as good (for tweeting) as the Air app before retiring Air.
+With that LinkedIn rant over, here&#39;s a good slide deck from the LinkedIn data science teamhttp://slidesha.re/ZfZM4b&nbsp;
+&quot;Pete &amp; Jason are eating ramen noodles so you don&#39;t have to&quot; - suggested slogan to authors from PeerJ editor @stephenjjohnson
+If you are in the UK under no circumstances use @Morgan_Randall as a letting agent. So bad, I&#39;m notifying the housing authority
+Subscription publishers &amp; their effective lobbying efforts (paid by subscriptions) against Open Accesshttp://bit.ly/ZtgC19&nbsp;
+Hope the Internet pushes Sun co-founder Khosla to do the right thing &amp; allow access to Cali beachhttp://nydn.us/Z5lBmv&nbsp;
+MT @thePeerJ: Interview w/ PeerJ AE Jen Wagner &quot;What researcher wld choose a process other than PeerJ?&quot; http://blog.peerj.com/post/45838032441/jennifer-wagner-interview&nbsp;…
+Oh my. Had forgotten about Tapes n&#39; Tapes until just now.
+Why the invasion of Iraq was the single worst foreign policy decision in American historyhttp://flip.it/P1yob&nbsp;
+PeerJ: legit?
+Another example of research hidden for months due to academic publishing norms http://tmblr.co/ZoHRVwgvdebl&nbsp;
+WaPo publishes info-map of country &quot;friendliness toward foreigners.&quot; Surely the US is shld be divided into states http://wapo.st/WWmpyQ&nbsp;
+Reason no.7 - monkeys RT @thePeerJ: Six reasons to submit your next article to PeerJ http://blog.peerj.com/post/46261563342/6-reasons-to-publish-with-peerj&nbsp;…
+.@ScholarlyChickn PeerJ has stated since launch (http://bit.ly/YufcYV&nbsp;) that it would work with institutions. What are you getting at?
+CEO of T&amp;F parent corp income £1.9M, CEO of PLOS £298K, CEO of PeerJ (me) £47K. I don&#39;t believe in obscene profiting off EDU
+based on http://bit.ly/YEqCt6&nbsp; via @rmounce
+CEO of T&amp;F parent corp income £1.9M, CEO of PLOS £298K, CEO of PeerJ (me) £47K. I don&#39;t believe in obscene profiting off EDU
+CEO of T&amp;F parent corp income £1.9M, CEO of PLOS £298K, CEO of PeerJ (me) £47K. I don&#39;t believe in obscene profiting off EDU
+&quot;CC-BY under attack from the International Assoc. of Scientific, Technical &amp; Medical Publishers&quot; aka not the future http://bit.ly/14wfXC9&nbsp;
+&lt;3 copy RT@David_Dobbs: Conservatives, feathers ruffled by twisted duck-dick research, demand US withdraw penis fundshttp://phenomena.nationalgeographic.com/2013/03/25/ducks-meet-the-culture-wars/&nbsp;…
+SSP now claims &quot;non-OA articles are seen by the right audience.&quot; Nice euphemism for &#39;restricted to those who can afford it&#39;
+.@srp Exactly. Science spies &amp; evil countries are forced to use only OA articles. As they could never afford subscription fees.
+@LibSkrat Sorry, didn&#39;t mean to exclude! We covered Instit. Repos, but is there any thing in particular abt libraries? cc @p_binfield
+.@researchremix @tjvision Congratulations on being first! #PeerJPreprints
+MT @invisiblecomma: articles analysed in http://bit.ly/10zau7M&nbsp; not in Google search results; low rank for multiple domains or dup content?
+Opinion: MOOCs all the rage, but #openaccess has greater societal potentialhttp://chronicle.com/article/The-Real-Digital-Change-Agent/137589/&nbsp;…
+Up early to take a full day of abuse from strangers :) it&#39;s going to be a long day...
+My thoughts on Mendeley/Elsevier &amp; why I left to start PeerJ - I joined Mendeley as head of R&amp;D at the start... http://tmblr.co/ZoHRVwiGtFGt&nbsp;
+My thoughts on Mendeley/Elsevier &amp; why I left to start PeerJ - I joined Mendeley as head of R&amp;D at the start... http://tmblr.co/ZoHRVwiGtFGt&nbsp;
+My thoughts on Mendeley/Elsevier &amp; why I left to start PeerJ - I joined Mendeley as head of R&amp;D at the start... http://tmblr.co/ZoHRVwiGtFGt&nbsp;
+If someone said in plosone/PeerJ cover letter that want to publish if peer reviewers accept, but won&#39;t do revisions, wld paper be refused?
+If someone said in plosone/PeerJ cover letter that want to publish if peer reviewers accept, but won&#39;t do revisions, wld paper be refused?
+@MikeTaylor @thePeerJ @figshare Although am currently looking at what&#39;s possible through arxiv :) (maybe just upload the pdf..?)
+FYI William Gunn is a great asset to Mendeley MT @mrgunn: I joined [Mendeley] to make #altmetrics a thing, &amp; that work continues
+@jasonHoyt It would seem that  &quot;darling&quot; is the word of the day for both of us.http://chronicle.com/article/In-Sale-to-Elsevier-Mendeley/138449/&nbsp;…
+@FakeElsevier @ColditzJB @wilbanks @skome We haven&#39;t gone anywhere. It&#39;s too soon to say that we can&#39;t do any good anymore.
+On train London &gt; Oxford for today&#39;s rigour &amp; openness conf. I need some rigorous coffee.
+I signed the Cost of Knowledge to boycott Elsevier #mendelete (sad day)pic.twitter.com/vsqTt4Qfnr
+Inspiring MT @ethanwhite: Pace of science is changing. Our new preprint cites @researchremix&#39;s preprint frm last weekhttp://bit.ly/17v9BTk&nbsp;
+.@MikeTaylor @kaythaney Graham Taylor said 1st peer review 1665
+.@MikeTaylor @kaythaney Some evidence suggests 1st peer-review much later (http://bit.ly/YQ6ySm&nbsp;) &amp; I cited that in Who killed the preprint
+MT @MikeTaylor: New on SV-POW!: The evolution-or-revolution debate at the Oxford Union http://bit.ly/ZVhKju&nbsp; #openOxford
+Give &#39;em hell (&amp; OA)! RT @CameronNeylon: At Committee room 6 UK Houses of Parliament #BIS committee hearing on #openaccess
+And b4 PeerJ RT @MikeTaylor: #BISOA @CameronNeylon says high APCs estimated by Finch derive from systemic market failure
+Mendeley&#39;s new overlord, Elsevier lobbying at #bisoa MT @RLUK_David: @wisealic says repositories should be for everything except articles
+&quot;Journal of negative embargoes?&quot; @MikeTaylor @CameronNeylon #bisoa @peerjPrePrints #arxiv
+Elsevier et al trying to convince #bisoa that they&#39;re too big to let fail. Hint: they&#39;re not. PLOS, ELife, PeerJ, F1000, etc
+Elsevier&#39;s argument (link http://bit.ly/13anab7&nbsp;) to UK Parliament seems to be &quot;but OA will jeopardize our biz model&quot;  #bisoa
+.@MikeTaylor @Stephen_Curry Microsoft, AT&amp;T, etc made similar arguments to uphold their monopolies as well
+Actual Elsevier arg to #bisoa &quot;16. Green OA is not a biz model &amp; therefore has no revenue stream associated with it&quot; http://bit.ly/13anab7&nbsp;
+The logic of pt. 17 in Elsevier&#39;s #bisoa evidence wld suggest http://arXiv.org&nbsp; is harming physics w/ preprints http://bit.ly/13anab7&nbsp;
+The real elephant in the room is &quot;shld tax payers continue to subsidize 30K jobs at Elsevier, etc?&quot; #bisoa
+.@BioMickWatson Agree. And now that publishing is more efficient, we can move those tax-payer funded jobs to other areas
+Amen RT @Villavelius: Low quality articles a threat to the scientific record? The threat is all the stuff that&#39;s not published
+Cool new tool for #authors: Elsevier Journal Finder. Matches your abstract to best-fit journal http://goo.gl/tfqS2&nbsp; #elsevier #beta
+Cool new tool for #authors: Elsevier Journal Finder. Matches your abstract to best-fit journal http://goo.gl/tfqS2&nbsp; #elsevier #beta
+A decision tree on where to send your next manuscript via @MikeTaylor http://www.miketaylor.org.uk/tmp/journal-finder.html&nbsp;…
+A decision tree on where to send your next manuscript via @MikeTaylor http://www.miketaylor.org.uk/tmp/journal-finder.html&nbsp;…
+Fond memories of learning abt Lac Operon in college. Francois Jacob has died. http://bit.ly/12yKdKf&nbsp; h/t @DeepFriedDNA
+@simonbayly Ha. The work describing the open source code for the bio transistor is behind a paywall in Science http://bit.ly/15ATGnb&nbsp;
+Baffling. Authors place Stanford study w/ Open Source bio transistors behind a paywall in Science http://bit.ly/11DpyRd&nbsp;
+Surprise. Another bad show by Google. Bottom line, don&#39;t trust them with your data http://bit.ly/11y1v7G&nbsp;
+Under my mattress RT @MikeTaylor: @jasonHoyt Where do you keep your email?
+Under my mattress RT @MikeTaylor: @jasonHoyt Where do you keep your email?
+.@MikeTaylor I think it cld be time for some regulatory measures, e.g. required notice of acct cancellation for email/storage providers
+I received this in the PeerJ mailbagpic.twitter.com/3fYvC63JoI
+Thiel&#39;s &quot;change the world&quot; fellowships for 20yrolds incl Dropbox clone &amp; selling your salary 4 equity. Hmmhttp://flip.it/qtFRh&nbsp;
+Joy. The 18 month old has gotten into a &quot;wake up at 5am routine&quot; all week.
+Joy. The 18 month old has gotten into a &quot;wake up at 5am routine&quot; all week.
+.@datadryad will soon be introducing submission fees http://blog.datadryad.org/2013/04/29/submission-fees-to-be-introduced-in-september-2013/&nbsp;… This is a good thing for the sustainability of the service
+.@datadryad will soon be introducing submission fees http://blog.datadryad.org/2013/04/29/submission-fees-to-be-introduced-in-september-2013/&nbsp;… This is a good thing for the sustainability of the service
+The Economist print version name checks PeerJ &amp; other usual suspects in Open Accesshttp://econ.st/121pOLI&nbsp;
+... and now hosted at Github: https://github.com/beiko-lab/gengis&nbsp;…. GenGIS manuscript is submitted, hopefully coming soon to @thePeerJ preprints.
+LinkedIn (LNKD) down 10% on day when markets every where are rocketing up. More proof the site is vapor?
+Subtle. Facebook changes &quot;Promote your post&quot; to &quot;Boost your post.&quot; Presumably boost seems less like selling to your friends?
+I seem to recall Google claiming they&#39;d only use their patents as a defense. Guess nothttp://bit.ly/16f25wV&nbsp;
+.@DOAJplus Hi DOAJ - PeerJ has asked multiple times to be included, any progress? Already indexed in PMC cc @david_prosser
+.@DOAJplus Hi DOAJ - PeerJ has asked multiple times to be included, any progress? Already indexed in PMC cc @david_prosser
+@caseybergman Do you think a biology preprint server is a completely lost cause? If not, who could make it work?
+@caseybergman Do you think a biology preprint server is a completely lost cause? If not, who could make it work?
+For the record, I fully support biologists preprinting at #arxiv - I see no need for clones that fragment this space.
+Elsevier CEO: &quot;That is also open access, but it’s paid for by the librarian&quot; http://www.nature.com/embor/journal/v4/n8/pdf/embor913.pdf&nbsp;… Dammit, that is NOT WHAT THE WORDS MEAN.
+PeerJ output slowing to &#39;12 articles in past month&#39; but PubMed Central indexation surely will boost them. As may an eventual Impact Factor.
+Academic publishing costs &amp; the blind man&#39;s bluff http://tmblr.co/ZoHRVwkaKb9t&nbsp;
+Great experience w/ @TransferWise. Luv taking the middleman (the bank &amp; FX traders) out of FX transfers.
+Contemplating deleting my LinkedIn. Just spam...from them #2ndLinkedInhateTweetOfWeek
+Oh well, our J Neurosci appeal failed. New rev also hung up about null result, even tho strongly supported by Bayes. Pub bias in action.
+And like that, first outside pull request to the London #hack4ac  website repo !http://bit.ly/10yYtOa&nbsp;
+CHORUS: It’s actually spelled C-A-B-A-L http://bit.ly/181qesu&nbsp;
+ResearchGate to nowhere? - I&#39;m baffled by its $35M funding round http://tmblr.co/ZoHRVwmjc0AA&nbsp;
+Agree MT @beccarosen: Every single sentence in that Larry Page post can be narrowly interpreted to allow for the existence of PRISM.
+A CHORUS of falsettos. @CameronNeylon dissects paywall publisher plan to shutdown PubMedCentral http://bit.ly/13qKSgz&nbsp;
+&quot;I’m a little baffled by the recent $35M funding round for ResearchGate&quot; - @jasonhoyt http://enjoythedisruption.com/post/52304544394/researchgate-to-nowhere&nbsp;… You ain&#39;t the only one!
+If the NSA program at the cost of civil liberties is so effective, why did Boston still happen?
+Interesting that not a single story abt NSA leak above the fold on NYTimes.
+There! RT @thePeerJ: Hack4ac - A London Hackday to celebrate CC-BY on July 6th http://bit.ly/14T40Sh&nbsp;
+Ha! RT @skonkiel: The Scholarly Kitchen &quot;shakes things up&quot; by adding two more middle-aged white dudes to its homogeneous roster of authors
+OA jnls have simpler &amp; more transparent financial model says @MikeTaylor http://tinyurl.com/lddvcdp&nbsp; Does this hold for non-APC funding sources?
+@MikeTaylor For authors/readers it may not be transp&#39;t (who is funding this &amp;for how long?); for eds it may not be simple (can I fundraise?)
+@MikeTaylor For authors/readers it may not be transp&#39;t (who is funding this &amp;for how long?); for eds it may not be simple (can I fundraise?)
+@MikeTaylor For authors/readers it may not be transp&#39;t (who is funding this &amp;for how long?); for eds it may not be simple (can I fundraise?)
+Yay. Github finally trimming some of its fathttps://github.com/blog/1529-repository-next&nbsp;…
+Go Pete! MT @jimtill: OA Now interview w/ @p_binfield of @thePeerJ http://bit.ly/19QA5Bf&nbsp; #OpenAccess via @OpenAccessNow
+Asking why funders don&#39;t demand full OA via @MikeTaylorhttp://svpow.com/2013/06/19/funders-have-all-the-power-in-oa-negotiations-so-why-arent-they-using-it&nbsp;…
+#science “@BetaScience: Last night I gave the guest speech at graduation for my old high school. Here it is: https://www.facebook.com/morgan.langille/posts/10151437992746433&nbsp;… #SRHS”
+Cynic in me says, &quot;Wow. Obama is really trumpeting climate change policy lately. Surely not to drown out domestic spying concerns!&quot;
+The @NewYorker suggesting mainstream journalists no longer a voice of opposition to gov&#39;t http://www.newyorker.com/online/blogs/johncassidy/2013/06/demonizing-edward-snowden-which-side-are-you-on.html&nbsp;… #snowden
+A plug for my favorite London DJ in Wales (&amp; our kids share blood). If you need a bespoke DJ at your next UK event http://www.epicstereo.co.uk/services.php&nbsp;
+The Zuck wld&#39;ve said &quot;OA - It&#39;s happening, bitch&quot; MT @p_binfield: My preso shld&#39;ve been title &quot;OA - It&#39;s Happening!&quot; http://blog.peerj.com/post/53830570248/open-access-whats-happening&nbsp;…
+Wonders if we can get more women involved in this hack event geared toward academics in London July 6http://hack4ac.eventbrite.co.uk/&nbsp;
+Wonders if we can get more women involved in this hack event geared toward academics in London July 6http://hack4ac.eventbrite.co.uk/&nbsp;
+@DrMagennis @essiepett Novices welcome. There will be informal offers to show you the ropes, perhaps a quick &quot;bootcamp&quot; &amp; non-coders needed
+pic.twitter.com/f0MTtwCgxQ
+Wonders if we can get more women involved in this hack event geared toward academics in London July 6http://hack4ac.eventbrite.co.uk/&nbsp;
+One week to go and nearly full capacity for #hack4ac already!!!http://hack4ac.eventbrite.co.uk/&nbsp;
+Am I missing something with Medium? I see no value-add to using it over other blogging platforms.
+Am I missing something with Medium? I see no value-add to using it over other blogging platforms.
+Am I missing something with Medium? I see no value-add to using it over other blogging platforms.
+Someone missed the memo on the benefits of Open Access http://andrewgelman.com/2013/07/02/19268/&nbsp;…
+Made my 1st comments on @cjlortie&#39;s @PeerJPrePrints last night. I actually do feel incentivized by the points systemhttps://peerj.com/preprints/39/&nbsp;
+Made my 1st comments on @cjlortie&#39;s @PeerJPrePrints last night. I actually do feel incentivized by the points systemhttps://peerj.com/preprints/39/&nbsp;
+Made my 1st comments on @cjlortie&#39;s @PeerJPrePrints last night. I actually do feel incentivized by the points systemhttps://peerj.com/preprints/39/&nbsp;
+Made my 1st comments on @cjlortie&#39;s @PeerJPrePrints last night. I actually do feel incentivized by the points systemhttps://peerj.com/preprints/39/&nbsp;
+Made my 1st comments on @cjlortie&#39;s @PeerJPrePrints last night. I actually do feel incentivized by the points systemhttps://peerj.com/preprints/39/&nbsp;
+I was however struggling with @PeerJPrePrints 1500 character limit. Hard to include points AND references to back them-up in 1.5k @cjlortie
+I was however struggling with @PeerJPrePrints 1500 character limit. Hard to include points AND references to back them-up in 1.5k @cjlortie
+Of all the US Independence days in my lifetime, today&#39;s is the most important. #restoreTheFourth #nsa http://www.restorethefourth.net&nbsp;
+Science funding is borked: Part II http://bit.ly/18xPKFq&nbsp;
+Anyone used Masonry / Isotope / Packery JS libraries in production before?  Any gotchas?  Any clearly better than the others?
+Retraction of 19-year-old Nature paper reveals hidden cameras, lab break-in, evidence tampering http://bit.ly/12foUtf&nbsp;
+Just at skillsMatter venue prepping tomorrow&#39;s #hack4ac w @IanMulvany. Freaking awesome venue! http://hack4ac.com&nbsp;
+With @IanMulvany &amp; today&#39;s #hack4ac geek prizespic.twitter.com/mNtGb1GPPm
+#hack4ac is about to kickoffpic.twitter.com/kL0QhfN1Mf
+#hack4ac pitches on the wall up for votingpic.twitter.com/2O5wFrAK1S
+About five main teams have formed at #hack4ac event. Teams off &amp; very focused atm.
+Shit, my alarm failed to go off again - still worth rocking over to #hack4ac? CC @rmounce @IanMulvany
+@rmounce 12,16,29,31,57,74,77,82
+ScienceGist a new tool at #hack4ac presentingpic.twitter.com/2rdmeZPUM6
+Now &quot;PLOS Author Contributions&quot; built at #hack4ac (&amp; uses @thePeerJ data)pic.twitter.com/wr6H5Nv21V
+Reservoirdogs at #hack4ac classifying @thePeerJ papers based on methodspic.twitter.com/sIY2vfWixf
+&quot;figures to data&quot; project at #hack4ac showing best figure everpic.twitter.com/g7I9B5dKqx
+&quot;Figures &gt; Data&quot; project transforms figures from @PLOS @thePeerJ BMC @figshare into CSV filespic.twitter.com/pgwlam6GuU
+And the #hack4ac delegates cooling off in the London heat w a pintpic.twitter.com/PjoOmGrMfQ
+The giants of #hack4ac Daniel, Matt, &amp; @petermurrayrustpic.twitter.com/eEcpc83BNe
+Married last weekend yet still at makes @juretriglav the trooper of #hack4ac (on right) w @IanMulvanypic.twitter.com/w0keJ87nNI
+Answering 25 tough interview questions, part 5http://wp.me/pPtWk-P9&nbsp;
+2 of hacking, 2 dozen of drinking. Perfect! RT @IanMulvany: Some pictures from #hack4ac http://www.flickr.com/photos/mulvanynet/sets/72157634547992581/&nbsp;…
+Just realized @thePeerJ has published more than 100 articles in its first 5 months.
+1st annual @thePeerJ family BBQ!pic.twitter.com/6jlUHG7nEZ
+The &quot;Shazam of bioacoustics&quot; paper discussed on NPR sciencehttps://peerj.com/articles/103/&nbsp;
+Hey, look: manuscripts don&#39;t require authors! #PeerJpic.twitter.com/aSmOJthCHO
+US House has voted to allow NSA to continue the mass phone metadata collection of all citizens. Welcome the Surveillance State
+US House has voted to allow NSA to continue the mass phone metadata collection of all citizens. Welcome the Surveillance State
+Amash amendment loses 217: 205.
+US House has voted to allow NSA to continue the mass phone metadata collection of all citizens. Welcome the Surveillance State
+Lawmakers Who Upheld NSA Phone Spying Received 2x the Defense Industry Cashhttp://flip.it/C7VOu&nbsp;
+Wrt last tweet, it&#39;s an outrage, but sadly not surprising
+TGIF- the day starts with a 4 hour LEED meeting in a jobsite trailer.
+TGIF- the day starts with a 4 hour LEED meeting in a jobsite trailer.
+Putting together my Facebook advertising presentation for the @distilled  meetup on Thursday from The Spaniards Inn on Hampstead Heath #yeah
+@rmounce @Mart_the_Thomps Doesn&#39;t look like that metagenomics paper has free access.
+Most popular news in NZ today: &quot;Woman steals ID to go partying&quot;, &quot;How to get out of a parking ticket&quot;, and &quot;How (not) to load a digger&quot;. #nz
+So, PeerJ PrePrints? ;) MT @eperlste: @neurobongo @debivort ... attempt to hack PLOS ONE/PeerJ model (&amp; sprinkle in arXiv)
+Yep, not Open Access MT @rmounce: I am deeply unimpressed that ResearchGate &amp; http://Academia.edu&nbsp; *force* you to login to download PDFs
+Yep, not Open Access MT @rmounce: I am deeply unimpressed that ResearchGate &amp; http://Academia.edu&nbsp; *force* you to login to download PDFs
+Thx to @IanMulvany coming to babysit, the lady &amp; I are going out for an overdue date night!
+Elsevier allegedly deleting comments on its Open Access video if competitors mentioned e.g. PeerJhttp://vimeo.com/72755742&nbsp;
+
+Alleged deletion of comments on new Elsevier video - is that innovating? Blogged http://bit.ly/1aqFcc8&nbsp;
+For @MikeTaylor &amp; other sauropod loverspic.twitter.com/5EatEeRPdC
+Question - Any anecdotes of authors NOT citing a source because it does not have a DOI (just a URL)? How common is this?
+&quot;Who Will Pay for Public Access to Research Data?&quot; reprint (PDF) at http://www.sciencemag.org/content/341/6146/616.full.pdf?keytype=ref&amp;siteid=sci&amp;ijkey=.e2Ezowko%2FxF2&nbsp;…
+&quot;Who Will Pay for Public Access to Research Data?&quot; reprint (PDF) at http://www.sciencemag.org/content/341/6146/616.full.pdf?keytype=ref&amp;siteid=sci&amp;ijkey=.e2Ezowko%2FxF2&nbsp;…
+6yr old comment on O&#39;Reilly Radar on Saas + GPL predicts the commoditization of services like Googlehttp://oreil.ly/19FmHOg&nbsp;
+Thank you VirginMedia for increasing my broadband by £4.25/mo this year. Only a 13% increase this year. Totally reasonable.
+http://Peers.org&nbsp;, a grassroots org founded by...corporations? Nice tear down of the &quot;movement&quot; at http://bit.ly/1dYHLSB&nbsp;
+@SonyUK Your SEN has been down/up all week. Your lack of communication in forums is apalling. Returning new Bravia ASAP
+If it is less expensive, does that mean quality goes down? #openAccess http://tmblr.co/ZoHRVwuIUVo8&nbsp;
+Why aren&#39;t we doing more about the surveillance revelations? Post on EnjoyTheDisruption http://bit.ly/17RHbkN&nbsp;
+Can someone fire this Pax brogrammer already? http://tmblr.co/ZoHRVwufXkrL&nbsp;
+Would it be unfair to summarise the new BIS #OpenAccess report as &quot;We&#39;re not going to be your bitches any more, publishers&quot;?
+.@jasonHoyt well done. And good luck for the future.
+Thoughts on ALPSP and future of society publishers - http://tmblr.co/ZoHRVwv0Nbhc&nbsp;
+Thoughts on ALPSP and future of society publishers - http://tmblr.co/ZoHRVwv0Nbhc&nbsp;
+Schmidt won&#39;t &quot;pass judgment&quot; because he benefits from it [spying] - Guardianhttp://www.theguardian.com/world/2013/sep/13/eric-schmidt-google-nsa-surveillance&nbsp;…
+No, not really. RT @LSEImpactBlog: Programming is becoming an essential tool to every field of research.http://j.mp/16e0Ppv&nbsp;
+Slightly uncomfortable granting @papersapp modification rights to *every* file on my dropbox account in order to sync :/
+Slightly uncomfortable granting @papersapp modification rights to *every* file on my dropbox account in order to sync :/
+Oh dear. Misguided piece in @timeshighered re need for Impact Factors in #REF2014. http://bit.ly/18f6uj1&nbsp; I&#39;ve commented
+Oh dear. Misguided piece in @timeshighered re need for Impact Factors in #REF2014. http://bit.ly/18f6uj1&nbsp; I&#39;ve commented
+Definition of New England (in my mind) RT @David_Dobbs: One of my favorite trees, in driveway next door. http://instagram.com/p/eziuISTQyR/&nbsp;
+One of my favorite trees, in driveway next door. #maples #autumn #vermont @ The Meadow http://instagram.com/p/eziuISTQyR/&nbsp;
+One of my favorite trees, in driveway next door. #maples #autumn #vermont @ The Meadow http://instagram.com/p/eziuISTQyR/&nbsp;
+WTF is up with Apple of late? - User testing fail http://tmblr.co/ZoHRVwwDna4B&nbsp;
+Rightly so.  US scientists boycott Nasa conference over China banhttp://flip.it/e6pHl&nbsp;
+Arctic research halts for first time in decades due to shutdown, meanwhile Congress continues getting perkshttp://www.huffingtonpost.com/2013/10/09/congress-government-shutdown_n_4065432.html&nbsp;…
+This is bad, really bad. Science has paywalled a retraction h/t @MikeTaylor http://www.sciencemag.org/content/342/6155/191.1.full&nbsp;…
+This is bad, really bad. Science has paywalled a retraction h/t @MikeTaylor http://www.sciencemag.org/content/342/6155/191.1.full&nbsp;…
+Finally removed the annoying virus on my Web experience, otherwise known as Google+
+46 million yrs-old and it still makes me feel itchy http://bit.ly/WYJU7w&nbsp; h/t @Protohedgehog
+No, you &amp; D.C. put the world at risk - House Speaker John Boehner: &quot;We fought the good fight, we just didn&#39;t win.&quot;http://on.cnn.com/19RW4Zc&nbsp;
+Indeed, biggest week yet for PeerJ MT @thePeerJ: For #OAWeek next week, we have a great selection of articles &amp; all have open reviews!
+Seriously loving the pink PeerJ Charlie for Breast Cancer Awareness Monthpic.twitter.com/unhtw63U8I
+Is this SSP&#39;s new Pres? &quot;Who are you? What qualifies you to edit this? I would love to compare credentials ...&quot; http://en.wikipedia.org/w/index.php?title=User_talk:Scholarly_kitchen&nbsp;…
+I just answered, &quot;What does Open Access mean to you?&quot; https://peerj.com/answers/33/&nbsp;
+Yes! Obamacare Program Released On 35 Floppy Diskshttp://www.theonion.com/articles/new-improved-obamacare-program-released-on-35-flop,34294/&nbsp;…
+Well deserved! RT @wilbanks: Third #SciASAP award goes to @EvoMRI for his work on making it easy to integrate OA content into Wikipedia.
+Loving today&#39;s PeerJ featured image from the Farke et al Baby Dino study https://peerj.com&nbsp;
+From now on I am blaming all PeerJ &#39;glitches&#39; on Obamacare contractors &amp; my dog
+From now on I am blaming all PeerJ &#39;glitches&#39; on Obamacare contractors &amp; my dog
+*switches phone to silent mode*
+Apples says 200M devices running iOS7 just 5 days after release. How many happy users though?
+&quot;if you let me brush your teeth then I&#39;ll let him [plastic hippo] fart on your arm&quot; - Partner negotiating w our 2yr old&#39;s demand for farts
+BS. We did it at Mendeley MT @mrgunn: Anurag highlights the problem of signing restrictive licensing deals as reason no API #scielo15
+Real reason - Google doesn&#39;t really like open re: lack of Google Scholar API cc @mrgunn #scielo15
+Real reason - Google doesn&#39;t really like open re: lack of Google Scholar API cc @mrgunn #scielo15
+Whatever this iPhone was doing before the 7.0.3 upgrade went wrong, it&#39;s doing 8GB less of it now
+In the house for #OAEdin w @McDawg @joyoung (Edinburgh)
+Really enjoyed #OAEdin in Edinburgh for #OAWeek Thx @McDawg @joysci and Jan!
+Setback 4 research “@MikeTaylor: I see that the relaunched PaleoDB uses the super-restrictive CC By-NC-ND licence. http://paleobiodb.org/#/faq&nbsp; ”
+New blog post: Commenting on scientific papers, about the recently launched PubMed Commons and commenting in general http://blog.martinfenner.org/2013/10/25/commenting-on-scientific-papers/&nbsp;…
+Panel question discussed at #OAEdin &quot;Shld PLOS lower its APC now that it makes $20-30M a year&quot; I said yes. #OAWeek
+My talk from #OAEdin RT @thePeerJ: PeerJ Blog - Changing the currency of science to solve our greatest challenges http://bit.ly/1dEey12&nbsp;
+Is there a way to split a 300MB GeoJSON file into a folder of static GeoJSON tiles?
+Is that a 60s lava lamp on the PeerJ front page or another @rdmpage project?pic.twitter.com/SqtJmvulhV
+Cuz the paper itself is immortal?! RT @IanMulvany: why tag authors as deceased, when in the end they all are?
+Reusable data - we&#39;re not there yet  RT @rmounce: PS if you missed my talk just now, the slides are here: http://www.slideshare.net/rossmounce/sharing-reusable-phylogenetic-data-were-not-there-yet&nbsp;… #tdwg
+A tad larger than when at Mendeley! MT @prokopp: How Facebook de-duplicates [300 Petabytes]http://j.mp/1a4Np3g&nbsp;
+CrunchBase responds to their attempted recall of its own CC-BY data &amp; legal intimidation http://info.crunchbase.com/2013/11/05/crunchbase-people-and-the-eff/&nbsp;… @creativecommons
+Wow. Google+ can&#39;t even get the vanity url thing right. Forcing real names + 1990s email naming schema e.g. `fullname1995`
+Is it just me, or does it seem like PeerJ is floundering a bit??
+Is it just me, or does it seem like PeerJ is floundering a bit??
+Start asking today! RT @BethSkw: Live Event - &#39;Ask Me Anything Journal Club&#39; with the Dino Joe authors - PeerJ Blog http://blog.peerj.com/post/66681632429/ask-me-anything-event-dinojoe&nbsp;…
+Is it just me, or does it seem like PeerJ is floundering a bit??
+Is it just me, or does it seem like PeerJ is floundering a bit??
+Is it just me, or does it seem like PeerJ is floundering a bit??
+Agree RT @PeroMHC: true, change there will be slower. @mfenner @jasonHoyt @urbanevol
+Is it just me, or does it seem like PeerJ is floundering a bit??
+I&#39;ve said it before &amp; I&#39;ll say it again: biologists shouldn&#39;t buy into hype surrounding publisher-hosted preprint servers - just use #arXiv
+So is a CC-BY-ND/NC/no-reuse preprint that #bioRxiv offers still allowed to be published in a peer-review journal that accepts preprints?
+So is a CC-BY-ND/NC/no-reuse preprint that #bioRxiv offers still allowed to be published in a peer-review journal that accepts preprints?
+Doing my Dr. Evil impression MT @thePeerJ: We&#39;ve saved academia $1M so far, and counting... http://blog.peerj.com/post/66773028124/peerj-saves-academia-money&nbsp;…
+Ecosystem boost RT @Mesosphere: We just released Elastic Apache Mesos - launch an @ApacheMesos cluster in 3 steps!https://elastic.mesosphere.io/&nbsp;
+Wow. MT @nils_gilman: What happens when you deprive global underclass of possibility of revolutionary redemption?  https://books.google.com/ngrams/graph?content=revolution%2Cterrorism&amp;year_start=1917&amp;year_end=2008&amp;corpus=15&amp;smoothing=4&amp;share=&amp;direct_url=t1%3B%2Crevolution%3B%2Cc0%3B.t1%3B%2Cterrorism%3B%2Cc0&nbsp;…
+Drank EXACTLY 1.333 pints of Sierra Nevada on last night&#39;s &quot;date night&quot; with the wifey &amp; woke up w/ headache. Getting old :/
+Drank EXACTLY 1.333 pints of Sierra Nevada on last night&#39;s &quot;date night&quot; with the wifey &amp; woke up w/ headache. Getting old :/
+Animated Checkboxes and Radio Buttons with SVG http://buff.ly/1iUYNAP&nbsp;
+@jasonHoyt I read your blog post on too many PhDs and was wondering if you could let me know where you got the graph?http://blog.mendeley.com/academic-life/are-there-too-many-phds/&nbsp;…
+@jasonHoyt I read your blog post on too many PhDs and was wondering if you could let me know where you got the graph?http://blog.mendeley.com/academic-life/are-there-too-many-phds/&nbsp;…
+@jasonhoyt Hi Jason. Wondered if we could discuss a talk about PeerJ at UCL next year? My details attached   http://ow.ly/qVMYP&nbsp;
+10 Science things to be thankful for. @invisiblecomma &amp; I involved w/ items 9 &amp;10! #PeerJ #Mendeleyhttp://bit.ly/1873Mtp&nbsp;
+Don&#39;t know why, but I love seeing manuscripts with inexplicable ALL CAPS titles
+No hell has not frozen over, but for once a balanced post on @scholarlykitchn wrt AcademicNetworkshttp://bit.ly/1bVRVEL&nbsp;
+I like Pope Francis. But Time choosing him as Person of the Year ahead of Edward Snowden is ludicrous and cowardly. http://edition.cnn.com/2013/12/11/living/time-person-of-the-year/index.html&nbsp;…
+Is Nobel Laureate Randy Scheckman being a hypocrite? Bullocks. - Whoa. Some serious debate flying around... http://tmblr.co/ZoHRVw10vtHRu&nbsp;
+New post: &quot;Is Nobel Laureate Randy Scheckman being a hypocrite? Bullocks&quot; http://bit.ly/1fjKsy1&nbsp;
+Sad that I will have to pull my first supervisor-less paper, because my fee waiver was rejected by Ecology and Evolution.
+It&#39;s live! MT @thePeerJ: This month&#39;s PeerJ Journal Club on &quot;Visual neuroscience &amp; magic&quot; starts now! https://peerj.com/ask/VisualNeuroscience/&nbsp;…
+Ho, Ho, Ho RT @IanMulvany: @rmounce it’s their little present to the academic community.
+What a jolly holiday season courtesy of Elsevier! Lumps of coal to al &amp; to all a goodnight! Takedownshttp://bit.ly/JKEMC3&nbsp;
+Geometric morphometric analysis of snout shape in extant ruminants (Ungulata, Artiodactyla)https://peerj.com/preprints/176/&nbsp;
+Or 1st of 2014 in London! MT @thePeerJ: Last PrePrint of 2013! &quot;Occurrence of twin embryos in the eastern bluebird&quot;https://peerj.com/preprints/186v1/&nbsp;…
+Thanks for the Christmas card to us at PeerJ @joysci. Just back in office today.
+@marksaurus come back and help build thishttp://www.wired.com/autopia/2014/01/skycycle/?cid=co16608294&nbsp;…
+We dig Irish accents RT @bkeeganMMU: Ive dropped [#Mendeley] Screencasts into a YT Channel... http://bit.ly/jluWS1 #econmsc
+Wikify research with new Mendeley tag pages e.g. http://www.mendeley.com/tags/gene+therapy/
+Science funding = military funding = worst analogy ever RE http://bit.ly/jfjxdL @stuartcantrill @sciencebase
+.@sciencebase @stuartcantrill No access to helicopters doesn&#39;t block military progress. No access to research does block progress of science
+Mendeley app update for iPad/iPhone: new is edit metadata, &amp; open PDF in app while in other apps http://bit.ly/gwrJAE
+I thought an article was #OA if @IanMulvany ordained it to be. cc @axfelix @mrgunn
++1 idea @mrgunn suggests microformats for #OpenAccess articles
+.@axfelix RU talking 1st rule of fight club here, wrt making #OA demarcation obvious &amp; explicit? cc @mrgunn @ianmulvany
+.@markasaurus artisan ale is beyond gentrified hipster; it&#39;s 1890s hipster.
+Early rise bird sings;
+Tea is made with milk de jour;
+Work brings chaos.
+@AnnaEvely Thanks! Hope Mendeley &amp; the music help The Cause. #savetheworld
+@DavidWaldock have you downloaded the latest Mendeley for iPad? Out last week. And r u on iPad1 or 2?
+Poll: Mendeley Search http://www.mendeley.com/research-papers/search/advanced/ or Goooooooogle Scholar? Pros &amp; cons
+Feel cultured now? RT @IanMulvany: Just back from giving a good Mendeley presentation at London Met!
+liked:  &quot;Is anyone doing work on alt-metrics for the arts? I&#39;m interested in learning more about approaches to...&quot; http://mnd.ly/kM29gl
+Grimsvotn and I are now bitter enemies.
+Tag page of the day &quot;DNA Unzipping.&quot; Naughty http://www.mendeley.com/tags/dna+unzipping/
+At mountain Goats London gig. Last seen in SF 3yrs ago. Guinness in hand. Makers Mark 3yrs ago
+@axfelix twas an awesome show
+Waiting for a succinct definition of what it means to pull a &quot;Google fail&quot; cc @subcide wrt google wallet/wave/buzz/etc
+&quot;To Google Fail&quot; = Over-promise 10x100, Under-deliver 10x100 /cc @subcide
+London-based hacker? Come hack4knowledge at Mendeley HQ June 11/12. Tix+info http://hack4knowledge.eventbrite.com/
+Back from a lush week of Greek beaches, Mythos, &amp; no Internetz. Ahhh.
+Free tix still left for London&#39;s Hack4Knowledge weekend at Mendeley HQ http://bit.ly/lA7lmp (NYC is sold out)
+Libs &amp; Conservs brains really are different. Paper co-auth by Oscar winner Colin Firth http://mnd.ly/iVq0QT via @paperoftheday
+Sneak peek of new deduplication feature in Mendeley. There&#39;s more &amp; release is soon.  http://yfrog.com/edrzip
+Finding suggests Mendeley was 3rd largest UK OpenURL referrer in April, beating Medline &amp; Scopus http://bit.ly/k4uTGv
+Yay! RT @plos: PLoS and Mendeley team up to bring you a rockin Binary Battle - $16,000 in prize money! http://tinyurl.com/BinaryBattle
+Study suggests full bladders help us make better decisions http://bit.ly/lYnIuv
+@subcide unlimited tea and asparagus should help as well
+Paper of the day: &quot;Social rejection shares somatosensory representations with physical pain&quot; http://mnd.ly/jt03rV
+I, for one, welcome our new PLoS ONE overlords. RT @brembs: An oligarchy of Mega-Journals http://ff.im/-FeKc9
+@IanMulvany don&#39;t get me started on how many unread and irrelevant emails currently collecting dust.
+Did you know?! Amazon has kindly offered $50 AWS credits to ALL valid Mendeley/PLoS API contest entrants http://bit.ly/hETJ55
+Serious hackathon multi-continental coordination! Hack4Knowledge NYC-London schedule at Mendeley http://bit.ly/mdFXEA #h4k
+@Droideley Hi all,
+
+Thanks for contributing to Open Science! Just a note that we intend to release a new method to... http://post.ly/2AAgW
+Score for citizen scientists. Google Earth now includes sea floor maps. What will the crowd discover? http://tcrn.ch/l9CYop
+Send a tweet to @LoveMendeley &amp; this bot goes wild at Mendeley HQ in London (pic) http://yfrog.com/h25ljbqj
+.@rdmpage Good thought on XML for some titles. WRT link to paper, title-based dedup of 1bn refs is no easy feat. Stay tuned
+.@rdmpage Thx for the ideas! Don&#39;t stop believing that we&#39;re taking academic discovery to the next level http://bit.ly/i0S6E0
+You can&#39;t cultivate the innate geekery going on here. A viral Magnum ice-cream campaign has started at Mendeley London HQ
+Happy coding! RT @rdmpage: Getting ready for #h4k (on the Isle of Cumbrae)
+Watch Hack4Knowledge live streamed at Mendeley London http://bit.ly/kp7fYT and NYC http://bit.ly/lfqwu8 #h4k
+Hack4Knowledge kicks off 2:30BST/9:30EDT. Join IRC channel hack4knowledge at http://webchat.freenode.net/ cc @McDawg #h4k
+Just Found research http://www.mendeley.com/research-papers/search/?query=Successive+and+Targeted+DNA+Integrations&nbsp;… abt this page http://www.ncbi.nlm.nih.gov/pubmed/21652525/&nbsp;… using Mendeley Related Research for Chrome #h4k
+Hack using Mendeley APIs &amp; Chrome extension to find related research of Web page (pic)  http://yfrog.com/ke39jp #h4k
+@David_Dobbs soooooon
+Update on Mendeley Related Research Chrome extension. Now have Facebook &amp; twitter sharing (pic)  http://yfrog.com/h0oiydp #h4k
+Found research on Mendeley about &quot;A longitudinal popula...&quot; using Mendeley Related Research Chrome extension http://www.ncbi.nlm.nih.gov/pubmed/19157689&nbsp; #h4k
+@subcide shares url of page you are looking up. Had mendeley url also, but was too much
+Totally spent after a geektastic Hack4Knowledge weekend. Thx to all the external devs who hacked with us in LON &amp; NYC! #h4k
+Found research about &quot;Living Bibliography...&quot; using Mendeley Related for Chrome http://livingbib.organelas.com/&nbsp;
+Neat mashup by @rathko - Wikipedia pageviews + Mendeley APIs to show trending topics &amp; related research http://bit.ly/l1qJKf
+.@ChemConnector @jasonpriem I think it just looks at what&#39;s trending on wikipedia, then adds relevant research articles
+Mendeley recommendation engine now offers holiday suggestions!  http://yfrog.com/kfm8jp TY @subcide
+.@ezyang come work for us and help improve our algos! #win http://www.mendeley.com/blog/jobs/
+Leave tomorrow for the Edinburgh International Film Festival all weekend! http://www.edfilmfest.org.uk/
+&quot;Back door method to getting articles in PubMed&quot; - Or just add it to Mendeley for it to be discovered http://bit.ly/jFEBUi
+.@subcide starts new meme: &quot;Celebrate Mendeley 1.0 dev preview by [insert activity 1.0]&quot; http://bit.ly/19rD9i
+A few weeks back I posed &quot;What could you do w/ extracted keywords from 100yrs of research?&quot;  Tag trends  http://bit.ly/my4iL7
+And with @IanMulvany RT @IanMulvany: great brainstorming session with @jasonHoyt
+Great! RT @williamjnixon: We are also seeing an increase in traffic to Enlighten from links in #Mendeley  #googleanalytics #oai7
+Dreaming of a world where copyright cannot be held by corporations, only individuals. Science would benefit.
+There&#39;s a sign up on the convenience shop below the Mendeley office &quot;Now less expensive BEARS&quot;
+@jenn_melon they do if Polar Bears are cheap. Must go elsewhere for high-class, premium bears /cc @subcide
+Indicates academia under-represented on LinkedIn RT @mendeleyAPI: Data Insight mashup using Mendeley and LinkedIn APIshttp://datainsightresults.wordpress.com/2011/06/26/team-15/&nbsp;…
+Congrats to Katherine High, grad student Hojun, &amp; colleagues on their Nature paper. Related to my work w/zinc-fingers http://bit.ly/mCtXlT
+The giant bladder in the humid London sky is about to burst open. 1, 2, 3...
+Our @IanMulvany walked into Mendeley HQ wearing a phytological society t-shirt. My t-shirt says &quot;Grok&quot; #geektastic
+.@techsoc All your citation data can be exported or pulled out of your local SQLite database. No lock-in w/ Mendeley
+Visiting scholar @mgrani gives an update on his work at #Mendeley in near-duplicate detection + more... http://mnd.ly/iJmWfl
+Just made my last frickin&#39; tube commute into the office. Walking distance now. Ahhh
+Just peed myself a lil&#39; bit with excitement of Mendeley 1.0 almost here!!
+2 minutes in heaven MT @cpf118: the official Mendeley tutorial videos now live on our YouTube channel http://bit.ly/p9JPMZ
+Excited 2b joining the Mendeley Webinar for Life Scientists w/@mrgunn as host! Starts in 40 mins. Signup http://bit.ly/mVPwbM
+@subcide welcome to 1995 browsing history JS function!
+.@McDawg on my way to Scotland w/ a Becks!
+Running Github like a paywall science journal http://wgrover.com/writing.html#science_for_github
+Vowed to not shave until Mendeley 1.0 stable is released. Oh boy.
+Current state of Beard 1.0 dev preview  http://yfrog.com/ke4gnavj
++1 RT @David_Dobbs: @IanMulvany c&#39;mon, ian. step up for the company.
+How &quot;Open&quot; is PubMed Central really? Answer, not very open at all http://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/
+Only 4.5hrs to go RT @IanMulvany: 20 hours and 42 minutes until my next meeting, which will be with @jasonHoyt
+Just blogged. &quot;Why We Publish&quot; http://www.mendeley.com/blog/academic-life/why-we-publish/
+I take it back. Perhaps Europe/UK can&#39;t compete with Silicon Valley.
+@dominikb1888 Indeed
+Just blogged (again)! &quot;Why we Publish&quot; http://www.mendeley.com/blog/academic-life/why-we-publish/
+FYI - some glitches leading to 404. Hence the repost.
+.@researchremix Cites are already biased &amp; used indiscriminately, let&#39;s at least bias them with added-value open content
+@axfelix @researchremix - we can arguably argue this one til the cows come home :). TGIF
+@axfelix search weighting is mainly abt full text giving more relevant results than metadata alone. OA issue aside, we&#39;d still do it
+@Philip__Murphy which 64-bit OS are you trying to use Mendeley on? Let&#39;s get that fixed for you!
+@Philip__Murphy Will  ask our engineers to take a look at the Word plugin for 64 bit. Let you know...
+@Philip__Murphy For now, installing Office 32 bit is the only option, which I totally understand is not convenient.
+@Philip__Murphy We&#39;re in the process of prioritizing the post 1.0 release roadmap, so can&#39;t give you ETA now, but it&#39;s high priority.
+The digital age is the end of the copyright era. Someone just needs to tell the lawyers re: http://nyti.ms/o3YLOu
+.@drs1969 True abt indictment being theft, not copyright. That said, OA as @wilbanks cites, wld have avoided this mess.
+.@drs1969 My feeling abt copyright in digital age is that it is legally upheld biz model that slows, not advances, research. Reform, yes
+.@drs1969 To reform copyright, let new biz models emerge from how the market uses digital objects, rather than proscribe rules beforehand
+And to think I had once aspired to become a U.S. astronaut. RIP NASA flight program.
+Insanity. Out-of-copyright science articles stuck behind a $19/paper JSTOR paywall. Until now http://bit.ly/ot8DqM
+Will the JSTOR/PirateBay news be Academic Publishing&#39;s Napster moment? i.e. end of the paywall era in favor of new biz models?
+*raises hand. I know! I know!  RT @cpf118: What is Mendeley? http://bit.ly/nMMBQf
+Mendeley 1.0 is here! Which means I can now shave Beard 1.0!  http://yfrog.com/h3q30phj
+@jendahling Sweet gig you landed! Nuclear physics?! ;)
+Mustache 1.0 is now growing RT @IanMulvany: holy shit, @jasonHoyt has shaved, must mean that Mendeley 1.0 is out!
+RE@ChemConnector  So creating your citation list via http://bit.ly/pICZqI needs some work!
+I have one. RT @rvidal: Tell us about your ideal science app &amp; we’ll get someone to build it.http://www.mendeley.com/blog/developer-resources/tell-us-about-your-ideal-science-app-well-get-someone-to-build-it/&nbsp;…
+@phylogenomics I&#39;m mobile today, but heard you&#39;re having issues w docs vanishing. Cld you email me a verbose log file? &#39;Help&gt;FAQ&#39; 1/2
+@phylogenomics may have system-specific issue, so if log doesn&#39;t help let&#39;s set up a call later Monday w engineer here in London 2/2
+I like! RT @PLoS: Tim O&#39;Reilly comments on the PLoS/Mendeley API Binary Battle &quot;[make] science go faster&quot;http://tinyurl.com/TimO-ReillyBinaryBattle&nbsp;…
+Science app ideas from the crowd http://bit.ly/nRJ2rW&nbsp; (join the PLoS/Mendeley API Binary Battle)
+@giocalitri See here for brand elements http://dev.mendeley.com/docs/display-guidelines&nbsp;… cc @MEndeleySupport
+Hehe, &quot;...dinos lived at least 500yrs ago&quot; New blog via @phylogenomics on num of species article http://bit.ly/oa49AU&nbsp;
+@giocalitri OK just to use the logo &amp; remove the text. See for example PLoS use (note old logo being used tho)http://bit.ly/oeC2uA&nbsp;
+What do people think of the feed tab on Spotify? Useful? Interesting? Items relevant to you?
+Interesting. &quot;Academic publishers make Murdoch look like a socialist&quot; in the Gaurdian http://bit.ly/om8d58&nbsp;
+I had more typos in my last tweet than my entire thesis. :/
+Scholarly Kitchen at it again with their BS comebacks. This time against Guardian&#39;s Monbiothttp://bit.ly/pGJQJf&nbsp;
+.@drs1969 Safe to say the writers of both stories have an agenda. I&#39;ll leave it at that. No need to comment on blog
+@philipmcdermott More the merrier! ;) I think the commenters have highlighted that quite well.
+Was Monbiot&#39;s blog rhetoric or more? See this analysis on library STM costs http://bit.ly/k4Ljwo&nbsp; Slides 5-8,12
+How old is that in &quot;blog years?&quot; Congrats! RT @PLoS: Happy first birthday to PLoS Blogs -http://bit.ly/PLoSBlogsOneToday&nbsp;…
+Amazeballs. Yesterday Mendeley users added half a million articles. Took us five months to get our first 500K. Total now 109M
+Rumor is true. Hackday at Mendeley HQ in London on Sun. Speak w/ @mfenner @ianmulvany @jasonhoyt for more info #solo11
+API stat. In 2 wks Mendeley will pass 1000 developers using the API launched 14 months ago. #solo11
+.@IanMulvany Was the applause that publishers are killing off PDF in favor of HTML5? #solo11
+Just open sourced the Twendeley app at the Mendeley/Science Online hackday #solo11https://github.com/jjhoyt/Twendeley&nbsp;…
+.@pixievondust You can try out Twendeley at http://bit.ly/ad5nKQ&nbsp; or get the source code athttps://github.com/jjhoyt/Twendeley&nbsp;…
+Second app of the day now on Chrome extension store &quot;Mendeley Context Search&quot; http://bit.ly/nVJz1h&nbsp; #solohack11
+@subcide Carles is doing some CSL stuff. Rob is ???? Others doing article level metrics apps
+@egonwillighagen Query depends on domain. Sometimes page title, but checks for query param on some search engines before using page title
+Updated Mendeley Context Chrome extension. Now shows Mendeley readership for PubMed articles  http://yfrog.com/ny8b3p&nbsp;
+Cool! @mfenner tackles article-level metrics by extending the open sourced @PLoS API serverhttp://bit.ly/pU3gpw&nbsp;
+Off to Whitstable, England for final weekend  holiday outside London before the baby!
+That&#39;s awesome for newsfeed updates! RT @IanMulvany: unofficial chrome extension for Mendeley is nice: https://chrome.google.com/webstore/detail/dmjdlnefabajccabhbemdnodgelechkd&nbsp;…
++shagtastic judges panel RT @mendeleyAPI: Just 15 days left to enter the $16K Mendeley PLoS API contest http://bit.ly/e9EiYE&nbsp;
+Looks Presidential RT @mendeleyAPI: Liking the blue feel of this third party Mendeley app for Android &quot;Scholarley&quot; http://bit.ly/pxFJFH&nbsp;
+Excellent. iPhone crashed, had to do restore, nothing backed up (txts, phone nums, photos) since Nov 2010 apparently.  Boo-yah. Life restart
+Huge $$$ prizes RT @mendeleyAPI: Last call to enter the PLoS &amp; Mendeley apps for researchers contest! Bloghttp://bit.ly/pxhYwl&nbsp;
+Any ideas why most academic publishers don&#39;t use unique names for downloaded PDFs? e.g. SDarticle.pdf instead of insertDOI.pdf
+Reading Scholarly Kitchen is like running into that stodgy old professor in the hall who refuses to accept a new dogma posed in his field
+Guide to using Mendeley on Android - bloghttp://www.mendeley.com/blog/tipstricks/android-on-mendeley-an-app-guide/&nbsp;…
+Groupon seemingly in trouble again with exec depart. &amp; revenue revise. Also, see this prediction from last year http://bit.ly/rb3DMQ&nbsp;
+Mayor Boris tells us to report bad roadworks. I like the bad example photo http://bit.ly/p5hwrX&nbsp;
+Ha! &quot;How about zero?&quot; Scientist meets publisher to negotiate a paper deal #OAhttp://youtu.be/GMIY_4t-DR0&nbsp;
+Open Access journals to account for 90% of articles by 2020 one analyst estimates http://bit.ly/mPvydD&nbsp;
+Entrepreneurs near Seattle! Join Startup weekend EDU edition &amp; pitch/build the next startup Sep 30th http://bit.ly/q2eLxO&nbsp;
+@phpeach irony is that you tweeted that statement
+Fab! RT @Droideley: Droideley (#Mendeley #Android client) installed on 1000+ devices! Cool :)
+@gedankenstuecke Can you give me more info wrt your app? Email best. 1M is a lot, so unlikely w/o good reason. cc  @mendeley_com
+In the past 7 yrs Apple stock has grown 5000%. Holy $(#@
+Cool for scifi/dystopia/fantasy book fans. Flowchart guide to NPRs top 100 scfi books http://bit.ly/rbQ3ch&nbsp;
+Great article on why scientists need to be more vocal in public &amp; publish in open. Ans: Cuz the public is hurtinghttp://bit.ly/p4W2As&nbsp;
+@PeerEvaluation thx!
+Princeton bans academics from handing over copyright to publishers. Promoting OpenAccess http://bit.ly/pdbhC9&nbsp; #OA
+The Princeton banning of handing over copyright has sent a shiver down my spine &amp; a shock wave across academic publishing.
+New group to collect Uni policies on #copyright &amp; #OA for other Unis to model after Princeton precedent http://bit.ly/p7naDh&nbsp;
+@sshreeves Fantastic! Yes, realize it wasn&#39;t first precedent, but it&#39;s certainly making waves
+@David_Dobbs See http://www.cs.princeton.edu/~appel/open-access-report.pdf&nbsp;…  for details
+@David_Dobbs No tapping atm. A JISC funded grant that we wrote is enabling this though http://bit.ly/cKvJ7z&nbsp; (sadly out of date blog!)
+@communicating good shivers indeed.
+Willing to pay $5/mo 4 streaming music, but not 4 something that improves your research (career)? #whatsWrongWithWorldToday
+@delaiglesia it&#39;s investing in your career
+@delaiglesia hah. interesting
+.@egonwillighagen I was speaking in general terms abt investing in your career. Not abt Mendeley or similar tools cc @dominikb1888
+Last day to enter the Mendeley/@PLoS Binary Battle apps contest! Winners announced Nov 30th http://bit.ly/hETJ55&nbsp;
+Congrats to @plos on their refreshed website &amp; mission statement! http://www.plos.org/&nbsp;
+I think that&#39;s a 1st RT @Pewology: Whenever I end up on Mendeley.com, I keep expecting it to be a UNATCO website.
+Founded http://Ologeez.org 2006. Last commit end &#39;08. Joined competitor Mendeley 3mo later. Shutting down Ologeez Oct 7 2011
+Hello World. No baby as of yet. Amazingly, I will actually tell you when he does arrive. It&#39;s not a secret. So, please stop asking. XO!
+Apple could have saved $13B in lost market cap today by calling the iPhone 5 instead of 4S. Oops.
+@Stew @mrgunn @enroweb Yes, a blog is planned. Stay tuned!
+Attn academics and students! RT @mrgunn: In London? Want to help Mendeley out? Join us for user testing next week:http://bit.ly/r0A3KG&nbsp;
+New arrival! My son baby Elliot was born this morning in true Binary Battle style on 11-10-11! http://yfrog.com/o05j8wrj&nbsp;
+Baby Elliot&#39;s first shot and breath of life  http://yfrog.com/h7ajrsquj&nbsp;
+@David_Dobbs as in, his mom tells me he&#39;s mine anyway ;)
+@cpf118 @Mendeley_com @mrgunn @subcide Thx! Now it&#39;s time to run sleep(8hrs) after the 36hrs labor
+Yesterday&#39;s @NewYorker cartoon &quot;Turns out everyone here is self-published.&quot; The future of academic publishing? #OpenAccess Wk
+The modern family  http://yfrog.com/h374ymxj&nbsp;
+@subcide his mum wasn&#39;t happy abt his twitter handle :) received DMCA takedown
+Cool use of the Mendeley &amp; @PLoS APIs in the openSNP project http://opensnp.org/snps/26324#mendeley&nbsp;… #personalGenomics
+As a techie, I&#39;m embarrassed to admit this: I just now replaced my iPhone 3G after 2.5 yrs. iPhone 4S baby.
+Top 40 Apps to benefit science in the Mendeley-@PLoS Binary Battle . Day Onehttp://bit.ly/rUdgGc&nbsp;
+Day 2 of the Top 40 Apps to benefit science in the Mendeley-@PLoS Binary Battlehttp://bit.ly/s0JYgL&nbsp;
+Wow! RT @axfelix: @mendeley_com @plos I&#39;m blown away by results of the binary battle. This is more &amp; better work than has been done in yrs
+MT @axfelix: OMG it&#39;s a citation visualization that&#39;s actually useful for browsing. OMG. I&#39;m going to go make coffee. http://vyzkumap.net/&nbsp;
+Day 3 of Top Apps to benefit science in the Mendeley-@PLoS Binary Battle is now out!http://bit.ly/tswT7q&nbsp;
+Day 4 of Apps to benefit science in the Mendeley-PLoS Binary Battle. +full-list recaphttp://bit.ly/vtcZFO&nbsp;
+If we can sequence a human genome for $100, why can&#39;t we openly publish for $100? http://openrepub.org/&nbsp; via @OpenRePub
+Ausgezeichnet! RT @delaiglesia: New blog post (German): Mendeley/PLoS API Binary Battle http://bit.ly/uPGI3P&nbsp;
+The boy weighed in at 10lbs 12oz in his latest checkup. Three pounds in just 4 weeks since he was born! Mama has some good milk
+Happy Birthday, Carl Sagan. I&#39;m still inspired.
+Siri. Please tweet ... Oh wait. Silly me for thinking an integrated Twitter with iOS 5 would work w/ you. Siri - &quot;STFU, Jason.&quot;
+Why in the H-E-double hockey sticks am I not at #Berlin9 ? I want to marry you.
+#Berlin9 why wld I publish in a journal that didn&#39;t have the sense to secure the .com/org domain names b4 announcing itself? eLife?
+The top 20 things. Ever. http://bit.ly/3n6rFh&nbsp;
+.@PLoS &amp; @Mendeley_com will be announcing the Binary Battle Top 10 apps to impact science in about one hour.
+Announcing the Top 10+1 Apps in the Mendeley-PLoS Binary Battlehttp://bit.ly/s7uE8k&nbsp;
+.@openSNPorg congrats! Great app and concept :)
+Also check out the complete Binary Battle rundown w/ judges + the Top 10+1 apps on the dev portal http://bit.ly/twkfLB&nbsp;
+Sh%t! Swearing more in life reduces pain tolerance when you stub your toe &amp; shout f%&amp;. Research says http://1.usa.gov/tPPWF6&nbsp;
+More amazing apps almost in the Binary Battle Top 10 http://www.qrate.me&nbsp; http://vocabulari.se&nbsp; http://moodley.fidesol.org&nbsp;
+Congrats to the 50 millionth DOI assignee from CrossRef! Oddly enough, it&#39;s a scanned paper from 1985 http://bit.ly/vR6vQl&nbsp;
+Public voting now open to decide who should win the Mendeley-PLoS Binary Battle! http://bit.ly/u1WjHL&nbsp;
+Hope they fire that &quot;officer&quot; RT @markasaurus: Everything I thought would never happen in this country http://bit.ly/sJ12gu&nbsp;
+.@markasaurus perhaps we need national policies on how to properly handle these situations w/o law enforcement. Our leaders have failed
+liked:  &quot;(for those of you who missed it) PLoS One is launching a brand new altmetrics collection. Details and CFP...&quot; http://mnd.ly/u39pbP&nbsp;
+Heat-map of the Mendeley-PLoS Binary Battle voting across the world thus far http://yfrog.com/o02qep&nbsp;
+@jamesjgill that heat-map is produced by surveygizmo
+The world needs both the &quot;Microsofts&quot; &amp; &quot;Apples.&quot; Tradeoff is backwards compatibility vs. innovation; diff need/diff times
+@hoteit nice points!
+Fair to say that Dropbox is just a fancy GUI for git repos?
+Ironically, story behind pay wall RT @michael_nielsen: Paul Allen on the case for open science:http://on.wsj.com/vFPWx4&nbsp;
+45 minutes until we announce the Mendeley-PLoS Binary Battle Apps for Science winners.  5PM GMT / 9AM PST
+#oa openSNP wins PLoS/Mendeley Binary Battle http://bit.ly/vwmCZV&nbsp; on PLoS BLog, and Mendeley bloghttp://bit.ly/siSrCj&nbsp;
+@gedankenstuecke ha yes, forgot to ask/warn you about your server robustness for after the announcement :)
+Devs of @totalimpactdev said of Binary Battle &quot;You&#39;ve inspired innovation that wasn&#39;t otherwise happening&quot; Thx! let&#39;s keep inspiring!
+Check out the interview with the Binary Battle Apps for Science winner, @openSNPorghttp://bit.ly/unhn1w&nbsp;
+Help the Mendeley-PLoS Binary Battle winner, @openSNPorg, win a grant to genotype people for freehttp://bit.ly/trV9gU&nbsp;
+ZOMG. I&#39;m babysitting Elliot tonight, by myself. Father/son party!
+And spit up all over his outfit within 10 minutes of mama leaving. Party&#39;s started!
+I want a pair of these. Sergey Brin was 2500 years behind.pic.twitter.com/TR6vnxX2
+Happy belated fifth birthday, @PLoSone ! http://bit.ly/rUjqMV&nbsp; cc @PLoS
+Sad news all, I left Mendeley. What a great 3yrs! Good news, started project to disrupt another industry.
+Postdoc truckhttp://upmic.wordpress.com/2012/01/03/postdoc-truck/&nbsp;…
+@p_estienne TY! Still within the science industry. Will let out more info soon!
+@chris_koerner Still in London for the moment
+At Somerset Housepic.twitter.com/jDG1RLwb
+.@subcide Haven&#39;t seen Sherlock. Better question though, are his thoughts in anachronistic font?
+Elsevier execs spanked  &#39;...whose sole purpose it is to lobby governments into preventing Open Access&#39; http://bjoern.brembs.net/comment-n819.html&nbsp;…
+@cparnot will let you know!
+w/ RWA &amp; SOPA, Elsevier+paywall publishers are only delaying their inevitable crash. Shareholders will be jumping ship soon
+Now that I&#39;ve left Mendeley I can freely state that AAP+Elsevier are the biggest threats to science existing today
+@pascal_biotech This is why (amongst other reasons)http://nyti.ms/y5hQFD&nbsp;
+@EndoMetabPub as a whole, yes. Chopped liver. We can do better.
+@EndoMetabPub Sure! Come work with me instead!
+@jasonpriem but their shareholders are happy :D
+Good article and written on my 35th b-day! RT @BoraZ: Does the journal really matter anymore?  http://bit.ly/z3DJDx&nbsp;
+I always ask myself, &quot;Have I failed enough to succeed yet?&quot; 10 things entrepreneurs [SHOULD] fail athttp://tcrn.ch/z9XJhu&nbsp;
+@axfelix @jasonpriem @researchremix Thx!
+@communicating Thanks! Tho the b-day was abt 2 weeks ago :)
+.@CameronNeylon Did someone say &#39;beer?&#39; cc @mfenner @wjjessen
+Elsevier+Execs made 14 &#39;donations&#39; to main #RWA Congress backers, Issa &amp; Maloney, in 2011 http://bit.ly/xcsgq9&nbsp;
+Time to vote them out. List of US Congress members taking contributions from Elsevier http://bit.ly/xNBZEC&nbsp;
+.@subcide Even if the contributions totaled just $1, it still shows legislation can be bought by outsiders.
+Great! RT @gfry: @jasonHoyt Jason, have you seen &quot;Open Knowledge Saves Lives. #OpposeHR3699 ! http://bit.ly/wJ6oVF&nbsp; #RWA
+You don&#39;t get to destroy science just because it doesn&#39;t fit your biz model #RWA
+And coding resumes.  return $awesome;
+How Microsoft would redesign the BOX of Apple product.http://www.youtube.com/watch?feature=player_embedded&amp;v=EUXnJraKM3k&nbsp;…
+Do startups need &#39;Wartime CEOs?&#39; - &quot;Wartime CEO violates protocol in order to win.&quot; http://bit.ly/eqMuIl&nbsp;
+@subcide sounds like a lifestyle startup biz then
+@invisiblecomma new planet = ??
+.@TeamSantorumTX Oops! Wrong jasonHoyt. This one is a liberal, gay rights supporting, blue state scientist. Good luck.
+Annoying @VirginAtlantic &quot;pre-flight courtesy&quot; call is actually a sales call, costing me mobile minutes + time.
+Wow. @37signals sounds like they&#39;d be fans of SOPA. Drop the hate of @curebit already. You both look foolish.
+Adding some fuel RT @wilbanks: After years of activism, first true body blow to Elsevier comes from passive resistance http://bit.ly/zYS18t&nbsp;
+@drs1969 lovefilm streaming is terrible quality. So fed up I switched to Netflix as soon as it landed in UK, much higher quality.
+@drs1969 A big overlap in selection, with more US tv/films than lovefilm. Wld say absolute numbers abt equal for now
+@drs1969 Wld add that Netflix killer app is actually the UX and rec engine. Kills all others.
+Ten Things You&#39;re Not Allowed to Say at Davos http://blogs.hbr.org/haque/2011/01/ten_things_youre_not_allowed_t.html&nbsp;…
+.@simonbayly @stephen_curry didn&#39;t analysts also say that pets.com was a good buy in 2000? :) re: Elsevier stock
+Elsevier is &quot;committed to the broadest possible dissemination of published research.&quot; Until it hurts profit$ http://bit.ly/yZvsUl&nbsp;
+Out now. I co-authored a chapter on usage metrics in science (avail from MIT Press)  http://yfrog.com/obezlmyj&nbsp; #mendeley
+More double speak from publishers to law makers abt OA as threat to viability of research. This time in UK parliament: http://bit.ly/ACkxej&nbsp;
+Speaking today in San Francisco at Molecular Med Tri-Con. I talk data! Yum http://bit.ly/A7aRVL&nbsp;
+Congrats! RT @BioMedCentral: 2012 Benjamin Franklin Award Finalists Named http://ow.ly/9kARH&nbsp; #science #openaccess
+Shouldn&#39;t have to be Indiana Jones to find a research paperhttp://m.theatlantic.com/technology/archive/2012/02/google-trained-minds-cant-deal-with-terrible-research-database-ui/253641/&nbsp;…
+@_krisjack wrt group search futility: suggests indexing should also include the group papers, not just the group name &amp; desc
+@finiteattention If you don&#39;t already know what youre looking for, of course!
+1 of my former PhD thesis advisors just shared a link to his latest genomics paper, which is behind a paywall. I felt like chastising him
+And it will *only* cost me $20 to &quot;rent&quot; his paper for the day from Genome Research. Fabulous!
+Work/Family balance lesson #32-When present, BE present. Partner gently reminded me this morn while I was working on the laptop, in bed
+The always interesting @petermurrayrust &amp; his synopsis on the scholarly pub debate held w Elsevier &amp; others http://bit.ly/AbrVAS&nbsp;
+.@invisiblecomma @petermurrayrust you can&#39;t copyright a fact, which is why the US takes a friendly legal stance on text mining, UK following
+Fail already. SearchMe tried this RT @TheNextWeb: Oolone: A visual search engine designed by a London neuroscientisthttp://tnw.to/1DWzS&nbsp;
+My academic goth friends will like this; Journal of Dracula Studies. For real. http://www.blooferland.com/drc/index.php?title=Journal_of_Dracula_Studies&nbsp;…
+Amused that my GMail auto-detects mail from Google corporate as spam.
+Great! RT @creativecommons: Announcing the Why Open Education Matters Video Competition! w/prizes up to $25,000: http://bit.ly/wE20uP&nbsp; #OER
+Good market intel RT @wilbanks: Challenges in big data. By some of the shiniest brains in big data. http://bit.ly/xn2D3w&nbsp;”
+.@kristiholmes @researchremix check Canada law, but in US text mining is generally allowable, regardless of what someone&#39;s TOU might state
+In the latest OA newsletter, @PeterSuber argues that non-#OA publishers knowingly distort the facts http://bit.ly/yIo0on&nbsp;
+The 1953 double helix paper was never peer-reviewed at Nature.  Is there a new pub model in that fact? http://bit.ly/y1vQUn&nbsp;
+Important RT @thePeerJ: 12 points to fight the misinformation campaign led by non-OA publishers against #OA &amp; #FRPAA http://bit.ly/xsuKrm&nbsp;
+@cdanielcadena @David_Dobbs irony noted.
+Visions of Terminator. This scares me. DARPA has developed the world&#39;s fastest robot cheetah: http://glpo.st/zYMMbj&nbsp;
+It&#39;s concerning when academic publishers claim to advance science, but then oppose bills in congress that wld do such #FRPAA
+The American Association of Publishers now promoting xenophobia argues @mbeisen http://bit.ly/Ajz1ev&nbsp; #FRPAA

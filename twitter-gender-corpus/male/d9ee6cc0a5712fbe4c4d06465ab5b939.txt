@@ -1,0 +1,872 @@
+@tinyFey just send me an email with your resume and any other pertinent information -- thanks!
+@lintool @abdur does twitter even have product that does event detection? trending topics != events.
+i used to think the limit (as t -&gt; infinity) of unread emails in my inbox was convergent, but recent evidence refutes that hypothesis.
+dear @KAYAK, please stop with the horrible &quot;personalized&quot; contextual ads about beijing travel deals. i&#39;ve already gone there and returned.
+@jerepick I suppose businessmen exhibit travel destination burstiness. However, my travel destination distribution is much more uniform :)
+@jerepick (with respect to international travel, that is... domestic is a completely different story)
+google&#39;s &quot;algorithm&quot; for demoting bad sites: if(badsites.contains(url)) { url.score -= 100; } (http://goo.gl/qVQ4o)
+today&#39;s deadlines: #wsdm2012 papers and TREC microblog track runs.
+just submitted our @trecmicroblog runs. i look forward to seeing what approaches other groups took. #trec2011
+WSDM submissions flat year-over-year -- 290 for #wsdm2010, 381 for #wsdm2011, and 367 for #wsdm2012
+@iadh Last year may have also attracted more papers from Asia. I wonder if SIGIR will see a similar trend from this year to next.
+@jteevan The number I quoted was from the &quot;Reviewer Instructions&quot; email sent by the 2011 PC chairs. Prob a few papers dropped during review.
+@web_miner i&#39;d personally like a set of knobs that let me trade off personal relevance, network relevance, and recency (cc @twittersearch)
+i&#39;m thrilled to join david blei, @kevinrose, and @aplusk as an advisor to @chomp (app search startup) -- http://bit.ly/pThl8F&nbsp;
+1st Southern California Workshop on Machine Learning @ UC Irvine on September 9th (free registration) -- http://bit.ly/nGeXqu&nbsp;
+trying to get ahead on my reviewing obligations. AIRS done. next up: WSDM and a bunch of journal articles (TOIS, TKDE, TIST, and IRJ).
+giving a talk on Mavuno (a scalable distributional similarity engine) at the #kdd2011 LDMTA workshop on sunday. paper: http://bit.ly/o3WsrC&nbsp;
+.@JeffD mavuno isn&#39;t available yet, but will be soon. i&#39;m looking for some folks to test the install process and run some tests earlier, tho
+my #kdd2011 LDMTA workshop slides for &quot;Mavuno: A Scalable and Effective Hadoop-Based Paraphrase Acquisition System&quot; : http://bit.ly/q19kDX&nbsp;
+@nimatwtr every time i feel down, i just read your tweet stream, and it makes me feel a lot better.
+i noticed a variable number of spam bots follow me each time i tweet. i wonder if it&#39;s random or has to do w/ specific keywords. let&#39;s test.
+seo, sem, search engines, marketing, analytics, optimization, ads, advertising, ranking, web site, services, google, yahoo, bing, first page
+@ian_soboroff you&#39;re right. that strangely netted me 3 legit followers and just 2 spam bots. weird. maybe not the right set of topic words.
+@ian_soboroff maybe something like &quot;where can i buy twitter and facebook followers and grow my network ?&quot; will be more effective.
+@diazf_y feel much shaking there?
+@diazf_y that&#39;s clearly the only plausible explanation for this quake and the one in CO last night.
+@BenCarterette was that your warm welcome home from Russia?
+@stuartrobinson that&#39;s a great title for an IR book (or a SIGIR tutorial...)
+dumb question: what&#39;s the correct usage of &quot;toward&quot; vs &quot;towards&quot;? the copy edits for a manuscript i&#39;m preparing suggest i have no idea.
+@jerepick they changed all of my &quot;towards&quot; to &quot;toward&quot;. maybe they just wanted to save ink to lower costs.
+@stuartrobinson Interesting! Perhaps it&#39;s a regional (NW PA) thing. I was raised to say other bizarre things like &quot;what do you taste for?&quot;
+@delsweil &quot;toward&quot; just sounds funny to me. i guess i&#39;m more british than i knew :)
+@stuartrobinson Yeah. That&#39;s another one I never realized was weird until I told someone &quot;my car needs washed&quot;.
+@ian_soboroff unlike you, i can&#39;t even construct an s-less tweet. i look forward to your s-less SIGIR paper next year.
+another well-executed LA machine learning meetup today. kudos to @petricek and @zaxtax
+now that the initial google+ buzz has died down, my stream is more like a slow drip only worth checking once or twice a week, at most.
+@XplusOne good question! i was trying to determine what types of keywords are most targeted by spambots.
+.@davidandrzej interesting work! will definitely read the paper. (fwiw, i would strongly recommend to never use the indri &quot;#not&quot; operator)
+@arjenpdevries i was responsible for L8 and L15. unfortunately, i haven&#39;t seen anyone actually use these in any papers.
+@arjenpdevries btw, if you have a particular data need, you can always ping someone in y! and they can try to get it released for you.
+elevators should require a special &quot;i&#39;m unable to climb stairs&quot; access card for all rides between floors n and n+1 (or n-1).
+4.2 earthquake in the san fernando valley. very light shaking here in marina del rey.
+@HCIR_GeneG i&#39;m guessing a small %. most are likely random junk, strange misspellings, and bizarre long queries.
+i&#39;m co-chairing the #ictir2011 best paper award committee. we have a strong, diverse pool of candidates to choose from.
+not too surprised by the bartz news. she was one of the factors that caused me to leave yahoo!
+@ian_soboroff you mean, other than government red tape?
+@ian_soboroff 10 years at NIST?
+@ian_soboroff that&#39;s a nice milestone, btw. only 40 more years until the coveted CD-534.
+@stuartrobinson awesome. thanks for the pointer!
+attending the southern california machine learning workshop at UC irvine
+my socal machine learning workshop slides: http://bit.ly/q5QAN4&nbsp; . asks what&#39;s more important for learning to rank - features or models?
+it&#39;s only 10am and i already don&#39;t want to eat any more mooncake this year.
+@lintool that was exactly my argument. no need for incremental modeling improvements when you have lots of data and strong features.
+@jerepick yes, excellent point! if the language is expressive enough then the distinction begins to blur such that query = features + model
+@lintool that&#39;s exactly what i thought... at least it&#39;s a step in the right direction.
+@ian_soboroff @trecmicroblog did i miss something or has there been some sort of delay?
+it&#39;s a longshot, but... does anyone in los angeles know if book royalties necessitate a business tax registration certificate? #la #dtla
+mostly happy with our @trecmicroblog results. we kept it simple and combined a number of proven techniques w/ domain-specific adaptations.
+@milesEfron i look forward to reading your notebook paper! i wish we had found the time to do something a bit more risky ourselves.
+my first patent was recently granted (US 8,005,845). basic idea: &quot;intent-adaptive machine learned query-biased summarization&quot;
+twitter started randomly(?) dropping posts made by my followers from my timeline. i&#39;ve missed a few &quot;important&quot; messages as a result.
+@web_miner yes, but when combined they gives rise to a very specific (yet broadly defined) &quot;invention&quot; (that yahoo now has little use for.)
+#twitter segmentation #fail... trending topic &quot;Ask Don&quot; as in... &quot;don&#39;t ASK, DON&#39;t tell&quot;.
+http://www.businessinsider.com/yahoo-board-not-looking-for-ceo-2011-9&nbsp;… ... Yahoo! Research =&gt; News Corp Research? Doesn&#39;t have quite the same ring to it.
+i&#39;m not a fan of facebook&#39;s redesign, but i do like their new open graph features. nice, simple way to add basic semantics to web content
+@arjenpdevries you can add the tags to any web page. e.g., you can appify your publications page with &quot;+Read It&quot; buttons if you so choose
+@arjenpdevries @diazf_y i wouldnt actually use this myself, but will gladly scrape other&#39;s &quot;open graph&quot; content as a rich source of evidence
+another Twitter trending topic gem (for Los Angeles): &quot;Tomorrow is Friday&quot; (trending on Friday, go figure)
+do any search toolkits support per-tag weighting? i want to have &lt;tag wt=&quot;3&quot;&gt;...&lt;/tag&gt; in the text and use 3 during ranking. @TerrierTeam ?
+@pbrane thanks! low-level custom code isn&#39;t a problem. better than the complexities of implementing new index data structures myself.
+@craig_macdonald thanks, craig. indri supports the same. the problem with that solution is variable # of tags per doc (think anchor text)
+@craig_macdonald if terrier implemented that, then you might make a convert out of me, afterall ;)
+@craig_macdonald unfortunately, no. weights will be arbitrary real-values in no way connected to the TF (or IDF) of the span&#39;s text.
+@arjenpdevries nope, the weights are static and computed prior to indexing.
+do any cities have a &quot;smart grid&quot; of traffic signals? LA could seriously use some more sensors + intelligence to improve system-wide flow.
+@CathyE nice -- thanks for the pointer!
+@HCIR_GeneG my pet peeve: when dozens of cars end up waiting at a red light for &gt; 3 minutes, while zero cars pass through the green light
+@jelsas depends on how you define &quot;open&quot;. most publishers (ACM, Elsevier) allow posting to personal web sites. WWW used to put PDFs on web
+there&#39;s a fine line between being too busy and being utterly incompetent
+@julian_urbano successful procrastination is an art :)
+@diazf_y @twittersearch furthermore, [can] should not match [can&#39;t].
+my interest in a given seminar is inversely proportional to the number of reminder emails i receive about it
+@julian_urbano i wonder if they would accept a scanned hand-written PDF.
+when using NER annotator w/ latest @stanfordnlp, set ner.useSUTime prop to false to avoid endless exceptions/warnings for docs w/o date tags
+@stanfordnlp It is useful for docs w/ timestamps. BTW, not all msgs are just &quot;logging&quot;. I got a NullPointerException @ SUTime.java:1707.
+Mavuno is now available! Open source. Scalable (Hadoop). Modular. Supports large-scale #nlproc and text mining. Get it: http://bit.ly/nQS2dn&nbsp;
+apparently exceeding github&#39;s free account &quot;soft limit&quot; of 300MB only becomes an issue if/when you hit 1GB, according to their tech support.
+coffee from breakfast spilled on my shirt? check. tomato soup from lunch spilled on my shirt? check. meetings this afternoon? check.
+kudos to @yandex for their continued outreach to the research community via (anonymized) data sharing. http://imat-relpred.yandex.ru/en&nbsp;
+&quot;A Feature-Centric View of Information Retrieval&quot; (Springer IR Series) is now available - http://bit.ly/nsvXZO&nbsp;
+CA homeowners -- did you get any specific earthquake-related inspections done (beyond the minimal ones required by state law) when buying?
+@stuartrobinson yeah, probably will end up getting a geologist. have some concerns about liquefaction potential and/or landslides.
+i&#39;d be more tempted to try out iamResearcher if they didn&#39;t have such a grammatically incorrect name.
+does #pandora serve anyone else geo-targeted ads for completely random midwestern cities that nobody&#39;s ever heard of? or is it just me?
+@diazf_y i did spend four years in terre haute, indiana. i&#39;m thankfully avoided picking up a taste for ICP (or PCP, for that matter.)
+@i_am_researcher i was of course only joking. i hope to give it a try when i have a few free minutes.
+not to be rude, but the #lucene &quot;DefaultSimilarity&quot; scoring function is an abomination. are users satisfied with its ranking quality?
+if anyone&#39;s going to take down Google, it&#39;s going to be MC Hammer. http://www.cnn.com/2011/10/20/tech/web/mc-hammer-search-engine/index.html?hpt=hp_t2&nbsp;…
+@lintool google, the least &quot;open&quot; of all industrial research labs, is leading the charge towards openness? huh?
+finally getting around to writing our TREC microblog track notebook paper.
+The Yahoo Circus (Animation) http://techcrunch.com/2011/10/24/the-yahoo-circus-animation/&nbsp;… via @techcrunch
+i hope everyone enjoys #cikm2011. now the conference is here, i won&#39;t be sending you all spam (er, &quot;publicity materials&quot;) anymore :)
+sad that @congxing left us to work for google, but happy to inherit his apple 30&quot; cinema HD display
+metareviews should summarize the strengths/weaknesses raised by the reviewers. writing &quot;reject based on reviews&quot; is just phoning it in.
+@bemikelive @doridayan smh
+@SethGrimes Sentence boundary detection for Web docs = hard. Adding sentence boundary info to search index = expensive. Demand = little.
+a plagiarized version of our SIGIR &#39;10 &quot;Learning to Efficiently Rank&quot; paper found its way into a Materials Science journal, of all places...
+@vitroc another researcher told us about it. i have no idea how they discovered it.
+@julian_urbano http://www.scientific.net/AMR.268-270.1773&nbsp;…
+USC/ISI now has an (alleged) quantum computer (http://dailytrojan.com/2011/10/30/usc-receives-first-quantum-computer/&nbsp;…) - time to put quantum IR theories to the test?
+@julian_urbano didn&#39;t report yet, but will. fake authors? never thought of that. what&#39;s their agenda? citation factories?
+@kohlschuetter thanks for the support! i&#39;m guessing nothing will ever come of it, but it&#39;s certainly worth trying to get resolved.
+@stuartrobinson @SebastianThrun key metrics: intelligence vs. propensity to cheat in both populations. too many unknowns to say for sure.
+today google rolled out better support for implicitly year qualified queries, wh/ we studied in a YRL &#39;09 tech report: http://www.isi.edu/~metzler/papers/2009-002_Metzler.pdf&nbsp;…
+not a huge fan of the #ecir2012 conference management system (ConfTool)
+our #trec2011 @trecmicroblog track notebook paper is now available at http://bit.ly/v7DUr4&nbsp;
+i finally looked up how to say &quot;wrong number&quot; in spanish -- &quot;número equivocado&quot;. that will come in handy.
+coding rawcomparators for complex user-defined writable objects in hadoop is well worth the effort (and kind of fun).
+@kunegis thanks!
+@kohlschuetter @diazf_y regarding the &quot;+&quot; operator issue. google rolled out &quot;verbatim search&quot; today (http://insidesearch.blogspot.com/2011/11/search-using-your-terms-verbatim.html&nbsp;…)
+@diazf_y i&#39;d be interested in your findings, as well. don&#39;t know of too many IR-specific query languages, really, or user-facing studies.
+@diazf_y google should adopt an indri-style query language. #verbatim(inquery stopword list)
+@cherhan @julian_urbano @iadh unfortunately not at TREC. like this idea. perhaps tie w/ news feed (eg &quot;predicting tomorrow&#39;s headlines&quot;)
+@arjenpdevries no, you&#39;re absolutely correct. the inquery folks deserve all the credit!
+only at USC: &quot;... suspect approached him and stated he had a weapon (none seen) demanding complainant&#39;s lunch&quot;. strong armed lunch robbery.
+who honestly thought it would be a good idea to have two NLP paper deadlines following peak vacation time? (NAACL-HLT: Jan 6, ACL: Jan 15).
+upcoming conference paper deadline gauntlet: NAACL-HLT: 1/6, ACL: 1/15, ICWSM: 1/18, AAAI: 1/24, KDD: 2/10, SIGIR: 2/13.
+@vanessa_murdock i tried in vain to find the deadline. do you know when it is?
+@vanessa_murdock thanks!
+#www2012 &quot;Appification of the Web&quot; workshop : https://sites.google.com/site/appweb2012/&nbsp;…
+you just know an email starting with &quot;Dear Research Assistant Professor in Computer Science Donald Metzler,&quot; is going to be good...
+@textminor @bemikelive not so much the sampling, but rather the &quot;analysis&quot;.
+curious to see how the ongoing yahoo saga will resolve
+are there any good, reputable, non-sketchy local residential moving companies in los angeles that anyone can recommend? #dtla
+@vgoklani @DataJunkie we have that data, but can&#39;t share (ToS issues). the only legit archive (AFAIK) is at the LoC (http://www.forbes.com/sites/oreillymedia/2011/06/13/the-library-of-congress-twitter-archive-one-year-later/&nbsp;…)
+solved a system of equations (3x3) by hand for the first time in over 10 years. math was more fun before i learned Matlab, Maple, and R
+@movingpro thank you very much for the information!
+looking forward to actually *walking* somewhere for once -- tomorrow&#39;s LA machine learning meetup is in downtown (http://www.meetup.com/LA-Machine-Learning/events/41675362/&nbsp;…)
+&quot;new and improved&quot; klout topics are horrible. i&#39;m apparently influential about &quot;email&quot;, &quot;notebook&quot;, and &quot;models&quot; (the half-naked kind)
+the ICTIR 2013 call for bids is heavily Euro-centric. perhaps the &quot;I&quot; should be replaced with an &quot;E&quot;.
+@arjenpdevries none of the above :) although not explicitly stated, it appears as though non-European bids won&#39;t be considered.
+@arjenpdevries specifically &quot;The location should be easily accessible for people attending from across Europe and elsewhere.&quot;
+@BenCarterette the *BCS* IRSG mailing list (haven&#39;t seen it on SIG-IRlist yet).
+@cherhan I&#39;ve compiled a reading list that should get you started: https://bitly.com/bundles/metzlerd/2&nbsp;…. Let me know if you have any additional questions!
+@cherhan also, sorry for the slow response!
+Using Markov Random Fields for Information Retrieval Reading List - https://bitly.com/bundles/metzlerd/2&nbsp;…
+@DataJunkie If you haven&#39;t read this paper, then I highly recommend it: http://www.soi.city.ac.uk/~ser/idfpapers/Robertson_idf_JDoc.pdf&nbsp;…
+a 10 page paper in ACM format turns into a 16 page paper in ACL/NAACL format. yikes.
+@cegme i couldn&#39;t agree more. over half of the things they claim are &quot;breaking news&quot; are anything but.
+despite the fact i only tweet about geek-laden topics, twitter insists on suggesting i follow chris brown, snoop dogg, and trey songz
+@ian_soboroff that strategy seems to have moved me from the space of NBA players to R&amp;B singers. it&#39;ll be interesting to see what&#39;s next.
+@lintool is this subtle foreshadowing?
+&quot;who to follow&quot; #fail continues. after nba players and r&amp;b singers, i now get actors (sheen, hill) and something called &quot;tap pet hotel&quot;
+@DataJunkie i&#39;m not sure if this is bad matching, bad CF, bad personalization, incognito &quot;promoted&quot; suggestions, or something else entirely.
+@HCIR_GeneG i hadn&#39;t thought of that. uh oh.
+amusing excerpt from the &quot;Hosting SIGIR&quot; web page: &quot;SIGIR has no plans to include Antarctica in the [geographical] rotation.&quot;
+@ChrisDiehl for models w/ few params, coordinate ascent works amazingly well: http://www.cs.umass.edu/~mccallum/papers/direct-metzler05.pdf&nbsp;…
+@ChrisDiehl What a small world, indeed! You find yourself in excellent company. They are both awesome, top-notch engineers. Tell them hi.
+i no longer get carded when buying alcohol, but still manage to get &quot;can i see your student ID?&quot; at campus eateries.
+@iadh i totally agree. it&#39;s horrible. i&#39;ve heard the same feedback from several other people, too.
+#naacl reviewing load: 1 paper.
+@JeffD money &gt; relevance
+just about any semi-interesting word i include in my tweet attracts spammers. asbestos.
+@stuartrobinson more likely than not, some sort of spambot.
+sorry @cnnbrk, you&#39;ve distracted me with far too many non-breaking news events. i&#39;m unfollowing you and removing you from my phone.
+@ChrisDiehl if you want to see George&#39;s face turn red, and his blood begin to boil, talk to him about Pig bugs/errors/documentation
+@HCIR_GeneG i went through my tweet history a few days ago hoping to answer you, but couldn&#39;t seem to find anything. i&#39;ll look again now.
+
+@ChrisDiehl it sounds like you are well on your way (if not already there) to having Pig war stories of your own :)
+negative okapi idfs + max_score query optimization = fail
+wow, the LA office of finance tax and permit division is so horribly incompetent. makes me want to flee LA even more.
+i tend to overuse the word &quot;very&quot;. is there a psycholinguistic theory/explanation/name for this very annoying habit?
+@lintool very interesting! then perhaps it&#39;s something i subconsciously picked up from my wife and/or chinese colleagues
+@DataJunkie thanks for the free advertising!
+@sgouws very cool! it even correctly detected my horribly scripted \xi
+udacity using search engines as CS101 is a brilliant marketing ploy. to actually learn about search, read an information retrieval book.
+just deleted my @klout account. it&#39;s scoring was seemingly arbitrary, it&#39;s topics were horrible, and the perks were lame.
+thanks to @lintool for pointing out gh-pages to me. handy way to host web sites associated w/ github projects
+in about a month, i&#39;ll once again &quot;bleed purple&quot;.
+@fabreetseo Yeah, I&#39;m flip-flopping between acadmia and industry. Perhaps I am better suited as a politician :)
+hey @TWCable_LA -- if you wake me up one more time on the weekend, or call me during dinner again, this new customer will be an ex-customer.
+&quot;The Future of IR&quot; paper selections from the upcoming SWIRL workshop: http://www.cs.rmit.edu.au/swirl12/discussion.php&nbsp;…
+@craig_macdonald &quot;The position is available as part of the SMART project&quot; - is the name in homage to Cornell&#39;s SMART system?
+paper w/ @bemikelive (http://bit.ly/zXpB6r&nbsp;) received the best search paper &quot;runner-up&quot; award at #wsdm2012
+contrary to popular belief, information retrieval is, in fact, more than just vector space models, TF.IDF, and PageRank
+@aria42 that has yet to make its way into any of the naive characterizations of the field that i&#39;ve heard
+was surprised (and somewhat embarrassed) to find one of my tweets featured in the keynote by @hmason at #wsdm2012
+does anyone know of any studies or articles on (reverse) age discrimination in academia?
+@aria42 i finally gave into your relentless PR campaign and signed up for prismatic.
+what are some creative things that one can do with 480 unused business cards?
+@sgouws i also highly recommend 30 yo tawny porto at 30.
+tried out @prismatic today and was pleasantly surprised to find so many relevant story recommendations
+Google buys what’s left of defunct search startup Cuil http://venturebeat.com/2012/02/20/google-buys-cuil-patents/&nbsp;…  via @prismatic
+@julian_urbano NTCIREVAL - http://research.nii.ac.jp/ntcir/tools/ntcireval-en.html&nbsp;…. ERR not included in trec_eval, last time i checked (/cc @ian_soboroff)
+attending Google LA&#39;s inaugural Speaker Series&#39; talk by @theamitsinghal on  Monday. should be interesting.
+facebook insists on recommending that I friend someone who sadly passed away recently. i guess death is hard to algorithmically model.
+my recent work w/ @lintool, @nimapp, et al. has embraced this. paper experiments = Ivory unit tests http://arstechnica.com/science/news/2012/02/science-code-should-be-open-source-according-to-editorial.ars&nbsp;…  via @prismatic
+@lintool my vacation is still young! :)
+thanks for the follow @TRECWithUs, but I don&#39;t TREC like *that*
+@ChrisDiehl I&#39;ll actually be in the Bay Area March 5--16. It would be great to meet and also catch up w/ George and Lance.
+@HCIR_GeneG i&#39;ll have limited availability during the days. if you, @ChrisDiehl, + others want to get together some evening that&#39;d be great
+1) find cool data set 2) compute elementary statistics 3) post tag cloud or map viz to your blog 4) declare yourself a &quot;data scientist&quot;
+@elunca @HCIR_GeneG @ChrisDiehl any day after 6pm that week works for me. mt view (or anywhere on light rail would be most convenient)
+@zaxtax i&#39;ll be in the bay area for the next couple of weeks, too. let me know if you find some folks who want to get together
+Tomorrow&#39;s my first day back at Yahoo. I sure picked an interesting time to rejoin.
+worst. timing. ever.
+@HCIR_GeneG @elunca sounds good. what day next week would work best for you guys? any day except friday is ok with me
+@HCIR_GeneG @elunca ok, tuesday it is, then! i&#39;m impartial. do either of you have any preferences?
+@JeffD thanks for the free advertisement, Jeff!
+@stanfordnlp i strategically managed to open source mavuno before i left, so i plan to continue maintaining/developing it.
+@HCIR_GeneG pretty easy. the quality would depend on the NLP stack&#39;s &quot;compatibility&quot; with ur data. do u have newswire? web? something else?
+like the author of this article, i was also pleasantly surprised by the number of tech startups in LA http://www.forbes.com/sites/tarabrown/2012/03/06/why-los-angeles-will-outpace-silicon-valley-as-the-tech-startup-capital/&nbsp;…  via @prismatic
+How Twitter is doing its part to democratize big data http://gigaom.com/cloud/how-twitter-is-doing-its-part-to-democratize-big-data/&nbsp;…  via @prismatic
+@zaxtax @ogrisel ditto. it was nice bumping into you guys. hope you enjoyed the conference.
+@HCIR_GeneG it currently doesn&#39;t perform any text cleansing. garbage chars would throw the NLP tools off. lines breaks are less problematic.
+i&#39;ve relocated my web site to http://bit.ly/wuiejt&nbsp; (hint: you can find my latest CV there)
+@sodaontheside from the web interface you can click &quot;open&quot; and then &quot;details&quot; to get the URL of a specific tweet
+@faultlinebrew your web site is borked.
+@faultlinebrew no problem. luckily, that won&#39;t stop me from stopping by tonight :)
+@HCIR_GeneG @elunca hey guys, i woke up with a bad fever this morning, so i&#39;m going to have to postpone. if i&#39;m better, thu would work
+@HCIR_GeneG @elunca thanks, guys. i&#39;ll let you know. i&#39;ve done the warm whiskey home remedy several times before, and it really does work!
+when pitching your startup, please try harder than &quot;our co-founders are ex-Googlers&quot;.
+@techmilind it&#39;s not every day you learn the identity of those pesky blind reviewers ;) thanks for the mavuno mention!
+Nice intro article on how search engines rewrite your queries http://prsm.tc/251p5X&nbsp; via @prismatic
+our (long) paper titled &quot;Structured Event Retrieval over Microblog Archives&quot; was accepted at NAACL-HLT
+@HCIR_GeneG nope. much more interesting than that :) we retrieve structured representations of events in response to ad hoc search queries
+@HCIR_GeneG technically, it can be as few as 1, but realistically you want enough to generate a good summary of the event
+@stuartrobinson of course. but since this is an academic paper you have to make it sound overly fancy / general :)
+@francesco1986_ yep. event query =&gt; burst detection =&gt; temporal query expansion =&gt; tweet retrieval =&gt; generate &quot;structured&quot; results
+@francesco1986_ @PFCdgayo i&#39;ll make a preprint available in the next week or two. thanks for the interest!
+@arjenpdevries thanks. preprint will be available soon.
+Nice to see @lintool &#39;s &quot;Data-Intensive Text Processing with MapReduce&quot; show up in my Prismatic feed - http://prsm.tc/4YCCHg&nbsp; via @prismatic
+Looking for an excellent systems-oriented Search Engines book? Check out:http://www.amazon.com/Information-Retrieval-Implementing-Evaluating-Engines/dp/0262026511&nbsp;…
+Will Twitter put the U.N. out of the disaster business? http://prsm.tc/aif9yv&nbsp; via @prismatic
+@HCIR_GeneG @ian_soboroff that&#39;s along the lines of what i was also going to say...
+@ian_soboroff i always thought that &quot;Divergence from Randomness&quot; would make for a great band name.
+@HCIR_GeneG @ian_soboroff @tetsuyasakai I personally like &quot;Rank Fusion&quot; the best. I would totally buy that album.
+@diazf_y i ultimately decided that nothing of great significance would arise any time soon, so i punted on it.
+@JeffD small magnitude gains can also be substantive. even tiny (e.g., tenths of a %) gains in DCG in commercial search =&gt; lots of $$.
+@HCIR_GeneG yes, very good point!
+Super expensive, but could be interesting - Mining Text Data (Aggarwal &amp; Zhai) : http://prsm.tc/m1F6R8&nbsp; via @prismatic
+Microsoft Expands Hadoop/Azure Preview http://prsm.tc/2zJUmT&nbsp; via @prismatic
+Do I Need SQL or Hadoop? A Flowchart http://prsm.tc/p7FQfs&nbsp; via @prismatic
+anyone know who won the Karen Sparck Jones award this year? thought the winner was supposed to give a keynote #ecir2012 ?
+.@wavii is great at surfacing random facts about topics, while @prismatic finds content i&#39;m actually interested in.
+preprint of our #naacl2012 paper &quot;Structured Event Retrieval over Microblog Archives&quot; : http://bit.ly/ICIQfC&nbsp;
+2 USC Students Murdered During Attempted Carjacking Near Campus « CBS Los Angeleshttp://cbsloc.al/I2ZdET&nbsp;
+@zaxtax factual is trying to become this
+@ian_soboroff @IR_oldie that&#39;s where i&#39;ll also be headed in the not-so-distant future.
+Watch SNL Call Out Angelenos For Their Obsession With the 10 http://curbed.cc/J6zSuZ&nbsp; via @CurbedLA
+yahoo: &quot;refocusing our R&amp;D on O&amp;O properties and stopping development of … theoretical science … outside of our core&quot;http://ow.ly/alD6J&nbsp;
+SNL skit &quot;The Californians&quot; - http://www.hulu.com/watch/350669/saturday-night-live-the-californians&nbsp;… - I prefer to take the 90 into Marina del Rey, myself :)
+oren kurland and i will be giving a half day tutorial titled &quot;Experimental Methods for Information Retrieval&quot; at #sigir2012
+@julian_urbano thanks, we thought so, too. and yes, we plan to make all of the slides publicly available after the tutorial.
+Sign up for @Prismatic right now, and get in within 24 hours http://getprismatic.com/inviteportal?ref=metzlerd&nbsp;…
+@francesco1986_ we&#39;ll post the slides after the tutorial.
+This post contains some interesting details about the Inktomi ranking function - http://prsm.tc/M5F9Dm&nbsp; via @prismatic
+@semanticpc very interesting! did you implement it yourself?
+CIKM 2011 Call for Workshops -- http://www.cikm2011.org/callforworkshops
+@fdiaz_msr hope you&#39;re enjoying your first day!
+@dtunkelang is there a way to report that a linkedin member is deceased? several keep appearing in my &quot;people you may know&quot; list.
+@ian_soboroff perks: increased awareness of exciting government processes you probably never knew about (e.g., continuing resolutions).
+
+@sgouws how long will you be in LA?
+@sgouws yeah, i&#39;ll be around the whole time. you should stop by for lunch w/ me and @congxing.
+there are many interesting #sigir2012 tutorials, but the one you should register for is &quot;Experimental Methods for IR&quot;: http://bit.ly/LjzNX4&nbsp;
+i&#39;m serving as a program chair for OAIR (the conference formerly known as RIAO) 2013. i look forward to some good submissions!
+@aria42 here&#39;s a good place to start: http://www.cs.rmit.edu.au/swirl12/discussion.php&nbsp;…
+@CharlotteHase i don&#39;t think so, as things are just now coming together. i&#39;ll be sure to circulate the web site + CFP when they&#39;re available
+@CharlotteHase as an aside, the &quot;Psychedelic Experience Open Air 2013&quot; event does indeed sound interesting.
+#oair2013 (formerly RIAO) web site - http://oair2013.org/home/&nbsp;
+Semi-interesting popular press article about deep learning applied at scale. http://prsm.tc/wpapPU&nbsp; via @prismatic
+SIGIR 2012 Workshop on Open Source Information Retrieval http://prsm.tc/hnM0w3&nbsp; via @prismatic
+Twitter Tweaks Tweet Search -http://prsm.tc/2R6JEF via @prismatic
+Is Data Is, or Is Data Ain’t, a Plural? http://prsm.tc/shQ37U&nbsp; via @prismatic
+One of the last papers I worked on while I was at USC/ISI: http://bit.ly/M6f3m9&nbsp; (using data integration to help prevent sex trafficking).
+@DataJunkie *had* and likely never will have again.
+did the #sigir2012 tutorial you registered for get cancelled? then check out the &quot;Empirical Methods for IR&quot; tutorial: http://bit.ly/LjzNX4&nbsp;
+slides for #sigir2012 tutorial &quot;experimental methods for IR&quot; available here: http://bit.ly/R5Glgz&nbsp;
+(#sigir2012 spoiler alert) ... the conference booklet seems to reveal that Norbert Fuhr is this year&#39;s salton award winner
+Having chaired a session in the #sigir2012 &quot;batcave&quot;, I can say it was the single worst presentation venue I ever experienced.
+@milesEfron I believe it was part of an underground parking garage that was fitted with portable curtains and a low quality sound system.
+@xuexb i noticed that your tweet frequency drastically increased. no tweets == no bonus? ;)
+@brendan642 stemming/spell-correction typically done contextually (at the word and/or char level). many possible implementations.
+@brendan642 feel free to email me (see web site for contact info). would be happy to explain in more detail.
+@gilelbaz i saw you at the google office last week w/ tom. was going to say hi, but didn&#39;t want to interrupt. hope you enjoyed your visit.
+CIKM 2012 Industry Event - http://prsm.tc/lmU0BO&nbsp; via @prismatic
+Why Los Angeles Is Emerging As The Next Silicon Valley - Forbeshttp://onforb.es/SNW55N&nbsp;
+A Brief Tour of Factual’s Machine Learning Pipeline http://prsm.tc/M5JJc5&nbsp; via @prismatic
+@CharlotteHase You should check out &quot;Information Retrieval: Implementing and Evaluating Search Engines&quot; by Buettcher, Clarke, and Cormack.
+Anecdotal science http://prsm.tc/54UXbk&nbsp; via @prismatic
+On Stanford&#39;s use of &quot;flipped&quot; classrooms to teach IR (and other CS courses): http://prsm.tc/wopOtU&nbsp; via @prismatic
+Did Blowing into Nintendo Cartridges Really Help? http://prsm.tc/LypIiT&nbsp; via @prismatic
+@ian_soboroff @n0v0id @HCIR_GeneG But if you&#39;re from Cuba, Iran, Sudan, or Syria then &quot;more information will be requested.&quot;
+@HCIR_GeneG great plotline -- enemies of the state infiltrate IR community, get internship at NIST w/ @ian_soboroff, take over gov&#39;t
+@zaxtax fast coreference is an oxymoron.
+I&#39;m surprised how many people fail to realize this happened *last year* - Dennis Ritchie Passes Away http://prsm.tc/vBnJKG&nbsp; via @prismatic
+@peter_c_william Yeah, it almost certainly has to be the result of blind retweeting.
+Tech Titans Buy Homes in Los Angeles http://prsm.tc/J7WEot&nbsp; via @prismatic
+@bradfordcross yeah, that was a particularly bad couple of weeks. i think that ritchie&#39;s passing was largely overshadowed by jobs&#39; death.
+@bradfordcross @peter_c_william reminds me of academics citing papers they&#39;ve never read, and may have never existed (http://blog.codalism.com/?p=773&nbsp;)
+@fdiaz_msr @tetsuyasakai sounds interesting!
+I guess now&#39;s as good time as ever to start using Twitter...
+space shuttle endeavor is parked about a mile from my house, between a krispy kreme and a walmart. doesn&#39;t get much more american than that.
+IBM&#39;s Watson is (partially) powered by Indri... (see AI Magazine article -- http://bit.ly/h1AKIm)
+#www2011 relevance and ranking track had a solid set of papers submitted this year. track acceptance rate=19% (vs. 12% overall accept rate)
+@KushalDave depends on score distributions. 0-1 normalization and z-normalization tend to work well in practice.
+@KushalDave here&#39;s a relevant paper: http://www.iicm.tugraz.at/thesis/cguetl_diss/literatur/Kapitel07/References/Montague_et_al._2001/p427-montague.pdf&nbsp;…
+Shootings in Hollywood and on USC campus tonight. This is why I !(love) LA.
+@bemikelive I&#39;m surprised it took them this long to do this. It&#39;s all about tracking, err, &quot;analytics&quot;.
+@lintool and the jobtracker runs out of memory in 3, 2, 1...
+Gave a talk today at UC Irvine&#39;s AI/ML seminar titled &quot;Learning to Effectively and Efficiently Rank&quot; (slides: http://bit.ly/d7Of9E).
+i&#39;m waiting for godot (aka sentence breaking, pos tagging, chunking, and parsing 140GB of text).
+&quot;Please Click On Our Website&#39;s Banner Ads&quot; (The Onion) -http://www.theonion.com/articles/please-click-on-our-websites-banner-ads,30513/&nbsp;…
+@jelsas mine, too! my mandelbrot code doesnt seem to work anymore, but i found my zoomable newton&#39;s method fractal app: http://bit.ly/aDwcwR
+UIUC is recruiting (senior) Computational Advertising faculty - http://cs.illinois.edu/csillinois/employment/CS-tenure-track-faculty-positions&nbsp;…
+@ian_soboroff I don&#39;t think that SEO + AdSense revenue counts as a valid form of research funding.
+@lintool i was having the same exact problem today.. my supposed stochastic matrix was not-even-close-to-stochastic
+@bemikelive the question is as ignorant as the contestants. i&#39;d say the country&#39;s name officially starts with U, not A.
+If you&#39;re in LA and interested in machine learning, this talk by Yan Liu should be good -http://www.meetup.com/LA-Machine-Learning/events/95951242/?a=ea1_grp&amp;rv=ea1&nbsp;…
+Don&#39;t forget that #www2011 papers are due at *6PM* Pacific time.
+#www2010 relevance and ranking track only received 45 submissions, compared to 77 last year
+#naacl2013 reviews done. lots of good ideas, but so many bad evaluations. doing IR experiments? check this out: http://bit.ly/R5Glgz&nbsp;
+@blekko is a step in the right direction in terms of more expressive, powerful query languages. it also has some fun IR geek tools (/rank)
+tracking the flu using twitter? that&#39;s so 2010: http://arxiv.org/abs/1007.4748&nbsp;
+For the first time in 9 years, I&#39;m not preparing a paper for #sigir2013. In other words, I had a very stress-free December and January.
+@jcmayfield the tweeter&#39;s dilemma: to actually make sense or to make sure your tweet is discoverable? i obviously chose the latter.
+@fdiaz_msr yes, of course. there&#39;s writing papers, and then there&#39;s making magic.
+@julian_urbano @HCIR_GeneG i&#39;ve always wanted to try procrastinating, but never got around to it.
+passagifiable -- the ability to split a document into passages.
+note to self: do not accidentally click buttons in confmaster minutes before a paper deadline, especially when you are very tired
+@hintikka sounds fascinating. i look forward to seeing the slides!
+@arjenpdevries nothing actually happened, but i came close to accidentally withdrawing a paper
+over the past year, the word that is most likely to co-trend with &quot;layoffs&quot; on Twitter is &quot;yahoo&quot; (i&#39;m not joking).
+I apparently have one of the top 1% most viewed @LinkedIn profiles for 2012. However, 1% of 200M = really not that impressive.
+@hintikka That&#39;s probably it. And the fact that probably 75% of those 200M people have probably only logged in once and have empty profiles.
+@tetsuyasakai i find it amazing some japanese tweets characterize a 5.7 magnitude as a &quot;small tremor&quot;. your preparedness is most impressive.
+@peter_r_bailey what a great set of tips! you should retweet these before next year&#39;s deadline.
+I will serve as PC co-chair for @ictir2013 alongside Oren Kurland. For more details about the conference check out: http://bit.ly/ZZQVpz&nbsp;
+&quot;Data Science for Social Good&quot; (U of Chicago) program looking for lots of ML/data mining grad students this summer - http://www.ci.uchicago.edu/datasciencefellowship/application.html&nbsp;…
+ICTIR 2013 deadlines are about a month away - see http://bit.ly/X8RujK&nbsp; for CfP and newly added guidelines on experimentation for papers
+i look forward to serving as program co-chair of #wsdm2014 w/ @ChaToX
+@DataJunkie the neon paint is probably a belated celebration of the indian Holi festival
+a friendly reminder that the deadline for #ictir2013 full papers is April 22nd. for full details see: http://www.ictir2013.org/cfp.html&nbsp;
+@DataJunkie i think about this problem often, esp. when sitting at a red light w/ 20 other cars for 5 mins, while 0 cars pass thru the green
+this &quot;Bing is cheating&quot; argument is nothing more than a negative PR attack, in my opinion
+MS has been heavily publishing about their use of toolbar data for ranking for the past 5 years. so how is this surprising?
+@jelsas yeah, i agree with you there. they certainly could&#39;ve done a better job at making it less obvious
+The deadline for #ictir2013 papers (and tutorials) has been extended to May 1st. Posters now due May 3rd.
+@craig_macdonald @HCIR_GeneG @lintool Thanks for pointing this out, Craig, and for reporting it to Springer, Gene!
+@ian_soboroff you should expect an angry mob of teenage girls waiting for you after work.
+@RojaBandari congratulations! and thanks again for all the help w/ the RIPS team this summer. best of luck in the future.
+reasons why I reject your IR paper: poor evaluation (70%), lack of novelty (10%), flawed methodology (10%), bad motivation (5%), other (5%)
+looking for a MS or PhD student who has experience (or interest) in topic models for an internship at Google Los Angeles. DM me for details.
+@amurphy_ email me -- you can find me on google :)
+@cpsievert thanks for the reply -- send me an email and we can discuss more
+today i visited @factual (www.factual.com), a LA-based startup that&#39;s working on some pretty cool things in the realm of open data...
+trying to wrap my head around git(hub), the soon-to-be new home of ivory (ivory.cc)
+&quot;export LC_ALL=C&quot; &lt;-- incredibly useful, especially if you do a lot of sorting and don&#39;t want any weird surprises
+@jelsas are you trying to modify indri or just run it &quot;out of the box&quot;?
+@jelsas ah, that&#39;s not the most well-tested code, i don&#39;t think. do you really need to merge? most indri cmds allow multiple index locations
+Call for Tutorials - CIKM 2011 - http://www.cikm2011.org/callfortutorials #cikm2011
+i was amused (and impressed) to see that google&#39;s spell checker can correct &quot;dawnuld metslur&quot; (via phonetic similarity, i presume?)
+@Jeffye it would be even more impressive if it worked for americans&#39; horrible spellings of foreign (esp. chinese) names/words (eg &quot;buydo&quot;)
+our #sigir2011 workshop on search and data mining in social media was accepted (w/ fernando diaz, ed hovy, irwin king, and jie tang)
+attending a talk by ibm&#39;s chris welty titled &quot;inside the mind of watson&quot; -- should be interesting
+going crazy w/ horrible mturk documentation and useless error messages...
+@natala it may take a bit more than 140 chars, but i&#39;ll try :)
+@natala 1) soft 404s in documentation, 2) CLT errors uninformative, 3) inability to design qual tests + attach to HITS in RUI
+@bemikelive Congratulations, Michael!
+@ian_soboroff A certain nameless gov&#39;t agency is particularly fond of sticking everything in Excel. Agenda.xls? Huh?
+-XX:+UseCompressedOops JVM flag rescued my mem hungry #hadoop text mining job (see http://bit.ly/f58XGa) -XX:+UseCompressedStrings also good
+#sigir2011 Workshop on Social Web Search &amp; Mining: Analysis of User Generated Content Under Crisis http://bit.ly/gBnEbe (#www2011 #SoME2011)
+@sgouws 3y3 bee phollowin&#39; u.
+CIKM 2011 Industry Event - http://www.cikm2011.org/industryevent
+Three #sigir2011 papers accepted (2 w/ @lintool and 1 w/ @bemikelive).
+@diazf_y i find it much more of an honor to be the recipient of your first tweet than to have the papers accepted :) did you have any luck?
+@iadh are there any good comprehensive (e.g., survey) papers covering the latest and greatest advances in blog-related search tasks?
+@lintool I was semi-expecting you to announce that you were leaving for good. I was close :) What does this mean for your grants+students?
+#LosAngeles ML &amp; IR folks -- i&#39;m giving a talk on ranking at the LA #MachineLearning meetup at eHarmony on 4/28 (http://bit.ly/fXmGt6)
+@iadh exactly what i was looking for -- thanks for the pointer!
+#sigir2011 Workshop on Social Web Search &amp; Mining: Analysis of User Generated Content Under Crisis http://bit.ly/gBnEbe (cc: #ecir2011)
+experimenting with #hadoop 0.22 alpha...
+@lintool ... and then starts blinking at 100Hz?
+Yahoo Mulls Spinoff for Hadoop Software Unit - http://on.wsj.com/g4ozXG
+looking forward to my talk and meeting everyone at the #LosAngeles #MachineLearning meetup tomorrow (12pm @ eHarmony) http://bit.ly/fXmGt6
+#sigir2011 Workshop on Social Web Search and Mining Under Crisis - DEADLINE EXTENSION (May 15th) + also accepting SHORT PAPERS (&lt;= 4 pages)
+Loose use of loose and lose makes me lose my mind.
+@lintool isn&#39;t that just a corollary to murphy&#39;s law?
+jack ma: 1, yhoo: -7.3%
+fun paper w/ (@sgouws and @congxing) on Twitter vocab usage : http://bit.ly/jgmPcc (to appear at the ACL Language in Social Media Workshop)
+friendly reminder: papers to the #sigir2011 Workshop on Social Web Search and Mining Under Crisis (http://bit.ly/gBnEbe) are due in 3 days
+steve ballmer will speak at USC&#39;s commencement ceremony today
+*@ian_soboroff i always thought the dot was informal, user-defined syntax. is it functionally any different than the syntax i used here?
+@ian_soboroff @arjenpdevries my guess: if tweet[0] == &#39;@&#39; then msg only appears in timeline of mutual followers, else it appears to everyone
+@allthingshadoop fwiw, i think it&#39;s actually &quot;grayskull&quot; (i&#39;ve been watching way too many he-man and she-ra reruns lately)...
+http://on.wsj.com/k01Lfe&nbsp; - At LinkedIn&#39;s Valuation, Apple Would Be Worth $3 Trillion
+@ian_soboroff will the trec microblog assessors be ex-intelligence analysts or be more demographically aligned w/ actual microblog users?
+@ian_soboroff i ask because i want to know whether or not to highly upweight mentions of bieber, or highly downweight them :)
+sean combs - a &quot;vocabulary mismatch&quot; disaster (http://marquee.blogs.cnn.com/2011/05/20/sean-diddy-combs-changes-his-name-again/&nbsp;…)
+#sigir2011 paper (w/ @bemikelive + croft) &quot;Parameterized Concept Weighting in Verbose Queries&quot; now available at http://bit.ly/kj8ZbD
+#sigir2011 paper (w/ wang + @lintool) &quot;A Cascade Ranking Model for Efficient Ranked Retrieval&quot; now available at http://bit.ly/kMWe1b
+#sigir2011 paper (w/ @nimatwtr, @lintool, elsayed) &quot;Pseudo Test Collections for Learning Web Search Ranking Functions&quot; http://bit.ly/iYr7HB
+@bemikelive glad to see that you survived the tornado?
+@nimatwtr you just learned tech industry rule #1: never show up before 10am. the other option is to show up just in time for lunch.
+maybe it&#39;s because i&#39;m getting older, or lamer, but it&#39;s going to take a lot more than having an &quot;in-house kegerator&quot; to join your startup.
+my outgoing email server apparently has a &quot;bad reputation&quot;, which results in my outgoing emails being marked as spam or being bounced. fun.
+@jelsas amen to that.
+back from #acl2011, where we presented our short paraphrase eval paper (http://bit.ly/jsdUiy&nbsp;) &amp; our twitter vocab paper (http://bit.ly/jgmPcc&nbsp;)
+#mturk paraphrase evaluation data collected for our #acl2011 paper is now available for download at http://bit.ly/iVfkr6&nbsp;
+our matchmaking paper from sigir &#39;10 was invited to a special cross-conference session at #icml2011. @diazf_y will present it on thursday
+@nimatwtr napa (for wine), brentwood (for fresh produce), muir woods (for nature), santa cruz / monterrey / hwy 1 (for scenery), or sleep.
+@petricek nope, i&#39;m not attending the conference. my co-author @diazf_y will present the paper. you two should definitely chat.
+i&#39;ll fortunately be leaving LA just in time to miss #carmageddon
+if( attending( #sigir2011 ) &amp;&amp; interestedIn( social media ) ) { visit( http://bit.ly/gBnEbe&nbsp; ); registerFor( SWSM ); } else { RT( this ); }
+@jelsas i may have accidentally pocket emailed you. i just got a new phone and apparently haven&#39;t mastered locking it yet. if so, sorry!
+@nimatwtr it sounds like you chose a neighborhood with a healthy amount of &quot;character&quot;. i just hope you&#39;re paying next to nothing in rent.
+obligatory tweet about google+
+the microsoft partner conference is in town this week. no wonder why there is an abundance of (car) crashes, erratic behavior, and gridlock.
+&quot;Unsupervised Mining of Lexical Variants from Noisy Text,&quot; EMNLP Workshop on Unsupervised Learning in NLP (w/ @sgouws): http://bit.ly/pVwIxf&nbsp;
+i just realized that the @trecmicroblog runs are (in)conveniently due on the same day of the #wsdm2012 paper deadline
+bing&#39;s y/y volume growth is impressive, but will likely saturate soon, just like google has started to. how long before y! sees y/y losses?
+@diazf_y comscore report for june. summary stats:http://techcrunch.com/2011/07/13/binghoo-gains-search-share/&nbsp;…
+@diazf_y i&#39;m not sure. it says it&#39;s &quot;total explicit searches (excluding the effects of slideshows, contextual search, and Google Instant)&quot;
+qi lu gave an interesting keynote today at #sigir2011, despite the fact that it was heavy on &quot;our [msft] vision&quot; and light on &quot;my vision&quot;
+honorable mention award at #sigir2011 for &quot;Parameterized Concept Weighting in Verbose Queries&quot; (w/ @bemikelive &amp; Croft): http://bit.ly/kj8ZbD&nbsp;
+catching up on two weeks&#39; worth of emails...
+@lucasjosh if you&#39;re ever in downtown LA some weekend (or evening) then drop me a line. it&#39;d be great to meet/chat about search stuff.
+to avoid doing actual work i created my google scholar profile: http://scholar.google.com/citations?user=bmXpOd8AAAAJ&nbsp;…
+@diazf_y sorry, no. i visited scholar while logged into my google acct, clicked &quot;my citations&quot; and then just fiddled around a lot
+yhoo hit a 52 week low today. ouch. upside: excellent stock option pricing for new hires
+i hope @MercuryIns is more attentive to their own customers&#39; needs, because they&#39;re a massive #fail when dealing with my claim against them
+@bemikelive i find it amusing that klout thinks you&#39;re highly influential for the topic &quot;philadelphia eagles&quot;
+@pbrane done! 189, 189, 189.
+@rusillini congratulations! it was nice to meet you at sigir.
+we&#39;re looking for a talented research programmer to join us in the USC/ISI natural language group. relocation available. contact me for info
+@tinyFey just send me an email with your resume and any other pertinent information -- thanks!
+@lintool @abdur does twitter even have product that does event detection? trending topics != events.
+i used to think the limit (as t -&gt; infinity) of unread emails in my inbox was convergent, but recent evidence refutes that hypothesis.
+dear @KAYAK, please stop with the horrible &quot;personalized&quot; contextual ads about beijing travel deals. i&#39;ve already gone there and returned.
+@jerepick I suppose businessmen exhibit travel destination burstiness. However, my travel destination distribution is much more uniform :)
+@jerepick (with respect to international travel, that is... domestic is a completely different story)
+google&#39;s &quot;algorithm&quot; for demoting bad sites: if(badsites.contains(url)) { url.score -= 100; } (http://goo.gl/qVQ4o)
+today&#39;s deadlines: #wsdm2012 papers and TREC microblog track runs.
+just submitted our @trecmicroblog runs. i look forward to seeing what approaches other groups took. #trec2011
+WSDM submissions flat year-over-year -- 290 for #wsdm2010, 381 for #wsdm2011, and 367 for #wsdm2012
+@iadh Last year may have also attracted more papers from Asia. I wonder if SIGIR will see a similar trend from this year to next.
+@jteevan The number I quoted was from the &quot;Reviewer Instructions&quot; email sent by the 2011 PC chairs. Prob a few papers dropped during review.
+@web_miner i&#39;d personally like a set of knobs that let me trade off personal relevance, network relevance, and recency (cc @twittersearch)
+i&#39;m thrilled to join david blei, @kevinrose, and @aplusk as an advisor to @chomp (app search startup) -- http://bit.ly/pThl8F&nbsp;
+1st Southern California Workshop on Machine Learning @ UC Irvine on September 9th (free registration) -- http://bit.ly/nGeXqu&nbsp;
+trying to get ahead on my reviewing obligations. AIRS done. next up: WSDM and a bunch of journal articles (TOIS, TKDE, TIST, and IRJ).
+giving a talk on Mavuno (a scalable distributional similarity engine) at the #kdd2011 LDMTA workshop on sunday. paper: http://bit.ly/o3WsrC&nbsp;
+.@JeffD mavuno isn&#39;t available yet, but will be soon. i&#39;m looking for some folks to test the install process and run some tests earlier, tho
+my #kdd2011 LDMTA workshop slides for &quot;Mavuno: A Scalable and Effective Hadoop-Based Paraphrase Acquisition System&quot; : http://bit.ly/q19kDX&nbsp;
+@nimatwtr every time i feel down, i just read your tweet stream, and it makes me feel a lot better.
+i noticed a variable number of spam bots follow me each time i tweet. i wonder if it&#39;s random or has to do w/ specific keywords. let&#39;s test.
+seo, sem, search engines, marketing, analytics, optimization, ads, advertising, ranking, web site, services, google, yahoo, bing, first page
+@ian_soboroff you&#39;re right. that strangely netted me 3 legit followers and just 2 spam bots. weird. maybe not the right set of topic words.
+@ian_soboroff maybe something like &quot;where can i buy twitter and facebook followers and grow my network ?&quot; will be more effective.
+@diazf_y feel much shaking there?
+@diazf_y that&#39;s clearly the only plausible explanation for this quake and the one in CO last night.
+@BenCarterette was that your warm welcome home from Russia?
+@stuartrobinson that&#39;s a great title for an IR book (or a SIGIR tutorial...)
+dumb question: what&#39;s the correct usage of &quot;toward&quot; vs &quot;towards&quot;? the copy edits for a manuscript i&#39;m preparing suggest i have no idea.
+@jerepick they changed all of my &quot;towards&quot; to &quot;toward&quot;. maybe they just wanted to save ink to lower costs.
+@stuartrobinson Interesting! Perhaps it&#39;s a regional (NW PA) thing. I was raised to say other bizarre things like &quot;what do you taste for?&quot;
+@delsweil &quot;toward&quot; just sounds funny to me. i guess i&#39;m more british than i knew :)
+@stuartrobinson Yeah. That&#39;s another one I never realized was weird until I told someone &quot;my car needs washed&quot;.
+@ian_soboroff unlike you, i can&#39;t even construct an s-less tweet. i look forward to your s-less SIGIR paper next year.
+another well-executed LA machine learning meetup today. kudos to @petricek and @zaxtax
+now that the initial google+ buzz has died down, my stream is more like a slow drip only worth checking once or twice a week, at most.
+@XplusOne good question! i was trying to determine what types of keywords are most targeted by spambots.
+.@davidandrzej interesting work! will definitely read the paper. (fwiw, i would strongly recommend to never use the indri &quot;#not&quot; operator)
+@arjenpdevries i was responsible for L8 and L15. unfortunately, i haven&#39;t seen anyone actually use these in any papers.
+@arjenpdevries btw, if you have a particular data need, you can always ping someone in y! and they can try to get it released for you.
+elevators should require a special &quot;i&#39;m unable to climb stairs&quot; access card for all rides between floors n and n+1 (or n-1).
+4.2 earthquake in the san fernando valley. very light shaking here in marina del rey.
+@HCIR_GeneG i&#39;m guessing a small %. most are likely random junk, strange misspellings, and bizarre long queries.
+i&#39;m co-chairing the #ictir2011 best paper award committee. we have a strong, diverse pool of candidates to choose from.
+not too surprised by the bartz news. she was one of the factors that caused me to leave yahoo!
+@ian_soboroff you mean, other than government red tape?
+@ian_soboroff 10 years at NIST?
+@ian_soboroff that&#39;s a nice milestone, btw. only 40 more years until the coveted CD-534.
+@stuartrobinson awesome. thanks for the pointer!
+attending the southern california machine learning workshop at UC irvine
+my socal machine learning workshop slides: http://bit.ly/q5QAN4&nbsp; . asks what&#39;s more important for learning to rank - features or models?
+it&#39;s only 10am and i already don&#39;t want to eat any more mooncake this year.
+@lintool that was exactly my argument. no need for incremental modeling improvements when you have lots of data and strong features.
+@jerepick yes, excellent point! if the language is expressive enough then the distinction begins to blur such that query = features + model
+@lintool that&#39;s exactly what i thought... at least it&#39;s a step in the right direction.
+@ian_soboroff @trecmicroblog did i miss something or has there been some sort of delay?
+it&#39;s a longshot, but... does anyone in los angeles know if book royalties necessitate a business tax registration certificate? #la #dtla
+mostly happy with our @trecmicroblog results. we kept it simple and combined a number of proven techniques w/ domain-specific adaptations.
+@milesEfron i look forward to reading your notebook paper! i wish we had found the time to do something a bit more risky ourselves.
+my first patent was recently granted (US 8,005,845). basic idea: &quot;intent-adaptive machine learned query-biased summarization&quot;
+twitter started randomly(?) dropping posts made by my followers from my timeline. i&#39;ve missed a few &quot;important&quot; messages as a result.
+@web_miner yes, but when combined they gives rise to a very specific (yet broadly defined) &quot;invention&quot; (that yahoo now has little use for.)
+#twitter segmentation #fail... trending topic &quot;Ask Don&quot; as in... &quot;don&#39;t ASK, DON&#39;t tell&quot;.
+http://www.businessinsider.com/yahoo-board-not-looking-for-ceo-2011-9&nbsp;… ... Yahoo! Research =&gt; News Corp Research? Doesn&#39;t have quite the same ring to it.
+i&#39;m not a fan of facebook&#39;s redesign, but i do like their new open graph features. nice, simple way to add basic semantics to web content
+@arjenpdevries you can add the tags to any web page. e.g., you can appify your publications page with &quot;+Read It&quot; buttons if you so choose
+@arjenpdevries @diazf_y i wouldnt actually use this myself, but will gladly scrape other&#39;s &quot;open graph&quot; content as a rich source of evidence
+another Twitter trending topic gem (for Los Angeles): &quot;Tomorrow is Friday&quot; (trending on Friday, go figure)
+do any search toolkits support per-tag weighting? i want to have &lt;tag wt=&quot;3&quot;&gt;...&lt;/tag&gt; in the text and use 3 during ranking. @TerrierTeam ?
+@pbrane thanks! low-level custom code isn&#39;t a problem. better than the complexities of implementing new index data structures myself.
+@craig_macdonald thanks, craig. indri supports the same. the problem with that solution is variable # of tags per doc (think anchor text)
+@craig_macdonald if terrier implemented that, then you might make a convert out of me, afterall ;)
+@craig_macdonald unfortunately, no. weights will be arbitrary real-values in no way connected to the TF (or IDF) of the span&#39;s text.
+@arjenpdevries nope, the weights are static and computed prior to indexing.
+do any cities have a &quot;smart grid&quot; of traffic signals? LA could seriously use some more sensors + intelligence to improve system-wide flow.
+@CathyE nice -- thanks for the pointer!
+@HCIR_GeneG my pet peeve: when dozens of cars end up waiting at a red light for &gt; 3 minutes, while zero cars pass through the green light
+@jelsas depends on how you define &quot;open&quot;. most publishers (ACM, Elsevier) allow posting to personal web sites. WWW used to put PDFs on web
+there&#39;s a fine line between being too busy and being utterly incompetent
+@julian_urbano successful procrastination is an art :)
+@diazf_y @twittersearch furthermore, [can] should not match [can&#39;t].
+my interest in a given seminar is inversely proportional to the number of reminder emails i receive about it
+@julian_urbano i wonder if they would accept a scanned hand-written PDF.
+when using NER annotator w/ latest @stanfordnlp, set ner.useSUTime prop to false to avoid endless exceptions/warnings for docs w/o date tags
+@stanfordnlp It is useful for docs w/ timestamps. BTW, not all msgs are just &quot;logging&quot;. I got a NullPointerException @ SUTime.java:1707.
+Mavuno is now available! Open source. Scalable (Hadoop). Modular. Supports large-scale #nlproc and text mining. Get it: http://bit.ly/nQS2dn&nbsp;
+apparently exceeding github&#39;s free account &quot;soft limit&quot; of 300MB only becomes an issue if/when you hit 1GB, according to their tech support.
+coffee from breakfast spilled on my shirt? check. tomato soup from lunch spilled on my shirt? check. meetings this afternoon? check.
+kudos to @yandex for their continued outreach to the research community via (anonymized) data sharing. http://imat-relpred.yandex.ru/en&nbsp;
+&quot;A Feature-Centric View of Information Retrieval&quot; (Springer IR Series) is now available - http://bit.ly/nsvXZO&nbsp;
+CA homeowners -- did you get any specific earthquake-related inspections done (beyond the minimal ones required by state law) when buying?
+@stuartrobinson yeah, probably will end up getting a geologist. have some concerns about liquefaction potential and/or landslides.
+i&#39;d be more tempted to try out iamResearcher if they didn&#39;t have such a grammatically incorrect name.
+does #pandora serve anyone else geo-targeted ads for completely random midwestern cities that nobody&#39;s ever heard of? or is it just me?
+@diazf_y i did spend four years in terre haute, indiana. i&#39;m thankfully avoided picking up a taste for ICP (or PCP, for that matter.)
+@i_am_researcher i was of course only joking. i hope to give it a try when i have a few free minutes.
+not to be rude, but the #lucene &quot;DefaultSimilarity&quot; scoring function is an abomination. are users satisfied with its ranking quality?
+if anyone&#39;s going to take down Google, it&#39;s going to be MC Hammer. http://www.cnn.com/2011/10/20/tech/web/mc-hammer-search-engine/index.html?hpt=hp_t2&nbsp;…
+@lintool google, the least &quot;open&quot; of all industrial research labs, is leading the charge towards openness? huh?
+finally getting around to writing our TREC microblog track notebook paper.
+The Yahoo Circus (Animation) http://techcrunch.com/2011/10/24/the-yahoo-circus-animation/&nbsp;… via @techcrunch
+i hope everyone enjoys #cikm2011. now the conference is here, i won&#39;t be sending you all spam (er, &quot;publicity materials&quot;) anymore :)
+sad that @congxing left us to work for google, but happy to inherit his apple 30&quot; cinema HD display
+metareviews should summarize the strengths/weaknesses raised by the reviewers. writing &quot;reject based on reviews&quot; is just phoning it in.
+@bemikelive @doridayan smh
+@SethGrimes Sentence boundary detection for Web docs = hard. Adding sentence boundary info to search index = expensive. Demand = little.
+a plagiarized version of our SIGIR &#39;10 &quot;Learning to Efficiently Rank&quot; paper found its way into a Materials Science journal, of all places...
+@vitroc another researcher told us about it. i have no idea how they discovered it.
+@julian_urbano http://www.scientific.net/AMR.268-270.1773&nbsp;…
+USC/ISI now has an (alleged) quantum computer (http://dailytrojan.com/2011/10/30/usc-receives-first-quantum-computer/&nbsp;…) - time to put quantum IR theories to the test?
+@julian_urbano didn&#39;t report yet, but will. fake authors? never thought of that. what&#39;s their agenda? citation factories?
+@kohlschuetter thanks for the support! i&#39;m guessing nothing will ever come of it, but it&#39;s certainly worth trying to get resolved.
+@stuartrobinson @SebastianThrun key metrics: intelligence vs. propensity to cheat in both populations. too many unknowns to say for sure.
+today google rolled out better support for implicitly year qualified queries, wh/ we studied in a YRL &#39;09 tech report: http://www.isi.edu/~metzler/papers/2009-002_Metzler.pdf&nbsp;…
+not a huge fan of the #ecir2012 conference management system (ConfTool)
+our #trec2011 @trecmicroblog track notebook paper is now available at http://bit.ly/v7DUr4&nbsp;
+i finally looked up how to say &quot;wrong number&quot; in spanish -- &quot;número equivocado&quot;. that will come in handy.
+coding rawcomparators for complex user-defined writable objects in hadoop is well worth the effort (and kind of fun).
+@kunegis thanks!
+@kohlschuetter @diazf_y regarding the &quot;+&quot; operator issue. google rolled out &quot;verbatim search&quot; today (http://insidesearch.blogspot.com/2011/11/search-using-your-terms-verbatim.html&nbsp;…)
+@diazf_y i&#39;d be interested in your findings, as well. don&#39;t know of too many IR-specific query languages, really, or user-facing studies.
+@diazf_y google should adopt an indri-style query language. #verbatim(inquery stopword list)
+@cherhan @julian_urbano @iadh unfortunately not at TREC. like this idea. perhaps tie w/ news feed (eg &quot;predicting tomorrow&#39;s headlines&quot;)
+@arjenpdevries no, you&#39;re absolutely correct. the inquery folks deserve all the credit!
+only at USC: &quot;... suspect approached him and stated he had a weapon (none seen) demanding complainant&#39;s lunch&quot;. strong armed lunch robbery.
+who honestly thought it would be a good idea to have two NLP paper deadlines following peak vacation time? (NAACL-HLT: Jan 6, ACL: Jan 15).
+upcoming conference paper deadline gauntlet: NAACL-HLT: 1/6, ACL: 1/15, ICWSM: 1/18, AAAI: 1/24, KDD: 2/10, SIGIR: 2/13.
+@vanessa_murdock i tried in vain to find the deadline. do you know when it is?
+@vanessa_murdock thanks!
+#www2012 &quot;Appification of the Web&quot; workshop : https://sites.google.com/site/appweb2012/&nbsp;…
+you just know an email starting with &quot;Dear Research Assistant Professor in Computer Science Donald Metzler,&quot; is going to be good...
+@textminor @bemikelive not so much the sampling, but rather the &quot;analysis&quot;.
+curious to see how the ongoing yahoo saga will resolve
+are there any good, reputable, non-sketchy local residential moving companies in los angeles that anyone can recommend? #dtla
+@vgoklani @DataJunkie we have that data, but can&#39;t share (ToS issues). the only legit archive (AFAIK) is at the LoC (http://www.forbes.com/sites/oreillymedia/2011/06/13/the-library-of-congress-twitter-archive-one-year-later/&nbsp;…)
+solved a system of equations (3x3) by hand for the first time in over 10 years. math was more fun before i learned Matlab, Maple, and R
+@movingpro thank you very much for the information!
+looking forward to actually *walking* somewhere for once -- tomorrow&#39;s LA machine learning meetup is in downtown (http://www.meetup.com/LA-Machine-Learning/events/41675362/&nbsp;…)
+&quot;new and improved&quot; klout topics are horrible. i&#39;m apparently influential about &quot;email&quot;, &quot;notebook&quot;, and &quot;models&quot; (the half-naked kind)
+the ICTIR 2013 call for bids is heavily Euro-centric. perhaps the &quot;I&quot; should be replaced with an &quot;E&quot;.
+@arjenpdevries none of the above :) although not explicitly stated, it appears as though non-European bids won&#39;t be considered.
+@arjenpdevries specifically &quot;The location should be easily accessible for people attending from across Europe and elsewhere.&quot;
+@BenCarterette the *BCS* IRSG mailing list (haven&#39;t seen it on SIG-IRlist yet).
+@cherhan I&#39;ve compiled a reading list that should get you started: https://bitly.com/bundles/metzlerd/2&nbsp;…. Let me know if you have any additional questions!
+@cherhan also, sorry for the slow response!
+Using Markov Random Fields for Information Retrieval Reading List - https://bitly.com/bundles/metzlerd/2&nbsp;…
+@DataJunkie If you haven&#39;t read this paper, then I highly recommend it: http://www.soi.city.ac.uk/~ser/idfpapers/Robertson_idf_JDoc.pdf&nbsp;…
+a 10 page paper in ACM format turns into a 16 page paper in ACL/NAACL format. yikes.
+@cegme i couldn&#39;t agree more. over half of the things they claim are &quot;breaking news&quot; are anything but.
+despite the fact i only tweet about geek-laden topics, twitter insists on suggesting i follow chris brown, snoop dogg, and trey songz
+@ian_soboroff that strategy seems to have moved me from the space of NBA players to R&amp;B singers. it&#39;ll be interesting to see what&#39;s next.
+@lintool is this subtle foreshadowing?
+&quot;who to follow&quot; #fail continues. after nba players and r&amp;b singers, i now get actors (sheen, hill) and something called &quot;tap pet hotel&quot;
+@DataJunkie i&#39;m not sure if this is bad matching, bad CF, bad personalization, incognito &quot;promoted&quot; suggestions, or something else entirely.
+@HCIR_GeneG i hadn&#39;t thought of that. uh oh.
+amusing excerpt from the &quot;Hosting SIGIR&quot; web page: &quot;SIGIR has no plans to include Antarctica in the [geographical] rotation.&quot;
+@ChrisDiehl for models w/ few params, coordinate ascent works amazingly well: http://www.cs.umass.edu/~mccallum/papers/direct-metzler05.pdf&nbsp;…
+@ChrisDiehl What a small world, indeed! You find yourself in excellent company. They are both awesome, top-notch engineers. Tell them hi.
+i no longer get carded when buying alcohol, but still manage to get &quot;can i see your student ID?&quot; at campus eateries.
+@iadh i totally agree. it&#39;s horrible. i&#39;ve heard the same feedback from several other people, too.
+#naacl reviewing load: 1 paper.
+@JeffD money &gt; relevance
+just about any semi-interesting word i include in my tweet attracts spammers. asbestos.
+@stuartrobinson more likely than not, some sort of spambot.
+sorry @cnnbrk, you&#39;ve distracted me with far too many non-breaking news events. i&#39;m unfollowing you and removing you from my phone.
+@ChrisDiehl if you want to see George&#39;s face turn red, and his blood begin to boil, talk to him about Pig bugs/errors/documentation
+@HCIR_GeneG i went through my tweet history a few days ago hoping to answer you, but couldn&#39;t seem to find anything. i&#39;ll look again now.
+
+@ChrisDiehl it sounds like you are well on your way (if not already there) to having Pig war stories of your own :)
+negative okapi idfs + max_score query optimization = fail
+wow, the LA office of finance tax and permit division is so horribly incompetent. makes me want to flee LA even more.
+i tend to overuse the word &quot;very&quot;. is there a psycholinguistic theory/explanation/name for this very annoying habit?
+@lintool very interesting! then perhaps it&#39;s something i subconsciously picked up from my wife and/or chinese colleagues
+@DataJunkie thanks for the free advertising!
+@sgouws very cool! it even correctly detected my horribly scripted \xi
+udacity using search engines as CS101 is a brilliant marketing ploy. to actually learn about search, read an information retrieval book.
+just deleted my @klout account. it&#39;s scoring was seemingly arbitrary, it&#39;s topics were horrible, and the perks were lame.
+thanks to @lintool for pointing out gh-pages to me. handy way to host web sites associated w/ github projects
+in about a month, i&#39;ll once again &quot;bleed purple&quot;.
+@fabreetseo Yeah, I&#39;m flip-flopping between acadmia and industry. Perhaps I am better suited as a politician :)
+hey @TWCable_LA -- if you wake me up one more time on the weekend, or call me during dinner again, this new customer will be an ex-customer.
+&quot;The Future of IR&quot; paper selections from the upcoming SWIRL workshop: http://www.cs.rmit.edu.au/swirl12/discussion.php&nbsp;…
+@craig_macdonald &quot;The position is available as part of the SMART project&quot; - is the name in homage to Cornell&#39;s SMART system?
+paper w/ @bemikelive (http://bit.ly/zXpB6r&nbsp;) received the best search paper &quot;runner-up&quot; award at #wsdm2012
+contrary to popular belief, information retrieval is, in fact, more than just vector space models, TF.IDF, and PageRank
+@aria42 that has yet to make its way into any of the naive characterizations of the field that i&#39;ve heard
+was surprised (and somewhat embarrassed) to find one of my tweets featured in the keynote by @hmason at #wsdm2012
+does anyone know of any studies or articles on (reverse) age discrimination in academia?
+@aria42 i finally gave into your relentless PR campaign and signed up for prismatic.
+what are some creative things that one can do with 480 unused business cards?
+@sgouws i also highly recommend 30 yo tawny porto at 30.
+tried out @prismatic today and was pleasantly surprised to find so many relevant story recommendations
+Google buys what’s left of defunct search startup Cuil http://venturebeat.com/2012/02/20/google-buys-cuil-patents/&nbsp;…  via @prismatic
+@julian_urbano NTCIREVAL - http://research.nii.ac.jp/ntcir/tools/ntcireval-en.html&nbsp;…. ERR not included in trec_eval, last time i checked (/cc @ian_soboroff)
+attending Google LA&#39;s inaugural Speaker Series&#39; talk by @theamitsinghal on  Monday. should be interesting.
+facebook insists on recommending that I friend someone who sadly passed away recently. i guess death is hard to algorithmically model.
+my recent work w/ @lintool, @nimapp, et al. has embraced this. paper experiments = Ivory unit tests http://arstechnica.com/science/news/2012/02/science-code-should-be-open-source-according-to-editorial.ars&nbsp;…  via @prismatic
+@lintool my vacation is still young! :)
+thanks for the follow @TRECWithUs, but I don&#39;t TREC like *that*
+@ChrisDiehl I&#39;ll actually be in the Bay Area March 5--16. It would be great to meet and also catch up w/ George and Lance.
+@HCIR_GeneG i&#39;ll have limited availability during the days. if you, @ChrisDiehl, + others want to get together some evening that&#39;d be great
+1) find cool data set 2) compute elementary statistics 3) post tag cloud or map viz to your blog 4) declare yourself a &quot;data scientist&quot;
+@elunca @HCIR_GeneG @ChrisDiehl any day after 6pm that week works for me. mt view (or anywhere on light rail would be most convenient)
+@zaxtax i&#39;ll be in the bay area for the next couple of weeks, too. let me know if you find some folks who want to get together
+Tomorrow&#39;s my first day back at Yahoo. I sure picked an interesting time to rejoin.
+worst. timing. ever.
+@HCIR_GeneG @elunca sounds good. what day next week would work best for you guys? any day except friday is ok with me
+@HCIR_GeneG @elunca ok, tuesday it is, then! i&#39;m impartial. do either of you have any preferences?
+@JeffD thanks for the free advertisement, Jeff!
+@stanfordnlp i strategically managed to open source mavuno before i left, so i plan to continue maintaining/developing it.
+@HCIR_GeneG pretty easy. the quality would depend on the NLP stack&#39;s &quot;compatibility&quot; with ur data. do u have newswire? web? something else?
+like the author of this article, i was also pleasantly surprised by the number of tech startups in LA http://www.forbes.com/sites/tarabrown/2012/03/06/why-los-angeles-will-outpace-silicon-valley-as-the-tech-startup-capital/&nbsp;…  via @prismatic
+How Twitter is doing its part to democratize big data http://gigaom.com/cloud/how-twitter-is-doing-its-part-to-democratize-big-data/&nbsp;…  via @prismatic
+@zaxtax @ogrisel ditto. it was nice bumping into you guys. hope you enjoyed the conference.
+@HCIR_GeneG it currently doesn&#39;t perform any text cleansing. garbage chars would throw the NLP tools off. lines breaks are less problematic.
+i&#39;ve relocated my web site to http://bit.ly/wuiejt&nbsp; (hint: you can find my latest CV there)
+@sodaontheside from the web interface you can click &quot;open&quot; and then &quot;details&quot; to get the URL of a specific tweet
+@faultlinebrew your web site is borked.
+@faultlinebrew no problem. luckily, that won&#39;t stop me from stopping by tonight :)
+@HCIR_GeneG @elunca hey guys, i woke up with a bad fever this morning, so i&#39;m going to have to postpone. if i&#39;m better, thu would work
+@HCIR_GeneG @elunca thanks, guys. i&#39;ll let you know. i&#39;ve done the warm whiskey home remedy several times before, and it really does work!
+when pitching your startup, please try harder than &quot;our co-founders are ex-Googlers&quot;.
+@techmilind it&#39;s not every day you learn the identity of those pesky blind reviewers ;) thanks for the mavuno mention!
+Nice intro article on how search engines rewrite your queries http://prsm.tc/251p5X&nbsp; via @prismatic
+our (long) paper titled &quot;Structured Event Retrieval over Microblog Archives&quot; was accepted at NAACL-HLT
+@HCIR_GeneG nope. much more interesting than that :) we retrieve structured representations of events in response to ad hoc search queries
+@HCIR_GeneG technically, it can be as few as 1, but realistically you want enough to generate a good summary of the event
+@stuartrobinson of course. but since this is an academic paper you have to make it sound overly fancy / general :)
+@francesco1986_ yep. event query =&gt; burst detection =&gt; temporal query expansion =&gt; tweet retrieval =&gt; generate &quot;structured&quot; results
+@francesco1986_ @PFCdgayo i&#39;ll make a preprint available in the next week or two. thanks for the interest!
+@arjenpdevries thanks. preprint will be available soon.
+Nice to see @lintool &#39;s &quot;Data-Intensive Text Processing with MapReduce&quot; show up in my Prismatic feed - http://prsm.tc/4YCCHg&nbsp; via @prismatic
+Looking for an excellent systems-oriented Search Engines book? Check out:http://www.amazon.com/Information-Retrieval-Implementing-Evaluating-Engines/dp/0262026511&nbsp;…
+Will Twitter put the U.N. out of the disaster business? http://prsm.tc/aif9yv&nbsp; via @prismatic
+@HCIR_GeneG @ian_soboroff that&#39;s along the lines of what i was also going to say...
+@ian_soboroff i always thought that &quot;Divergence from Randomness&quot; would make for a great band name.
+@HCIR_GeneG @ian_soboroff @tetsuyasakai I personally like &quot;Rank Fusion&quot; the best. I would totally buy that album.
+@diazf_y i ultimately decided that nothing of great significance would arise any time soon, so i punted on it.
+@JeffD small magnitude gains can also be substantive. even tiny (e.g., tenths of a %) gains in DCG in commercial search =&gt; lots of $$.
+@HCIR_GeneG yes, very good point!
+Super expensive, but could be interesting - Mining Text Data (Aggarwal &amp; Zhai) : http://prsm.tc/m1F6R8&nbsp; via @prismatic
+Microsoft Expands Hadoop/Azure Preview http://prsm.tc/2zJUmT&nbsp; via @prismatic
+Do I Need SQL or Hadoop? A Flowchart http://prsm.tc/p7FQfs&nbsp; via @prismatic
+anyone know who won the Karen Sparck Jones award this year? thought the winner was supposed to give a keynote #ecir2012 ?
+.@wavii is great at surfacing random facts about topics, while @prismatic finds content i&#39;m actually interested in.
+preprint of our #naacl2012 paper &quot;Structured Event Retrieval over Microblog Archives&quot; : http://bit.ly/ICIQfC&nbsp;
+2 USC Students Murdered During Attempted Carjacking Near Campus « CBS Los Angeleshttp://cbsloc.al/I2ZdET&nbsp;
+@zaxtax factual is trying to become this
+@ian_soboroff @IR_oldie that&#39;s where i&#39;ll also be headed in the not-so-distant future.
+Watch SNL Call Out Angelenos For Their Obsession With the 10 http://curbed.cc/J6zSuZ&nbsp; via @CurbedLA
+yahoo: &quot;refocusing our R&amp;D on O&amp;O properties and stopping development of … theoretical science … outside of our core&quot;http://ow.ly/alD6J&nbsp;
+SNL skit &quot;The Californians&quot; - http://www.hulu.com/watch/350669/saturday-night-live-the-californians&nbsp;… - I prefer to take the 90 into Marina del Rey, myself :)
+oren kurland and i will be giving a half day tutorial titled &quot;Experimental Methods for Information Retrieval&quot; at #sigir2012
+@julian_urbano thanks, we thought so, too. and yes, we plan to make all of the slides publicly available after the tutorial.
+Sign up for @Prismatic right now, and get in within 24 hours http://getprismatic.com/inviteportal?ref=metzlerd&nbsp;…
+@francesco1986_ we&#39;ll post the slides after the tutorial.
+This post contains some interesting details about the Inktomi ranking function - http://prsm.tc/M5F9Dm&nbsp; via @prismatic
+@semanticpc very interesting! did you implement it yourself?
+CIKM 2011 Call for Workshops -- http://www.cikm2011.org/callforworkshops
+@fdiaz_msr hope you&#39;re enjoying your first day!
+@dtunkelang is there a way to report that a linkedin member is deceased? several keep appearing in my &quot;people you may know&quot; list.
+@ian_soboroff perks: increased awareness of exciting government processes you probably never knew about (e.g., continuing resolutions).
+
+@sgouws how long will you be in LA?
+@sgouws yeah, i&#39;ll be around the whole time. you should stop by for lunch w/ me and @congxing.
+there are many interesting #sigir2012 tutorials, but the one you should register for is &quot;Experimental Methods for IR&quot;: http://bit.ly/LjzNX4&nbsp;
+i&#39;m serving as a program chair for OAIR (the conference formerly known as RIAO) 2013. i look forward to some good submissions!
+@aria42 here&#39;s a good place to start: http://www.cs.rmit.edu.au/swirl12/discussion.php&nbsp;…
+@CharlotteHase i don&#39;t think so, as things are just now coming together. i&#39;ll be sure to circulate the web site + CFP when they&#39;re available
+@CharlotteHase as an aside, the &quot;Psychedelic Experience Open Air 2013&quot; event does indeed sound interesting.
+#oair2013 (formerly RIAO) web site - http://oair2013.org/home/&nbsp;
+Semi-interesting popular press article about deep learning applied at scale. http://prsm.tc/wpapPU&nbsp; via @prismatic
+SIGIR 2012 Workshop on Open Source Information Retrieval http://prsm.tc/hnM0w3&nbsp; via @prismatic
+Twitter Tweaks Tweet Search -http://prsm.tc/2R6JEF via @prismatic
+Is Data Is, or Is Data Ain’t, a Plural? http://prsm.tc/shQ37U&nbsp; via @prismatic
+One of the last papers I worked on while I was at USC/ISI: http://bit.ly/M6f3m9&nbsp; (using data integration to help prevent sex trafficking).
+@DataJunkie *had* and likely never will have again.
+did the #sigir2012 tutorial you registered for get cancelled? then check out the &quot;Empirical Methods for IR&quot; tutorial: http://bit.ly/LjzNX4&nbsp;
+slides for #sigir2012 tutorial &quot;experimental methods for IR&quot; available here: http://bit.ly/R5Glgz&nbsp;
+(#sigir2012 spoiler alert) ... the conference booklet seems to reveal that Norbert Fuhr is this year&#39;s salton award winner
+Having chaired a session in the #sigir2012 &quot;batcave&quot;, I can say it was the single worst presentation venue I ever experienced.
+@milesEfron I believe it was part of an underground parking garage that was fitted with portable curtains and a low quality sound system.
+@xuexb i noticed that your tweet frequency drastically increased. no tweets == no bonus? ;)
+@brendan642 stemming/spell-correction typically done contextually (at the word and/or char level). many possible implementations.
+@brendan642 feel free to email me (see web site for contact info). would be happy to explain in more detail.
+@gilelbaz i saw you at the google office last week w/ tom. was going to say hi, but didn&#39;t want to interrupt. hope you enjoyed your visit.
+CIKM 2012 Industry Event - http://prsm.tc/lmU0BO&nbsp; via @prismatic
+Why Los Angeles Is Emerging As The Next Silicon Valley - Forbeshttp://onforb.es/SNW55N&nbsp;
+A Brief Tour of Factual’s Machine Learning Pipeline http://prsm.tc/M5JJc5&nbsp; via @prismatic
+@CharlotteHase You should check out &quot;Information Retrieval: Implementing and Evaluating Search Engines&quot; by Buettcher, Clarke, and Cormack.
+Anecdotal science http://prsm.tc/54UXbk&nbsp; via @prismatic
+On Stanford&#39;s use of &quot;flipped&quot; classrooms to teach IR (and other CS courses): http://prsm.tc/wopOtU&nbsp; via @prismatic
+Did Blowing into Nintendo Cartridges Really Help? http://prsm.tc/LypIiT&nbsp; via @prismatic
+@ian_soboroff @n0v0id @HCIR_GeneG But if you&#39;re from Cuba, Iran, Sudan, or Syria then &quot;more information will be requested.&quot;
+@HCIR_GeneG great plotline -- enemies of the state infiltrate IR community, get internship at NIST w/ @ian_soboroff, take over gov&#39;t
+@zaxtax fast coreference is an oxymoron.
+I&#39;m surprised how many people fail to realize this happened *last year* - Dennis Ritchie Passes Away http://prsm.tc/vBnJKG&nbsp; via @prismatic
+@peter_c_william Yeah, it almost certainly has to be the result of blind retweeting.
+Tech Titans Buy Homes in Los Angeles http://prsm.tc/J7WEot&nbsp; via @prismatic
+@bradfordcross yeah, that was a particularly bad couple of weeks. i think that ritchie&#39;s passing was largely overshadowed by jobs&#39; death.
+@bradfordcross @peter_c_william reminds me of academics citing papers they&#39;ve never read, and may have never existed (http://blog.codalism.com/?p=773&nbsp;)
+@fdiaz_msr @tetsuyasakai sounds interesting!
+I guess now&#39;s as good time as ever to start using Twitter...
+space shuttle endeavor is parked about a mile from my house, between a krispy kreme and a walmart. doesn&#39;t get much more american than that.
+IBM&#39;s Watson is (partially) powered by Indri... (see AI Magazine article -- http://bit.ly/h1AKIm)
+#www2011 relevance and ranking track had a solid set of papers submitted this year. track acceptance rate=19% (vs. 12% overall accept rate)
+@KushalDave depends on score distributions. 0-1 normalization and z-normalization tend to work well in practice.
+@KushalDave here&#39;s a relevant paper: http://www.iicm.tugraz.at/thesis/cguetl_diss/literatur/Kapitel07/References/Montague_et_al._2001/p427-montague.pdf&nbsp;…
+Shootings in Hollywood and on USC campus tonight. This is why I !(love) LA.
+@bemikelive I&#39;m surprised it took them this long to do this. It&#39;s all about tracking, err, &quot;analytics&quot;.
+@lintool and the jobtracker runs out of memory in 3, 2, 1...
+Gave a talk today at UC Irvine&#39;s AI/ML seminar titled &quot;Learning to Effectively and Efficiently Rank&quot; (slides: http://bit.ly/d7Of9E).
+i&#39;m waiting for godot (aka sentence breaking, pos tagging, chunking, and parsing 140GB of text).
+&quot;Please Click On Our Website&#39;s Banner Ads&quot; (The Onion) -http://www.theonion.com/articles/please-click-on-our-websites-banner-ads,30513/&nbsp;…
+@jelsas mine, too! my mandelbrot code doesnt seem to work anymore, but i found my zoomable newton&#39;s method fractal app: http://bit.ly/aDwcwR
+UIUC is recruiting (senior) Computational Advertising faculty - http://cs.illinois.edu/csillinois/employment/CS-tenure-track-faculty-positions&nbsp;…
+@ian_soboroff I don&#39;t think that SEO + AdSense revenue counts as a valid form of research funding.
+@lintool i was having the same exact problem today.. my supposed stochastic matrix was not-even-close-to-stochastic
+@bemikelive the question is as ignorant as the contestants. i&#39;d say the country&#39;s name officially starts with U, not A.
+If you&#39;re in LA and interested in machine learning, this talk by Yan Liu should be good -http://www.meetup.com/LA-Machine-Learning/events/95951242/?a=ea1_grp&amp;rv=ea1&nbsp;…
+Don&#39;t forget that #www2011 papers are due at *6PM* Pacific time.
+#www2010 relevance and ranking track only received 45 submissions, compared to 77 last year
+#naacl2013 reviews done. lots of good ideas, but so many bad evaluations. doing IR experiments? check this out: http://bit.ly/R5Glgz&nbsp;
+@blekko is a step in the right direction in terms of more expressive, powerful query languages. it also has some fun IR geek tools (/rank)
+tracking the flu using twitter? that&#39;s so 2010: http://arxiv.org/abs/1007.4748&nbsp;
+For the first time in 9 years, I&#39;m not preparing a paper for #sigir2013. In other words, I had a very stress-free December and January.
+@jcmayfield the tweeter&#39;s dilemma: to actually make sense or to make sure your tweet is discoverable? i obviously chose the latter.
+@fdiaz_msr yes, of course. there&#39;s writing papers, and then there&#39;s making magic.
+@julian_urbano @HCIR_GeneG i&#39;ve always wanted to try procrastinating, but never got around to it.
+passagifiable -- the ability to split a document into passages.
+note to self: do not accidentally click buttons in confmaster minutes before a paper deadline, especially when you are very tired
+@hintikka sounds fascinating. i look forward to seeing the slides!
+@arjenpdevries nothing actually happened, but i came close to accidentally withdrawing a paper
+over the past year, the word that is most likely to co-trend with &quot;layoffs&quot; on Twitter is &quot;yahoo&quot; (i&#39;m not joking).
+I apparently have one of the top 1% most viewed @LinkedIn profiles for 2012. However, 1% of 200M = really not that impressive.
+@hintikka That&#39;s probably it. And the fact that probably 75% of those 200M people have probably only logged in once and have empty profiles.
+@tetsuyasakai i find it amazing some japanese tweets characterize a 5.7 magnitude as a &quot;small tremor&quot;. your preparedness is most impressive.
+@peter_r_bailey what a great set of tips! you should retweet these before next year&#39;s deadline.
+I will serve as PC co-chair for @ictir2013 alongside Oren Kurland. For more details about the conference check out: http://bit.ly/ZZQVpz&nbsp;
+&quot;Data Science for Social Good&quot; (U of Chicago) program looking for lots of ML/data mining grad students this summer - http://www.ci.uchicago.edu/datasciencefellowship/application.html&nbsp;…
+ICTIR 2013 deadlines are about a month away - see http://bit.ly/X8RujK&nbsp; for CfP and newly added guidelines on experimentation for papers
+i look forward to serving as program co-chair of #wsdm2014 w/ @ChaToX
+@DataJunkie the neon paint is probably a belated celebration of the indian Holi festival
+a friendly reminder that the deadline for #ictir2013 full papers is April 22nd. for full details see: http://www.ictir2013.org/cfp.html&nbsp;
+@DataJunkie i think about this problem often, esp. when sitting at a red light w/ 20 other cars for 5 mins, while 0 cars pass thru the green
+this &quot;Bing is cheating&quot; argument is nothing more than a negative PR attack, in my opinion
+MS has been heavily publishing about their use of toolbar data for ranking for the past 5 years. so how is this surprising?
+@jelsas yeah, i agree with you there. they certainly could&#39;ve done a better job at making it less obvious
+The deadline for #ictir2013 papers (and tutorials) has been extended to May 1st. Posters now due May 3rd.
+@craig_macdonald @HCIR_GeneG @lintool Thanks for pointing this out, Craig, and for reporting it to Springer, Gene!
+@ian_soboroff you should expect an angry mob of teenage girls waiting for you after work.
+@RojaBandari congratulations! and thanks again for all the help w/ the RIPS team this summer. best of luck in the future.
+reasons why I reject your IR paper: poor evaluation (70%), lack of novelty (10%), flawed methodology (10%), bad motivation (5%), other (5%)
+looking for a MS or PhD student who has experience (or interest) in topic models for an internship at Google Los Angeles. DM me for details.
+@amurphy_ email me -- you can find me on google :)
+@cpsievert thanks for the reply -- send me an email and we can discuss more
+today i visited @factual (www.factual.com), a LA-based startup that&#39;s working on some pretty cool things in the realm of open data...
+trying to wrap my head around git(hub), the soon-to-be new home of ivory (ivory.cc)
+&quot;export LC_ALL=C&quot; &lt;-- incredibly useful, especially if you do a lot of sorting and don&#39;t want any weird surprises
+@jelsas are you trying to modify indri or just run it &quot;out of the box&quot;?
+@jelsas ah, that&#39;s not the most well-tested code, i don&#39;t think. do you really need to merge? most indri cmds allow multiple index locations
+Call for Tutorials - CIKM 2011 - http://www.cikm2011.org/callfortutorials #cikm2011
+i was amused (and impressed) to see that google&#39;s spell checker can correct &quot;dawnuld metslur&quot; (via phonetic similarity, i presume?)
+@Jeffye it would be even more impressive if it worked for americans&#39; horrible spellings of foreign (esp. chinese) names/words (eg &quot;buydo&quot;)
+our #sigir2011 workshop on search and data mining in social media was accepted (w/ fernando diaz, ed hovy, irwin king, and jie tang)
+attending a talk by ibm&#39;s chris welty titled &quot;inside the mind of watson&quot; -- should be interesting
+going crazy w/ horrible mturk documentation and useless error messages...
+@natala it may take a bit more than 140 chars, but i&#39;ll try :)
+@natala 1) soft 404s in documentation, 2) CLT errors uninformative, 3) inability to design qual tests + attach to HITS in RUI
+@bemikelive Congratulations, Michael!
+@ian_soboroff A certain nameless gov&#39;t agency is particularly fond of sticking everything in Excel. Agenda.xls? Huh?
+-XX:+UseCompressedOops JVM flag rescued my mem hungry #hadoop text mining job (see http://bit.ly/f58XGa) -XX:+UseCompressedStrings also good
+#sigir2011 Workshop on Social Web Search &amp; Mining: Analysis of User Generated Content Under Crisis http://bit.ly/gBnEbe (#www2011 #SoME2011)
+@sgouws 3y3 bee phollowin&#39; u.
+CIKM 2011 Industry Event - http://www.cikm2011.org/industryevent
+Three #sigir2011 papers accepted (2 w/ @lintool and 1 w/ @bemikelive).
+@diazf_y i find it much more of an honor to be the recipient of your first tweet than to have the papers accepted :) did you have any luck?
+@iadh are there any good comprehensive (e.g., survey) papers covering the latest and greatest advances in blog-related search tasks?
+@lintool I was semi-expecting you to announce that you were leaving for good. I was close :) What does this mean for your grants+students?
+#LosAngeles ML &amp; IR folks -- i&#39;m giving a talk on ranking at the LA #MachineLearning meetup at eHarmony on 4/28 (http://bit.ly/fXmGt6)
+@iadh exactly what i was looking for -- thanks for the pointer!
+#sigir2011 Workshop on Social Web Search &amp; Mining: Analysis of User Generated Content Under Crisis http://bit.ly/gBnEbe (cc: #ecir2011)
+experimenting with #hadoop 0.22 alpha...
+@lintool ... and then starts blinking at 100Hz?
+Yahoo Mulls Spinoff for Hadoop Software Unit - http://on.wsj.com/g4ozXG
+looking forward to my talk and meeting everyone at the #LosAngeles #MachineLearning meetup tomorrow (12pm @ eHarmony) http://bit.ly/fXmGt6
+#sigir2011 Workshop on Social Web Search and Mining Under Crisis - DEADLINE EXTENSION (May 15th) + also accepting SHORT PAPERS (&lt;= 4 pages)
+Loose use of loose and lose makes me lose my mind.
+@lintool isn&#39;t that just a corollary to murphy&#39;s law?
+jack ma: 1, yhoo: -7.3%
+fun paper w/ (@sgouws and @congxing) on Twitter vocab usage : http://bit.ly/jgmPcc (to appear at the ACL Language in Social Media Workshop)
+friendly reminder: papers to the #sigir2011 Workshop on Social Web Search and Mining Under Crisis (http://bit.ly/gBnEbe) are due in 3 days
+steve ballmer will speak at USC&#39;s commencement ceremony today
+*@ian_soboroff i always thought the dot was informal, user-defined syntax. is it functionally any different than the syntax i used here?
+@ian_soboroff @arjenpdevries my guess: if tweet[0] == &#39;@&#39; then msg only appears in timeline of mutual followers, else it appears to everyone
+@allthingshadoop fwiw, i think it&#39;s actually &quot;grayskull&quot; (i&#39;ve been watching way too many he-man and she-ra reruns lately)...
+http://on.wsj.com/k01Lfe&nbsp; - At LinkedIn&#39;s Valuation, Apple Would Be Worth $3 Trillion
+@ian_soboroff will the trec microblog assessors be ex-intelligence analysts or be more demographically aligned w/ actual microblog users?
+@ian_soboroff i ask because i want to know whether or not to highly upweight mentions of bieber, or highly downweight them :)
+sean combs - a &quot;vocabulary mismatch&quot; disaster (http://marquee.blogs.cnn.com/2011/05/20/sean-diddy-combs-changes-his-name-again/&nbsp;…)
+#sigir2011 paper (w/ @bemikelive + croft) &quot;Parameterized Concept Weighting in Verbose Queries&quot; now available at http://bit.ly/kj8ZbD
+#sigir2011 paper (w/ wang + @lintool) &quot;A Cascade Ranking Model for Efficient Ranked Retrieval&quot; now available at http://bit.ly/kMWe1b
+#sigir2011 paper (w/ @nimatwtr, @lintool, elsayed) &quot;Pseudo Test Collections for Learning Web Search Ranking Functions&quot; http://bit.ly/iYr7HB
+@bemikelive glad to see that you survived the tornado?
+@nimatwtr you just learned tech industry rule #1: never show up before 10am. the other option is to show up just in time for lunch.
+maybe it&#39;s because i&#39;m getting older, or lamer, but it&#39;s going to take a lot more than having an &quot;in-house kegerator&quot; to join your startup.
+my outgoing email server apparently has a &quot;bad reputation&quot;, which results in my outgoing emails being marked as spam or being bounced. fun.
+@jelsas amen to that.
+back from #acl2011, where we presented our short paraphrase eval paper (http://bit.ly/jsdUiy&nbsp;) &amp; our twitter vocab paper (http://bit.ly/jgmPcc&nbsp;)
+#mturk paraphrase evaluation data collected for our #acl2011 paper is now available for download at http://bit.ly/iVfkr6&nbsp;
+our matchmaking paper from sigir &#39;10 was invited to a special cross-conference session at #icml2011. @diazf_y will present it on thursday
+@nimatwtr napa (for wine), brentwood (for fresh produce), muir woods (for nature), santa cruz / monterrey / hwy 1 (for scenery), or sleep.
+@petricek nope, i&#39;m not attending the conference. my co-author @diazf_y will present the paper. you two should definitely chat.
+i&#39;ll fortunately be leaving LA just in time to miss #carmageddon
+if( attending( #sigir2011 ) &amp;&amp; interestedIn( social media ) ) { visit( http://bit.ly/gBnEbe&nbsp; ); registerFor( SWSM ); } else { RT( this ); }
+@jelsas i may have accidentally pocket emailed you. i just got a new phone and apparently haven&#39;t mastered locking it yet. if so, sorry!
+@nimatwtr it sounds like you chose a neighborhood with a healthy amount of &quot;character&quot;. i just hope you&#39;re paying next to nothing in rent.
+obligatory tweet about google+
+the microsoft partner conference is in town this week. no wonder why there is an abundance of (car) crashes, erratic behavior, and gridlock.
+&quot;Unsupervised Mining of Lexical Variants from Noisy Text,&quot; EMNLP Workshop on Unsupervised Learning in NLP (w/ @sgouws): http://bit.ly/pVwIxf&nbsp;
+i just realized that the @trecmicroblog runs are (in)conveniently due on the same day of the #wsdm2012 paper deadline
+bing&#39;s y/y volume growth is impressive, but will likely saturate soon, just like google has started to. how long before y! sees y/y losses?
+@diazf_y comscore report for june. summary stats:http://techcrunch.com/2011/07/13/binghoo-gains-search-share/&nbsp;…
+@diazf_y i&#39;m not sure. it says it&#39;s &quot;total explicit searches (excluding the effects of slideshows, contextual search, and Google Instant)&quot;
+qi lu gave an interesting keynote today at #sigir2011, despite the fact that it was heavy on &quot;our [msft] vision&quot; and light on &quot;my vision&quot;
+honorable mention award at #sigir2011 for &quot;Parameterized Concept Weighting in Verbose Queries&quot; (w/ @bemikelive &amp; Croft): http://bit.ly/kj8ZbD&nbsp;
+catching up on two weeks&#39; worth of emails...
+@lucasjosh if you&#39;re ever in downtown LA some weekend (or evening) then drop me a line. it&#39;d be great to meet/chat about search stuff.
+to avoid doing actual work i created my google scholar profile: http://scholar.google.com/citations?user=bmXpOd8AAAAJ&nbsp;…
+@diazf_y sorry, no. i visited scholar while logged into my google acct, clicked &quot;my citations&quot; and then just fiddled around a lot
+yhoo hit a 52 week low today. ouch. upside: excellent stock option pricing for new hires
+i hope @MercuryIns is more attentive to their own customers&#39; needs, because they&#39;re a massive #fail when dealing with my claim against them
+@bemikelive i find it amusing that klout thinks you&#39;re highly influential for the topic &quot;philadelphia eagles&quot;
+@pbrane done! 189, 189, 189.
+@rusillini congratulations! it was nice to meet you at sigir.
+we&#39;re looking for a talented research programmer to join us in the USC/ISI natural language group. relocation available. contact me for info

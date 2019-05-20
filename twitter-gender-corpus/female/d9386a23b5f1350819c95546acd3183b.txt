@@ -1,0 +1,294 @@
+Thank @noervaag and @krisztianbalog for help choosing a nice title for my thesis &quot;Time-aware Approaches to Information Retrieval&quot; :)
+#ecmlpkdd2011 very well organized conference, excellent social events, cool people I&#39;ve met and now leaving Athens to Trondheim.
+As from 1st of November 2011, I work as a postdoc at L3S Research Center, Hannover.
+Yahoo! PlaceFinder satisfies my geographic information needs better than GeoNames web services and Google Maps API Family #relevance
+Check out! &quot;Top-10 Most Ridiculous Celebrity Name Changes&quot; ti.me/n8n2aP found by our tool for detecting name changes over time bit.ly/xNJf8F
+Not only celebrities, but companies like to change their names and logos. Find out what brand&#39;s changed over time ti.me/r6au96 bit.ly/nS2KG
+My viva is scheduled to 24 February 2012. Prof. de Jong and Prof. Crestani are formally appointed as external committee.
+&quot;A PhD Is Not Enough: Guide to Survival in Science&quot; amzn.to/wOLrWu &quot;How to Write a Lot: Guide to Productive Academic Writing&quot; amzn.to/xurPEq
+Congrat! RT @noervaag: Our paper &quot;The SemSets Model for Ad-hoc Semantic List Search&quot;, with @CiglanMarek as first author, accepted for WWW&#39;12
+The defense was over, and I have passed it! :)
+Our course proposal (w/ a L3S colleague) title: Dynamics of Web: Analysis and Implications from Search Perspective accepted for  RuSSIR 2012
+My PhD thesis entitled &quot;Time-aware Approaches to Information Retrieval&quot; is now available online! http://idi.ntnu.no/~nattiya/thesis/nattiya_thesis.pdf&nbsp;…
+Having a difficulty of finding a place called &quot;Sushi Berlin&quot; in Hannover. Maybe the Google Map should better understand my search intent.
+Twitter search tool revisited: ReSearch.ly supports temporal, geographic, sentiment analytics of up-to 1,000 days of Twitter data!
+Interesting wsdm2012 paper on using Twitter to predict financial markets http://www.cs.ucr.edu/~vagelis/publications/wsdm2012-microblog-financial.pdf&nbsp;…
+Python codes for the 21 Recipes for Mining Twitter (O&#39;Reilly, 2011) on github https://github.com/ptwobrussell/Recipes-for-Mining-Twitter&nbsp;… #fb
+#SIGKDD2012 codes/datasets for measuring time series similarity by  Dynamic Time Warping released by UC Riverside http://www.cs.ucr.edu/~eamonn/SIGKDD_trillion.pdf&nbsp;…
+Twitter analyzes query sessions for finding related queries and spelling correction http://po.st/8w26dm&nbsp;
+I&#39;m taking Human-Computer Interaction - a free @coursera online class. Join me and sign up athttps://www.coursera.org/course/hci&nbsp;
+Facebook is trying to acquire one of my favorite browsers, Opera by the Norwegian firm!http://www.guardian.co.uk/technology/2012/may/29/opera-software-shares-facebook-takeover-talk&nbsp;…
+Our #sigir2012 preprint poster &quot;Learning to Select a Time-aware Retrieval Model&quot; w/ @kberberi @noervaag now online! #in http://www.idi.ntnu.no/~nattiya/papers/SIGIR2012_L2S_TRank.pdf&nbsp;…
+OMG, 6.46 million LinkedIn passwords leaked online http://www.zdnet.com/blog/btl/646-million-linkedin-passwords-leaked-online/79290&nbsp;…
+Bits: Tech Companies Announce &#39;Girls Who Code&#39; Initiativehttp://nyti.ms/MnwG1n&nbsp;
+#cikm2012 posters accepted w/ @noervaag: Estimating Query Diff. for News Prediction Retrieval; L2R Search Results for Time-Sensitive Queries
+Crowd Sourcing Comes To Astronomy: using the returned images to reconstruct the comet’s orbit in three dimensions http://www.sciencenews.org/view/generic/id/342491/title/Crowd_sourcing_comes_to_astronomy&nbsp;…
+Using Twitter data and AI can predict when you&#39;re about to get sick - http://www.newscientist.com/blogs/onepercent/2012/07/ai-predicts-when-youre-about-t.html&nbsp;…
+We&#39;ll give a lecture on Web Dynamics (w/ Ismail Altingovde) at the Russian Summer School in IR (RuSSIR 2012), Aug. 6-10, 2012, in Yaroslavl.
+PhD position in &quot;Time-aware Information Access&quot; @L3S Research Center, in Brazilian Program: Science without Borders http://goo.gl/DtosI&nbsp; #in
+In the Olympics of Algorithms, a Russian Keeps Winning Gold  http://techre.vu/OWABnk&nbsp; (via @TechReview)
+#sigir2012 keynote &quot;Personalized Medicine Data Tsunami crashes on the beach of Jeopardy&quot; criticizing health-care and science issues
+Sustainable questions are those that answers do not change over time: interesting workshop talk by de Goede et al. #taia2012 #sigir2012
+Time-aware Query Suggestions in Commerce Search from the keynote talk by N. Sundaresan eBay #taia2012 #sigir2012
+Time Sensitive Search and Shopping: keynote by Rosie Jones is about to start! #taia2012 #sigir2012
+Eytan&#39;s talk on Web Dynamics and IR Interfaces: one way of visualizing *periodic* time series is to use spiral graph #taia2012 #sigir2012
+@mdr presents OpenGeist: Insight in the Stream of Page Views on Wikipedia - 3rd paper using Wiki page view! #taia2012 #sigir2012
+@mdr 2nd talk is about LifeMining: predicting popular *future* activities in Twitter, very interesting work! #taia2012 #sigir2012
+Our #cikm2012 demo Supporting Temporal Analytics for Health-Related Events in Microblogs (w/ @sararomanoo) now online http://goo.gl/ZlH3a&nbsp;
+Our #taia2012 paper: Identifying Relevant Temporal Expressions for Real-world Events w/ slides http://goo.gl/xzezi&nbsp; http://goo.gl/4E9h0&nbsp; #in
+Thanks @invertedindex for making #taia2012 accepted papers and their slides available for download now! http://goo.gl/DM4xk&nbsp;
+@noervaag Have fun with the DB conference and enjoy the summer weather! :)
+#cikm2012 accepted papers/posters/demo http://goo.gl/CNk1L&nbsp; 8% of titles contains Time|Temporal, ~3% contains Prediction, ~2% contains Event
+Watson turns medic: Supercomputer to diagnose disease http://www.newscientist.com/article/mg21528796.400-watson-turns-medic-supercomputer-to-diagnose-disease.html&nbsp;… #in
+Insightful and concise talks about: How to be a good advisor/advisee? from #SIGMOD2012 New Researcher Symposium http://pages.cs.wisc.edu/~chrisre/SIGMOD12-NRS.html&nbsp;…
+Scientists Are Workaholics? a quantitative study of researchers&#39; work habits using Springer paper download informationhttp://www.wired.com/wiredscience/2012/08/the-results-are-in-scientists-are-workaholics/&nbsp;…
+@nryeng går det bra? :)
+@nryeng ja, skal bli med #cikm2012, men det kanskje lang tur. have a wonderful weekend!
+@samanos Good job Manos! I&#39;ll cross my finger for your PhD defense then :)
+@noervaag What about turning to Temporal Data Analytics as well? :)
+@hugo_zara very useful information for sentiment analysis in social networks!
+@arjenpdevries I just search using research.ly for #sigir2012 and many old tweets were retrieved: http://rs.peoplebrowsr.com/?term=%23sigir2012&nbsp;…
+Canton describes Future Trends in the Next 20 Years that can influence our lives, businesses and even the world in http://goo.gl/&nbsp;
+Here comes another interesting #futureprediction project by the U.S. Air Force and it&#39;s on-going http://goo.gl/nb8BT&nbsp; #in
+Follow-up on Watson turns medic: RT @IBMResearch: Financial Times: Cancer – a case for Doctor Watson http://on.ft.com/QkdDDT&nbsp; #ibmwatson
+Big cultural dataset made publicly available by #europeana major contributors: British Library, Louvre and Rijksmuseumhttp://www.guardian.co.uk/news/datablog/2012/sep/12/europeana-cultural-heritage-library-europe?CMP=twt_fd&nbsp;…
+Interesting talk &quot;Monitoring Protests from Unstructured Text using Temporal Analytic Techniques&quot; by @RecordedFuture http://www.youtube.com/watch?v=6Sbny91NjeA&amp;feature=youtu.be&nbsp;… #in
+New book: Collaborative Information Seeking by @chirag_shah w/ first comprehensive overview in the area of Interactive and Collaborative IR!
+@RecordedFuture You&#39;re welcome. I am a big fan of your innovative ideas! :)
+So true! :) RT @phdcomics: Grad School Utility Chart: http://phdcomics.com/comics.php?f=1525&nbsp;… (new comic!)
+See what&#39;ve been planned for protesting in N. Africa, M. East (prediction for September 15, 16 and 21!) http://goo.gl/ln9gJ&nbsp; #recordedfuture
+Nice post How do you prioritize research? by @hmason http://bit.ly/NUnaoC&nbsp; ..We have a list of RQs longer than time and resources to pursue..
+Interestingly large network data of Wikiperdia w/ &gt; 5-year time span RT @xywanderer: #datasets from Koblenz-Landau univ http://konect.uni-koblenz.de&nbsp;
+Recent study #tpdl2012 shows how the Social Web data is vanishing over time by analyzing Stanford Twitter #SNAP dataset http://arxiv.org/abs/1209.3026&nbsp;
+See what&#39;re new under &quot;Information retrieval&quot; in the 2012 ACM Classification: high coverage of trendy research topics! http://bit.ly/NEzBnj&nbsp;
+Cool :) RT @sarvk: RMIT programmers won :-) http://www.rmit.edu.au/browse;ID=0izjj5gy5ngv&nbsp;…
+Today is Ada Lovelace day: Let&#39;s celebrate women in science!http://www.bbc.co.uk/news/19923050&nbsp;
+Full paper &quot;An Unsupervised Method for Named Entity Evolution Recognition&quot; w/ Tahmasebi, N., Risse, T., @GerhardGossen accept at #coling2012
+Very interesting keynote talks on User engagement by Ricardo Baeza Yates #cikm2012
+Contents changes faster than links and they are NOT a good predictor for user engagement, which is dependent on time (and users!) #cikm2012
+Social media search #cikm2012 full of interesting work, e.g., use informative keyphrases for event detection, dynamic PRF for ranking tweets
+Tweet recommendation presented by @fabreetseo. User interests are estimated from history tweets w/ models of bag-of-word and bigram terms.
+Suggesting tasks (rather than query suggestions) in order to help a user to complete a complex search by A.Hassan and R. W. White #cikm2012
+#cikm2012 paper by I. S. Altingovde et al. is being presented and shows 11K queries randomly selected from AOL logs have no results!
+#cikm2012 paper by @arjenpdevries et al. crawled pages from Internet Archive and analyzed the effects of page markups in search.
+Gural presenting #cikm2012 Sentiment-focused Web Crawling w/ Barla and P. Senkul, which is very interesting also for enabling web archiving!
+Identify top relevant dates for a given implicit temporal query using different temporal similarity measurement by Campos et al. #cikm2012
+The next #cikm2013 will be held in San Francisco. Prof. Wolfgang Nejdl from L3S Research is one of the program chairs. http://www.cikm2013.org/&nbsp;
+The 2nd keynote William Cohen #cikm2012 talks about similarity queries on graphs towards citation/entity recommendations or expert finding.
+I will present #cikm2012 poster &quot;L2R search results for time-sensitive queries&quot; from 1:30-3:35pm in Napipi. Please drop by for discussion!
+Keynote talk presents NELL (Never-Ending Language Learner) by CMU: a high-coverage, large-scale knowledge base for web data #cikm2012
+Related search recommendation presented by LinkedIn using a query length model for capturing bias in recommending click behavior #cikm2012
+Random walk seems to be popular for today #cikm2012 also used in the contextualization work by M. Ali Norozi joint work with @arjenpdevries
+The book search dataset (queries, clicks) from the Open Library project http://www.openlibrary.org&nbsp; is available for research #cikm2012 Henry Feild
+Temporal corpus summarization of publications #cikm2012 using influential documents w/ novelty and spread, timeline, authors and key phrases
+@dtunkelang Absolutely agree! Don&#39;t forget us when you will be off to the halloween party tonight :)
+@denisparra Temporal Corpus Summarization Using Submodular Word Coverage by Ruben Sipos et al.
+Semantic-aware entity queries and performance prediction #cikm2012 short paper by Xiao Yu et al.
+Taking the time dimension into account for Multi-session Re-search: in pursuit of repetition and diversification  #cikm2012 by Tyler &amp; Zhang
+Industrial keynote #cikm2012 Having a Great Career in Research by Eric Brill. Your value to work is correlated to your happiness in working.
+Slides from #cikm2012 keynote speakers (Ricardo Baeza-Yates, William Cohen, Jeffrey S. Vitter) are online now:http://www.cikm2012.org/keynote.php&nbsp;
+Opening professor position in Web Science University of Kiel joint w/ ZBW - Leibniz Information Centre for Economics http://www.zbw.eu/ueber_uns/stellenangebote/2012_11_01_prof_web_science.htm&nbsp;…
+Named entity evolution dataset of 75 entities manually labeled w/ name changes + time periods NYTime Corpus http://l3s.de/neer-dataset/&nbsp; #coling2012
+Pretty old but high utility blog: How-to setup SSH with DSA public key (password less authentication) http://www.cyberciti.biz/faq/ssh-password-less-login-with-dsa-publickey-authentication/&nbsp;…
+Full paper accepted #ecir2013 Extracting Event-Related Information from Article Updates in Wikipedia w/ Georgescu, Krause, Nejdl, Sierdorfer
+@abellogin Thanks! And, congratulations for your PhD! :)
+Better late than never: #cikm2012 conference opening w/ a demo of automated reviewing process by the Chair Guy Lebanonpic.twitter.com/kkisF1QH
+PEGASUS: a large-scale graph mining tool by CMU written in Java and run on Hadoop. Now let&#39;s get it started! http://www.cs.cmu.edu/~pegasus/what%20is%20pegasus.htm&nbsp;…
+Glad being invited by the Scientific Program Committee to #medinfo2013 peer-review the 14th World Congress on Medical and Health Informatics
+#kdd2013 main theme will be the &quot;applications of KDD to biology, health care and medicine&quot; showcased in a special track http://www.kdd.org/kdd2013&nbsp;
+UK research funding planned for high-tech (big data, energy-efficient computing), synthetic biology, advanced materialshttp://www.independent.co.uk/news/uk/politics/science-boost-for-technology-as-extra-600m-is-pumped-into-research-8386630.html&nbsp;…
+Personalizing &quot;location-specific&quot; trends and tweets makes it seem the sparsity of location data is no more an issue?http://bit.ly/VPfOlR&nbsp;
+The 197th anniversary of Ada Lovelace, the mathematician known as the 1st computer programmer featured in Google Doodlehttp://www.telegraph.co.uk/technology/google/google-doodle/9734018/Ada-Lovelace-in-Google-Doodle-tribute.html&nbsp;…
+Word clouds of #ecir2013 full papers generated using top-40 terms: &quot;search, query, web&quot; are popular at all time! http://bit.ly/YTteCR&nbsp;
+@yvolkovich Thanks for your interest! I&#39;ll send you the pre-print version when we have it ready.
+Abel, Fields and Turing Laureates Meet the Next Generation in Heidelberg Laureate Forum to be held on Sept. 22-27, 2013 http://www.heidelberg-laureate-forum.org/&nbsp;
+ForgetIT is a large-scale EU project on digital #preservation w/ 11 partners e.g., L3S, IBM Haifa, U. Sheffield starting in just two months!
+Book review: Hadoop in Action by C. Lam 2010, a #hadoop cookbook very well-written w/ clear explanations using simple yet practical examples
+Correction: a link to vacancy details of the project Time Travel for the Scholarly Web is http://bit.ly/XR92eK&nbsp;
+IEEE Intl Conference #BigData2013 interesting CFP topics: Search and Mining, and Applications in Medicine, Healthcare http://bit.ly/WzELG3&nbsp;
+Preprint version #ecir2013 paper: Extracting Event-Related Information from Article Updates in Wikipedia now available http://bit.ly/U2bGNx&nbsp;
+The 3rd #TemporalWeb Analytics Workshop in conjunction w/ #www2013 paper submission due February 22, 2013 http://bit.ly/gIM57o&nbsp;
+Map to Humans and Reduce Error: Improving Twitter search with real-time human computation http://
+http://bit.ly/ZvNg17&nbsp;  by @TwitterEng
+#www2013 workshop Real-Time Analysis and Mining of Social Streams paper due 22/02 http://bit.ly/XmNfNj&nbsp; organized by @arkaitz @damiano10 @mdr
+#www2013 workshop on Social News #snow2013 topics- Web search, mining, recommendation paper due 25/02 http://bit.ly/VN1xrF&nbsp;  cc/ @fabreetseo
+@fabreetseo Then, let it SNOW in Rio! ;)
+How Facebook&#39;s Graph Search Just Replaced A Major Chunk Of Google http://techcrunch.com/2013/01/15/how-facebooks-graph-search-just-replaced-a-major-chunk-of-google/&nbsp;… via @techcrunch
+Temporal Classifiers for Predicting the Expansion of Medical Subject Headings paper accepted #cicling2013 w/ Tsatsaronis,Varlamis @noervaag
+Andrew Ng&#39;s talk about &quot;Deep Learning: Machine Learning and AI via large scale brainsimulations&quot;  http://bit.ly/W8mHxs&nbsp; in #nips2012 #bigdata
+Dataset for &quot;Concept Extraction Challenge&quot; $1500 prize sponsored by eBay @ Making Sense of Microposts #www2013 #msm2013 http://bit.ly/WmquYN&nbsp;
+#medinfo2013 reviews submitted. #bigdata challenges in medicine are real and they need help from computer scientists like us!
+PhD research fellowship on #bigdata analysis, #temporalweb IR at NTNU Trondheim, Norway application deadline 2013-02-15http://www.jobbnorge.no/job.aspx?jobid=89908&nbsp;…
+Temporal Web Dynamics and its Application to Information Retrieval  on @slidesharehttp://www.slideshare.net/shokouhi1/temporal-web-dynamics-and-its-application-to-information-retrieval&nbsp;…
+Successful kickoff meeting of the new EU project ForgetIT: Concise Preservation by Combining Managed Forgetting &amp; Contextualized Remembering
+&quot;Delete: The Virtue of Forgetting in the Digital Age&quot; http://amzn.to/15fppIL&nbsp; explains why we should forget in the age of perfect remembering
+#www2013 Workshop on Public Health in the Digital Age: Social Media, Crowdsourcing #bigdata #health #socialweb 25/02 http://www.digitalhealth.ws/&nbsp;
+Postdoc and 2 PhD positions at L3S Research Center &quot;Large Scale Web Analytics, Temporal IR&quot; as part of EU projects ARCOMEM, ForgetIT, CUBRIK
+Detecting news events from Wikipedia edits: #ecir2013 paper is featured on the latest #WikiResearch Newsletter http://bit.ly/161MiyL&nbsp;
+While cost of keeping #bigdata is less expensive, only data with high preservation value should be stored for efficient and effective search
+I won&#39;t attend #ecir2013 this time but meet L3S colleague who will present his paper: Recommending High Utility Query via Session-Flow Graph
+&quot;Temporal Summarization of Event-Related Updates in Wikipedia&quot; accepted as a demo paper #www2013 coauthored w/ @mishu_pub and S. Zerr et al.
+@abellogin Thanks! :)
+@damiano10 Thanks! :)
+Understanding the Diversity of Tweets in the Time of Outbreaks: accepted at 1st Web Observatory Workshop #wow2013 #www2013 w/ coauthor Nejdl
+Who wants to get fired? Twitter alert when you say something negative about boss or job. Check out your FireMe! score http://fireme.l3s.uni-hannover.de/&nbsp;
+@dirkahlers Hope you enjoy living in Trondheim!
+#www2013 workshop paper on measuring diversity in Twitter for understanding the temporary focus of real-world events http://www.l3s.de/~kanhabua/papers/WOW2013-diversity-twitter.pdf&nbsp;…
+#www2013 Temporal Summarization: Live demo and tutorial video by S. Zerr https://www.l3s.de/wiki-events/&nbsp; Paper is online now http://www.l3s.de/~kanhabua/papers/WWW2013-wiki-demo.pdf&nbsp;…
+CS is about society market people brain behavior perception emotion: this makes computation a perfect subject for girls, by C. Papadimitriou
+Logicomix: a graphic+comic book by C. Papadimitriou professor from UC Berkeley &amp; ACM Fellow, highly recommended for math/computer scientists
+SNIA Webcast series on &quot;Big Data Meets Big Cloud Archives&quot; #bigdata #archiveshttps://www.brighttalk.com/webcast/663/66961&nbsp;…
+Newly launched EU-funded project &quot;ForgetIT&quot; featured on the Storage Networking Industry Association (SNIA) Newsletter http://www.snia.org/sites/default/files/snia_matters_newsletter_March2013.html#article2&nbsp;…
+The roles of Psychology and Neuroscience in Digital Preservation by Managed Forgetting #digital #library #archive http://www.annualreviews.org/doi/pdf/10.1146/annurev.psych.55.090902.141555&nbsp;…
+Google &quot;Inactive Account Manager&quot; helps users manage personal data afterlife #lifelogging #archive http://googlepublicpolicy.blogspot.de/2013/04/plan-your-digital-afterlife-with.html&nbsp;…
+Right to be forgotten: http://www.bbc.co.uk/news/technology-22062790&nbsp;… involves interdisciplinary experts in CompSci &amp; Psychology to develop novel forgetting methods
+@tomayac Hi, I will probably try to attend #RAMSS2013 workshop as well, and hope to discuss more about MJ no more at #www2013!
+Reducing &quot;cognitive overhead&quot; and increasing &quot;simplicity&quot; when it&#39;s come to design, users, interfaces, products, etc.http://techcrunch.com/2013/04/20/cognitive-overhead/&nbsp;…
+Impacts of Author Gender on Perceived Quality http://bit.ly/Yv7YhK&nbsp; significant findings? when studied just one single research area #doubt
+Journalists need tools to support: exploratory search, data analytics, visualization, summarization, topic evolution https://knightcenter.utexas.edu/blog/00-13613-isoj-journalists-need-learn-data-visualization-and-infographic-design-skills-complemen&nbsp;…
+Yahoo&#39;s iPhone app displays Summly-like news story summarieshttp://ycorpblog.com/2013/04/22/42779/&nbsp;…
+Interesting temporal development of the Web, Internet usages and tech events from 1991 to 2012 #webscience #evolution http://webscience.org/web-observatory/about/tracking-explosive-growth/&nbsp;…
+&quot;@djoerd: Peetz #dir13: You forget things! I will remember. (on temporal information retrieval)&quot; very related to our work  @ForgetITProject!
+@arjenpdevries such interesting keywords: predicting, forgetting, and remembering that comprise the challenges of future information access
+2nd Call: One Postdoc and two PhD positions in the area of Large Scale Web Analytics and Information Retrieval @ L3S http://www.l3s.de/cms/en/article/show/postdoc-research-positions&nbsp;…
+Influenza, house prices, and this time #market moves #prediction using #google #trend http://bbc.in/12noJyI&nbsp; #bigdata #collective #behaviors
+@djoerd Thanks a lot for info. We&#39;ll check it out!
+Interesting! #sigir2013 workshop on Health Search and Discovery: Helping Users &amp; Advancing Medicine deadline 10 June http://research.microsoft.com/en-us/events/hsd2013&nbsp;…
+Crowd Truth: Harnessing disagreement in crowdsourcing #websci2013 by @laroyo and C. Welty -&gt; annotator disagreement is not noise, but signal
+Final program of #www2013 Web Observatory Workshop is online http://wow.oerc.ox.ac.uk&nbsp; On Measuring Temporal Diversity in Twitter, don&#39;t miss!
+#phda2013 #digitalhealth relevant work on Understanding the Diversity of Tweets in the Time of Outbreaks at #wow2013 talk on 14 May at 15:00
+#www2013 Measuring User Engagement tutorial by @mounialalmas O&#39;Brien addressing reliability, validity &amp; triangulation of current UE methods
+&quot;Novelty and surprise&quot; appeal to user curiosity as one aspect of user engagement characteristics #www2013
+Self-reported, cognitive &amp; interaction user engagement (UE): the last one refers (objective) Web analytics using metrics + models #www2013
+Self-reported measures is commonly used in Social Sci w/ enabling statistic analysis, standardization, large-scale subject studies #www2013
+O&#39;Brien talking about how to conduct self-reported UE measurement, e.g., questionnaires, and interviews, with high reliability #www2013
+#www2013 User Engagement tutorial is absolutely relevant and very interesting for @ForgetITProject wrt. both social and computer sci aspects
+O&#39;Brien introducing the notions of &quot;think aloud&quot; and &quot;think after&quot; protocols for conducting subjective user engagement study  #www2013
+Thing aloud measured &quot;during&quot; HCI process &amp; think after (simulated recall) measured &quot;after&quot; relying on human memory, not attention #www2013
+#www2013 User engagement tutorial summarizing the 1st part: pre-task survey helps to determine user scale, media condition for data analysis
+2nd part of Web User Engagement tutorial: Web Analytics is about to start by @mounialalmas #www2013
+Sophisticate social features are not at the main focus for this Web user engagement tutorial, yet another area of context modeling #www2013
+#www2013  #temporalweb workshop is about to start with Keynote talk Exploring Web content with temporal information by @elunca
+Journalist needs recommendation on the content level: talk given by Nies at #snow2013 #www2013
+Wisdom of the Crowd: calendar annotation for free, generating temporal landmarks that people care about #www2013 #temporalweb workshop
+Tweet -&gt; Breaking news -&gt; Wikipedia: the timeliness of different data sources validated by correlating hashtags + Wki #www2013 #temporalweb
+Time is cross-cutting by data from multiple sources and social platforms, a challenge for Temporal Summarization #www2013 #temporalweb
+Human vs. automatic assessment of newsworthiness, take it to real journalists! an inter-discipline study of social and computer sci #www2013
+#bigdata Usage in Web Search tutorial by R. Baeza-Yates, Y. Maarek: Query &quot;Research&quot; Sessions, cutting queries not by time but task #www2013
+More than query log, e.g., eye or cursor movements, help better predict user behaviors &quot;Predicting Searcher Frustration&quot; #sigir2010 #www2013
+Maarek suggests paper User Browsing Models: Relevance vs Examination: rel. of results for Q highly correlate w/ clicks of other Qs #www2013
+Maarek mentioned Challenges in Dynamic Query Suggestion: limited input, latency, freshness, locality, diversity, serendipity, etc. #www2013
+When leveraging Wisdom of the Crowd, the rich gets richer. It is a responsibility of a search engine to build a new model Y. Maarek #www2013
+R. Baeza-Yates starts the 2nd part of #bigdata usage in Web search, introducing The Wisdom of the Crowds book #www2013
+R. Baeza-Yates talking about Heavy and long tail of user interests: supporting the tail may help the head #www2013 #bigdata in Web search
+R. Baeza-Yates talk about the Risks of Privacy in Query Logs, a good anonymization is still an open problem (cf. Cooper TWEB 2008) #www2013
+R. Baeza-Yates Wisdom of the &quot;ad-hoc&quot; crowds: contextualization can overcome privacy issue, aggregate data by intents, task, facet #www2013
+Multi-dimensional intent prediction: dimensions of intents (topic, genre, objective, task, serendipity, sensitivity, scope, etc. #www2013
+The 2nd talk by J. Kunegis talking about KONECT: Koblenz Network Collection, come to know more about network datasets for research #www2013
+#www2013 Web Observatory Workshop 1st talk about how to build social media observatories with diff aspects +nice demo http://truthy.indiana.edu&nbsp;
+#www2013 Web Observatory Workshop outlining 4 dimensions in observing the Web: open government, science data, health &amp; life, social spaces
+#www2013 How the viral phenomena of &quot;Gangnam Style&quot; spreads from S.Korea to UK? Analyze trends using Wiki page views across diff languages
+Coming next (now) at Web Observatory Workshop #www2013 #wow2013 &quot;From Search to Observation&quot; by Ian Brown, U. Of Southampton
+@antoinetranat Web Observatory Workshop we are attending, check http://wow.oerc.ox.ac.uk/&nbsp;
+Web Observatory Workshop Keynote: Prof Ramesh Jain &quot;Observing Personal and Societal Health using EventShop, starting now! #www2013 #wow2013
+Two presentation talking about &quot;micro events&quot; in Web Observatory Workshop #www2013 #wow2013
+Keynote speaker talks about we are observing what is going on in the society: from Micro to Macro #www2013 #wow2013
+Intelligent Social Systems: spatial perspective vs. people perspective -&gt; EventShop of detected signals presenting keynote #www2013 #wow2013
+E. Diaz presentation on Living Analytics Methods for the Web Observatory: address beyond sharing datasets, share your modelsets! #www2013
+Last talk from U. Southampton on The Economics of Data: quality, value, and exchange in Web Observatories #www2013 #wow2013
+Record your data transactions: building own data for Web observatories #wow2013 #www2013
+#www2013 Closing Ceremony: planning for your next #www2014  submission now and present in Gangnam style in Seoul, S. Korea!
+Jon Kleinberg #www2013 closing ceremony keynote addressing core questions: Combining content and structure
+#www2013 Jon Kleinberg keynote: Algorithmic recognition of memorability using machine learning trained on distinctiveness and generalization
+#www2017 Asia/Pacific open for bid:, it would be nice if the Web conference will be held in Thailand for the first time! #www2013
+J. Kleinberg Prediction of potential influence: depending on number of friends, you more likely to do something when more friends are doing
+Applications to discussions in social media: which threads to bring to users and length prediction, by J. Kleinberg #www2013
+J. Kleinberg showing over time the visualization of  the fraction of your emails you reply after the day of arrival #www2013
+@invertedindex presenting #www2013 paper A Young Liberal Christian Woman Is Searching the Web: bridging the gap b/w social media and search
+@invertedindex demographic information is publicly available for research from http://mypersonality.org&nbsp; #www2013
+Laura Hollink present work w/ @pmika R. Blanco on Web Usage Mining with Semantic Analysis, using Yahoo logs with one click of 16 movie sites
+#www2013 Inferring the most likely intented meaning from context for expanding acronym queries from Query Co-click Graph
+#www2013 Using Wikipedia disambiguation pages as golden standard meanings for acronyms, which has less coverage comparing to mining  logs
+#www2013 Asking strangers in SN to answer temporal and geo-sensitive Q&amp;A: another application based on the Wisdom of the crowds seem popular
+#www2013 presenting paper by Google: inferring user locations from tweet decomposition using spatial LM built from 1% geo-tagged information
+Follow up #wow2013: list of accepted papers http://wow.oerc.ox.ac.uk/wow2013-papers&nbsp; from Web data quality to observing health-persona &amp; disasters in Twitter
+Cognitive basis of plagiarism: the effect of predictability on source attribution of thought (via @mariawolters) http://www.sciencedirect.com/science/article/pii/S0001691813000218&nbsp;…
+Please help complete a Pilot Survey http://www.forgetit-project.eu/survey/index.php/115679/lang-en&nbsp;… for an EU project @ForgetITProject aim to develop intelligent archiving solutions
+Towards Concise Preservation by Managed Forgetting: Challenges and Opportunities, paper accepted @iPRES2013 #digitalpreservation w/ Niederée
+@ForgetITProject meeting in School of Informatics and Psychology Department, University of Edinburgh,13-14 June
+M-Eco team will present our paper: Why Is It Difficult to Detect Outbreaks in Twitter? @ #SIGIR2013 Health Search and Discovery workshop #in
+Towards Concise Preservation by Managed Forgetting and a Case Study of Deletion Behavior in Online Social Bookmarking http://www.l3s.de/~kanhabua/papers/iPRES2013-Concise_Preservation.pdf&nbsp;…
+Why Is It Difficult to Detect Outbreaks in Twitter? a guidance w/ realistic views on building an early warning system http://www.l3s.de/~kanhabua/papers/HSD2013_Outbreak_Detection_in_Twitter.pdf&nbsp;…
+Evaluating news summaries in timeline using 3 metrics: topic relevance, novelty &amp; continuity by @giangtranbinh et al. http://www.l3s.de/~gtran/publications/taia2013.pdf&nbsp;…
+Google&#39;s Freebase Annotations of ClueWeb09 and ClueWeb12 w/ 11 billion entity annotations in 800 million documents http://googleresearch.blogspot.com/2013/07/11-billion-clues-in-800-million.html&nbsp;…
+#sigir2013 Workshop on Health Search and Discovery: list of accepted papers w/ proceedings and program are now online http://research.microsoft.com/en-us/events/hsd2013/&nbsp;…
+#ERC2013 Starting Grant results have 9% acceptance rate and an increase in the share of successful female researchers http://erc.europa.eu/sites/default/files/press_release/files/press_release_stg2013_results.pdf&nbsp;…
+Congrats L3S Director Prof. Nejdl for #ERC2013 Advanced Grant: Foundations for Temporal Retrieval, Exploration and Analytics in Web Archives
+@invertedindex talking about How to personalize query auto-completion learned using demographics, (short/long) search history #sigir2013
+#sigir2013 celebrating 20 years of Web search: what did the Panel Members talk about the future direction of Web search?
+S. Robertson: a challenge of future Web search is to better search result aggregation &amp; presentation increase coverage, diversity #sigir2013
+P. Flynn Google.ie: Web search will be more personalized using multifaceted information, e.g., emails, interactions and attention #sigir2013
+@YashMosh effective video retrieval for info seeking, refinding, entertainment use affective, physiological, behavioural features #sigir2013
+R. Baeza-Yates said the future of Web search is about bridging the gap between &quot;spoken query language&quot; and search content #sigir2013
+#sigir2013 Popularity Topic Modeling considers the bias of dominance, few popular users, e.g., Obama or Beiber in Social Networks #sigir2013
+Extract subtopics from multi-source UGCs, 3-step approach 1)mining subtopics, 2)relation identification, 3)hierarchy construction #sigir2013
+Topic Hierarchy Updates: How to cope with newly emerging, unseen subtopics? #sigir2013
+Social medias enhance results for &quot;breaking-news&quot; over &quot;recent&quot; and &quot;long-running&quot; events dataset available publicly @TerrierTeam #sigir2013
+Real-time news vertical search leveraging social medias w/ evaluation criteria: timeliness, relevance, redundancy, satisfaction #sigir2013
+#sigir2013 Keynote Riding the Multimedia Big Data Wave (Smith IBM Watson) Bridging semantic gap and addressing scalability in real-time
+Bridging semantic gap: adding facets (eg.gender, occupation, nationality) to ImageNet for better visual concepts &amp; relationships  #sigir2013
+IBM IMARS is a framework for large-scale semantic modeling and classification of images and videos #sigir2013 http://researcher.watson.ibm.com/researcher/view_project.php?id=877&nbsp;…
+@invertedindex Fighting Search Engine Amnesia: Reranking Repeated Results: why unsatisfied clicked URLs should be forgotten? #sigir2013
+@invertedindex analyzed Bing and (public) Yandex logs ~40% of multi-query sessions include at least one repeated result in top-10 #sigir2013
+@invertedindex closing remark with the famous quote &quot;Those who cannot remember the past are condemned to repeat it.&quot; #sigir2013
+#sigir2013 It&#39;s about &quot;time&quot; session is about to start ... @fdiaz_msr
+Time-aware point of interest recommendation: user-time POI model, data sparsity across time slices, temporal similarity b/w users #sigir2013
+Temporal matrix factorization models evolving social relationships and dependency b/w two consecutive models on Epinions dataset #sigir2013
+@milesEfron presenting query translation model across time, supporting search over historical text collections #sigir2013
+Meet and greet with Yahoo! Labs folks at #sigir2013 in Dublin! @fkschmidt @YahooLabspic.twitter.com/am7dYzs63D
+Search result diversification using term-level subtopics identified on-the-fly shows improvement over using explicit subtopics #sigir2013
+List of #sigir2013 Best Paper Awards and Shortlisted Nominees http://www.bibsonomy.org/user/nattiya/sigir2013&nbsp;… @sigirf
+Prof. John Brownstein (Harvard Medical + http://HealthMap.org&nbsp;) keynote on &quot;Digital Disease Detection&quot; #sigir2013pic.twitter.com/QysBF1zPDz
+#hsd2013 #sigir2013 participants please come to the workshop room ASAP :)
+#taia2013 #sigir2013 &quot;Temporal Wikipedia search by edits and linkage&quot; given an event-related query, finds a graph of relevant articles
+@bencasnocha explains various situations/events influencing episodic memories: novelty, challenges, people, and morehttp://www.linkedin.com/today/post/article/20130804220552-659753-memories-make-your-life-meaningful-here-s-how-to-have-more-of-them&nbsp;…
+Proceedings of the 14th World Congress on Medical and Health Informatics #Medinfo2013 is publicly available download: http://www.booksonline.iospress.nl&nbsp;
+#Medinfo2013 scientific program http://person.hst.aau.dk/ska/MEDINFO2013/Program/107967_MEDINFO_program-as%20printed.pdf&nbsp;… many interesting sessions e.g. personal health, personalization, NLP, HCI &amp; usability
+The Next World Congress on Medical and Health Informatics #medinfo2015 will be held in São Paulo, Brazil, for the 1st time in Latin America!
+“@eegilbert: I wrote something about dealing with academic rejection. http://eegilbert.org/rejection.html&nbsp;” via @mariawolters
+@romilbansal Here you are a link to the paper &quot;News Vertical Search: When and What to Display to Users&quot;: http://eprints.gla.ac.uk/82567/&nbsp;
+Prof. Justin Zobel&#39;s new book &quot;How to Write a Better Thesis&quot; seems very interesting and useful for graduate studentshttp://www.amazon.com/Write-Better-Thesis-David-Evans/dp/0522861261&nbsp;…
+From Temporal Web Search to Temporal Web Analytics &amp; Exploration: 1st International Workshop on Histoinformatics&#39;2013 http://www.dl.kuis.kyoto-u.ac.jp/histoinformatics2013/&nbsp;…
+#ipres2013 Keynote Illien&#39;s closing remark: bridge the gap between the two communities and bring out best practices from both communities
+#ipres2013 Keynote Paul Bertone talks about the evolution of large-scale biology data and its challenges to DNA information storage
+Riot rumors: How misinformation spread on Twitter during the time of crisis? http://www.theguardian.com/uk/interactive/2011/dec/07/london-riots-twitter&nbsp;… @arcomem workshop at #ipres2013
+Adding #semantic information to a website using VIE.js http://viejs.org/&nbsp; -- a JavaScript library for web content annotation #DBpedia
+How influential you are? KLOUT http://klout.com/&nbsp; analyzes your social influence and gives a 1-100 score for measuring online reputation
+Challenges and Implications of Opinion Analysis in the Web (says) slides by @hugo_zarahttp://www.slideshare.net/hugozara/technological-problems-and-applications&nbsp;…
+I&#39;ll visit Max-Planck-Institut für Informatik 21-23/10 for an invited talk &quot;Can Twitter &amp; Co. Save Lives?&quot; Looking forward to meet @kberberi
+#Bigdata predictive analytics: R-based + #Hadoop? This looks very interesting http://www.revolutionanalytics.com/news-events/free-webinars/2013/high-performance-predictive-analytics-in-r-and-hadoop/&nbsp;…
+The World Ski Championships 2011 in Oslo starts today! http://www.oslo2011.no/en/
+Duncan Watts: keynote @ 3rd Stanford Computational Social Science, Web platforms lower cost and increase the speed and scale of experiments.
+Online information diffusion: What is the relationship between popularity and virality? Viral vs. broadcast? Studies by D.Watts MS Research
+@nikolausf talked about &quot;Email made in Germany&quot; concerning data protection &amp; privacy, #websci Synergies Workshop #L3S http://www.telekom.com/media/company/192834&nbsp;…
+Question from Social Science(SS) to Computational SS: What is the most interesting question to study? How to collect the right data? #websci
+Sergej Zerr presented #sigir2012 paper Privacy-aware Image Classification, nicely supporting &quot;the right to be forgotten&quot; #websci and Privacy
+List of  key projects and research efforts powered by #Hadoop and future direction at the 2014 #Hadoop Summit Europe https://hadoopsummit.uservoice.com/forums/196822-future-of-apache-hadoop&nbsp;…
+Leveraging Dynamic Query Subtopics for Time-aware Search Result Diversification: full paper accepted @ECIR2014 w/ the first author @tumeteor
+List of research work (2011) on Mapreduce &amp; Hadoop Algorithms by @atveit (w/ classification in different app domains) http://atbrox.com/2011/05/16/mapreduce-hadoop-algorithms-in-academic-papers-4th-update-may-2011/&nbsp;…
+What can we use MapReduce for search? See &quot;MapReduce in Search&quot; presentation by @atveit (Xoogler &amp; Memkite Founder) http://atbrox.com/2011/04/09/mapreduce-in-search/&nbsp;…
+done with the review of posters for SIGIR2011 and time to go home now #in
+Congratulations Klaus! RT @kberberi: Happy about SIGIR notifications: 2 out of 3 full-paper submissions made it ;o)
+Our paper with Roi and Mike #YahooResearch is accepted at #sigir2011
+We have two posters (w/ my supervisor) accepted at #sigir2011 thanks @krisztianbalog for useful comments with one of them #in
+Good job! :) RT @krisztianbalog: NTNU took 3rd(entity search task) and 1st (list search task) place in the Yahoo! Semantic Search challenge.
+Lesson learned today: an arbitrary text field #relevance should not be flagged as gold #crowdflower
+2nd lesson: remember to set max. #judgment per worker and monitor spammers at the very beginning of your #crowdflower job
+Attending a talk &#39;A measure of mismeasures&#39; by Justin Zobel @NTNU
+...and the next talk by Arjen de Vries on the topic &quot;How ideas from databases could be applied to IR - an introduction to DB+IR at CWI&quot;
+Our #sigir2011 poster papers are now available , Time-based QPP http://bit.ly/mGdkTF and Time-aware Ranking Methods http://bit.ly/lejoBw #in
+Thanks to @kberberi and his well-written thesis as a good starting point for writing my one.
+@kberberi Thanks!  :)
+Interesting papers #sigmod2011 faceted web search http://bit.ly/lftAKE ranking top-k functions (sound like L2R + PRF)  http://bit.ly/m57kCK
+Cool application idea called TimeBook bit.ly/iVfgrw by UPF and Yahoo! Barcelona as part of Hack4Europe! accessing EU cultural heritage.
+Interesting prediction dated back to 1982 --&gt; RT @ydn: Internet predictions from 1982: http://nyti.ms/oHwsTn

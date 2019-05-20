@@ -1,0 +1,954 @@
+A chance to keep the folks who never got grammar and spelling away from a site... grade on a curve? http://chzb.gr/mQnZrH&nbsp;
+Stocks down? To paraphrase Paul Samuelson, remember that the stock market has predicted nine of the last five recessions
+Got data? 100M documents or more? Or just a bunch? Tell us your vendor &amp; number of servers, we&#39;ll send you the results http://bit.ly/orXWnF&nbsp;
+Context counts: Someone just asked us if K2 shows up on a 10 panel urine test in lab testing. Not the one we use. That explains alot though
+Pilot sayings: Flying isn&#39;t dangerous. Crashing is
+Wow... so HP wants to get into the enterprise search business! Deal to acquire Autonomy for $10B!http://tcrn.ch/p7Igrf&nbsp;
+HP - Autonomy update:Apparently HP will spin off its PC business as well. Keep an eye on enterprisesearchblog.com http://bit.ly/jXOhmK&nbsp;
+@dhaucke Hard to say if its overvalued. PC business fading; HP already moving to being a consulting company &amp; Autonomy is certainly that..
+HP - Autonomy deal seems more firm: Bloomberghttp://bloom.bg/o8SHtU&nbsp;
+Leslie Owens @owensleslie / Forrester has an insightful analysis of HP/Autonomy and raises some excellent points http://bit.ly/q44HN1&nbsp; Read!
+Solr-PHP based search application on SearchComponentsOnline.com  http://bit.ly/q9dc7W&nbsp;
+FAST San Francisco conference Tuesday. No more big FASTForwards; now just city by city events.
+Just added myself to the http://wefollow.com&nbsp; twitter
+Great &#39;60 guys named Sarah&#39; talk comes back to #SPC11 (GSA vs SharePoint) http://bit.ly/ny45ll&nbsp;
+One of my faves from ESS last May is back at #SPC11 - Sixty Men Named Sarah http://bit.ly/ny45ll&nbsp;
+m@givenscj yep mbk@ideaeng.com btw
+@AYakkundi Ya we forget you guys are not ready for 5.8 quakes... But they say do NOT run outside!:)
+Just read an article by @NicolePerlroth on the human side of Steve Jobs. - one of the best &amp; most touching - I&#39;ve seen http://bit.ly/qejSby&nbsp;
+recruiting my stubborn business partner and other friends to twit:)
+Interwoven to be acquired by Autonomy http://tinyurl.com/ddh2oj
+Found a goodYouTube series by Josh Noble of @Surfray. Customizing the Advanced Search Page Part 1 (of 3)http://bit.ly/prU2XM&nbsp;
+Trying Windows 8 this week. In a way, Metro gives the Windows user something akin to SharePoint&#39;s web parts. Hmmm..
+I just signed up for HTML5 OS Carbyn. Check it out: http://carbyn.com/?ref=fu454fbo&nbsp; @carbynos
+Gaggling a stab to the past: k2 from .Net  problem at a customer
+MSFT w/ 880m uniques has nearly 6x over AAPL even counting each iDevice and each XBox as unique. Who knew http://bit.ly/mTNcyc&nbsp; Tnx @dorait
+at fastforward las vegas.. Long days!
+@dhaucke pls forgive.. Home address central?
+on the ground at sfo, finally home
+@leslieowens about to speak at #spc11 #sp238
+Adding salt to the mix makes 6TB disks possible likely in today&#39;s form factor - cool, but don&#39;t forget back up!http://bit.ly/n4DMpP&nbsp;
+Search User Wants a Story: great info on search UI. Almost used that result page in the book and used Kosmix instead! http://bit.ly/f3xcbu
+Well, Oraclew has a search engine now: It&#39;s acquiring Endecahttp://onforb.es/r1q256&nbsp;
+Heading down to IL tomorrow #il2011 - had HOPED to be there all week, but life intervened!
+Is the Endeca acquisition really about search? Or is it something else? http://bit.ly/q9lyrq&nbsp;
+@otisg - Be careful what you ask for, you just may get it! #lucene #hadoop http://bit.ly/nQQQRO&nbsp;
+This weekend a BBQ at Trade Winds Aviation. Pilot stories and food, what could be better? http://conta.cc/p5o2SV&nbsp;
+I know divisions have always driven HP, but I can&#39;t imagine HP without a CTO. Are the adults really in control there?http://tcrn.ch/mXxFgv&nbsp;
+Feel small for the weekend: Scale of the physical universe, smallest to largest. A few big gaps between &#39;layers&#39; http://bit.ly/qYVZlx&nbsp;
+writing the blog, working proposals...
+Which enterprise search platform is right for you? Workshop at KM World #KMW11 in DC next week http://bit.ly/tOBMKt&nbsp;
+Upcoming panel on SharePoint at Gilbane SF - need to leave Google I/O for the morning! http://bit.ly/bzNRqx
+36 hours to liftoff eastbound
+Microsoft enterprise Search Partners blog: MIA for 9 months. http://bit.ly/fOX0uv
+Kudos to #attivio for being among the few search vendors addressing &#39;big data&#39; #sidprobstein @ #HadoopWorld
+New Idea Engineering and Pingar partner to bring redaction, summarization and more to US enterprise search users http://bit.ly/soEksT&nbsp;
+Are you spending too much for enterprise search? NIE Webinar November 16 2011 http://bit.ly/w3uEPX&nbsp;
+&#39;Are you spending too much for search&#39; Webinar Wednesday November 16. What users expect, how to deal w/ vendors &amp; more http://bit.ly/w3uEPX&nbsp;
+Make money from insider trading - legally. Get elected to Congress.http://read.bi/t0UZyH&nbsp;
+Register for webinar this Wednesday &quot;Are you spending too much money on enterprise search&quot; http://bit.ly/w3uEPX&nbsp;
+Hadoop gets a big push as Microsoft drops it&#39;s big data Dryad project. http://zd.net/udNTxe&nbsp;
+Wow - after recheck &amp; compensating for GPS/timing issues, neutrinos still still go faster than light! @eric_andersenhttp://j.mp/vRp2xx&nbsp;
+Webinar with our partner SurfRay - Improving search using the FAST Search for SharePoint indexing pipeline December 9 http://bit.ly/vERrTo&nbsp;
+Reminder: NIE &amp; SurfRay webinar Friday 12/9 &quot;Using the FAST Search for SharePoint Pipeline to Improve Search&quot; http://bit.ly/vERrTo&nbsp;
+Web creator speaking out against the proposed US laws that media companies right to declare guilt w/o recourse http://dthin.gs/utItQP&nbsp;
+#SharePoint - Check out on_Demand Webcast: Using FAST Search for SP Pipeline to Improve Search. Presenter: @miles_kehoe http://bit.ly/txo60y&nbsp;
+#SharePoint - Check out on_Demand Webcast: Using FAST Search for SharePoint Pipeline to Improve Search  http://bit.ly/txo60y&nbsp;
+How LucidWorks differs from Apache Lucene/Solr releases? A pretty objective guide from Lucid Imagination http://bit.ly/w2u48B&nbsp;
+One of the dirty little secrets of enterprise search: it&#39;s OK to ignore some text in some documents &amp; not mention it - http://bit.ly/xJznbU&nbsp;
+ISYS announces deal with SAP to replace Autonomy KeyView and Oracle OutsideIn document filters. http://bit.ly/yFwXNC&nbsp;
+Webinar: What enterprise users want in search in 2012 - and how to deliver it on popular enterprise platforms-Jan 25,  http://bit.ly/yozolo&nbsp;
+Interesting article on eDiscovery, Congress, and corporate methodologies &amp; enterprise risk managementhttp://bit.ly/xpu5QG&nbsp;
+How do you measure a neutrino&#39;s speed? speed traps? radar guns? http://bit.ly/wHo8CM&nbsp;
+Users want search &#39;just like Google&#39;? Webinar showing how to deliver that experience w/ your current search platform http://bit.ly/yozolo&nbsp;
+Users asking for internal search &#39;just like Google&#39;? What are they really asking? What can you do? Webinar in a week http://bit.ly/yozolo&nbsp;
+Anyone else an existing BPOS user who still can&#39;t get O365? If we were not already an MS customer we&#39;d be up. Nice: punish your customers
+@SenatorBoxer And your position on SOPA and PIPA? Go with big bucks from Hollywood and kill the web, or keep &#39;due process&#39; alive?
+@dannysullivan re-discovers that a California Senator Feinstein is best reached by.. telegram. Granted that was high tech.. in 1877
+Can you imagine the outrage if MS required you to sell all of your products thru their store if you used their compiler..and pay them a cut?
+Great *free* webpart for both MS search platforms from @SurfRay - adds some great actions for users.   http://bit.ly/vZwl5S&nbsp;
+@kylewilliams_10 You deserve creds for taking responsibility. Work on it off-season and blow away the doubters next year
+An hour until &#39;What users expect from search in 2012&#39; - still time to register http://bit.ly/yozolo&nbsp;
+Ironic @timoreilly links to a page showing an &#39;eye-opening trend on job creation&#39; since Obama became president shows 404 error &#39;not found&#39;
+@emmonsl hey your iphone pgm keeps sending:) (3x now:)
+Hi.. not sure. In ORD Wed-Fri this week, might come this sat. but might be back the week b4 alum weekend. wud be fun
+At Infonortics Search Engine Meeting (http://tinyurl.com/csz8mj) - my talk on search security was well received.. whew!
+hullo Lynda!
+searchdev Interesting MuseGlobal talk on federated search
+Searchdev MuseGlobal: cool solution. But all the examples they gave were non-secure sites! Security is the hard part of federation!
+Information architect @louisrosenfeld doing a great workshop in Mountain View March 5. Worth the investment!  http://bit.ly/ADpk5Y&nbsp;
+By the way, Happy Mardi Gras Day!
+Webinar: The Secrets Your Search Vendors Never Tell You! Week from today! http://bit.ly/xQypYz&nbsp;
+Brief write up in Qwiki, a new kind of search experience. Not a bad candidate for future enterprise use I suspect. http://bit.ly/h6dlcV
+One week to submit papers to SharePoint Saturday Silicon Valley for 6/2/12 conference! Sponsorships available too! http://bit.ly/wM89ys&nbsp;
+How to implement enterprise search right? Hear the secrets you&#39;l never hear from vendors 2/29. http://bit.ly/xQypYz&nbsp;
+Jo
+Great resource site for SP2010, and a great &#39;resource guide&#39; from http://nothingbutsharepoint.com&nbsp;http://bit.ly/ArJpbc&nbsp;
+How to implement enterprise search that works? Secrets your vendor won&#39;t tell you in two days. http://bit.ly/xQypYz&nbsp;
+Sentiment Analysis Symposium with @SethGrimes in New York City May 2. Exciting tech for enterprise search http://bit.ly/A77Hd8&nbsp;
+Oops... yep, @sethgrimes sentiment analysis shindig is May 8 in NYC. My bad!
+Autonomy a &#39;data analytics&#39; firm? Yes, according to John Shinel @ Market Watch http://bit.ly/yazExT&nbsp;. Great article nonetheless!
+Mike Lynch on an IDOL search appliance &amp; augmented reality. Does it seem strange no one else @ HP is talking of it?http://read.bi/wA2ZQ2&nbsp;
+@wroebus Hey you gonna use this?:) Going to be back May on Lake Max?
+I uploaded a @YouTube video http://youtu.be/B33eeHsMWJE?a&nbsp; Secrets Your Search Vendor Won&#39;t Tell You
+Interesting new Microsoft patent - search by drawing.. new twist on &quot;I&#39;ll know it when I see it&quot;http://bit.ly/z1ZvpN&nbsp;
+Some background and thoughts on Microsoft  &#39;sketch and search&#39;  - will it play in the enterprise? http://bit.ly/y3pJwt&nbsp;
+I added a video to a @YouTube playlist http://youtu.be/ogHMfCZivno?a&nbsp; Social Goals 2.0: Live Demo and Q&amp;A
+Independent search and filter vendor ISYS acquired by LexMark... http://bit.ly/yKSe8n&nbsp;
+Making sense of the Lexmark acquisition of ISYS on the EnterpriseSearchBlog http://bit.ly/GLi6wR&nbsp;
+Unclear on the concept? #FinancialTimes tweets an article and links to a page - but you must log in or sign up to read it. hm..
+A webinar: Is bad metadata costing you money? http://bit.ly/GKXcKc&nbsp;
+Do you have a bad metadata problem? How to know/fix.justify? http://bit.ly/GKXcKc&nbsp;
+Retweeting a very good slide share by @RamziAlqrainy from Jeeran Software in Jordan - good stuffhttp://slidesha.re/GWDSgJ&nbsp;
+The importance of adding context to your enterprise search query processing on http://Enterprisesearchblog.com&nbsp; http://bit.ly/HmYdsz&nbsp;
+Arcovis webinar tomorrow 5 ways to improve your SharePoint  Search Center http://bit.ly/H1fR94&nbsp;
+Funny @SharePoint posts about @Jared_Spatero talk 3/28  social collaboration: link on FaceBook gives Server Error 500. Oh well..
+I read something this morning that reminded me of this very funny video from 2007 - monk  tech support http://bit.ly/HaaBi3&nbsp; - enjoy!
+After a week @ Microsoft WWPC, I&#39;m just about clouded out. Too many products, too many sessions, not enough repeats, and too few days.
+Danny Sullivan has written a great satire about the New York Times and their call for government review of Google. http://selnd.com/cgq3My
+Wow, tornado and baseball size hail at DFW... They evacuated the Hyatt..http://bit.ly/HGrF2C&nbsp;
+Just discovered a great site: Letters of Note, mailed in the past. Tolkien, CS Lewis, Vonnegut &amp; more - http://bit.ly/Hht2BF&nbsp;
+Is poor metadata costing you money? How do you know, how can you fix it? Next Wednesday &amp; Thursday http://bit.ly/GKXcKc&nbsp;
+@DaleSpenner Well, they say you never forget your first tweet! See you in May!
+SharePoint Saturday #spssv comes to Silicon Valley 6/2. Great speakers &amp;  sponsors. Info: http://bit.ly/IeDetJ&nbsp; Register:http://bit.ly/ItBOPy&nbsp;
+What does Autonomy have in common with round memory chips? http://bit.ly/HZ2p10&nbsp;
+rt Gartner&#39;s @lcannell on enterprise social and search http://ow.ly/aaqjO&nbsp;
+Suppose we first try to control our spending before we add any new taxes? @whitehouse
+Former Endeca Chief Scientist Daniel Tunkelang on driving search with incentives and search management http://bit.ly/Hy9YCE&nbsp;
+I uploaded a @YouTube video http://youtu.be/jt0GS1ztZOM?a&nbsp; Is Bad Metadata Costing You Money
+If you have time today attend the @SurfRay webinar at 11AM pacific. Their talks are always worth the time invested! http://tinyurl.com/7xngh8j&nbsp;
+@RamziAlqrainy has posted an excellent slide deck on handling &#39;no results&#39; queries in enterprise searchhttp://slidesha.re/HO2AzL&nbsp;
+#D7 All things Digital sure sounds like a love fest. No Google speakers?? Too much marketing hype, not enough content.
+I want to Meet @jimcramer  #CramerSweeps
+What does IBM want from Vivisimo? What should you do if you&#39;re a customer or prospect? Our take: &quot;Don&#39;t panic&quot;. http://bit.ly/Ia4M7v&nbsp;
+Vivisimo and IBM - a match made in Big Data Heaven? Our initial view http://bit.ly/Ia4M7v&nbsp;
+Is Microsoft joining the Lucene dance? http://bit.ly/IonlUn&nbsp;
+#SPSSV Just a month or so to SP Saturday Silicon Valley in Palo Alto June 2 - register today http://bit.ly/J2tdAV&nbsp;
+Wondering what sessions to see at Enterprise Search Summit in two weeks? Our suggestions: http://bit.ly/K3XdAD&nbsp;
+No time off goes unpunished
+Heading to Maker Faire tomorrow http://tinyurl.com/yvvb5d
+Just under a month to SharePoint Saturday Silicon Valley #SPSSV - Sessions are now up on the site  register today! http://bit.ly/J2tdAV&nbsp;
+Great new book on FAST Search for SharePoint - deep dive!http://amzn.to/KfI6nM&nbsp;
+@tomhaines29 Let&#39;s hope Beechcraft survives. First plane I ever touched the yoke on was a V Tail on a trip with a friend of mine&#39;s dad.
+Free Stanford class: Write a search engine.http://bit.ly/IZVCbf -
+Nice weekend for a &#39;bay tour&#39; in the plane.. but too much work with Lucene Revolution ESS NY coming up. Going to the shows? Let me know
+Survived Maker Faire.. kind of cool., Now to prep for Gilbane next week..
+SharePoint Saturday Silicon Valley four weeks from today, June 2nd!  #SPSSV http://bit.ly/Ioijqi&nbsp;
+Lucene Revolution starting in just a few #lucid
+#lucid : Lucene/Solr on Windows: Azure: Microsoft and open source working together...
+#lucenerev Paul Doscher &#39;solr is the sage choice&#39; w/ the big search players being acquired...
+#lucenerev #lucid many former fast esp users interested in conversion to solr
+If you want to learn about SharePoint for free, try SharePoint Saturday Silicon Saturday June 2nd Palo Alto  #SPSSVhttp://bit.ly/ItBOPy&nbsp;
+#LuceneRev My take on Microsoft and  their renewed approach - and commitment  - to open source software http://bit.ly/Kd0EnS&nbsp;
+Not a new tech bubble, more a winter for investment opps for a seasoned investor. Is FB sneaking in just in time?http://bit.ly/ITgYst&nbsp;
+#gilbanesf. Gilbane really *is* about content management; I know the search track starts tomorrow but precious little on search today
+18 days to first-ever Sharepoint  Saturday Silicon Valley. Free registration. Do it today!
+#ess #findwise survey: 50% of companies have less than 1 full fte working on enterprise search!
+@msweeny hey find me later!
+#gilbanesf - Hadley Reynolds is running an excellent search track today.
+#MSFT moves closer to open source projects - GitHub Windows clients http://tcrn.ch/LeYHpD&nbsp;
+:
+Only 11 days to the first ever SharePoint Saturday in Silicon Valley - are you registered yet?http://bit.ly/ItBOPy&nbsp;
+Webinar: &#39;Is open source search ready for you&quot; only an hour form now. You can still register at http://bit.ly/KXcgrx&nbsp;
+HP shows Autonomy&#39;s founder Mike Lynch the door http://bit.ly/KXe0RP&nbsp;
+QT @miles_kehoe: Only 9 days to the first ever SharePoint Saturday in Silicon Valley - are you registered yet?http://bit.ly/ItBOPy&nbsp;
+Went to Solr meetup last week in SF organized by Lucid Imagination. Cool time, cool tech. Mark wrote uphere http://tinyurl.com/bwkenu
+SharePoint Saturday Silicon Valley one week away! 30 talks, 6 tracks SP101, Admin, Developer, Business, Power Users http://bit.ly/J2tdAV&nbsp;
+Never heard of SharePoint Saturday? Next week in Palo Alto, St Louis and Atlanta http://bit.ly/JtL1bs&nbsp;
+I uploaded a @YouTube video http://youtu.be/ZkTZkVDu4DA?a&nbsp; Is Open Source Search Ready For You
+Only 4 more days to SharePoint Saturday Silicon Valley #spssv. See what you&#39;re missing if you don&#39;t register now! http://bit.ly/JtL1bs&nbsp;
+Post on Enterprise SEO - eSEO - a new way to look at fixing your enterprise search engine at http://tinyurl.com/lk9cdh
+Two more days to the first Silicon Valley SharePoint Saturday #spssv - register now - it&#39;s free! http://bit.ly/JtL1bs&nbsp;
+#spssv Dux keynote use business value to prioritize feature rollout..
+Lucid Imagination is ready for big data beta customers. Sign up today! http://bit.ly/LaryJh&nbsp; #lucid
+EE magazine reports Microsoft has selected Lucid Imagination Solr-based product for the Azure http://bit.ly/MqDbLu&nbsp;
+Microsoft picks Lucid Imagination Solr-based product for Azure Cloud marketplace #lucid #solr #azure http://bit.ly/MMnBAr&nbsp;
+It&#39;s live! Sign up for LucidWorks Cloud for Microsoft Azure now - http://bit.ly/MMnBAr&nbsp;
+Update on capacity and pricing for LucidWorks Cloud for Microsoft Azure 
+http://bit.ly/Nl3urW&nbsp;  #lucid #azure #solr
+A quick &#39;how to&#39; for Indexing and searching on LucidWorks Cloud for Microsoft Azure http://bit.ly/KLHc2s&nbsp; #lucid
+Slides from Lucene Revolution - Lucid blogger  Mark Miller - SolrCloud Architecture - sharding, replication, zookeeper http://bit.ly/MnKvLY&nbsp;
+SharePoint Saturday &#39;national&#39; event in DC/NoVA  area in August - registration and call for speakers up now http://bit.ly/LDSP7A&nbsp; #sps
+I uploaded a @YouTube video http://youtu.be/Plq8K7XAxTM?a&nbsp; Synonyms_RC1
+I uploaded a @YouTube video http://youtu.be/XEkOcSxDmwI?a&nbsp; Synonyms_RC1 2
+I uploaded a @YouTube video http://youtu.be/EA_mtUJuG1k?a&nbsp; Synonym_Orig
+G I/O day - new tablet eh??
+I uploaded a @YouTube video http://youtu.be/hVNCKCJvukQ?a&nbsp; LW_Stopwords
+Giving up on following Financial Times @FT - every tweet links to an article that requires a subscription. No thanks..
+Interested in customizing SP2010? I recently  discovered Benjamin Niaulin&#39;s @bniaulin great articles on End User SP http://bit.ly/KOXZg5&nbsp;
+@IntranetFocus Clearly the AUTN tradition continues at HP: pronouncements so obfuscated we should just send money and trust them
+@LearningSP link on that page to demo doesn&#39;t work URL http://www.akruratechnologies.com/portfolio-items/feedback-sandbox-webpart-for-sharepoint-online-office-365/http:/&nbsp;…
+My take on last week&#39;s decision by Google to drop the &#39;mini&#39; search appliance http://bit.ly/PBai7q&nbsp;
+What&#39;s it take to create enterprise search &#39;just like Google&#39;? Easy: resources. http://bit.ly/NLggQ9&nbsp;
+Do you want to create a search for your enterprise that works &#39;just like Google&#39;? Want to know the trick? Resources. http://bit.ly/NLggQ9&nbsp;
+@ElisaC  Yep.. USGS shows a 2.7 in the foothills just east of Milpitas.. Didn&#39;t feel it in Cupertino though..
+#SP2013 Training Videos/Presentations. Some big changes to search! http://bit.ly/Mj9jmt&nbsp;
+Ideara provides great tools for SQL and SP. Download the free PowerShell scripts, use them, and learn! Good stuff! http://bit.ly/MEgvy8&nbsp;
+Does your PC have 24GB of memory? #SP2013 requires a honker of a server for development! Wow.. time to upgrade!http://bit.ly/PBuHH3&nbsp;
+@rgarrettpro Agreed but for all of the &quot;on-the-road&quot; #SP2013 SH guys, it&#39;s tough to carry your environmental with you on your laptop!
+What is the least expensive enterprise search platform? http://bit.ly/MYt2Yf&nbsp;
+Search sucks? Thinking of replacing your enterprise search platform? What&#39;s the least expensive option? http://bit.ly/MYt2Yf&nbsp;
+Two good slide shares from Summit 7&#39;s Mark Rackley (the &#39;SharePoint Hillbilly&#39;) and #SPTEchCon / #SP2010 http://bit.ly/Qm7ndA&nbsp;
+@dweinberger David, thank you for the Curiosity live feed! Saves me a trip to Moffett/NASA and the accompanying traffic!
+@skmurphy Perhaps an MMC saying?:)
+Have you tried today&#39;s animated Google &#39;Doodle&#39;? Run the hurdles, using cursor and space to run and jump. Very cool.
+New name, new structure in products at Lucid Imagination http://bit.ly/RsrMki&nbsp;
+Lucid Imagination switches gears as Lucidworks - focus on search and big data supporting the best open source tools http://bit.ly/RsrMki&nbsp;
+well, US is ahead of Brazil 2-0 at half on two damn good goals. 45 more minutes on the edge of my seat
+ah well.. losing to Brazil isn&#39;t that bad.. played very well in 1h, less so in 2nd but great heart! world cup looking promising
+The role of AI/NPP/Machined learning in enterprise search http://bit.ly/OVIhkB&nbsp;
+What does &#39;totally automatic&#39; means in enterprise search - AI? NLP? Machine learning? http://bit.ly/OVIhkB&nbsp;
+Google news event going on now on YouTube -  http://tinyurl.com/2dvbcnz
+Google: Not just type-ahead - search results as you type... Of course, Outlook has had this for a while.
+Google Instant ... cool stuff. I&#39;ve become accustomed to not having to hit Enter to get results in Outlook, now in Google as well.
+Ah not &#39;search as you type&#39;: it predicts the likely final query based on partial input.. and shows the results. Much easier to do I suspect!
+Google: we can save you eleven hours a second... hmmmm
+Google Instant: ads also change as you type as well. Serious inflation in ad exposures while no one is looking!
+Funny quote used frequently in Google&#39;s announcement today: Never underestimate fast. FAST?
+Mark Bennett writes about the &#39;Gotchas&#39; of disk and memory for enterprise search applications http://bit.ly/RErF64&nbsp;
+Got OPG? One of the &#39;net capabilities from which enterprise search could benefit?
+http://bit.ly/UFI7CR&nbsp;
+OGP is a standard that fosters good web metadata - and &#39;Likes&#39; and &#39;+1s&#39; pretty much rely on it. Does your enterprise? http://bit.ly/UFI7CR&nbsp;
+What&#39;s MRR got to do with enterprise search? http://bit.ly/TGMgbX&nbsp;
+Is OGP a good way to at least *introduce* metadata into your enterprise search content? http://bit.ly/UFI7CR&nbsp;
+Do you handle special punctuation on your search platform? Got C# or C++?  Index twitter but forget the @ and #?http://bit.ly/RV4PXU&nbsp;
+Do you monitor your enterprise search platform activity to improve result quality? Got MRR? http://bit.ly/TGMgbX&nbsp;
+Does your enterprise content include special characters - part numbers, product names, or custom application code? http://bit.ly/RV4PXU&nbsp;
+@jaybaer As a one-time mid-westerner I seem to remember that all Cubs fans have to be optimistic - its a requirement ! Good luck!)
+@ChrisSteely You call that writing?:) You back to campus any time soon?
+How tokenizing gives you beter handling of model numbers and versions in enterprise search http://bit.ly/Rz7FUj&nbsp;
+Would HP spin off Autonomy? Does Kipling have a message for Mike lynch? Pure speculation - as far as I know. http://bit.ly/TdDJ12&nbsp;
+Airspace looks ot be clearing out into SFO - shuttle must e close #spottheshuttle - tracking on http://webtrak.bksv.com/sjc&nbsp;
+#spottheshuttle When it&#39;s in range, Shuttle should show up west of Redwood City on SJC flight tracking http://webtrak.bksv.com/sjc&nbsp;
+#spottheshuttle #ov105 http://webtrak.bksv.com/sjc&nbsp; not much traffic at sfo at 1012..
+#spottheshuttle #ov15 no air traffic on sjc flight track on the peninsula at all 1012 http://webtrak.bksv.com/sjc&nbsp;
+#spottheshuttle #ov15 over Cupertino 1038AM  http://bit.ly/SJ2KdY&nbsp; and   http://bit.ly/S9KzO3&nbsp;
+Near the HP Cupertino site, future home of Apple &#39;Starship One&#39;pic.twitter.com/etARicer
+Pingar now providing apps based on their entity extraction technology! A free (beta) SharePoint 2010 app on MS Store http://bit.ly/RI34z1&nbsp;
+Pingar releases free end user metadata app for SP2010. Automatically add relevant metadata to your content. Try it out! http://bit.ly/RI34z1&nbsp;
+AIIM says &#39;Before automating a process.. look for ways to improve it. Email to me starts {lead.First Name:default= Sir or Madame}}. Hm.
+Are droids (not just the phones) taking over?  Andrew McAfee @amcafee in a great Ted Talk - &quot;we ain&#39;t seen nothing yet&quot;http://bit.ly/OPGaFb&nbsp;
+Grant Ingersoll &amp; Paul Doscher of Lucid  @LucidImagineer in Forbes - “Search is the UI for data today&quot; - Great read -http://onforb.es/PRJtIG&nbsp;
+Not sure I like the new http://readwrite.com&nbsp; win 8 / metro look. I *do* want to try Win 8 - just help me find the command prompt!
+Everything you ever wanted to know about deep Solr http://bit.ly/TeL1er&nbsp;
+Excellent post on the Findwise blog on enterprise search in #SP2013http://bit.ly/SAJpzp&nbsp;
+Looking at moving to SharePoint 2013? Find a great guide to search at http://Findwise.com&nbsp;&#39;s blog -http://bit.ly/SAJpzp&nbsp;
+Check Out The 2012 Election Mood Meter @NetBase #SocialMedia #election http://bit.ly/SVg8vp&nbsp;
+Our Advanced Microsoft Search book is in the top 10 on Amazon! http://bit.ly/9r0VpZ
+Feeling &#39;fuzzy&#39; about Lucene/Solr 4.0 search? http://bit.ly/TvZ8Mt&nbsp;
+Hey got there too lste! Will view online.. where yoy next!? Im off to ballroom L
+Im going to spc202 ballroom L
+In ballroom L? I&#39;m seated left front near the screen.. i better see if I&#39;m in the right place.. msndalsy bsllroom ,L
+Day 1 #SPC2012 over. Deep sessions, great material. Three more days.. need a usb dongle for my brain!
+@jholston how about &#39;Stupid intelligence tricks&#39; for cia director behavior flick,?
+At Starbucks @ #spc2012 for linkedin enterprise professionals coffee meetup
+#spc2012 customizing search experiences session...SPC063... perfect way to start the day!
+@riverbed looks like a cool accelerator for search #sp2012
+#spc2012 build sharepoint and O365 apps in php and other non. Net environmentd #spc273. Cool!
+Win a free copy of Professional Microsoft Search covering FAST ESP, SharePoint Search, FS4P. http://bit.ly/bCvzdD
+HP discovers what industry and financial analysts have speculated quietly for yearshttp://on.wsj.com/106EU34&nbsp;
+As with enterprise search, &#39;big data&#39; requires methodology, not just technology http://bit.ly/SOH9lk&nbsp;
+Call for papers - Enterprise Search Summit Europe in May 2012. Deadline December 17 move quickly! http://bit.ly/TZVhJf&nbsp;
+Martin White&#39;s new book on enterprise search - an excellent read. If you run enterprise search, get it-  today!http://oreil.ly/XCm4kP&nbsp;
+Deep tech webinar 12/13 from mapR and Lucid senior developers - analytics &amp; search behavior in big data http://bit.ly/TPkuWX&nbsp;
+Just 5 minutes to register to hear Lucid&#39;s Grant Ingersol talk about Hadoop, mapR and big data! http://bit.ly/TPkuWX&nbsp;
+I wish Microsoft @EverythingMS would make a deal with the makers of aviation software @ForeFlight to get it on the RT and Surface pads
+Great article on MRR (mean reciprocal rank) by Walter Underwood, search pro &amp; an  original Ultraseek architectshttp://bit.ly/SZnh2C&nbsp;
+#ESSNY Want to speak @ ESS2013  NY in May? Act Now! Deadline for submissions for workshops &amp; conference this Friday http://bit.ly/RCrH13&nbsp;
+I&#39;m looking for a SF Bay Area enterprise search consultant who knows Solr&amp;likes working with customers&amp;sales guys http://bit.ly/T6JUEr&nbsp;.
+Yep.. gmail down 0035 pst gmt+8
+#solr #lucidworks First Solr meetup of the year in the SF Bay Area - Redwood City, this Thursday the 17th of Januaryhttp://bit.ly/UZjX6P&nbsp;
+Big data - great potential but for full benefit US alone needs &gt;140K skilled analysts. McKinsey http://bit.ly/VfV2gy&nbsp; via @DonPeppers
+#solr Thinking of Solr for enterprise search? LucidWorks training - 5 classes in Feb,  2 in US, 3 in Europe.http://bit.ly/Y5MGM1&nbsp;
+The next big thing in location tracking: ground-based radio targeting 5cm accuracy. Wow.. cool AND scary!http://bit.ly/Yan4NZ&nbsp;
+#Solr 4.1/ Solr Cloud released, ready to d/l. Everything you need to  set up a production quality search environment http://bit.ly/W1NPBY&nbsp;
+@lewisfarrell Howdy Lewis
+Solr4.x not required for #bigdata - unless you need to find content
+Call for speakers for ESS DC in Nov. 2013 by 3/1/13.  If you use search, someone else needs to know what you know. http://bit.ly/11LE0H8&nbsp;
+Missed penalty still a bummer&#39; CBS talking head: &quot;Can&#39;t make that kind of of impact call this late in the game&quot; Really!? Earlier ok then?
+Solr hack/coding tomorrow night w/ Grant Ingersoll @gsingers ,Lucene/Solr/Mahout committer. Redwood Shores CA #solrhttp://bit.ly/XU8X9g&nbsp;
+Guess I&#39;m back in the webinar business! Whats new in Solr 4.1 March 27  #lucidworks #solrhttp://bit.ly/WxqiZY&nbsp;
+Close call.. asteroid passing closer than geosync gps satellites on the 15th. Wonder if any will be take out?http://econ.st/YIHJVZ&nbsp;
+Learn whats new on #Solr 4.1 - great new capabilities make it a world class search platformhttp://bit.ly/WxqiZY&nbsp;
+@ravimynampaty  hey glad I could help. With the blizzard, enjoy the #solr inside weekend.
+&quot;We migrated away from GSA to Solr with filtering and sorting options that we couldn’t offer using the GSA&quot;http://read.bi/YSAniN&nbsp;
+@RobBogue SharePoint man&#39;s gotta do what he&#39;s gotta do!
+“@codeplex: There is currently an Azure outage that is affecting our mercurial and git repositories.  Wow... Curious about that!
+New #Findwise survey of enterprise search practices. Read about it and sig up to participate now! http://bit.ly/XvTy2J&nbsp;
+Friday afternoon thought: commercial enterprise search DOA? Q: Go #solr? A: Go #lucidworks! 
+http://bit.ly/ZgeePt&nbsp;
+Download several great talks from last fall&#39;s open source conference thanks to Basis Tech. http://bit.ly/12HLOii&nbsp;
+Do you know about the major shift in enterprise search? Hint: if you paid to license it, it may be a dead platform. http://bit.ly/ZgeePt&nbsp;
+Big data in your future this year? Many think so. http://bit.ly/13aELdz&nbsp;
+Is anyone else seeing tweets from people that you don&#39;t follow? Looks ike &#39;celebs&#39; in my industry/ but I specifically do not want the noise
+Meetup - Meet LucidWorks&#39; Erik Hatcher 
+@ErikHatcher speaking on #Lucene at ApacheCon next week in Portland http://bit.ly/WfXAJD&nbsp;
+Ever demo products or speak at events? Peter Cohen&#39;s Great Demos class next week thanks to Bootstrapper Breakfast http://bit.ly/ZJD32B&nbsp;
+Lucene Revolution Conference San Diego #solr - register now! http://bit.ly/Wvwi7G&nbsp;
+Want to learn about enterprise search technologies Lucene, Solr and more? Come to the Lucene Revolution #solr #lucene http://bit.ly/Wvwi7G&nbsp;
+Martin White, a master of enterprise search, runs a workshop on Thursday 2/7 - I&#39;d go if I could; you go instead! http://bit.ly/Y7A2WO&nbsp;
+Charlie Hull posted an interesting blog entry on useful capabilities Flax have written for eCommerce based on #Solrhttp://bit.ly/XU8yF0&nbsp;
+Last chance to register for Martin White&#39;s Enterprise Search master class in London tomorrow (Thursday) http://bit.ly/Y7A2WO&nbsp;
+Solr 4 Boot Camp in Reston VA March 27 - where else can you learn from 4 #Solr experts including two  committers?http://bit.ly/XVoCtb&nbsp;
+Server error from Microsoft O365 tonight after a certificate error - when trying to tell it mail it&#39;s classified as spam is not.
+Search Wizards and Beyond Search author Steve Arnold consolidates his @LucidWorks interviews pagehttp://bit.ly/XAKScq&nbsp;
+First post in a series: &#39;Is open source search good idea for enterprises on http://enterprisesearchblog.com&nbsp; http://bit.ly/YnPePR&nbsp;
+Part 2 in the series: &#39;Is open source search a good idea&#39; now up. This &#39;concern&#39; - &#39;
+&#39;Enhancements by Committee&#39; 
+http://bit.ly/10IuV2U&nbsp;
+#solr Open source search enterprise ready? Read part 2 of the series &#39;Enhancements by committee&#39; http://bit.ly/10IuV2U&nbsp;
+Countering the second myth about open source enterprise search on #solr: expensive implementations, high TCO. http://bit.ly/10YTP2b&nbsp;
+I like this quip on open source: .. because you read Moby-Dick doesn’t make you talented enough to author it.http://bit.ly/YeG0JM&nbsp;
+DC area? Want to learn about #Solr 4 from committers and contributors? Wed 3/27  A few seats left! Register w/ discount code SOLR4VA-5OFF
+Third in a series on the question &#39;is #solr open source search unreasonable in the enterprise?&#39; I think not. http://bit.ly/11gtIQA&nbsp;
+Sixty guys named &#39;Sarah&#39;: bad metadata at work. http://bit.ly/k6c1aR&nbsp;
+Martin White on enterprise search engine optimization ESEO - you need it for your own platform, not just for Google
+http://bit.ly/14sRsWA&nbsp;
+Hear @LucidWorks  founder @ErikHatcher talk about #Solr 4 and why you should care tomorrow!  Sign up now: 
+http://bit.ly/YG5Nre&nbsp;
+LinkedIn improves search - finally!
+http://tcrn.ch/10h3BYH&nbsp; and @dtunkelang  at meetup San Jose tomorrow night http://bit.ly/10h3SLn&nbsp; see ya?
+@LucidWorks  CTO Grant Ingersol @gsingers at Gigaom on big data, Hadoop, Hive - big data http://bit.ly/10lPMbx&nbsp;
+Is open source search really up for the enterprise? Taking on objections  one point at a time http://bit.ly/YnPePR&nbsp;
+Lucene/Solr Revolution conference only a month away - will you be there? http://
+http://bit.ly/YWqmjf&nbsp;
+No sure if @sidprobstein has released an April Fools video, or if they&#39;re really sticking w/ &#39;dreaded Solo Syndrom&#39;. http://bit.ly/Z3YUza&nbsp;
+@tonygrr is running a great search usability tutorial in Edinburgh on April 24 - fiters and facets. Register now!http://bit.ly/14AhcQp&nbsp;
+Oldie still relevant today for managing enterprise search: You improve what you can&#39;t measure -   http://bit.ly/XC6hmC&nbsp;
+@jaybaer of just Twitter....
+@sidprobstein no question the problem is real.. and it does seem to be getting worse... but you *did* pick a cute name for it..
+Only 27 days to #Lucene/#Solr Revolution. Are you coming? http://bit.ly/YWqmjf&nbsp;
+Grant Ingersol @gsingers speaking at LinkedIn next week.. be sure to register!http://bit.ly/16zdoxr&nbsp;
+Next Tuesday at LiinkedIn - Grant Ingersol @gsingers - whats new and what&#39;s coming in #Lucene and  #Solr 4http://bit.ly/16zdoxr&nbsp;
+Raritan Technologies releases new Topic Explorer for pharma research http://bit.ly/dMSs2E
+@Peter_Turchin and cliodynamics discover the future looking at he past. Not big data - long data.http://bit.ly/10Ww84S&nbsp;
+Great tech meeting &#39;behind the cornsilk curtain&#39; at #culver
+Very funny flying video for dog lovers..http://bit.ly/17xhNCh&nbsp;
+@CynthiaKSeymour Constant contact has become constant content #culver
+Good to see @LucidWorks and CEO @pdoscher01 are in the &#39;Big Data 100&#39; from CRN today http://bit.ly/15i7UJB&nbsp;
+(Re)-discovered a great blog on enterprise search by Lee Romero of Deloitte.. check out &#39;language change over time&#39; http://bit.ly/ZvHoVH&nbsp;
+@ttennebkram hey get moving:)
+My friend Patrick Viguerie has a very insightful new book out -  I recommend highly: &#39;The Granularity of Growth..&#39;http://www.amazon.com/dp/0470270209/ref=cm_sw_r_tw_asp_2gpQF.0YWB3BE&nbsp;…
+@buckleyplanet Wow.. teaching SharePoint to Sunday School kids. Smart idea: prepare them for full employment!:)
+The annual Findwise enterprise search survey ends in 9 days - participate now! http://bit.ly/17QakP1&nbsp;
+Just a week to #Solr Revolution. Escape the rain &amp; humidity and come to sunny San Diego to learn. http://bit.ly/YWqmjf&nbsp;
+Fourth in a series answering the question &quot;Is open source search ready for the enterprise&quot;. http://bit.ly/10by9ck&nbsp;
+Read the series: Is open source search &#39;safe&#39; for enterprises? http://bit.ly/YnPePR&nbsp;
+Make your search engine psychic http://bit.ly/hdey6g
+Training @ #solr Revolutiion kicks off today in San Diego
+Welcome to the LinkedIN group for LucidWorks: http://lnkd.in/-_nrHp&nbsp;
+@LucidWorks and @mapr  teaming for big data anlaytics - @solr at scale http://bit.ly/159SS9M&nbsp;
+Very interesting talk on data and the web by @hmason of bit.ly at Sorl Revolution
+Couldn&#39;t make it to #LuceneSolrRev? You can still play #stmpthechump and ask Solr questions of the @solr pros http://bit.ly/103N9KL&nbsp;
+Solr question? Ask the experts. Stump the Chump in 10 minutes! Live video - join in now - press the arrwow to start!
+http://bit.ly/12oqtW8&nbsp;
+Day one ends, day two starts at #LuceneSolrRev. Too many Solr stars to name - need a time machine to see half of the talks I want to attend
+LucidWorks Receives Top Honors from Gartner : Stephen E. Arnold @ Beyond Search http://newsle.com/article/0/73347383/&nbsp;… via @newsle
+@dtunkelang slideshare from Ginormous Systems event in DC early this month. http://http://slidesha.re/194agsB&nbsp;
+OK a pat on our own backs: LucidWorks Search under consideration for American Technology Awardshttp://bit.ly/12vbLOw&nbsp;
+Why learn a complex query language like SQL when you&#39;re born with the ability to use search??
+Gartner confirms what I I&#39;ve known for a while: search is the key to big data success http://gtnr.it/17rCZeI&nbsp;
+Last in a series &quot;Is open source search ready for the enterprise&quot;. Hint: Yep! http://bit.ly/17s5zwt&nbsp;
+OK all you pilots out there, remember: If God had meant man to fly, he&#39;d have given him alot more money #flying
+Halfway to #ess NY ORD 45 min to depart to LGA. See you workshop folks tomorrow #kmworld
+@dtunkeling it&#39;s 2013 - use facets! #essny
+National Day of Civic Hacking next weekend! Are you involved? http://bit.ly/11jYcyT&nbsp; #solr  #hackforchange
+Hear Yonik Seeley @lucene_solr creator talk about using Solr as NoSQL search server. http://bit.ly/Z996uU&nbsp; #solr
+New (to me!) analysis of LinedIn groups - here Enterprise Search engine Professionals http://lnkd.in/64nXfu&nbsp;
+T Boone Pickens turns 85... and explains why he won&#39;t retire. I agree: To retire is to expire!http://linkd.in/1709qku&nbsp;
+&quot;What the hell is big data?&quot;  A great overview by @BernardMarr -http://linkd.in/12YFXmG&nbsp;
+Two different talks on enterprise search at SharePoint saturday Palo Alto June 22 - Be there! http://bit.ly/10Y7mRF&nbsp;
+Solr as NoSQL Thursday morning 10AM PDT / 1700 GMT #solr creator Yonik Seeley not too late to sign uphttp://bit.ly/Z996uU&nbsp;
+SharePoint Saturday Palo Alto June 22 #spssv! Come learn about SP, Search, and more http://bit.ly/15xXSRF&nbsp;
+A bit under 2 weeks to SharePoint Saturday Palo Alto #spssv June 22.. http://bit.ly/15xXSRF&nbsp;
+If you&#39;ve never heard of Virtual Photo Walks, this is a great intro.. check it out.  Thanks Cynthia @CynthiaKSeymour http://lnkd.in/9ezWdv&nbsp;
+Cloudera, Lucene and Solr #solr - all in a big day&#39;s work at LucidWorkshttp://bit.ly/13QUHTR&nbsp;
+Big week.. Cassandra/DataStax conference starts tomorrow in SF. Come visit the LucidWorks boothhttp://bit.ly/13QUHTR&nbsp;
+Next Tuesday at MS Store @ Palo Alto Shopping Center, come hear about LucidWorks in SMB market on Azure.  http://bit.ly/11xBrJ3&nbsp;
+Just a week to SharePoint Saturday Silicon Valley #SPSSV - Palo Alto JCC - free to attend - learning optional! http://bit.ly/10Y7mRF&nbsp;
+SharePoint Saturday Silicon Valley style today in Palo Alto! #svssv
+#SPTECHCON - Jeff Fried: WRT search, focus on growing the needle, not trying to control the hay.
+#SpTechCon - jefffried &#39;search needs good content. Content needs good gardeners&#39;
+Anyone else blogging on Typepad for years notice that @Klout doesn&#39;t even LOOK at your Typepad blogs?? #bad_klout!
+@IntranetFocus offering a subscription service for search managers - if you run enterprise search, you need it! http://bit.ly/19PiwiF&nbsp;
+SF Bay Area Lucene Solr meet-up September 3 at Computer History Museum. Sign up early! http://tinyurl.com/lbydra
+@RamziAlqrainy has some really world-class Solr slideshares - one from late June I just saw is worth a look now!http://slidesha.re/10VbJkK&nbsp;
+Steve Arnold on the new IDC report http://bit.ly/16DggHx&nbsp; on @LuceneSolrRev - Next  in Dublin Nov 6-7 http://bit.ly/Wvwi7G&nbsp;
+900M documents and growing? No biggie. Shard splitting in Solr 4 - see how one company solved the problem w/ @Solr http://bit.ly/12GGDOY&nbsp;
+Meet @lucenesolr committer and @LucidWorks co-founder @ErikHatcher in Portland next week at OSCON. Topic: Solr Quick Start.
+90 minutes until the webinar on impressive scalability in Solr 4 - shard splitting to search anable nearly 1B http://bit.ly/12GGDOY&nbsp;
+well, @gotomeeting having issues today..try to log in on www and get &#39;org.springframework.web.client.ResourceAccessException: I/O error&#39;
+@GoToMeeting My local client says I appear to be offline; your web site gives io errors..:)
+Wow.. a first. Google seems to be off the air! Guess it&#39;s time to head for home!
+IBM&#39;s Watson computer takes on best human Jeopardy! champs this week! http://bit.ly/gJwZXO
+LucidWorks sponsoring the community at Silicon Valley Code Camp Oct 5-6 Los Altos http://bit.ly/1f4wfCQ&nbsp;
+Moving apps to Hadoop 2.x - virtual meet-up by HortonWorks this Wednesday 2PM PDT (UTC-7)http://bit.ly/14GzJXH&nbsp;
+Only 26 days to the Silicon Valley Code Camp! http://bit.ly/1f4wfCQ&nbsp; w/ @LucidWorks a community sponsor
+Oldie but goodie on foundations of Zookeeper http://yhoo.it/15XmUrl&nbsp;  from Yahoo, discovered on devo.ps http://bit.ly/14Gj7EA&nbsp;
+@kwatters76 I am:?
+IMG 0785: http://youtu.be/KwkUq9FHXIs?a&nbsp; via @YouTube
+I favorited a @YouTube video from @miles_kehoe http://youtu.be/KwkUq9FHXIs?a&nbsp; Lexi - Guilty?
+Well.. first, let&#39;s see NFL players go all out for 45 minutes straight without a break (be it (@YouTube http://youtu.be/6KeG_i8CWE8?a&nbsp;)
+Not at all. Let&#39;s say glamor and speed... I was going to call it how fast do u want to go...
+But then worshiping idols got left out:)
+@LucidWorks webinar Thurs Oct 17 10AM PDT (UTC-7) on SOLR business rules, relevancy console, and entity extractionhttp://bit.ly/1gjRqEg&nbsp;
+@VerizonWireless Do you realize bill pay won&#39;t work last few months with Chrome browser? I click &#39;Pay Bill&#39; and nothing happens. Real pain.
+Anyone else having problem connecting to Office 365??
+Got Splunk? Need to search it better? #LucidWorks  http://bit.ly/18FozKe&nbsp;
+Webinar tomorrow: LucidWorks extends log analysis in Splunk to include doc content.. who looked at what? Sognuphttp://bit.ly/19w8mFw&nbsp;
+Off to SharePoint 2009 in Las Vegas Sunday http://tinyurl.com/yc536g5. If you&#39;re there as well let us know!
+SharePoint 2009 conference in Las Vegas: finally, the new search capabilities will be announced, albeit not available for a while yet.
+SharePoint Server 2010 includes expanded MOSS functionality; FAST Search for SharePoint is new search based on FAST ESP.
+FAST ESP is still available for eCommerce sites on Windows and Linux. Microsoft says they will continue to enhance and support ESP on Linux.
+SP2009: moving from end user to developer tool; local hardware to cloud; and intranet sites to internet/web facing sites.
+SPC2009: Real advantage of the MS cloud: mix and match what components are local and which are in the cloud; SQL Server local and cloud apps
+SPC2009: Lots of talk about taxonomy management in SP2010; remains to be seen if that&#39;s just social tagging or generalized taxo tools.
+SPC2009:FAST ESP for SharePoint only available on 64 bit platforms; not positive about SharePoint Server 2010 (hence Search Server)
+SPC2009:Follow-up on 64 bit question: It looks like SharePoint and its search programs are all 64 bit apps. Taps for win32, I guess.
+SPC2009: FAST Search for SharePoint retains the ESP paradigm of predictable scalability using rows &amp; columns of servers. Whew!
+Freeway series? Do the LA fans realize the last &#39;freeway series&#39; had a pretty big earthquake at the start of game 2? October 17, 1989.
+SPC2009:Today is search day. I&#39;m looking at 8 hours of deep dives, APIs, roadmaps and hands-on! What could be better for a search geek?:)
+SPC2009: FAST finally talking about running in virtual systems, would like 4GB per vm; the guys are still nervous about high speed disks
+SPC2009: Major usability improvements in FAST in SP - it looks like index profile can generally be updated in real time w/o re-index/etc
+SPC2009: Wow. Significant new usability for admins/developers and even users in both SharePoint search products.
+Cool article about entity extraction (property extraction) in FAST Search for SharePoint (FS4SP) bit.ly/gJziNK
+For other pilots out there, great series based on MS Flight Sim: A partial panel emergency in IMC near LAX! Wow! http://bit.ly/gTR3co
+Mark Logic names new CEO, former Autodesk executive Ken Bado who predicts an IPO in 18 months. http://bit.ly/eBnd8H
+LinkedIn home page suggests we &#39;Sit tight&#39; while they &#39;clean things up. Hm.. http://linkd.in/giIN6Q
+#esswest day 2 keynote only marginally about enterprise search but some cool web tools
+#esswest: Baynote: site visitors&#39; interests are not a random scatterplot..they form clusters of interest
+A bunch of folks put public facing search into a different category than &#39;enterprise search&#39;...
+#essw09 - Cambridge Semantics CEO just gave an analogy that makes semantic search sound like expensive synonym lists
+#essw09 Jared Spool refreshed my memories of Wordstar, Word Perfect. Wow.. stab from the past!
+Free FAST Technical training: FAST Search for SharePoint Reporting and analytics tomorrow, April 20. http://bit.ly/dHgbZc
+Fix for FAST ESP / FSIA / FSIA error message &#39;Search is unavailable&#39;
+http://bit.ly/lu1AWE
+#ESS11 Great session by Wells Fargo on how they manage enterprise search.. will be blogging about some of them later on http://bit.ly/jXOhmK
+#ess11 Wells: people/social search results are not useful and even confusing for most knowledge worker queries
+#ess11 Martin White: The crash of 2008 was as much an info retrieval failure as a financial failure
+Booz&amp;Co:Enterprise search powered by Google without &#39;Powered by Google &#39; icon not perceived by users to be &#39;as good as Google&#39;
+From #ESS11 - Read about sixty men named Sarah - at least as far as the search platform knew. http://bit.ly/k6c1aR
+Content owners don;t care about meta-data and search quality. Or do they? http://bit.ly/iH07yA
+Two weeks until SharePoint Saturday Sacramento http://bit.ly/kqZWDh
+It Ain;t Google unless it says it&#39;s Google http://bit.ly/ioQdJa
+Webinar 6/8/2011 on starting your own company - ever wanted to try it? Listen in. Free registration from our blog..http://bit.ly/jqIS0h
+Some interest today in &#39;single shot relevancy&#39; from  @EdDale and others. Original article (from 2007!) at http://bit.ly/kE4s6J
+Humorous look at org charts for some big tech companies at Business Insiderhttp://read.bi/mlxjkq&nbsp;
+Interesting technical slide set/intro to Lucene/Solr  illustrates the control you have &amp; need in this cool search tool. http://slidesha.re/iDqbk2&nbsp;
+Oops! Just tweeted a pretty clear &#39;copy&#39; (just to be nice) of slide deck - Sorry Chris! Go for the real thing ! http://bit.ly/kGe0Sb&nbsp;
+Fuinny - @dannysullivan reports no TV cameras are allowed as Facebook announces... webcam support. Wonder if phone/laptop webcams are?
+Many of the FAST folks at Microsoft were among the layoffs at Microsoft today. http://bit.ly/oZrR1H&nbsp;
+Learning to twit
+Is it just me or is LinkedIn having real performance problems tonight?
+Any good Documentum consultants in the Bay Area? Email me mkehoe (at) gmail - tnx!
+Author and SharePoint wizard Josh Noble of SurfRay is giving a webinar tomorrow on customizing the advanced search page. http://bit.ly/pHz6RA&nbsp;
+Cool FS4SP query tool diagnostic tool from Comperio&#39;s Mikael Svenson, new on SearchComponentsOnline http://bit.ly/nZQVK2&nbsp;
+Autonomy acquires federal reseller and /implementation partner MicroLink for $55M. http://bit.ly/dc7vuT
+Last shuttle launch now scheduled at 1526 UTC, 826 Pacific time. Great HD video right from NASA http://bit.ly/mXOybJ&nbsp; - end of an era.
+Buffet: If there is a deficit &gt; 3% of GDP, all sitting members of Congress are ineligible for reelection. Good plan!http://read.bi/nQgZNe&nbsp;
+Going to LA mid week for Microsoft #wwpc - Funny, I noticed on the site list there is an exhibitor named TEST.  http://bit.ly/qCscIF&nbsp;
+Cool query test/learning tool for SharePoint 2010 search (FAST and MOSS) over on Codeplex - http://bit.ly/qpsSwV&nbsp;
+Microsoft #wpc11 may be going on, but the SharePoint 2011 conference looks more fun - including a party at Disneyland! http://bit.ly/omN7Lk&nbsp;
+#louisrosenfeld - Lou&#39;s new book is a keeper! Great material well presented.http://amzn.to/p1zs5G&nbsp;
+@rstackhouse Are you related to any of the Stackhouse families from Culver?
+In a new report, Forrester&#39;s Leslie Owens doesn&#39;t seem to be a fan of the new FAST SharePoint products   http://tinyurl.com/ye43yxe
+To improve search, forget about the search engine RT #michellemanafy applies to enterprise as well: it&#39;s the contenthttp://bit.ly/p55kFt&nbsp;
+I only KNOW about this klout thing because of the likes of #dtunkelang and #EdDale. Clearly I&#39;m unklout personified;
+Found a great article from #jeanniecw on improving customers&#39; experiences http://bit.ly/r5gcw8&nbsp;. The original deserves credit, not the copy
+New features in Google Plus.. getting better, being responsivehttp://bit.ly/pEDvwH&nbsp;
+Some thoughts about the FAST/Microsoft relationship http://bit.ly/oZIsfR&nbsp;
+@michellemanafy : Ouch!! Hope it doesn&#39;t show for long:)
+Amy Farrah Fowler *IS* a neuroscientist and author - in real life!  http://bit.ly/npCFmD&nbsp;
+Solr with support. LucidWorks Enterprise search platform puts the &#39;support&#39; in open source search  http://bit.ly/oznHdG&nbsp;
+Interesting tool coming soon from Microsoft: LightSwitch. Write web/cloud/desktop apps using a Visual Studio paradigm.http://bit.ly/pbbAeP&nbsp;
+&quot;&quot;Just because you do not take an interest in politics doesn&#39;t mean politics
+won&#39;t take an interest in you.&quot;  (Pericles) RT #Bootstrappers
+Popular flight instructor saying: Takeoffs are optional; landings are not.
+Help with customizing SharePoint 2010 search results using XSL on SearchComponentsOnlinehttp://bit.ly/ruTj4E&nbsp;
+Determined to get my friends to twit even if it leads to kicking and screaming - by me or by them...
+Thought for the weekend:(paraphrasing) You can lead a user to knowledge, but you cant make him think.
+Lucid Imagination: &quot;Don&#39;t use Java 7, for Anything&quot; http://bit.ly/pv5r2a&nbsp;
+Have to &#39;un-follow&#39; #Vivisimo_Inc - 85 tweets in the last hour. Zero value.
+#Vivisimo_Inc - Seriously folks, are tweets from companies an outlet for two employees to chat? Have they ever heard of TEXT MESSAGES?
+I may be the last to know, but @dtunkelang just mentioned followcost.com - see how much &#39;activity&#39; (or spam) from any account - cool!
+I agree with @rahulnihalani -  5AM in the morning is far preferable to 5AM at night - tho I see far fewer of the latter nowadays
+The web opened to the public 20 years ago today.http://tnw.co/p7auMD&nbsp;
+Boeing test pilots will be first to ride their commercial manned space capsule into space in 2015http://bbc.in/r2SVoH&nbsp;
+An open source tool for accessing Google Search Appliance results using Visual Studio/C# application.http://bit.ly/ozpuSz&nbsp;
+A chance to keep the folks who never got grammar and spelling away from a site... grade on a curve? http://chzb.gr/mQnZrH&nbsp;
+Stocks down? To paraphrase Paul Samuelson, remember that the stock market has predicted nine of the last five recessions
+Got data? 100M documents or more? Or just a bunch? Tell us your vendor &amp; number of servers, we&#39;ll send you the results http://bit.ly/orXWnF&nbsp;
+Context counts: Someone just asked us if K2 shows up on a 10 panel urine test in lab testing. Not the one we use. That explains alot though
+Pilot sayings: Flying isn&#39;t dangerous. Crashing is
+Wow... so HP wants to get into the enterprise search business! Deal to acquire Autonomy for $10B!http://tcrn.ch/p7Igrf&nbsp;
+HP - Autonomy update:Apparently HP will spin off its PC business as well. Keep an eye on enterprisesearchblog.com http://bit.ly/jXOhmK&nbsp;
+@dhaucke Hard to say if its overvalued. PC business fading; HP already moving to being a consulting company &amp; Autonomy is certainly that..
+HP - Autonomy deal seems more firm: Bloomberghttp://bloom.bg/o8SHtU&nbsp;
+Leslie Owens @owensleslie / Forrester has an insightful analysis of HP/Autonomy and raises some excellent points http://bit.ly/q44HN1&nbsp; Read!
+Solr-PHP based search application on SearchComponentsOnline.com  http://bit.ly/q9dc7W&nbsp;
+FAST San Francisco conference Tuesday. No more big FASTForwards; now just city by city events.
+Just added myself to the http://wefollow.com&nbsp; twitter
+Great &#39;60 guys named Sarah&#39; talk comes back to #SPC11 (GSA vs SharePoint) http://bit.ly/ny45ll&nbsp;
+One of my faves from ESS last May is back at #SPC11 - Sixty Men Named Sarah http://bit.ly/ny45ll&nbsp;
+m@givenscj yep mbk@ideaeng.com btw
+@AYakkundi Ya we forget you guys are not ready for 5.8 quakes... But they say do NOT run outside!:)
+Just read an article by @NicolePerlroth on the human side of Steve Jobs. - one of the best &amp; most touching - I&#39;ve seen http://bit.ly/qejSby&nbsp;
+recruiting my stubborn business partner and other friends to twit:)
+Interwoven to be acquired by Autonomy http://tinyurl.com/ddh2oj
+Found a goodYouTube series by Josh Noble of @Surfray. Customizing the Advanced Search Page Part 1 (of 3)http://bit.ly/prU2XM&nbsp;
+Trying Windows 8 this week. In a way, Metro gives the Windows user something akin to SharePoint&#39;s web parts. Hmmm..
+I just signed up for HTML5 OS Carbyn. Check it out: http://carbyn.com/?ref=fu454fbo&nbsp; @carbynos
+Gaggling a stab to the past: k2 from .Net  problem at a customer
+MSFT w/ 880m uniques has nearly 6x over AAPL even counting each iDevice and each XBox as unique. Who knew http://bit.ly/mTNcyc&nbsp; Tnx @dorait
+at fastforward las vegas.. Long days!
+@dhaucke pls forgive.. Home address central?
+on the ground at sfo, finally home
+@leslieowens about to speak at #spc11 #sp238
+Adding salt to the mix makes 6TB disks possible likely in today&#39;s form factor - cool, but don&#39;t forget back up!http://bit.ly/n4DMpP&nbsp;
+Search User Wants a Story: great info on search UI. Almost used that result page in the book and used Kosmix instead! http://bit.ly/f3xcbu
+Well, Oraclew has a search engine now: It&#39;s acquiring Endecahttp://onforb.es/r1q256&nbsp;
+Heading down to IL tomorrow #il2011 - had HOPED to be there all week, but life intervened!
+Is the Endeca acquisition really about search? Or is it something else? http://bit.ly/q9lyrq&nbsp;
+@otisg - Be careful what you ask for, you just may get it! #lucene #hadoop http://bit.ly/nQQQRO&nbsp;
+This weekend a BBQ at Trade Winds Aviation. Pilot stories and food, what could be better? http://conta.cc/p5o2SV&nbsp;
+I know divisions have always driven HP, but I can&#39;t imagine HP without a CTO. Are the adults really in control there?http://tcrn.ch/mXxFgv&nbsp;
+Feel small for the weekend: Scale of the physical universe, smallest to largest. A few big gaps between &#39;layers&#39; http://bit.ly/qYVZlx&nbsp;
+writing the blog, working proposals...
+Which enterprise search platform is right for you? Workshop at KM World #KMW11 in DC next week http://bit.ly/tOBMKt&nbsp;
+Upcoming panel on SharePoint at Gilbane SF - need to leave Google I/O for the morning! http://bit.ly/bzNRqx
+36 hours to liftoff eastbound
+Microsoft enterprise Search Partners blog: MIA for 9 months. http://bit.ly/fOX0uv
+Kudos to #attivio for being among the few search vendors addressing &#39;big data&#39; #sidprobstein @ #HadoopWorld
+New Idea Engineering and Pingar partner to bring redaction, summarization and more to US enterprise search users http://bit.ly/soEksT&nbsp;
+Are you spending too much for enterprise search? NIE Webinar November 16 2011 http://bit.ly/w3uEPX&nbsp;
+&#39;Are you spending too much for search&#39; Webinar Wednesday November 16. What users expect, how to deal w/ vendors &amp; more http://bit.ly/w3uEPX&nbsp;
+Make money from insider trading - legally. Get elected to Congress.http://read.bi/t0UZyH&nbsp;
+Register for webinar this Wednesday &quot;Are you spending too much money on enterprise search&quot; http://bit.ly/w3uEPX&nbsp;
+Hadoop gets a big push as Microsoft drops it&#39;s big data Dryad project. http://zd.net/udNTxe&nbsp;
+Wow - after recheck &amp; compensating for GPS/timing issues, neutrinos still still go faster than light! @eric_andersenhttp://j.mp/vRp2xx&nbsp;
+Webinar with our partner SurfRay - Improving search using the FAST Search for SharePoint indexing pipeline December 9 http://bit.ly/vERrTo&nbsp;
+Reminder: NIE &amp; SurfRay webinar Friday 12/9 &quot;Using the FAST Search for SharePoint Pipeline to Improve Search&quot; http://bit.ly/vERrTo&nbsp;
+Web creator speaking out against the proposed US laws that media companies right to declare guilt w/o recourse http://dthin.gs/utItQP&nbsp;
+#SharePoint - Check out on_Demand Webcast: Using FAST Search for SP Pipeline to Improve Search. Presenter: @miles_kehoe http://bit.ly/txo60y&nbsp;
+#SharePoint - Check out on_Demand Webcast: Using FAST Search for SharePoint Pipeline to Improve Search  http://bit.ly/txo60y&nbsp;
+How LucidWorks differs from Apache Lucene/Solr releases? A pretty objective guide from Lucid Imagination http://bit.ly/w2u48B&nbsp;
+One of the dirty little secrets of enterprise search: it&#39;s OK to ignore some text in some documents &amp; not mention it - http://bit.ly/xJznbU&nbsp;
+ISYS announces deal with SAP to replace Autonomy KeyView and Oracle OutsideIn document filters. http://bit.ly/yFwXNC&nbsp;
+Webinar: What enterprise users want in search in 2012 - and how to deliver it on popular enterprise platforms-Jan 25,  http://bit.ly/yozolo&nbsp;
+Interesting article on eDiscovery, Congress, and corporate methodologies &amp; enterprise risk managementhttp://bit.ly/xpu5QG&nbsp;
+How do you measure a neutrino&#39;s speed? speed traps? radar guns? http://bit.ly/wHo8CM&nbsp;
+Users want search &#39;just like Google&#39;? Webinar showing how to deliver that experience w/ your current search platform http://bit.ly/yozolo&nbsp;
+Users asking for internal search &#39;just like Google&#39;? What are they really asking? What can you do? Webinar in a week http://bit.ly/yozolo&nbsp;
+Anyone else an existing BPOS user who still can&#39;t get O365? If we were not already an MS customer we&#39;d be up. Nice: punish your customers
+@SenatorBoxer And your position on SOPA and PIPA? Go with big bucks from Hollywood and kill the web, or keep &#39;due process&#39; alive?
+@dannysullivan re-discovers that a California Senator Feinstein is best reached by.. telegram. Granted that was high tech.. in 1877
+Can you imagine the outrage if MS required you to sell all of your products thru their store if you used their compiler..and pay them a cut?
+Great *free* webpart for both MS search platforms from @SurfRay - adds some great actions for users.   http://bit.ly/vZwl5S&nbsp;
+@kylewilliams_10 You deserve creds for taking responsibility. Work on it off-season and blow away the doubters next year
+An hour until &#39;What users expect from search in 2012&#39; - still time to register http://bit.ly/yozolo&nbsp;
+Ironic @timoreilly links to a page showing an &#39;eye-opening trend on job creation&#39; since Obama became president shows 404 error &#39;not found&#39;
+@emmonsl hey your iphone pgm keeps sending:) (3x now:)
+Hi.. not sure. In ORD Wed-Fri this week, might come this sat. but might be back the week b4 alum weekend. wud be fun
+At Infonortics Search Engine Meeting (http://tinyurl.com/csz8mj) - my talk on search security was well received.. whew!
+hullo Lynda!
+searchdev Interesting MuseGlobal talk on federated search
+Searchdev MuseGlobal: cool solution. But all the examples they gave were non-secure sites! Security is the hard part of federation!
+Information architect @louisrosenfeld doing a great workshop in Mountain View March 5. Worth the investment!  http://bit.ly/ADpk5Y&nbsp;
+By the way, Happy Mardi Gras Day!
+Webinar: The Secrets Your Search Vendors Never Tell You! Week from today! http://bit.ly/xQypYz&nbsp;
+Brief write up in Qwiki, a new kind of search experience. Not a bad candidate for future enterprise use I suspect. http://bit.ly/h6dlcV
+One week to submit papers to SharePoint Saturday Silicon Valley for 6/2/12 conference! Sponsorships available too! http://bit.ly/wM89ys&nbsp;
+How to implement enterprise search right? Hear the secrets you&#39;l never hear from vendors 2/29. http://bit.ly/xQypYz&nbsp;
+Jo
+Great resource site for SP2010, and a great &#39;resource guide&#39; from http://nothingbutsharepoint.com&nbsp;http://bit.ly/ArJpbc&nbsp;
+How to implement enterprise search that works? Secrets your vendor won&#39;t tell you in two days. http://bit.ly/xQypYz&nbsp;
+Sentiment Analysis Symposium with @SethGrimes in New York City May 2. Exciting tech for enterprise search http://bit.ly/A77Hd8&nbsp;
+Oops... yep, @sethgrimes sentiment analysis shindig is May 8 in NYC. My bad!
+Autonomy a &#39;data analytics&#39; firm? Yes, according to John Shinel @ Market Watch http://bit.ly/yazExT&nbsp;. Great article nonetheless!
+Mike Lynch on an IDOL search appliance &amp; augmented reality. Does it seem strange no one else @ HP is talking of it?http://read.bi/wA2ZQ2&nbsp;
+@wroebus Hey you gonna use this?:) Going to be back May on Lake Max?
+I uploaded a @YouTube video http://youtu.be/B33eeHsMWJE?a&nbsp; Secrets Your Search Vendor Won&#39;t Tell You
+Interesting new Microsoft patent - search by drawing.. new twist on &quot;I&#39;ll know it when I see it&quot;http://bit.ly/z1ZvpN&nbsp;
+Some background and thoughts on Microsoft  &#39;sketch and search&#39;  - will it play in the enterprise? http://bit.ly/y3pJwt&nbsp;
+I added a video to a @YouTube playlist http://youtu.be/ogHMfCZivno?a&nbsp; Social Goals 2.0: Live Demo and Q&amp;A
+Independent search and filter vendor ISYS acquired by LexMark... http://bit.ly/yKSe8n&nbsp;
+Making sense of the Lexmark acquisition of ISYS on the EnterpriseSearchBlog http://bit.ly/GLi6wR&nbsp;
+Unclear on the concept? #FinancialTimes tweets an article and links to a page - but you must log in or sign up to read it. hm..
+A webinar: Is bad metadata costing you money? http://bit.ly/GKXcKc&nbsp;
+Do you have a bad metadata problem? How to know/fix.justify? http://bit.ly/GKXcKc&nbsp;
+Retweeting a very good slide share by @RamziAlqrainy from Jeeran Software in Jordan - good stuffhttp://slidesha.re/GWDSgJ&nbsp;
+The importance of adding context to your enterprise search query processing on http://Enterprisesearchblog.com&nbsp; http://bit.ly/HmYdsz&nbsp;
+Arcovis webinar tomorrow 5 ways to improve your SharePoint  Search Center http://bit.ly/H1fR94&nbsp;
+Funny @SharePoint posts about @Jared_Spatero talk 3/28  social collaboration: link on FaceBook gives Server Error 500. Oh well..
+I read something this morning that reminded me of this very funny video from 2007 - monk  tech support http://bit.ly/HaaBi3&nbsp; - enjoy!
+After a week @ Microsoft WWPC, I&#39;m just about clouded out. Too many products, too many sessions, not enough repeats, and too few days.
+Danny Sullivan has written a great satire about the New York Times and their call for government review of Google. http://selnd.com/cgq3My
+Wow, tornado and baseball size hail at DFW... They evacuated the Hyatt..http://bit.ly/HGrF2C&nbsp;
+Just discovered a great site: Letters of Note, mailed in the past. Tolkien, CS Lewis, Vonnegut &amp; more - http://bit.ly/Hht2BF&nbsp;
+Is poor metadata costing you money? How do you know, how can you fix it? Next Wednesday &amp; Thursday http://bit.ly/GKXcKc&nbsp;
+@DaleSpenner Well, they say you never forget your first tweet! See you in May!
+SharePoint Saturday #spssv comes to Silicon Valley 6/2. Great speakers &amp;  sponsors. Info: http://bit.ly/IeDetJ&nbsp; Register:http://bit.ly/ItBOPy&nbsp;
+What does Autonomy have in common with round memory chips? http://bit.ly/HZ2p10&nbsp;
+rt Gartner&#39;s @lcannell on enterprise social and search http://ow.ly/aaqjO&nbsp;
+Suppose we first try to control our spending before we add any new taxes? @whitehouse
+Former Endeca Chief Scientist Daniel Tunkelang on driving search with incentives and search management http://bit.ly/Hy9YCE&nbsp;
+I uploaded a @YouTube video http://youtu.be/jt0GS1ztZOM?a&nbsp; Is Bad Metadata Costing You Money
+If you have time today attend the @SurfRay webinar at 11AM pacific. Their talks are always worth the time invested! http://tinyurl.com/7xngh8j&nbsp;
+@RamziAlqrainy has posted an excellent slide deck on handling &#39;no results&#39; queries in enterprise searchhttp://slidesha.re/HO2AzL&nbsp;
+#D7 All things Digital sure sounds like a love fest. No Google speakers?? Too much marketing hype, not enough content.
+I want to Meet @jimcramer  #CramerSweeps
+What does IBM want from Vivisimo? What should you do if you&#39;re a customer or prospect? Our take: &quot;Don&#39;t panic&quot;. http://bit.ly/Ia4M7v&nbsp;
+Vivisimo and IBM - a match made in Big Data Heaven? Our initial view http://bit.ly/Ia4M7v&nbsp;
+Is Microsoft joining the Lucene dance? http://bit.ly/IonlUn&nbsp;
+#SPSSV Just a month or so to SP Saturday Silicon Valley in Palo Alto June 2 - register today http://bit.ly/J2tdAV&nbsp;
+Wondering what sessions to see at Enterprise Search Summit in two weeks? Our suggestions: http://bit.ly/K3XdAD&nbsp;
+No time off goes unpunished
+Heading to Maker Faire tomorrow http://tinyurl.com/yvvb5d
+Just under a month to SharePoint Saturday Silicon Valley #SPSSV - Sessions are now up on the site  register today! http://bit.ly/J2tdAV&nbsp;
+Great new book on FAST Search for SharePoint - deep dive!http://amzn.to/KfI6nM&nbsp;
+@tomhaines29 Let&#39;s hope Beechcraft survives. First plane I ever touched the yoke on was a V Tail on a trip with a friend of mine&#39;s dad.
+Free Stanford class: Write a search engine.http://bit.ly/IZVCbf -
+Nice weekend for a &#39;bay tour&#39; in the plane.. but too much work with Lucene Revolution ESS NY coming up. Going to the shows? Let me know
+Survived Maker Faire.. kind of cool., Now to prep for Gilbane next week..
+SharePoint Saturday Silicon Valley four weeks from today, June 2nd!  #SPSSV http://bit.ly/Ioijqi&nbsp;
+Lucene Revolution starting in just a few #lucid
+#lucid : Lucene/Solr on Windows: Azure: Microsoft and open source working together...
+#lucenerev Paul Doscher &#39;solr is the sage choice&#39; w/ the big search players being acquired...
+#lucenerev #lucid many former fast esp users interested in conversion to solr
+If you want to learn about SharePoint for free, try SharePoint Saturday Silicon Saturday June 2nd Palo Alto  #SPSSVhttp://bit.ly/ItBOPy&nbsp;
+#LuceneRev My take on Microsoft and  their renewed approach - and commitment  - to open source software http://bit.ly/Kd0EnS&nbsp;
+Not a new tech bubble, more a winter for investment opps for a seasoned investor. Is FB sneaking in just in time?http://bit.ly/ITgYst&nbsp;
+#gilbanesf. Gilbane really *is* about content management; I know the search track starts tomorrow but precious little on search today
+18 days to first-ever Sharepoint  Saturday Silicon Valley. Free registration. Do it today!
+#ess #findwise survey: 50% of companies have less than 1 full fte working on enterprise search!
+@msweeny hey find me later!
+#gilbanesf - Hadley Reynolds is running an excellent search track today.
+#MSFT moves closer to open source projects - GitHub Windows clients http://tcrn.ch/LeYHpD&nbsp;
+:
+Only 11 days to the first ever SharePoint Saturday in Silicon Valley - are you registered yet?http://bit.ly/ItBOPy&nbsp;
+Webinar: &#39;Is open source search ready for you&quot; only an hour form now. You can still register at http://bit.ly/KXcgrx&nbsp;
+HP shows Autonomy&#39;s founder Mike Lynch the door http://bit.ly/KXe0RP&nbsp;
+QT @miles_kehoe: Only 9 days to the first ever SharePoint Saturday in Silicon Valley - are you registered yet?http://bit.ly/ItBOPy&nbsp;
+Went to Solr meetup last week in SF organized by Lucid Imagination. Cool time, cool tech. Mark wrote uphere http://tinyurl.com/bwkenu
+SharePoint Saturday Silicon Valley one week away! 30 talks, 6 tracks SP101, Admin, Developer, Business, Power Users http://bit.ly/J2tdAV&nbsp;
+Never heard of SharePoint Saturday? Next week in Palo Alto, St Louis and Atlanta http://bit.ly/JtL1bs&nbsp;
+I uploaded a @YouTube video http://youtu.be/ZkTZkVDu4DA?a&nbsp; Is Open Source Search Ready For You
+Only 4 more days to SharePoint Saturday Silicon Valley #spssv. See what you&#39;re missing if you don&#39;t register now! http://bit.ly/JtL1bs&nbsp;
+Post on Enterprise SEO - eSEO - a new way to look at fixing your enterprise search engine at http://tinyurl.com/lk9cdh
+Two more days to the first Silicon Valley SharePoint Saturday #spssv - register now - it&#39;s free! http://bit.ly/JtL1bs&nbsp;
+#spssv Dux keynote use business value to prioritize feature rollout..
+Lucid Imagination is ready for big data beta customers. Sign up today! http://bit.ly/LaryJh&nbsp; #lucid
+EE magazine reports Microsoft has selected Lucid Imagination Solr-based product for the Azure http://bit.ly/MqDbLu&nbsp;
+Microsoft picks Lucid Imagination Solr-based product for Azure Cloud marketplace #lucid #solr #azure http://bit.ly/MMnBAr&nbsp;
+It&#39;s live! Sign up for LucidWorks Cloud for Microsoft Azure now - http://bit.ly/MMnBAr&nbsp;
+Update on capacity and pricing for LucidWorks Cloud for Microsoft Azure 
+http://bit.ly/Nl3urW&nbsp;  #lucid #azure #solr
+A quick &#39;how to&#39; for Indexing and searching on LucidWorks Cloud for Microsoft Azure http://bit.ly/KLHc2s&nbsp; #lucid
+Slides from Lucene Revolution - Lucid blogger  Mark Miller - SolrCloud Architecture - sharding, replication, zookeeper http://bit.ly/MnKvLY&nbsp;
+SharePoint Saturday &#39;national&#39; event in DC/NoVA  area in August - registration and call for speakers up now http://bit.ly/LDSP7A&nbsp; #sps
+I uploaded a @YouTube video http://youtu.be/Plq8K7XAxTM?a&nbsp; Synonyms_RC1
+I uploaded a @YouTube video http://youtu.be/XEkOcSxDmwI?a&nbsp; Synonyms_RC1 2
+I uploaded a @YouTube video http://youtu.be/EA_mtUJuG1k?a&nbsp; Synonym_Orig
+G I/O day - new tablet eh??
+I uploaded a @YouTube video http://youtu.be/hVNCKCJvukQ?a&nbsp; LW_Stopwords
+Giving up on following Financial Times @FT - every tweet links to an article that requires a subscription. No thanks..
+Interested in customizing SP2010? I recently  discovered Benjamin Niaulin&#39;s @bniaulin great articles on End User SP http://bit.ly/KOXZg5&nbsp;
+@IntranetFocus Clearly the AUTN tradition continues at HP: pronouncements so obfuscated we should just send money and trust them
+@LearningSP link on that page to demo doesn&#39;t work URL http://www.akruratechnologies.com/portfolio-items/feedback-sandbox-webpart-for-sharepoint-online-office-365/http:/&nbsp;…
+My take on last week&#39;s decision by Google to drop the &#39;mini&#39; search appliance http://bit.ly/PBai7q&nbsp;
+What&#39;s it take to create enterprise search &#39;just like Google&#39;? Easy: resources. http://bit.ly/NLggQ9&nbsp;
+Do you want to create a search for your enterprise that works &#39;just like Google&#39;? Want to know the trick? Resources. http://bit.ly/NLggQ9&nbsp;
+@ElisaC  Yep.. USGS shows a 2.7 in the foothills just east of Milpitas.. Didn&#39;t feel it in Cupertino though..
+#SP2013 Training Videos/Presentations. Some big changes to search! http://bit.ly/Mj9jmt&nbsp;
+Ideara provides great tools for SQL and SP. Download the free PowerShell scripts, use them, and learn! Good stuff! http://bit.ly/MEgvy8&nbsp;
+Does your PC have 24GB of memory? #SP2013 requires a honker of a server for development! Wow.. time to upgrade!http://bit.ly/PBuHH3&nbsp;
+@rgarrettpro Agreed but for all of the &quot;on-the-road&quot; #SP2013 SH guys, it&#39;s tough to carry your environmental with you on your laptop!
+What is the least expensive enterprise search platform? http://bit.ly/MYt2Yf&nbsp;
+Search sucks? Thinking of replacing your enterprise search platform? What&#39;s the least expensive option? http://bit.ly/MYt2Yf&nbsp;
+Two good slide shares from Summit 7&#39;s Mark Rackley (the &#39;SharePoint Hillbilly&#39;) and #SPTEchCon / #SP2010 http://bit.ly/Qm7ndA&nbsp;
+@dweinberger David, thank you for the Curiosity live feed! Saves me a trip to Moffett/NASA and the accompanying traffic!
+@skmurphy Perhaps an MMC saying?:)
+Have you tried today&#39;s animated Google &#39;Doodle&#39;? Run the hurdles, using cursor and space to run and jump. Very cool.
+New name, new structure in products at Lucid Imagination http://bit.ly/RsrMki&nbsp;
+Lucid Imagination switches gears as Lucidworks - focus on search and big data supporting the best open source tools http://bit.ly/RsrMki&nbsp;
+well, US is ahead of Brazil 2-0 at half on two damn good goals. 45 more minutes on the edge of my seat
+ah well.. losing to Brazil isn&#39;t that bad.. played very well in 1h, less so in 2nd but great heart! world cup looking promising
+The role of AI/NPP/Machined learning in enterprise search http://bit.ly/OVIhkB&nbsp;
+What does &#39;totally automatic&#39; means in enterprise search - AI? NLP? Machine learning? http://bit.ly/OVIhkB&nbsp;
+Google news event going on now on YouTube -  http://tinyurl.com/2dvbcnz
+Google: Not just type-ahead - search results as you type... Of course, Outlook has had this for a while.
+Google Instant ... cool stuff. I&#39;ve become accustomed to not having to hit Enter to get results in Outlook, now in Google as well.
+Ah not &#39;search as you type&#39;: it predicts the likely final query based on partial input.. and shows the results. Much easier to do I suspect!
+Google: we can save you eleven hours a second... hmmmm
+Google Instant: ads also change as you type as well. Serious inflation in ad exposures while no one is looking!
+Funny quote used frequently in Google&#39;s announcement today: Never underestimate fast. FAST?
+Mark Bennett writes about the &#39;Gotchas&#39; of disk and memory for enterprise search applications http://bit.ly/RErF64&nbsp;
+Got OPG? One of the &#39;net capabilities from which enterprise search could benefit?
+http://bit.ly/UFI7CR&nbsp;
+OGP is a standard that fosters good web metadata - and &#39;Likes&#39; and &#39;+1s&#39; pretty much rely on it. Does your enterprise? http://bit.ly/UFI7CR&nbsp;
+What&#39;s MRR got to do with enterprise search? http://bit.ly/TGMgbX&nbsp;
+Is OGP a good way to at least *introduce* metadata into your enterprise search content? http://bit.ly/UFI7CR&nbsp;
+Do you handle special punctuation on your search platform? Got C# or C++?  Index twitter but forget the @ and #?http://bit.ly/RV4PXU&nbsp;
+Do you monitor your enterprise search platform activity to improve result quality? Got MRR? http://bit.ly/TGMgbX&nbsp;
+Does your enterprise content include special characters - part numbers, product names, or custom application code? http://bit.ly/RV4PXU&nbsp;
+@jaybaer As a one-time mid-westerner I seem to remember that all Cubs fans have to be optimistic - its a requirement ! Good luck!)
+@ChrisSteely You call that writing?:) You back to campus any time soon?
+How tokenizing gives you beter handling of model numbers and versions in enterprise search http://bit.ly/Rz7FUj&nbsp;
+Would HP spin off Autonomy? Does Kipling have a message for Mike lynch? Pure speculation - as far as I know. http://bit.ly/TdDJ12&nbsp;
+Airspace looks ot be clearing out into SFO - shuttle must e close #spottheshuttle - tracking on http://webtrak.bksv.com/sjc&nbsp;
+#spottheshuttle When it&#39;s in range, Shuttle should show up west of Redwood City on SJC flight tracking http://webtrak.bksv.com/sjc&nbsp;
+#spottheshuttle #ov105 http://webtrak.bksv.com/sjc&nbsp; not much traffic at sfo at 1012..
+#spottheshuttle #ov15 no air traffic on sjc flight track on the peninsula at all 1012 http://webtrak.bksv.com/sjc&nbsp;
+#spottheshuttle #ov15 over Cupertino 1038AM  http://bit.ly/SJ2KdY&nbsp; and   http://bit.ly/S9KzO3&nbsp;
+Near the HP Cupertino site, future home of Apple &#39;Starship One&#39;pic.twitter.com/etARicer
+Pingar now providing apps based on their entity extraction technology! A free (beta) SharePoint 2010 app on MS Store http://bit.ly/RI34z1&nbsp;
+Pingar releases free end user metadata app for SP2010. Automatically add relevant metadata to your content. Try it out! http://bit.ly/RI34z1&nbsp;
+AIIM says &#39;Before automating a process.. look for ways to improve it. Email to me starts {lead.First Name:default= Sir or Madame}}. Hm.
+Are droids (not just the phones) taking over?  Andrew McAfee @amcafee in a great Ted Talk - &quot;we ain&#39;t seen nothing yet&quot;http://bit.ly/OPGaFb&nbsp;
+Grant Ingersoll &amp; Paul Doscher of Lucid  @LucidImagineer in Forbes - “Search is the UI for data today&quot; - Great read -http://onforb.es/PRJtIG&nbsp;
+Not sure I like the new http://readwrite.com&nbsp; win 8 / metro look. I *do* want to try Win 8 - just help me find the command prompt!
+Everything you ever wanted to know about deep Solr http://bit.ly/TeL1er&nbsp;
+Excellent post on the Findwise blog on enterprise search in #SP2013http://bit.ly/SAJpzp&nbsp;
+Looking at moving to SharePoint 2013? Find a great guide to search at http://Findwise.com&nbsp;&#39;s blog -http://bit.ly/SAJpzp&nbsp;
+Check Out The 2012 Election Mood Meter @NetBase #SocialMedia #election http://bit.ly/SVg8vp&nbsp;
+Our Advanced Microsoft Search book is in the top 10 on Amazon! http://bit.ly/9r0VpZ
+Feeling &#39;fuzzy&#39; about Lucene/Solr 4.0 search? http://bit.ly/TvZ8Mt&nbsp;
+Hey got there too lste! Will view online.. where yoy next!? Im off to ballroom L
+Im going to spc202 ballroom L
+In ballroom L? I&#39;m seated left front near the screen.. i better see if I&#39;m in the right place.. msndalsy bsllroom ,L
+Day 1 #SPC2012 over. Deep sessions, great material. Three more days.. need a usb dongle for my brain!
+@jholston how about &#39;Stupid intelligence tricks&#39; for cia director behavior flick,?
+At Starbucks @ #spc2012 for linkedin enterprise professionals coffee meetup
+#spc2012 customizing search experiences session...SPC063... perfect way to start the day!
+@riverbed looks like a cool accelerator for search #sp2012
+#spc2012 build sharepoint and O365 apps in php and other non. Net environmentd #spc273. Cool!
+Win a free copy of Professional Microsoft Search covering FAST ESP, SharePoint Search, FS4P. http://bit.ly/bCvzdD
+HP discovers what industry and financial analysts have speculated quietly for yearshttp://on.wsj.com/106EU34&nbsp;
+As with enterprise search, &#39;big data&#39; requires methodology, not just technology http://bit.ly/SOH9lk&nbsp;
+Call for papers - Enterprise Search Summit Europe in May 2012. Deadline December 17 move quickly! http://bit.ly/TZVhJf&nbsp;
+Martin White&#39;s new book on enterprise search - an excellent read. If you run enterprise search, get it-  today!http://oreil.ly/XCm4kP&nbsp;
+Deep tech webinar 12/13 from mapR and Lucid senior developers - analytics &amp; search behavior in big data http://bit.ly/TPkuWX&nbsp;
+Just 5 minutes to register to hear Lucid&#39;s Grant Ingersol talk about Hadoop, mapR and big data! http://bit.ly/TPkuWX&nbsp;
+I wish Microsoft @EverythingMS would make a deal with the makers of aviation software @ForeFlight to get it on the RT and Surface pads
+Great article on MRR (mean reciprocal rank) by Walter Underwood, search pro &amp; an  original Ultraseek architectshttp://bit.ly/SZnh2C&nbsp;
+#ESSNY Want to speak @ ESS2013  NY in May? Act Now! Deadline for submissions for workshops &amp; conference this Friday http://bit.ly/RCrH13&nbsp;
+I&#39;m looking for a SF Bay Area enterprise search consultant who knows Solr&amp;likes working with customers&amp;sales guys http://bit.ly/T6JUEr&nbsp;.
+Yep.. gmail down 0035 pst gmt+8
+#solr #lucidworks First Solr meetup of the year in the SF Bay Area - Redwood City, this Thursday the 17th of Januaryhttp://bit.ly/UZjX6P&nbsp;
+Big data - great potential but for full benefit US alone needs &gt;140K skilled analysts. McKinsey http://bit.ly/VfV2gy&nbsp; via @DonPeppers
+#solr Thinking of Solr for enterprise search? LucidWorks training - 5 classes in Feb,  2 in US, 3 in Europe.http://bit.ly/Y5MGM1&nbsp;
+The next big thing in location tracking: ground-based radio targeting 5cm accuracy. Wow.. cool AND scary!http://bit.ly/Yan4NZ&nbsp;
+#Solr 4.1/ Solr Cloud released, ready to d/l. Everything you need to  set up a production quality search environment http://bit.ly/W1NPBY&nbsp;
+@lewisfarrell Howdy Lewis
+Solr4.x not required for #bigdata - unless you need to find content
+Call for speakers for ESS DC in Nov. 2013 by 3/1/13.  If you use search, someone else needs to know what you know. http://bit.ly/11LE0H8&nbsp;
+Missed penalty still a bummer&#39; CBS talking head: &quot;Can&#39;t make that kind of of impact call this late in the game&quot; Really!? Earlier ok then?
+Solr hack/coding tomorrow night w/ Grant Ingersoll @gsingers ,Lucene/Solr/Mahout committer. Redwood Shores CA #solrhttp://bit.ly/XU8X9g&nbsp;
+Guess I&#39;m back in the webinar business! Whats new in Solr 4.1 March 27  #lucidworks #solrhttp://bit.ly/WxqiZY&nbsp;
+Close call.. asteroid passing closer than geosync gps satellites on the 15th. Wonder if any will be take out?http://econ.st/YIHJVZ&nbsp;
+Learn whats new on #Solr 4.1 - great new capabilities make it a world class search platformhttp://bit.ly/WxqiZY&nbsp;
+@ravimynampaty  hey glad I could help. With the blizzard, enjoy the #solr inside weekend.
+&quot;We migrated away from GSA to Solr with filtering and sorting options that we couldn’t offer using the GSA&quot;http://read.bi/YSAniN&nbsp;
+@RobBogue SharePoint man&#39;s gotta do what he&#39;s gotta do!
+“@codeplex: There is currently an Azure outage that is affecting our mercurial and git repositories.  Wow... Curious about that!
+New #Findwise survey of enterprise search practices. Read about it and sig up to participate now! http://bit.ly/XvTy2J&nbsp;
+Friday afternoon thought: commercial enterprise search DOA? Q: Go #solr? A: Go #lucidworks! 
+http://bit.ly/ZgeePt&nbsp;
+Download several great talks from last fall&#39;s open source conference thanks to Basis Tech. http://bit.ly/12HLOii&nbsp;
+Do you know about the major shift in enterprise search? Hint: if you paid to license it, it may be a dead platform. http://bit.ly/ZgeePt&nbsp;
+Big data in your future this year? Many think so. http://bit.ly/13aELdz&nbsp;
+Is anyone else seeing tweets from people that you don&#39;t follow? Looks ike &#39;celebs&#39; in my industry/ but I specifically do not want the noise
+Meetup - Meet LucidWorks&#39; Erik Hatcher 
+@ErikHatcher speaking on #Lucene at ApacheCon next week in Portland http://bit.ly/WfXAJD&nbsp;
+Ever demo products or speak at events? Peter Cohen&#39;s Great Demos class next week thanks to Bootstrapper Breakfast http://bit.ly/ZJD32B&nbsp;
+Lucene Revolution Conference San Diego #solr - register now! http://bit.ly/Wvwi7G&nbsp;
+Want to learn about enterprise search technologies Lucene, Solr and more? Come to the Lucene Revolution #solr #lucene http://bit.ly/Wvwi7G&nbsp;
+Martin White, a master of enterprise search, runs a workshop on Thursday 2/7 - I&#39;d go if I could; you go instead! http://bit.ly/Y7A2WO&nbsp;
+Charlie Hull posted an interesting blog entry on useful capabilities Flax have written for eCommerce based on #Solrhttp://bit.ly/XU8yF0&nbsp;
+Last chance to register for Martin White&#39;s Enterprise Search master class in London tomorrow (Thursday) http://bit.ly/Y7A2WO&nbsp;
+Solr 4 Boot Camp in Reston VA March 27 - where else can you learn from 4 #Solr experts including two  committers?http://bit.ly/XVoCtb&nbsp;
+Server error from Microsoft O365 tonight after a certificate error - when trying to tell it mail it&#39;s classified as spam is not.
+Search Wizards and Beyond Search author Steve Arnold consolidates his @LucidWorks interviews pagehttp://bit.ly/XAKScq&nbsp;
+First post in a series: &#39;Is open source search good idea for enterprises on http://enterprisesearchblog.com&nbsp; http://bit.ly/YnPePR&nbsp;
+Part 2 in the series: &#39;Is open source search a good idea&#39; now up. This &#39;concern&#39; - &#39;
+&#39;Enhancements by Committee&#39; 
+http://bit.ly/10IuV2U&nbsp;
+#solr Open source search enterprise ready? Read part 2 of the series &#39;Enhancements by committee&#39; http://bit.ly/10IuV2U&nbsp;
+Countering the second myth about open source enterprise search on #solr: expensive implementations, high TCO. http://bit.ly/10YTP2b&nbsp;
+I like this quip on open source: .. because you read Moby-Dick doesn’t make you talented enough to author it.http://bit.ly/YeG0JM&nbsp;
+DC area? Want to learn about #Solr 4 from committers and contributors? Wed 3/27  A few seats left! Register w/ discount code SOLR4VA-5OFF
+Third in a series on the question &#39;is #solr open source search unreasonable in the enterprise?&#39; I think not. http://bit.ly/11gtIQA&nbsp;
+Sixty guys named &#39;Sarah&#39;: bad metadata at work. http://bit.ly/k6c1aR&nbsp;
+Martin White on enterprise search engine optimization ESEO - you need it for your own platform, not just for Google
+http://bit.ly/14sRsWA&nbsp;
+Hear @LucidWorks  founder @ErikHatcher talk about #Solr 4 and why you should care tomorrow!  Sign up now: 
+http://bit.ly/YG5Nre&nbsp;
+LinkedIn improves search - finally!
+http://tcrn.ch/10h3BYH&nbsp; and @dtunkelang  at meetup San Jose tomorrow night http://bit.ly/10h3SLn&nbsp; see ya?
+@LucidWorks  CTO Grant Ingersol @gsingers at Gigaom on big data, Hadoop, Hive - big data http://bit.ly/10lPMbx&nbsp;
+Is open source search really up for the enterprise? Taking on objections  one point at a time http://bit.ly/YnPePR&nbsp;
+Lucene/Solr Revolution conference only a month away - will you be there? http://
+http://bit.ly/YWqmjf&nbsp;
+No sure if @sidprobstein has released an April Fools video, or if they&#39;re really sticking w/ &#39;dreaded Solo Syndrom&#39;. http://bit.ly/Z3YUza&nbsp;
+@tonygrr is running a great search usability tutorial in Edinburgh on April 24 - fiters and facets. Register now!http://bit.ly/14AhcQp&nbsp;
+Oldie still relevant today for managing enterprise search: You improve what you can&#39;t measure -   http://bit.ly/XC6hmC&nbsp;
+@jaybaer of just Twitter....
+@sidprobstein no question the problem is real.. and it does seem to be getting worse... but you *did* pick a cute name for it..
+Only 27 days to #Lucene/#Solr Revolution. Are you coming? http://bit.ly/YWqmjf&nbsp;
+Grant Ingersol @gsingers speaking at LinkedIn next week.. be sure to register!http://bit.ly/16zdoxr&nbsp;
+Next Tuesday at LiinkedIn - Grant Ingersol @gsingers - whats new and what&#39;s coming in #Lucene and  #Solr 4http://bit.ly/16zdoxr&nbsp;
+Raritan Technologies releases new Topic Explorer for pharma research http://bit.ly/dMSs2E
+@Peter_Turchin and cliodynamics discover the future looking at he past. Not big data - long data.http://bit.ly/10Ww84S&nbsp;
+Great tech meeting &#39;behind the cornsilk curtain&#39; at #culver
+Very funny flying video for dog lovers..http://bit.ly/17xhNCh&nbsp;
+@CynthiaKSeymour Constant contact has become constant content #culver
+Good to see @LucidWorks and CEO @pdoscher01 are in the &#39;Big Data 100&#39; from CRN today http://bit.ly/15i7UJB&nbsp;
+(Re)-discovered a great blog on enterprise search by Lee Romero of Deloitte.. check out &#39;language change over time&#39; http://bit.ly/ZvHoVH&nbsp;
+@ttennebkram hey get moving:)
+My friend Patrick Viguerie has a very insightful new book out -  I recommend highly: &#39;The Granularity of Growth..&#39;http://www.amazon.com/dp/0470270209/ref=cm_sw_r_tw_asp_2gpQF.0YWB3BE&nbsp;…
+@buckleyplanet Wow.. teaching SharePoint to Sunday School kids. Smart idea: prepare them for full employment!:)
+The annual Findwise enterprise search survey ends in 9 days - participate now! http://bit.ly/17QakP1&nbsp;
+Just a week to #Solr Revolution. Escape the rain &amp; humidity and come to sunny San Diego to learn. http://bit.ly/YWqmjf&nbsp;
+Fourth in a series answering the question &quot;Is open source search ready for the enterprise&quot;. http://bit.ly/10by9ck&nbsp;
+Read the series: Is open source search &#39;safe&#39; for enterprises? http://bit.ly/YnPePR&nbsp;
+Make your search engine psychic http://bit.ly/hdey6g
+Training @ #solr Revolutiion kicks off today in San Diego
+Welcome to the LinkedIN group for LucidWorks: http://lnkd.in/-_nrHp&nbsp;
+@LucidWorks and @mapr  teaming for big data anlaytics - @solr at scale http://bit.ly/159SS9M&nbsp;
+Very interesting talk on data and the web by @hmason of bit.ly at Sorl Revolution
+Couldn&#39;t make it to #LuceneSolrRev? You can still play #stmpthechump and ask Solr questions of the @solr pros http://bit.ly/103N9KL&nbsp;
+Solr question? Ask the experts. Stump the Chump in 10 minutes! Live video - join in now - press the arrwow to start!
+http://bit.ly/12oqtW8&nbsp;
+Day one ends, day two starts at #LuceneSolrRev. Too many Solr stars to name - need a time machine to see half of the talks I want to attend
+LucidWorks Receives Top Honors from Gartner : Stephen E. Arnold @ Beyond Search http://newsle.com/article/0/73347383/&nbsp;… via @newsle
+@dtunkelang slideshare from Ginormous Systems event in DC early this month. http://http://slidesha.re/194agsB&nbsp;
+OK a pat on our own backs: LucidWorks Search under consideration for American Technology Awardshttp://bit.ly/12vbLOw&nbsp;
+Why learn a complex query language like SQL when you&#39;re born with the ability to use search??
+Gartner confirms what I I&#39;ve known for a while: search is the key to big data success http://gtnr.it/17rCZeI&nbsp;
+Last in a series &quot;Is open source search ready for the enterprise&quot;. Hint: Yep! http://bit.ly/17s5zwt&nbsp;
+OK all you pilots out there, remember: If God had meant man to fly, he&#39;d have given him alot more money #flying
+Halfway to #ess NY ORD 45 min to depart to LGA. See you workshop folks tomorrow #kmworld
+@dtunkeling it&#39;s 2013 - use facets! #essny
+National Day of Civic Hacking next weekend! Are you involved? http://bit.ly/11jYcyT&nbsp; #solr  #hackforchange
+Hear Yonik Seeley @lucene_solr creator talk about using Solr as NoSQL search server. http://bit.ly/Z996uU&nbsp; #solr
+New (to me!) analysis of LinedIn groups - here Enterprise Search engine Professionals http://lnkd.in/64nXfu&nbsp;
+T Boone Pickens turns 85... and explains why he won&#39;t retire. I agree: To retire is to expire!http://linkd.in/1709qku&nbsp;
+&quot;What the hell is big data?&quot;  A great overview by @BernardMarr -http://linkd.in/12YFXmG&nbsp;
+Two different talks on enterprise search at SharePoint saturday Palo Alto June 22 - Be there! http://bit.ly/10Y7mRF&nbsp;
+Solr as NoSQL Thursday morning 10AM PDT / 1700 GMT #solr creator Yonik Seeley not too late to sign uphttp://bit.ly/Z996uU&nbsp;
+SharePoint Saturday Palo Alto June 22 #spssv! Come learn about SP, Search, and more http://bit.ly/15xXSRF&nbsp;
+A bit under 2 weeks to SharePoint Saturday Palo Alto #spssv June 22.. http://bit.ly/15xXSRF&nbsp;
+If you&#39;ve never heard of Virtual Photo Walks, this is a great intro.. check it out.  Thanks Cynthia @CynthiaKSeymour http://lnkd.in/9ezWdv&nbsp;
+Cloudera, Lucene and Solr #solr - all in a big day&#39;s work at LucidWorkshttp://bit.ly/13QUHTR&nbsp;
+Big week.. Cassandra/DataStax conference starts tomorrow in SF. Come visit the LucidWorks boothhttp://bit.ly/13QUHTR&nbsp;
+Next Tuesday at MS Store @ Palo Alto Shopping Center, come hear about LucidWorks in SMB market on Azure.  http://bit.ly/11xBrJ3&nbsp;
+Just a week to SharePoint Saturday Silicon Valley #SPSSV - Palo Alto JCC - free to attend - learning optional! http://bit.ly/10Y7mRF&nbsp;
+SharePoint Saturday Silicon Valley style today in Palo Alto! #svssv
+#SPTECHCON - Jeff Fried: WRT search, focus on growing the needle, not trying to control the hay.
+#SpTechCon - jefffried &#39;search needs good content. Content needs good gardeners&#39;
+Anyone else blogging on Typepad for years notice that @Klout doesn&#39;t even LOOK at your Typepad blogs?? #bad_klout!
+@IntranetFocus offering a subscription service for search managers - if you run enterprise search, you need it! http://bit.ly/19PiwiF&nbsp;
+SF Bay Area Lucene Solr meet-up September 3 at Computer History Museum. Sign up early! http://tinyurl.com/lbydra
+@RamziAlqrainy has some really world-class Solr slideshares - one from late June I just saw is worth a look now!http://slidesha.re/10VbJkK&nbsp;
+Steve Arnold on the new IDC report http://bit.ly/16DggHx&nbsp; on @LuceneSolrRev - Next  in Dublin Nov 6-7 http://bit.ly/Wvwi7G&nbsp;
+900M documents and growing? No biggie. Shard splitting in Solr 4 - see how one company solved the problem w/ @Solr http://bit.ly/12GGDOY&nbsp;
+Meet @lucenesolr committer and @LucidWorks co-founder @ErikHatcher in Portland next week at OSCON. Topic: Solr Quick Start.
+90 minutes until the webinar on impressive scalability in Solr 4 - shard splitting to search anable nearly 1B http://bit.ly/12GGDOY&nbsp;
+well, @gotomeeting having issues today..try to log in on www and get &#39;org.springframework.web.client.ResourceAccessException: I/O error&#39;
+@GoToMeeting My local client says I appear to be offline; your web site gives io errors..:)
+Wow.. a first. Google seems to be off the air! Guess it&#39;s time to head for home!
+IBM&#39;s Watson computer takes on best human Jeopardy! champs this week! http://bit.ly/gJwZXO
+LucidWorks sponsoring the community at Silicon Valley Code Camp Oct 5-6 Los Altos http://bit.ly/1f4wfCQ&nbsp;
+Moving apps to Hadoop 2.x - virtual meet-up by HortonWorks this Wednesday 2PM PDT (UTC-7)http://bit.ly/14GzJXH&nbsp;
+Only 26 days to the Silicon Valley Code Camp! http://bit.ly/1f4wfCQ&nbsp; w/ @LucidWorks a community sponsor
+Oldie but goodie on foundations of Zookeeper http://yhoo.it/15XmUrl&nbsp;  from Yahoo, discovered on devo.ps http://bit.ly/14Gj7EA&nbsp;
+@kwatters76 I am:?
+IMG 0785: http://youtu.be/KwkUq9FHXIs?a&nbsp; via @YouTube
+I favorited a @YouTube video from @miles_kehoe http://youtu.be/KwkUq9FHXIs?a&nbsp; Lexi - Guilty?
+Well.. first, let&#39;s see NFL players go all out for 45 minutes straight without a break (be it (@YouTube http://youtu.be/6KeG_i8CWE8?a&nbsp;)
+Not at all. Let&#39;s say glamor and speed... I was going to call it how fast do u want to go...
+But then worshiping idols got left out:)
+@LucidWorks webinar Thurs Oct 17 10AM PDT (UTC-7) on SOLR business rules, relevancy console, and entity extractionhttp://bit.ly/1gjRqEg&nbsp;
+@VerizonWireless Do you realize bill pay won&#39;t work last few months with Chrome browser? I click &#39;Pay Bill&#39; and nothing happens. Real pain.
+Anyone else having problem connecting to Office 365??
+Got Splunk? Need to search it better? #LucidWorks  http://bit.ly/18FozKe&nbsp;
+Webinar tomorrow: LucidWorks extends log analysis in Splunk to include doc content.. who looked at what? Sognuphttp://bit.ly/19w8mFw&nbsp;
+Off to SharePoint 2009 in Las Vegas Sunday http://tinyurl.com/yc536g5. If you&#39;re there as well let us know!
+SharePoint 2009 conference in Las Vegas: finally, the new search capabilities will be announced, albeit not available for a while yet.
+SharePoint Server 2010 includes expanded MOSS functionality; FAST Search for SharePoint is new search based on FAST ESP.
+FAST ESP is still available for eCommerce sites on Windows and Linux. Microsoft says they will continue to enhance and support ESP on Linux.
+SP2009: moving from end user to developer tool; local hardware to cloud; and intranet sites to internet/web facing sites.
+SPC2009: Real advantage of the MS cloud: mix and match what components are local and which are in the cloud; SQL Server local and cloud apps
+SPC2009: Lots of talk about taxonomy management in SP2010; remains to be seen if that&#39;s just social tagging or generalized taxo tools.
+SPC2009:FAST ESP for SharePoint only available on 64 bit platforms; not positive about SharePoint Server 2010 (hence Search Server)
+SPC2009:Follow-up on 64 bit question: It looks like SharePoint and its search programs are all 64 bit apps. Taps for win32, I guess.
+SPC2009: FAST Search for SharePoint retains the ESP paradigm of predictable scalability using rows &amp; columns of servers. Whew!
+Freeway series? Do the LA fans realize the last &#39;freeway series&#39; had a pretty big earthquake at the start of game 2? October 17, 1989.
+SPC2009:Today is search day. I&#39;m looking at 8 hours of deep dives, APIs, roadmaps and hands-on! What could be better for a search geek?:)
+SPC2009: FAST finally talking about running in virtual systems, would like 4GB per vm; the guys are still nervous about high speed disks
+SPC2009: Major usability improvements in FAST in SP - it looks like index profile can generally be updated in real time w/o re-index/etc
+SPC2009: Wow. Significant new usability for admins/developers and even users in both SharePoint search products.
+Cool article about entity extraction (property extraction) in FAST Search for SharePoint (FS4SP) bit.ly/gJziNK
+For other pilots out there, great series based on MS Flight Sim: A partial panel emergency in IMC near LAX! Wow! http://bit.ly/gTR3co
+Mark Logic names new CEO, former Autodesk executive Ken Bado who predicts an IPO in 18 months. http://bit.ly/eBnd8H
+LinkedIn home page suggests we &#39;Sit tight&#39; while they &#39;clean things up. Hm.. http://linkd.in/giIN6Q
+#esswest day 2 keynote only marginally about enterprise search but some cool web tools
+#esswest: Baynote: site visitors&#39; interests are not a random scatterplot..they form clusters of interest
+A bunch of folks put public facing search into a different category than &#39;enterprise search&#39;...
+#essw09 - Cambridge Semantics CEO just gave an analogy that makes semantic search sound like expensive synonym lists
+#essw09 Jared Spool refreshed my memories of Wordstar, Word Perfect. Wow.. stab from the past!
+Free FAST Technical training: FAST Search for SharePoint Reporting and analytics tomorrow, April 20. http://bit.ly/dHgbZc
+Fix for FAST ESP / FSIA / FSIA error message &#39;Search is unavailable&#39;
+http://bit.ly/lu1AWE
+#ESS11 Great session by Wells Fargo on how they manage enterprise search.. will be blogging about some of them later on http://bit.ly/jXOhmK
+#ess11 Wells: people/social search results are not useful and even confusing for most knowledge worker queries
+#ess11 Martin White: The crash of 2008 was as much an info retrieval failure as a financial failure
+Booz&amp;Co:Enterprise search powered by Google without &#39;Powered by Google &#39; icon not perceived by users to be &#39;as good as Google&#39;
+From #ESS11 - Read about sixty men named Sarah - at least as far as the search platform knew. http://bit.ly/k6c1aR
+Content owners don;t care about meta-data and search quality. Or do they? http://bit.ly/iH07yA
+Two weeks until SharePoint Saturday Sacramento http://bit.ly/kqZWDh
+It Ain;t Google unless it says it&#39;s Google http://bit.ly/ioQdJa
+Webinar 6/8/2011 on starting your own company - ever wanted to try it? Listen in. Free registration from our blog..http://bit.ly/jqIS0h
+Some interest today in &#39;single shot relevancy&#39; from  @EdDale and others. Original article (from 2007!) at http://bit.ly/kE4s6J
+Humorous look at org charts for some big tech companies at Business Insiderhttp://read.bi/mlxjkq&nbsp;
+Interesting technical slide set/intro to Lucene/Solr  illustrates the control you have &amp; need in this cool search tool. http://slidesha.re/iDqbk2&nbsp;
+Oops! Just tweeted a pretty clear &#39;copy&#39; (just to be nice) of slide deck - Sorry Chris! Go for the real thing ! http://bit.ly/kGe0Sb&nbsp;
+Fuinny - @dannysullivan reports no TV cameras are allowed as Facebook announces... webcam support. Wonder if phone/laptop webcams are?
+Many of the FAST folks at Microsoft were among the layoffs at Microsoft today. http://bit.ly/oZrR1H&nbsp;
+Learning to twit
+Is it just me or is LinkedIn having real performance problems tonight?
+Any good Documentum consultants in the Bay Area? Email me mkehoe (at) gmail - tnx!
+Author and SharePoint wizard Josh Noble of SurfRay is giving a webinar tomorrow on customizing the advanced search page. http://bit.ly/pHz6RA&nbsp;
+Cool FS4SP query tool diagnostic tool from Comperio&#39;s Mikael Svenson, new on SearchComponentsOnline http://bit.ly/nZQVK2&nbsp;
+Autonomy acquires federal reseller and /implementation partner MicroLink for $55M. http://bit.ly/dc7vuT
+Last shuttle launch now scheduled at 1526 UTC, 826 Pacific time. Great HD video right from NASA http://bit.ly/mXOybJ&nbsp; - end of an era.
+Buffet: If there is a deficit &gt; 3% of GDP, all sitting members of Congress are ineligible for reelection. Good plan!http://read.bi/nQgZNe&nbsp;
+Going to LA mid week for Microsoft #wwpc - Funny, I noticed on the site list there is an exhibitor named TEST.  http://bit.ly/qCscIF&nbsp;
+Cool query test/learning tool for SharePoint 2010 search (FAST and MOSS) over on Codeplex - http://bit.ly/qpsSwV&nbsp;
+Microsoft #wpc11 may be going on, but the SharePoint 2011 conference looks more fun - including a party at Disneyland! http://bit.ly/omN7Lk&nbsp;
+#louisrosenfeld - Lou&#39;s new book is a keeper! Great material well presented.http://amzn.to/p1zs5G&nbsp;
+@rstackhouse Are you related to any of the Stackhouse families from Culver?
+In a new report, Forrester&#39;s Leslie Owens doesn&#39;t seem to be a fan of the new FAST SharePoint products   http://tinyurl.com/ye43yxe
+To improve search, forget about the search engine RT #michellemanafy applies to enterprise as well: it&#39;s the contenthttp://bit.ly/p55kFt&nbsp;
+I only KNOW about this klout thing because of the likes of #dtunkelang and #EdDale. Clearly I&#39;m unklout personified;
+Found a great article from #jeanniecw on improving customers&#39; experiences http://bit.ly/r5gcw8&nbsp;. The original deserves credit, not the copy
+New features in Google Plus.. getting better, being responsivehttp://bit.ly/pEDvwH&nbsp;
+Some thoughts about the FAST/Microsoft relationship http://bit.ly/oZIsfR&nbsp;
+@michellemanafy : Ouch!! Hope it doesn&#39;t show for long:)
+Amy Farrah Fowler *IS* a neuroscientist and author - in real life!  http://bit.ly/npCFmD&nbsp;
+Solr with support. LucidWorks Enterprise search platform puts the &#39;support&#39; in open source search  http://bit.ly/oznHdG&nbsp;
+Interesting tool coming soon from Microsoft: LightSwitch. Write web/cloud/desktop apps using a Visual Studio paradigm.http://bit.ly/pbbAeP&nbsp;
+&quot;&quot;Just because you do not take an interest in politics doesn&#39;t mean politics
+won&#39;t take an interest in you.&quot;  (Pericles) RT #Bootstrappers
+Popular flight instructor saying: Takeoffs are optional; landings are not.
+Help with customizing SharePoint 2010 search results using XSL on SearchComponentsOnlinehttp://bit.ly/ruTj4E&nbsp;
+Determined to get my friends to twit even if it leads to kicking and screaming - by me or by them...
+Thought for the weekend:(paraphrasing) You can lead a user to knowledge, but you cant make him think.
+Lucid Imagination: &quot;Don&#39;t use Java 7, for Anything&quot; http://bit.ly/pv5r2a&nbsp;
+Have to &#39;un-follow&#39; #Vivisimo_Inc - 85 tweets in the last hour. Zero value.
+#Vivisimo_Inc - Seriously folks, are tweets from companies an outlet for two employees to chat? Have they ever heard of TEXT MESSAGES?
+I may be the last to know, but @dtunkelang just mentioned followcost.com - see how much &#39;activity&#39; (or spam) from any account - cool!
+I agree with @rahulnihalani -  5AM in the morning is far preferable to 5AM at night - tho I see far fewer of the latter nowadays
+The web opened to the public 20 years ago today.http://tnw.co/p7auMD&nbsp;
+Boeing test pilots will be first to ride their commercial manned space capsule into space in 2015http://bbc.in/r2SVoH&nbsp;
+An open source tool for accessing Google Search Appliance results using Visual Studio/C# application.http://bit.ly/ozpuSz&nbsp;
